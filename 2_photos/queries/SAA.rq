@@ -1,0 +1,39 @@
+prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix memorix: <http://memorix.io/ontology#>
+prefix schema: <http://schema.org/>
+prefix rico: <https://www.ica.org/standards/RiC/ontology#>
+prefix saa: <https://data.archief.amsterdam/ontology#>
+
+select * where {
+
+  ?access a memorix:AccessibilityAndRightsComponent ;
+    memorix:hasContext ?context .
+
+  filter not exists {
+    ?access schema:copyrightNotice []
+  }
+
+  ?context a memorix:Context ;
+    memorix:hasRecord ?record ;
+    memorix:hasDigitalDocument/rdf:rest*/rdf:first ?digitalDocument .
+
+  ?record a memorix:Record ;
+    rico:title ?title ;
+    rico:isOrWasIncludedIn ?inventory ;  # Useful to use for creating manifests/collections
+    saa:creationDate ?creationDate .
+
+  ?creationDate a rico:DateRange ;
+    rico:hasBeginningDate ?startDate ;
+    rico:hasEndDate ?endDate .
+
+  optional {
+    ?record rico:scopeAndContent ?description .
+  }
+
+  ?digitalDocument a schema:DigitalDocument ;
+    schema:name ?file_name ;
+    memorix:iiif ?iiif_info_json .
+
+
+}

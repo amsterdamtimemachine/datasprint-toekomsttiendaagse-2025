@@ -1,0 +1,10 @@
+select * where {
+  ?record a <https://ams-migrate.memorix.io/resources/recordtypes/Image> .
+
+  optional {
+    ?record <https://data.archief.amsterdam/ontology#hasOrHadSubjectAddress> ?address .
+  }
+  optional {
+    ?record <https://data.archief.amsterdam/ontology#hasOrHadSubjectLocation> ?street .
+  }
+}

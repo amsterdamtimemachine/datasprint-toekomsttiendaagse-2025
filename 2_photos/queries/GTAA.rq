@@ -1,0 +1,17 @@
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX sdo: <https://schema.org/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX gtaa: <http://data.beeldengeluid.nl/gtaa/>
+PREFIX  xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT ?concept ?conceptLabel ?conceptAltLabel ?broader ?broaderLabel ?related ?relatedLabel
+WHERE {
+    ?concept a skos:Concept ;
+             skos:inScheme gtaa:Onderwerpen ;
+             skos:prefLabel ?coceptLabel .
+  
+  OPTIONAL { ?concept skos:altLabel ?conceptAltLabel . }
+  
+  OPTIONAL { ?concept skos:broader ?broader . ?broader a skos:Concept ; skos:prefLabel ?broaderLabel .}
+  OPTIONAL { ?concept skos:related ?related .  ?related a skos:Concept ; skos:prefLabel ?relatedLabel .}
+}

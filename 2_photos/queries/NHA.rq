@@ -1,0 +1,50 @@
+prefix schema: <https://schema.org/>
+prefix skos: <http://www.w3.org/2004/02/skos/core#>
+prefix geo: <http://www.opengis.net/ont/geosparql#>
+prefix bif: <http://www.openlinksw.com/schemas/bif#>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+select * where {
+  ?photo a schema:Photograph ;
+    schema:about/schema:about ?hisvis_concept ;
+    schema:isPartOf ?report ;
+    schema:identifier ?identifier ;
+    schema:image ?imageObject .
+
+  optional {
+    ?hisvis_concept skos:closeMatch ?hisvis_gtaa .
+    filter(contains(str(?hisvis_gtaa), 'gtaa'))
+  }
+
+  ?imageObject a schema:ImageObject ;
+    schema:contentUrl ?contentUrl .
+
+  bind(uri(replace(str(?contentUrl), "full/max/0/default.jpg", "info.json")) as ?iiif_info_json)
+
+  ?report a schema:CreativeWork ;
+    schema:name ?title ;
+    schema:dateCreated ?date .
+
+  ?report schema:about ?place .
+
+  ?place a schema:Place ;
+    geo:hasGeometry/geo:asWKT ?wkt .
+
+  filter(
+    bif:st_intersects(
+      bif:st_geomfromtext(xsd:string(?wkt)), 
+      bif:st_geomfromtext("POLYGON ((4.738884 52.279829, 5.024872 52.279829, 5.024872 52.441039, 4.738884 52.441039, 4.738884 52.279829))")
+    )
+  )
+
+  optional {
+    ?report schema:about ?concept .
+
+    ?concept a skos:Concept .
+
+    optional {
+      ?concept skos:closeMatch ?gtaa .
+      filter(contains(str(?gtaa), 'gtaa'))
+    }
+
+  }
+}

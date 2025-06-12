@@ -1,0 +1,56 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX edm: <http://www.europeana.eu/schemas/edm/>
+PREFIX ore: <http://www.openarchives.org/ore/terms/>
+PREFIX nao: <https://archief.nl/def/ontologie/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX odrl: <http://www.w3.org/ns/odrl/2/>
+
+SELECT * WHERE {
+
+    ?aggregation a nao:Recordaggregatie ;
+        ore:aggregates ?photo, ?record_description ;
+        edm:hasView ?view ;
+        edm:isShownAt ?handle ;
+        dc:identifier ?identifier ;
+        dcterms:creator ?creator .
+
+    ?creator rdfs:label ?creator_label .
+
+    ?photo a nao:Archiefeenheid .
+
+    OPTIONAL { ?photo nao:archiefLink ?filename . }
+    OPTIONAL { ?photo nao:toegangsnummer ?collection_number . }
+    OPTIONAL { ?photo nao:inventarisnummer ?inventory_number . }
+    OPTIONAL { ?photo nao:bestanddeelnummer ?part_number . }
+    OPTIONAL { ?photo dc:format ?format . }
+  
+    ?record_description a nao:Archiefbeschrijving ;
+        odrl:hasPolicy ?policy ;
+        nao:trefwoordLocatie <http://data.beeldengeluid.nl/gtaa/31586> .
+
+    OPTIONAL { ?record_description dc:description ?title . }
+    OPTIONAL { ?record_description dcterms:date ?date . }
+    OPTIONAL { ?record_description nao:toelichting ?description . }
+    OPTIONAL { ?record_description nao:trefwoordAlgemeen ?keyword . }
+    OPTIONAL { ?record_description nao:trefwoordOrganisatie ?organization . }
+    OPTIONAL { ?record_description nao:trefwoordPersoon ?person. }
+    OPTIONAL { 
+        ?record_description dcterms:subject ?gtaa . 
+    
+        ?gtaa a skos:Concept ;
+            skos:prefLabel ?gtaa_label .
+    }
+
+    ?view a edm:WebResource ;
+        nao:du-uuid ?du_uuid ;
+        nao:file-uuid ?file_uuid ;
+        nao:webserviceIIIF ?iiif_info_json ;
+        nao:volgnummer ?index .
+  
+    ?policy dcterms:rightsHolder ?rightsHolder ;
+            odrl:permission "Set B: Rechtenvrij / Publiek Domein" .
+
+}
