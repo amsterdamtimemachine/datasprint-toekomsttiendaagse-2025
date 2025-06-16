@@ -1,10 +1,22 @@
+prefix geo: <http://www.opengis.net/ont/geosparql#>
+prefix schema: <https://schema.org/>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 select * where {
-  ?record a <https://ams-migrate.memorix.io/resources/recordtypes/Image> .
+  ?item a <https://ams-migrate.memorix.io/resources/recordtypes/Image> .
+
+  bind(uri(replace(str(?item), "https://ams-migrate.memorix.io/resources/records/", "https://id.archief.amsterdam/")) as ?record)
 
   optional {
-    ?record <https://data.archief.amsterdam/ontology#hasOrHadSubjectAddress> ?address .
+    ?item <https://data.archief.amsterdam/ontology#hasOrHadSubjectAddress> ?address .
+
+    ?address schema:geoContains/geo:asWKT ?wktAddress ;
+      rdfs:label ?addressLabel .
+
   }
   optional {
-    ?record <https://data.archief.amsterdam/ontology#hasOrHadSubjectLocation> ?street .
+    ?item <https://data.archief.amsterdam/ontology#hasOrHadSubjectLocation> ?street .
+
+    ?street geo:hasGeometry/geo:asWKT ?wktStreet ;
+      rdfs:label ?streetLabel .
   }
 }

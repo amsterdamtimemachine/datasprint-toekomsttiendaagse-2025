@@ -1,4 +1,34 @@
-SELECT * WHERE {
-    ?photo a schema:ImageObject ;
-        
+prefix schema: <https://schema.org/>
+prefix iisgv: <https://iisg.amsterdam/vocab/>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+select * where {
+  ?image a schema:ImageObject ;
+    schema:contentUrl ?url ;  # but how to get to the info.json url?
+    schema:name ?title .
+    
+
+  FILTER NOT EXISTS { ?image <https://iisg.amsterdam/vocab/access> "closed"@en }
+
+  ?image schema:about <https://iisg.amsterdam/authority/place/572941> .
+
+  OPTIONAL {
+    ?image schema:description ?description .
+  }
+
+  OPTIONAL {
+    ?image iisgv:dateOfPublication ?date .
+  }
+
+  OPTIONAL {
+    ?image <http://id.loc.gov/vocabulary/relators/col> ?collector .
+    ?collector schema:name ?collectorLabel .
+  }
+
+  OPTIONAL {
+    ?image <http://id.loc.gov/vocabulary/relators/pht> ?photographer .
+    ?photographer schema:name ?photographerLabel .
+  }
+  
+  
 }

@@ -16,6 +16,10 @@ def process_saa():
     """
     Process the SAA (Stadsarchief Amsterdam) collection.
 
+    Photos in this collection have metadata on the photo (Canvas) level.
+    Due to missing inventory number or other grouping information, the
+    photos are grouped by year-month.
+
     Example DataFrame structure:
         access,context,record,digitalDocument,title,inventory,creationDate,startDate,endDate,description,file_name,iiif_info_json
         https://id.archief.amsterdam/resources/records/10868a3b-782e-a51a-66ce-d35d4441db81/accessibility_and_rights,https://id.archief.amsterdam/resources/records/10868a3b-782e-a51a-66ce-d35d4441db81/context,https://id.archief.amsterdam/10868a3b-782e-a51a-66ce-d35d4441db81,https://id.archief.amsterdam/resources/records/10868a3b-782e-a51a-66ce-d35d4441db81/assets/a27ae9af-8d3f-3ecf-aa5a-f4c1a10033a3,Amstel 29 (zijgevel),https://id.archief.amsterdam/d35793bb-d290-0e1b-e053-b784100abd1f,https://dataruimteamsterdam.nl/.well-known/genid/0e44ac20e1594dd4a1e806b40ca76e5e,1954-11-01,1954-11-30,Hoek Waterlooplein,010009003214.jp2,https://stadsarchiefamsterdam.memorix.io/resources/records/media/10868a3b-782e-a51a-66ce-d35d4441db81/iiif/3/57358964/info.json
@@ -42,8 +46,7 @@ def process_saa():
     df.sort_values("startDate", inplace=True)
 
     collection = iiif_prezi3.Collection(
-        id=f"{PREFIX}saa.json",
-        label="Stadsarchief Amsterdam (SAA)",
+        id=f"{PREFIX}saa.json", label="Stadsarchief Amsterdam (SAA)"
     )
 
     for year, year_df in df.groupby("year"):
@@ -146,7 +149,50 @@ def process_saa():
                         ),
                         iiif_prezi3.KeyValueString(
                             label="Beschrijving",
-                            value={"nl": [description]},
+                            value={
+                                "nl": [description if pd.notna(description) else ""]
+                            },
+                        ),
+                        # datum
+                        iiif_prezi3.KeyValueString(
+                            label="Datum (start)",
+                            value={"nl": [startDate if pd.notna(startDate) else ""]},
+                        ),
+                        iiif_prezi3.KeyValueString(
+                            label="Datum (einde)",
+                            value={
+                                "nl": [
+                                    (
+                                        record_df["endDate"].iloc[0]
+                                        if pd.notna(record_df["endDate"].iloc[0])
+                                        else ""
+                                    )
+                                ]
+                            },
+                        ),
+                        # Addresses with hyperlinks
+                        iiif_prezi3.KeyValueString(
+                            label="Adres",
+                            value={
+                                "nl": [
+                                    f"<a href='{address}'>{addressLabel}</a>"
+                                    for address, addressLabel in zip(
+                                        addresses, addressesLabels
+                                    )
+                                ]
+                            },
+                        ),
+                        # Streets with hyperlinks
+                        iiif_prezi3.KeyValueString(
+                            label="Straat",
+                            value={
+                                "nl": [
+                                    f"<a href='{street}'>{streetLabel}</a>"
+                                    for street, streetLabel in zip(
+                                        streets, streetsLabels
+                                    )
+                                ]
+                            },
                         ),
                         # URI Beeldbank
                         iiif_prezi3.KeyValueString(
@@ -188,7 +234,10 @@ def process_saa():
         with open(f"iiif/saa/{year}.json", "w") as outfile:
             outfile.write(year_collection.json(indent=2))
 
-    collection.add_item(year_collection)
+        collection.add_item(year_collection)
+
+    with open("iiif/saa.json", "w") as outfile:
+        outfile.write(collection.json(indent=2))
 
     return collection
 
@@ -197,15 +246,18 @@ def process_nha():
     """
     Process the NHA (Noord-Holland Archief) collection.
 
+    Photos in this collection have metadata on the report level, with
+    individual photos grouped under each report.
+
     Example DataFrame structure:
-        photo,hisvis_concept,report,identifier,imageObject,hisvis_conceptLabel,hisvis_gtaa,contentUrl,iiif_info_json,title,date,place,placeName,wkt,concept,conceptName,gtaa
-        https://hdl.handle.net/21.12102/5967940a-f645-8d26-ee75-f2caef1038d1,https://digitaalerfgoed.poolparty.biz/nha/57c77c9c-655f-ac10-9b42-d2640f84ed62,https://data.noord-hollandsarchief.nl/collection/FotopersbureauDeBoer/report/ed7a3e04-a999-1485-a82f-6e829e551b0b,NL-HlmNHA_1478_01190A02_05,https://maior-images.memorix.nl/ranh/iiif/14ba6201-cdd9-9056-13b9-6c96d26d6641,Fabriek,http://data.beeldengeluid.nl/gtaa/28194,https://maior-images.memorix.nl/ranh/iiif/14ba6201-cdd9-9056-13b9-6c96d26d6641/full/max/0/default.jpg,https://maior-images.memorix.nl/ranh/iiif/14ba6201-cdd9-9056-13b9-6c96d26d6641/info.json,Radar - Schiphol - Brandweer,1954-12,https://data.noord-hollandsarchief.nl/collection/FotopersbureauDeBoer/location/1039c7ff-d922-549c-a53c-a9f86c530712,Luchthaven Schiphol,POINT(4.7641694444444 52.3081),https://digitaalerfgoed.poolparty.biz/nha/6c291529-1d3b-6d7a-8334-dc83fea8f3ba,Radar,http://data.beeldengeluid.nl/gtaa/27107
+        photo,hisvis_concept,report,identifier,imageObject,hisvis_conceptLabel,hisvis_gtaa,contentUrl,iiif_info_json,title,date,place,placeName,wkt,placeWikidata,concept,conceptName,gtaa
+        https://hdl.handle.net/21.12102/5967940a-f645-8d26-ee75-f2caef1038d1,https://digitaalerfgoed.poolparty.biz/nha/57c77c9c-655f-ac10-9b42-d2640f84ed62,https://data.noord-hollandsarchief.nl/collection/FotopersbureauDeBoer/report/ed7a3e04-a999-1485-a82f-6e829e551b0b,NL-HlmNHA_1478_01190A02_05,https://maior-images.memorix.nl/ranh/iiif/14ba6201-cdd9-9056-13b9-6c96d26d6641,Fabriek,http://data.beeldengeluid.nl/gtaa/28194,https://maior-images.memorix.nl/ranh/iiif/14ba6201-cdd9-9056-13b9-6c96d26d6641/full/max/0/default.jpg,https://maior-images.memorix.nl/ranh/iiif/14ba6201-cdd9-9056-13b9-6c96d26d6641/info.json,Radar - Schiphol - Brandweer,1954-12,https://data.noord-hollandsarchief.nl/collection/FotopersbureauDeBoer/location/1039c7ff-d922-549c-a53c-a9f86c530712,Luchthaven Schiphol,POINT(4.7641694444444 52.3081),http://www.wikidata.org/entity/Q9694,https://digitaalerfgoed.poolparty.biz/nha/6c291529-1d3b-6d7a-8334-dc83fea8f3ba,Radar,http://data.beeldengeluid.nl/gtaa/27107
 
     Args:
         df (pd.DataFrame): The input DataFrame containing the NHA collection data.
     """
 
-    df = pd.read_csv("data/NHA.csv").sort_values("identifier")[:100]
+    df = pd.read_csv("data/NHA.csv").sort_values(["date", "identifier"])
 
     collection = iiif_prezi3.Collection(
         id=f"{PREFIX}nha.json",
@@ -219,11 +271,18 @@ def process_nha():
         title = report_df["title"].iloc[0]
         date = report_df["date"].iloc[0]
         place = report_df["placeName"].iloc[0]
+        place_wikidata = report_df["placeWikidata"].iloc[0]
         wkt = report_df["wkt"].iloc[0]
 
         if pd.notna(wkt):
             geometry = shapely.wkt.loads(wkt)
-            feature = geojson.Feature(geometry=geometry, properties={})
+            feature = geojson.Feature(
+                geometry=geometry,
+                properties={
+                    "title": place,
+                    "url": place_wikidata if pd.notna(place_wikidata) else "",
+                },
+            )
 
             navPlace = iiif_prezi3.NavPlace(features=[feature])
         else:
@@ -240,11 +299,22 @@ def process_nha():
 
         manifest = iiif_prezi3.Manifest(
             id=f"{PREFIX}nha/{report_identifier}.json",
-            label=title,
+            label=title + f" ({date})",
             metadata=[
                 iiif_prezi3.KeyValueString(label="Titel", value={"nl": [title]}),
                 iiif_prezi3.KeyValueString(label="Datum", value={"nl": [date]}),
-                iiif_prezi3.KeyValueString(label="Plaats", value={"nl": [place]}),
+                iiif_prezi3.KeyValueString(
+                    label="Plaats",
+                    value={
+                        "nl": [
+                            (
+                                f'<a href="{place_wikidata}">{place}</a>'
+                                if pd.notna(place_wikidata)
+                                else place
+                            )
+                        ]
+                    },
+                ),
                 iiif_prezi3.KeyValueString(
                     label="Concept",
                     value={"nl": [", ".join(concepts)]},
@@ -277,11 +347,7 @@ def process_nha():
                     iiif_prezi3.KeyValueString(
                         label="URI (Beeldbank)",
                         value={"nl": [f'<a href="{photo_uri}">{photo_uri}</a>']},
-                    ),
-                    iiif_prezi3.KeyValueString(
-                        label="URI (Catalogus)",
-                        value={"en": [f'<a href="{report_uri}">{report_uri}</a>']},
-                    ),
+                    )
                 ],
             )
 
@@ -305,6 +371,9 @@ def process_nha():
     # Add all manifests to the collection
     for manifest in manifests:
         collection.add_item(manifest)
+
+    with open("iiif/nha.json", "w") as outfile:
+        outfile.write(collection.json(indent=2))
 
     return collection
 
@@ -335,93 +404,6 @@ def make_collection(target_file_path: str):
     # Save!
     with open(target_file_path, "w") as outfile:
         outfile.write(collection.json(indent=2))
-
-
-#     for i in df.itertuples():
-
-#         manifest_id = i.Beeldbank_iiif_manifest
-
-#         collection.add_item(
-#             iiif_prezi3.Reference(
-#                 id=manifest_id,
-#                 label=f"{i.index} - {i.Titel}".strip(),
-#                 type="Manifest",
-#             )
-#         )
-
-#     with open("collection.json", "w") as outfile:
-#         outfile.write(collection.json(indent=2))
-
-
-# def make_manifest():
-
-#     manifest = iiif_prezi3.Manifest(
-#         id=f"{PREFIX}manifest.json",
-#         label="Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam",
-#     )
-
-#     for i in df.itertuples():
-
-#         index = i.index
-
-#         iiif_service_info = i.Beeldbank_iiif_info
-#         canvas_id = i.Beeldbank_iiif_canvas
-#         label = f"{index} - {i.Titel}".strip()
-
-#         uri_handle = i.Beeldbank
-#         uri_ark = i.URI
-#         uri_manifest = i.Beeldbank_iiif_manifest
-
-#         manifest.make_canvas_from_iiif(
-#             url=iiif_service_info,
-#             id=canvas_id,
-#             anno_page_id=f"{PREFIX}manifest.json/{index}/p0/page",
-#             anno_id=f"{PREFIX}manifest.json/{index}/p0/page/anno",
-#             label=label,
-#             metadata=[
-#                 iiif_prezi3.KeyValueString(
-#                     label="Titel",
-#                     value={"nl": [label]},
-#                 ),
-#                 iiif_prezi3.KeyValueString(
-#                     label="URI (Beeldbank)",
-#                     value={"nl": [f'<a href="{uri_handle}">{uri_handle}</a>']},
-#                 ),
-#                 iiif_prezi3.KeyValueString(
-#                     label="URI (Catalogus)",
-#                     value={"en": [f'<a href="{uri_ark}">{uri_ark}</a>']},
-#                 ),
-#                 iiif_prezi3.KeyValueString(
-#                     label="Origineel manifest",
-#                     value={"en": [f'<a href="{uri_manifest}">{uri_manifest}</a>']},
-#                 ),
-#             ],
-#         )
-
-#     return manifest
-
-#     # Edit context
-#     manifest_jsonld = manifest.jsonld_dict()
-#     manifest_jsonld["@context"] = [
-#         "http://iiif.io/api/extension/navplace/context.json",
-#         "http://iiif.io/api/presentation/3/context.json",
-#     ]
-
-#     # Save the manifest
-#     with open(output_filepath, "w") as outfile:
-#         json.dump(manifest_jsonld, outfile, indent=2)
-
-#         navPlace = iiif_prezi3.NavPlace(**get_navplace_feature(iiif_service_info))
-
-#         for c in manifest.items:
-#             if c.id == canvas_id:
-
-#                 if not c.annotations:
-#                     c.annotations = []
-
-#                 c.annotations.append(ap)
-
-#                 c.navPlace = navPlace
 
 
 if __name__ == "__main__":

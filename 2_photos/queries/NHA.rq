@@ -3,12 +3,15 @@ prefix skos: <http://www.w3.org/2004/02/skos/core#>
 prefix geo: <http://www.opengis.net/ont/geosparql#>
 prefix bif: <http://www.openlinksw.com/schemas/bif#>
 prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+prefix owl: <http://www.w3.org/2002/07/owl#>
 select * where {
   ?photo a schema:Photograph ;
     schema:about/schema:about ?hisvis_concept ;
     schema:isPartOf ?report ;
     schema:identifier ?identifier ;
     schema:image ?imageObject .
+
+  ?hisvis_concept skos:prefLabel ?hisvis_conceptLabel .
 
   optional {
     ?hisvis_concept skos:closeMatch ?hisvis_gtaa .
@@ -27,11 +30,16 @@ select * where {
   ?report schema:about ?place .
 
   ?place a schema:Place ;
+    schema:name ?placeName ;
     geo:hasGeometry/geo:asWKT ?wkt .
+
+  optional {
+    ?place owl:sameAs ?placeWikidata .
+  }
 
   filter(
     bif:st_intersects(
-      bif:st_geomfromtext(xsd:string(?wkt)), 
+      bif:st_geomfromtext(xsd:string(?wkt)),
       bif:st_geomfromtext("POLYGON ((4.738884 52.279829, 5.024872 52.279829, 5.024872 52.441039, 4.738884 52.441039, 4.738884 52.279829))")
     )
   )
@@ -39,7 +47,10 @@ select * where {
   optional {
     ?report schema:about ?concept .
 
-    ?concept a skos:Concept .
+    ?concept a skos:Concept ;
+      skos:prefLabel ?conceptName .
+
+    filter(lang(?conceptName) = 'nl')
 
     optional {
       ?concept skos:closeMatch ?gtaa .
