@@ -4,6 +4,7 @@ prefix memorix: <http://memorix.io/ontology#>
 prefix schema: <http://schema.org/>
 prefix rico: <https://www.ica.org/standards/RiC/ontology#>
 prefix saa: <https://data.archief.amsterdam/ontology#>
+prefix skos: <http://www.w3.org/2004/02/skos/core#>
 
 select * where {
 
@@ -21,7 +22,8 @@ select * where {
   ?record a memorix:Record ;
     rico:title ?title ;
     rico:isOrWasIncludedIn ?inventory ;  # Useful to use for creating manifests/collections
-    saa:creationDate ?creationDate .
+    saa:creationDate ?creationDate ;
+    rico:hasDocumentaryFormType <https://id.archief.amsterdam/resources/vocabularies/concepts/b53a47bd-9f7c-1a18-e053-b784100a8439> . # foto
 
   ?creationDate a rico:DateRange ;
     rico:hasBeginningDate ?startDate ;
