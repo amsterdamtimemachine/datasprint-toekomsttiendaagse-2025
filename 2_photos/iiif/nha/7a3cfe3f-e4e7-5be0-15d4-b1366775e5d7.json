@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/7a3cfe3f-e4e7-5be0-15d4-b1366775e5d7.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Schiphol Loop (deelnemers) (1991-11-07)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Schiphol Loop (deelnemers)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1991-11-07"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a3cfe3f-e4e7-5be0-15d4-b1366775e5d7/NL-HlmNHA_1478_35365K00_21/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schiphol Loop (deelnemers)"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/68739033-de13-ec0d-2520-0a6e1bdb2eeb\">https://hdl.handle.net/21.12102/68739033-de13-ec0d-2520-0a6e1bdb2eeb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a3cfe3f-e4e7-5be0-15d4-b1366775e5d7/NL-HlmNHA_1478_35365K00_21/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a3cfe3f-e4e7-5be0-15d4-b1366775e5d7/NL-HlmNHA_1478_35365K00_21/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fcf5e6c8-a34f-2a77-e5b1-6728b44380bb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fcf5e6c8-a34f-2a77-e5b1-6728b44380bb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a3cfe3f-e4e7-5be0-15d4-b1366775e5d7/NL-HlmNHA_1478_35365K00_21/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a3cfe3f-e4e7-5be0-15d4-b1366775e5d7/NL-HlmNHA_1478_35365K00_22/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schiphol Loop (deelnemers)"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f0a58426-b51d-cba8-f673-268159a90ee3\">https://hdl.handle.net/21.12102/f0a58426-b51d-cba8-f673-268159a90ee3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a3cfe3f-e4e7-5be0-15d4-b1366775e5d7/NL-HlmNHA_1478_35365K00_22/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a3cfe3f-e4e7-5be0-15d4-b1366775e5d7/NL-HlmNHA_1478_35365K00_22/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8cb95f22-69b9-0c9f-3404-3954b1944cb2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8cb95f22-69b9-0c9f-3404-3954b1944cb2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a3cfe3f-e4e7-5be0-15d4-b1366775e5d7/NL-HlmNHA_1478_35365K00_22/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

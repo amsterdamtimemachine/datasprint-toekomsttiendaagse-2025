@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/48d1e2f0-aca2-d45f-2871-60dc32c0c85b.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "H.K.H koningin Juliana met links burgemeester A.J. d'Ailly van Amsterdam bij draaiorgel ''De Drie Pruiken\" Bij opening tentoonstelling 'De Rijn in de RAI'. Koninklijke ontvangsten en koninklijke bezoeken. (1952-05-22)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "H.K.H koningin Juliana met links burgemeester A.J. d'Ailly van Amsterdam bij draaiorgel ''De Drie Pruiken\" Bij opening tentoonstelling 'De Rijn in de RAI'. Koninklijke ontvangsten en koninklijke bezoeken."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1952-05-22"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2083937\">Europaplein</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.89167,
+            52.34194
+          ]
+        },
+        "properties": {
+          "title": "Europaplein",
+          "url": "http://www.wikidata.org/entity/Q2083937"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48d1e2f0-aca2-d45f-2871-60dc32c0c85b/NL-HlmNHA_1478_07321B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "H.K.H koningin Juliana met links burgemeester A.J. d'Ailly van Amsterdam bij draaiorgel ''De Drie Pruiken\" Bij opening tentoonstelling 'De Rijn in de RAI'. Koninklijke ontvangsten en koninklijke bezoeken."
+        ]
+      },
+      "height": 2195,
+      "width": 2775,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7d5b1e4d-4410-2609-ab74-14cafa8864c5\">https://hdl.handle.net/21.12102/7d5b1e4d-4410-2609-ab74-14cafa8864c5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48d1e2f0-aca2-d45f-2871-60dc32c0c85b/NL-HlmNHA_1478_07321B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48d1e2f0-aca2-d45f-2871-60dc32c0c85b/NL-HlmNHA_1478_07321B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/26da9336-2b49-89c2-dda1-ba22c3f9e9d4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2195,
+                "width": 2775,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/26da9336-2b49-89c2-dda1-ba22c3f9e9d4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48d1e2f0-aca2-d45f-2871-60dc32c0c85b/NL-HlmNHA_1478_07321B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

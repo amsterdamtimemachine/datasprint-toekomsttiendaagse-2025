@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/518ffd87-2d94-2e6e-a2c5-9d71214e3172.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Twee volle Rijksponten wachten op passage zeeschip (1964-07-29)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Twee volle Rijksponten wachten op passage zeeschip"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1964-07-29"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/518ffd87-2d94-2e6e-a2c5-9d71214e3172/NL-HlmNHA_1478_02680K00_32/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Twee volle Rijksponten wachten op passage zeeschip"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a99ea395-6600-bb4d-29c5-356569905b7b\">https://hdl.handle.net/21.12102/a99ea395-6600-bb4d-29c5-356569905b7b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/518ffd87-2d94-2e6e-a2c5-9d71214e3172/NL-HlmNHA_1478_02680K00_32/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/518ffd87-2d94-2e6e-a2c5-9d71214e3172/NL-HlmNHA_1478_02680K00_32/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/732423cf-f096-cdda-bffb-a3d574ff12e8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/732423cf-f096-cdda-bffb-a3d574ff12e8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/518ffd87-2d94-2e6e-a2c5-9d71214e3172/NL-HlmNHA_1478_02680K00_32/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

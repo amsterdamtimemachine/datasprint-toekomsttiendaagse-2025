@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/bfa5e932-a2a4-4bad-71b7-49552bd9c412.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Bus voor Amsterdam.... (1961-11-10)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Bus voor Amsterdam...."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1961-11-10"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Verheul Carosseriefabriek Waddinxveen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bfa5e932-a2a4-4bad-71b7-49552bd9c412/NL-HlmNHA_1478_19128B02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bus voor Amsterdam...."
+        ]
+      },
+      "height": 2265,
+      "width": 2826,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8fb1f2b2-96d6-8084-6f2a-3098f31a8304\">https://hdl.handle.net/21.12102/8fb1f2b2-96d6-8084-6f2a-3098f31a8304</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bfa5e932-a2a4-4bad-71b7-49552bd9c412/NL-HlmNHA_1478_19128B02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bfa5e932-a2a4-4bad-71b7-49552bd9c412/NL-HlmNHA_1478_19128B02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/25ebd2b3-17fb-a9a3-6ae7-57f604cd00e1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2265,
+                "width": 2826,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/25ebd2b3-17fb-a9a3-6ae7-57f604cd00e1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bfa5e932-a2a4-4bad-71b7-49552bd9c412/NL-HlmNHA_1478_19128B02_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bfa5e932-a2a4-4bad-71b7-49552bd9c412/NL-HlmNHA_1478_19128B01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bus voor Amsterdam...."
+        ]
+      },
+      "height": 2233,
+      "width": 2833,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9c2f7326-cc4b-c9c6-acba-200b3253f2b5\">https://hdl.handle.net/21.12102/9c2f7326-cc4b-c9c6-acba-200b3253f2b5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bfa5e932-a2a4-4bad-71b7-49552bd9c412/NL-HlmNHA_1478_19128B01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bfa5e932-a2a4-4bad-71b7-49552bd9c412/NL-HlmNHA_1478_19128B01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3c207851-fdda-ca06-f273-2b06439b665e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2233,
+                "width": 2833,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3c207851-fdda-ca06-f273-2b06439b665e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bfa5e932-a2a4-4bad-71b7-49552bd9c412/NL-HlmNHA_1478_19128B01_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

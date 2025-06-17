@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/6782b3e8-4b27-0114-0b2a-7d5c2c35a514.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Portret Heer Loosekoot VNU Amsterdam (1979-11-13)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Portret Heer Loosekoot VNU Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1979-11-13"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "VNU Vereniging Nederlandse Uitgeverijen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6782b3e8-4b27-0114-0b2a-7d5c2c35a514/NL-HlmNHA_1478_18640K02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Heer Loosekoot VNU Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0d6a73a3-111b-6bf7-acb8-e162e5f4c53c\">https://hdl.handle.net/21.12102/0d6a73a3-111b-6bf7-acb8-e162e5f4c53c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6782b3e8-4b27-0114-0b2a-7d5c2c35a514/NL-HlmNHA_1478_18640K02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6782b3e8-4b27-0114-0b2a-7d5c2c35a514/NL-HlmNHA_1478_18640K02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/94363b7c-6620-2807-315d-a0a6d9d9ae5b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/94363b7c-6620-2807-315d-a0a6d9d9ae5b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6782b3e8-4b27-0114-0b2a-7d5c2c35a514/NL-HlmNHA_1478_18640K02_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6782b3e8-4b27-0114-0b2a-7d5c2c35a514/NL-HlmNHA_1478_18640K02_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Heer Loosekoot VNU Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/575fec23-6cd2-d814-c2ee-62c50992ff77\">https://hdl.handle.net/21.12102/575fec23-6cd2-d814-c2ee-62c50992ff77</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6782b3e8-4b27-0114-0b2a-7d5c2c35a514/NL-HlmNHA_1478_18640K02_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6782b3e8-4b27-0114-0b2a-7d5c2c35a514/NL-HlmNHA_1478_18640K02_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6acafa07-a7b1-0399-494f-d0ec1ef0ddbf/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6acafa07-a7b1-0399-494f-d0ec1ef0ddbf",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6782b3e8-4b27-0114-0b2a-7d5c2c35a514/NL-HlmNHA_1478_18640K02_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6782b3e8-4b27-0114-0b2a-7d5c2c35a514/NL-HlmNHA_1478_18640K02_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Heer Loosekoot VNU Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6db279d8-45aa-34be-2c8d-6dcf09064c11\">https://hdl.handle.net/21.12102/6db279d8-45aa-34be-2c8d-6dcf09064c11</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6782b3e8-4b27-0114-0b2a-7d5c2c35a514/NL-HlmNHA_1478_18640K02_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6782b3e8-4b27-0114-0b2a-7d5c2c35a514/NL-HlmNHA_1478_18640K02_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/54e79e73-7632-a390-121d-df1f0f65ac09/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/54e79e73-7632-a390-121d-df1f0f65ac09",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6782b3e8-4b27-0114-0b2a-7d5c2c35a514/NL-HlmNHA_1478_18640K02_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6782b3e8-4b27-0114-0b2a-7d5c2c35a514/NL-HlmNHA_1478_18640K02_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Heer Loosekoot VNU Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/85e6ebe3-6cba-ab20-7c36-6d8eba528359\">https://hdl.handle.net/21.12102/85e6ebe3-6cba-ab20-7c36-6d8eba528359</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6782b3e8-4b27-0114-0b2a-7d5c2c35a514/NL-HlmNHA_1478_18640K02_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6782b3e8-4b27-0114-0b2a-7d5c2c35a514/NL-HlmNHA_1478_18640K02_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2b4ace85-4c77-12c8-7221-8d4730eba59f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2b4ace85-4c77-12c8-7221-8d4730eba59f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6782b3e8-4b27-0114-0b2a-7d5c2c35a514/NL-HlmNHA_1478_18640K02_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6782b3e8-4b27-0114-0b2a-7d5c2c35a514/NL-HlmNHA_1478_18640K02_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Heer Loosekoot VNU Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d4020342-1ed9-638d-ebf6-a1ca2fb5541d\">https://hdl.handle.net/21.12102/d4020342-1ed9-638d-ebf6-a1ca2fb5541d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6782b3e8-4b27-0114-0b2a-7d5c2c35a514/NL-HlmNHA_1478_18640K02_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6782b3e8-4b27-0114-0b2a-7d5c2c35a514/NL-HlmNHA_1478_18640K02_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c6ef60ab-2c72-5fcb-7e9b-187e518d7df2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c6ef60ab-2c72-5fcb-7e9b-187e518d7df2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6782b3e8-4b27-0114-0b2a-7d5c2c35a514/NL-HlmNHA_1478_18640K02_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6782b3e8-4b27-0114-0b2a-7d5c2c35a514/NL-HlmNHA_1478_18640K02_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Heer Loosekoot VNU Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d89368d5-15e8-597d-820a-e7a3fda43ff3\">https://hdl.handle.net/21.12102/d89368d5-15e8-597d-820a-e7a3fda43ff3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6782b3e8-4b27-0114-0b2a-7d5c2c35a514/NL-HlmNHA_1478_18640K02_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6782b3e8-4b27-0114-0b2a-7d5c2c35a514/NL-HlmNHA_1478_18640K02_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c9bca9a4-ec25-7599-f0ee-5179dc604deb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c9bca9a4-ec25-7599-f0ee-5179dc604deb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6782b3e8-4b27-0114-0b2a-7d5c2c35a514/NL-HlmNHA_1478_18640K02_06/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/0f8d0e94-161c-636a-216a-f437ddac5b4f.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "De puttenzuiger is te ver doorgeschoten en in de schuit beland, Stadhouderskade, Amsterdam (1952-06-21)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "De puttenzuiger is te ver doorgeschoten en in de schuit beland, Stadhouderskade, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1952-06-21"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2226662\">Stadhouderskade</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Ongelukken, botsingen, ongevallen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.881647,
+            52.361786
+          ]
+        },
+        "properties": {
+          "title": "Stadhouderskade",
+          "url": "http://www.wikidata.org/entity/Q2226662"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0f8d0e94-161c-636a-216a-f437ddac5b4f/NL-HlmNHA_1478_07427B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De puttenzuiger is te ver doorgeschoten en in de schuit beland, Stadhouderskade, Amsterdam"
+        ]
+      },
+      "height": 2152,
+      "width": 2852,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b10ee9dd-6721-dbd5-e72b-6b27d38a4b7e\">https://hdl.handle.net/21.12102/b10ee9dd-6721-dbd5-e72b-6b27d38a4b7e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0f8d0e94-161c-636a-216a-f437ddac5b4f/NL-HlmNHA_1478_07427B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0f8d0e94-161c-636a-216a-f437ddac5b4f/NL-HlmNHA_1478_07427B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c7b2a718-3d83-667f-707c-2e4fb197c72a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2152,
+                "width": 2852,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c7b2a718-3d83-667f-707c-2e4fb197c72a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0f8d0e94-161c-636a-216a-f437ddac5b4f/NL-HlmNHA_1478_07427B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

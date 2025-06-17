@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/b415e650-cae1-ce26-0ac7-c4c93a2fdc3a.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Chris Cornelissen, Halfweg (2000-10-18)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Chris Cornelissen, Halfweg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2000-10-18"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2367253\">Halfweg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.755,
+            52.3828
+          ]
+        },
+        "properties": {
+          "title": "Halfweg",
+          "url": "http://www.wikidata.org/entity/Q2367253"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b415e650-cae1-ce26-0ac7-c4c93a2fdc3a/NL-HlmNHA_1478_48705K00_21/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Chris Cornelissen, Halfweg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3807025e-2209-e30a-c34c-abbedf8080c1\">https://hdl.handle.net/21.12102/3807025e-2209-e30a-c34c-abbedf8080c1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b415e650-cae1-ce26-0ac7-c4c93a2fdc3a/NL-HlmNHA_1478_48705K00_21/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b415e650-cae1-ce26-0ac7-c4c93a2fdc3a/NL-HlmNHA_1478_48705K00_21/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f74f1169-f0aa-1c57-54a5-3d578e2f14af/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f74f1169-f0aa-1c57-54a5-3d578e2f14af",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b415e650-cae1-ce26-0ac7-c4c93a2fdc3a/NL-HlmNHA_1478_48705K00_21/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b415e650-cae1-ce26-0ac7-c4c93a2fdc3a/NL-HlmNHA_1478_48705K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Chris Cornelissen, Halfweg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/52bb0bce-c2cd-d04f-afff-a1733d4d440c\">https://hdl.handle.net/21.12102/52bb0bce-c2cd-d04f-afff-a1733d4d440c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b415e650-cae1-ce26-0ac7-c4c93a2fdc3a/NL-HlmNHA_1478_48705K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b415e650-cae1-ce26-0ac7-c4c93a2fdc3a/NL-HlmNHA_1478_48705K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/abb19bf3-3b56-3598-cd30-e9358908a67a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/abb19bf3-3b56-3598-cd30-e9358908a67a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b415e650-cae1-ce26-0ac7-c4c93a2fdc3a/NL-HlmNHA_1478_48705K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b415e650-cae1-ce26-0ac7-c4c93a2fdc3a/NL-HlmNHA_1478_48705K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Chris Cornelissen, Halfweg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a2bc363b-83d9-550d-f16b-87431e9579fd\">https://hdl.handle.net/21.12102/a2bc363b-83d9-550d-f16b-87431e9579fd</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b415e650-cae1-ce26-0ac7-c4c93a2fdc3a/NL-HlmNHA_1478_48705K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b415e650-cae1-ce26-0ac7-c4c93a2fdc3a/NL-HlmNHA_1478_48705K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3b63c914-8316-bd43-252c-434d317dfe4c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3b63c914-8316-bd43-252c-434d317dfe4c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b415e650-cae1-ce26-0ac7-c4c93a2fdc3a/NL-HlmNHA_1478_48705K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b415e650-cae1-ce26-0ac7-c4c93a2fdc3a/NL-HlmNHA_1478_48705K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Chris Cornelissen, Halfweg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/bf53fd4d-7af4-bc15-83d0-8a23551a6f10\">https://hdl.handle.net/21.12102/bf53fd4d-7af4-bc15-83d0-8a23551a6f10</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b415e650-cae1-ce26-0ac7-c4c93a2fdc3a/NL-HlmNHA_1478_48705K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b415e650-cae1-ce26-0ac7-c4c93a2fdc3a/NL-HlmNHA_1478_48705K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b3aec5c5-1d50-28f7-a68b-99482b851178/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b3aec5c5-1d50-28f7-a68b-99482b851178",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b415e650-cae1-ce26-0ac7-c4c93a2fdc3a/NL-HlmNHA_1478_48705K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b415e650-cae1-ce26-0ac7-c4c93a2fdc3a/NL-HlmNHA_1478_48705K00_22/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Chris Cornelissen, Halfweg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/cfc202a8-ec50-d6fd-cba5-a98c766bb9fe\">https://hdl.handle.net/21.12102/cfc202a8-ec50-d6fd-cba5-a98c766bb9fe</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b415e650-cae1-ce26-0ac7-c4c93a2fdc3a/NL-HlmNHA_1478_48705K00_22/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b415e650-cae1-ce26-0ac7-c4c93a2fdc3a/NL-HlmNHA_1478_48705K00_22/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ff2f4e70-ae96-eb3d-1db4-acbec45fb8a0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ff2f4e70-ae96-eb3d-1db4-acbec45fb8a0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b415e650-cae1-ce26-0ac7-c4c93a2fdc3a/NL-HlmNHA_1478_48705K00_22/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b415e650-cae1-ce26-0ac7-c4c93a2fdc3a/NL-HlmNHA_1478_48705K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Chris Cornelissen, Halfweg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ef4f7b17-607b-9475-2d45-dca43405ce58\">https://hdl.handle.net/21.12102/ef4f7b17-607b-9475-2d45-dca43405ce58</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b415e650-cae1-ce26-0ac7-c4c93a2fdc3a/NL-HlmNHA_1478_48705K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b415e650-cae1-ce26-0ac7-c4c93a2fdc3a/NL-HlmNHA_1478_48705K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5722ce26-a569-4bb0-c989-17c76964e95a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5722ce26-a569-4bb0-c989-17c76964e95a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b415e650-cae1-ce26-0ac7-c4c93a2fdc3a/NL-HlmNHA_1478_48705K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

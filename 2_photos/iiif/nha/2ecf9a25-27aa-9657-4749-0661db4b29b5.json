@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/2ecf9a25-27aa-9657-4749-0661db4b29b5.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Fiat gebouw (A9) Lijnden (2003-09-16)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Fiat gebouw (A9) Lijnden"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2003-09-16"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q1981949\">Lijnden</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7597,
+            52.3522
+          ]
+        },
+        "properties": {
+          "title": "Lijnden",
+          "url": "http://www.wikidata.org/entity/Q1981949"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ecf9a25-27aa-9657-4749-0661db4b29b5/NL-HlmNHA_1478_51923K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Fiat gebouw (A9) Lijnden"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/136fefaf-8180-747f-23df-20a980ff68c5\">https://hdl.handle.net/21.12102/136fefaf-8180-747f-23df-20a980ff68c5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ecf9a25-27aa-9657-4749-0661db4b29b5/NL-HlmNHA_1478_51923K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ecf9a25-27aa-9657-4749-0661db4b29b5/NL-HlmNHA_1478_51923K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/74f05735-2153-bf1e-7962-05d93e2b6aa2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/74f05735-2153-bf1e-7962-05d93e2b6aa2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ecf9a25-27aa-9657-4749-0661db4b29b5/NL-HlmNHA_1478_51923K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ecf9a25-27aa-9657-4749-0661db4b29b5/NL-HlmNHA_1478_51923K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Fiat gebouw (A9) Lijnden"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/13cd0c7d-edeb-7fc7-5299-2cbb1acef70a\">https://hdl.handle.net/21.12102/13cd0c7d-edeb-7fc7-5299-2cbb1acef70a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ecf9a25-27aa-9657-4749-0661db4b29b5/NL-HlmNHA_1478_51923K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ecf9a25-27aa-9657-4749-0661db4b29b5/NL-HlmNHA_1478_51923K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4676cb77-726a-a018-bdf9-efb61ebc37b5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4676cb77-726a-a018-bdf9-efb61ebc37b5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ecf9a25-27aa-9657-4749-0661db4b29b5/NL-HlmNHA_1478_51923K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ecf9a25-27aa-9657-4749-0661db4b29b5/NL-HlmNHA_1478_51923K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Fiat gebouw (A9) Lijnden"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3bb0b7c9-9c4b-63ca-c5c8-279ac413e941\">https://hdl.handle.net/21.12102/3bb0b7c9-9c4b-63ca-c5c8-279ac413e941</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ecf9a25-27aa-9657-4749-0661db4b29b5/NL-HlmNHA_1478_51923K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ecf9a25-27aa-9657-4749-0661db4b29b5/NL-HlmNHA_1478_51923K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9400f38a-cb20-f5a5-3bb6-c98bc1bbe3b2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9400f38a-cb20-f5a5-3bb6-c98bc1bbe3b2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ecf9a25-27aa-9657-4749-0661db4b29b5/NL-HlmNHA_1478_51923K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ecf9a25-27aa-9657-4749-0661db4b29b5/NL-HlmNHA_1478_51923K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Fiat gebouw (A9) Lijnden"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ed3c878e-45db-f285-9e40-0e76f1c2768c\">https://hdl.handle.net/21.12102/ed3c878e-45db-f285-9e40-0e76f1c2768c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ecf9a25-27aa-9657-4749-0661db4b29b5/NL-HlmNHA_1478_51923K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ecf9a25-27aa-9657-4749-0661db4b29b5/NL-HlmNHA_1478_51923K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6a78d40f-9a77-7cbb-e56f-c2c47c673feb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6a78d40f-9a77-7cbb-e56f-c2c47c673feb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ecf9a25-27aa-9657-4749-0661db4b29b5/NL-HlmNHA_1478_51923K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

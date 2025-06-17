@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/f1b2f24a-e85c-7b4f-153d-122be7b2358c.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Boerderij, Domineeslaan 183, Zwanenburg (1988-12-01)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Boerderij, Domineeslaan 183, Zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1988-12-01"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q19012452\">Domineeslaan</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7401,
+            52.3808
+          ]
+        },
+        "properties": {
+          "title": "Domineeslaan",
+          "url": "http://www.wikidata.org/entity/Q19012452"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1b2f24a-e85c-7b4f-153d-122be7b2358c/NL-HlmNHA_1478_29867K01_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Boerderij, Domineeslaan 183, Zwanenburg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0a6491d2-b866-104e-42e4-01a77c7c840f\">https://hdl.handle.net/21.12102/0a6491d2-b866-104e-42e4-01a77c7c840f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1b2f24a-e85c-7b4f-153d-122be7b2358c/NL-HlmNHA_1478_29867K01_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1b2f24a-e85c-7b4f-153d-122be7b2358c/NL-HlmNHA_1478_29867K01_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/57b146b5-3eaf-f143-e00e-1b56c13fc568/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/57b146b5-3eaf-f143-e00e-1b56c13fc568",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1b2f24a-e85c-7b4f-153d-122be7b2358c/NL-HlmNHA_1478_29867K01_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1b2f24a-e85c-7b4f-153d-122be7b2358c/NL-HlmNHA_1478_29867K01_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Boerderij, Domineeslaan 183, Zwanenburg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/44bd3f86-2077-e4a3-fea4-9c2c9e8b4633\">https://hdl.handle.net/21.12102/44bd3f86-2077-e4a3-fea4-9c2c9e8b4633</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1b2f24a-e85c-7b4f-153d-122be7b2358c/NL-HlmNHA_1478_29867K01_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1b2f24a-e85c-7b4f-153d-122be7b2358c/NL-HlmNHA_1478_29867K01_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9562fb0c-d479-2b4e-b44d-01db73089613/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9562fb0c-d479-2b4e-b44d-01db73089613",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1b2f24a-e85c-7b4f-153d-122be7b2358c/NL-HlmNHA_1478_29867K01_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1b2f24a-e85c-7b4f-153d-122be7b2358c/NL-HlmNHA_1478_29867K01_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Boerderij, Domineeslaan 183, Zwanenburg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/635b6273-8640-cec7-8c2b-9e67b236ee45\">https://hdl.handle.net/21.12102/635b6273-8640-cec7-8c2b-9e67b236ee45</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1b2f24a-e85c-7b4f-153d-122be7b2358c/NL-HlmNHA_1478_29867K01_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1b2f24a-e85c-7b4f-153d-122be7b2358c/NL-HlmNHA_1478_29867K01_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/53153fde-c4b8-07c0-688d-49904715bd08/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/53153fde-c4b8-07c0-688d-49904715bd08",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1b2f24a-e85c-7b4f-153d-122be7b2358c/NL-HlmNHA_1478_29867K01_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1b2f24a-e85c-7b4f-153d-122be7b2358c/NL-HlmNHA_1478_29867K01_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Boerderij, Domineeslaan 183, Zwanenburg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f64c4e35-3893-1e54-4b81-922254e46314\">https://hdl.handle.net/21.12102/f64c4e35-3893-1e54-4b81-922254e46314</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1b2f24a-e85c-7b4f-153d-122be7b2358c/NL-HlmNHA_1478_29867K01_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1b2f24a-e85c-7b4f-153d-122be7b2358c/NL-HlmNHA_1478_29867K01_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c6567dfb-1571-ae53-1190-a1e1e1c86cfa/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c6567dfb-1571-ae53-1190-a1e1e1c86cfa",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1b2f24a-e85c-7b4f-153d-122be7b2358c/NL-HlmNHA_1478_29867K01_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1b2f24a-e85c-7b4f-153d-122be7b2358c/NL-HlmNHA_1478_29867K01_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Boerderij, Domineeslaan 183, Zwanenburg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f95d2fc7-063d-eb0b-0ee0-dcff92a5df5d\">https://hdl.handle.net/21.12102/f95d2fc7-063d-eb0b-0ee0-dcff92a5df5d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1b2f24a-e85c-7b4f-153d-122be7b2358c/NL-HlmNHA_1478_29867K01_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1b2f24a-e85c-7b4f-153d-122be7b2358c/NL-HlmNHA_1478_29867K01_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/abbd08ae-1fe1-e572-1a95-0192a07e3414/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/abbd08ae-1fe1-e572-1a95-0192a07e3414",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1b2f24a-e85c-7b4f-153d-122be7b2358c/NL-HlmNHA_1478_29867K01_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1b2f24a-e85c-7b4f-153d-122be7b2358c/NL-HlmNHA_1478_29867K01_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Boerderij, Domineeslaan 183, Zwanenburg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/fc72dd11-9729-6a5b-b956-98d44cb274fa\">https://hdl.handle.net/21.12102/fc72dd11-9729-6a5b-b956-98d44cb274fa</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1b2f24a-e85c-7b4f-153d-122be7b2358c/NL-HlmNHA_1478_29867K01_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1b2f24a-e85c-7b4f-153d-122be7b2358c/NL-HlmNHA_1478_29867K01_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b958302c-e951-e19d-d382-b39a1f782d7a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b958302c-e951-e19d-d382-b39a1f782d7a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1b2f24a-e85c-7b4f-153d-122be7b2358c/NL-HlmNHA_1478_29867K01_17/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

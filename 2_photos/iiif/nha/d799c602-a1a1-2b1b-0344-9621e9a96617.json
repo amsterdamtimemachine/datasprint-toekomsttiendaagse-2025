@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/d799c602-a1a1-2b1b-0344-9621e9a96617.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Gewicht raden lam, Zwanenburg (1992-04-30)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Gewicht raden lam, Zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1992-04-30"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d799c602-a1a1-2b1b-0344-9621e9a96617/NL-HlmNHA_1478_36288K00_41/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Gewicht raden lam, Zwanenburg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3e4308ec-52ff-b9cb-8ab4-64179852d563\">https://hdl.handle.net/21.12102/3e4308ec-52ff-b9cb-8ab4-64179852d563</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d799c602-a1a1-2b1b-0344-9621e9a96617/NL-HlmNHA_1478_36288K00_41/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d799c602-a1a1-2b1b-0344-9621e9a96617/NL-HlmNHA_1478_36288K00_41/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e97aee41-fe0d-d5cc-917c-dc20f9545ecd/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e97aee41-fe0d-d5cc-917c-dc20f9545ecd",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d799c602-a1a1-2b1b-0344-9621e9a96617/NL-HlmNHA_1478_36288K00_41/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d799c602-a1a1-2b1b-0344-9621e9a96617/NL-HlmNHA_1478_36288K00_39/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Gewicht raden lam, Zwanenburg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/48d4de44-d7ae-826a-c66a-653254340526\">https://hdl.handle.net/21.12102/48d4de44-d7ae-826a-c66a-653254340526</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d799c602-a1a1-2b1b-0344-9621e9a96617/NL-HlmNHA_1478_36288K00_39/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d799c602-a1a1-2b1b-0344-9621e9a96617/NL-HlmNHA_1478_36288K00_39/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/95cde7ca-8a1a-ff7d-d606-7379764e601f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/95cde7ca-8a1a-ff7d-d606-7379764e601f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d799c602-a1a1-2b1b-0344-9621e9a96617/NL-HlmNHA_1478_36288K00_39/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d799c602-a1a1-2b1b-0344-9621e9a96617/NL-HlmNHA_1478_36288K00_42/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Gewicht raden lam, Zwanenburg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a2f08656-783d-408f-0df0-fac8448838ab\">https://hdl.handle.net/21.12102/a2f08656-783d-408f-0df0-fac8448838ab</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d799c602-a1a1-2b1b-0344-9621e9a96617/NL-HlmNHA_1478_36288K00_42/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d799c602-a1a1-2b1b-0344-9621e9a96617/NL-HlmNHA_1478_36288K00_42/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/54f56327-5b23-759d-2feb-c395407ad32d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/54f56327-5b23-759d-2feb-c395407ad32d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d799c602-a1a1-2b1b-0344-9621e9a96617/NL-HlmNHA_1478_36288K00_42/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d799c602-a1a1-2b1b-0344-9621e9a96617/NL-HlmNHA_1478_36288K00_40/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Gewicht raden lam, Zwanenburg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/dfb14511-7c5a-bc0e-25aa-768c6ec96195\">https://hdl.handle.net/21.12102/dfb14511-7c5a-bc0e-25aa-768c6ec96195</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d799c602-a1a1-2b1b-0344-9621e9a96617/NL-HlmNHA_1478_36288K00_40/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d799c602-a1a1-2b1b-0344-9621e9a96617/NL-HlmNHA_1478_36288K00_40/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1decffe3-5e41-a956-0a35-3ab1b408f8d8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1decffe3-5e41-a956-0a35-3ab1b408f8d8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d799c602-a1a1-2b1b-0344-9621e9a96617/NL-HlmNHA_1478_36288K00_40/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

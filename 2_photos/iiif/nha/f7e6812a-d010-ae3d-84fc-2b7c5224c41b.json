@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/f7e6812a-d010-ae3d-84fc-2b7c5224c41b.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Jos Beekman, redacteur Donald Duck, Amsterdam (1997-10-23)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Jos Beekman, redacteur Donald Duck, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1997-10-23"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7e6812a-d010-ae3d-84fc-2b7c5224c41b/NL-HlmNHA_1478_44813K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Jos Beekman, redacteur Donald Duck, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0e2bdc34-98ae-3a24-a503-413b5ae11b6d\">https://hdl.handle.net/21.12102/0e2bdc34-98ae-3a24-a503-413b5ae11b6d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7e6812a-d010-ae3d-84fc-2b7c5224c41b/NL-HlmNHA_1478_44813K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7e6812a-d010-ae3d-84fc-2b7c5224c41b/NL-HlmNHA_1478_44813K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/499a1db4-c72f-bc36-8bf8-fa0a17913688/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/499a1db4-c72f-bc36-8bf8-fa0a17913688",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7e6812a-d010-ae3d-84fc-2b7c5224c41b/NL-HlmNHA_1478_44813K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7e6812a-d010-ae3d-84fc-2b7c5224c41b/NL-HlmNHA_1478_44813K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Jos Beekman, redacteur Donald Duck, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/54940056-3bdb-d1d8-6e56-6a84eefb96e6\">https://hdl.handle.net/21.12102/54940056-3bdb-d1d8-6e56-6a84eefb96e6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7e6812a-d010-ae3d-84fc-2b7c5224c41b/NL-HlmNHA_1478_44813K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7e6812a-d010-ae3d-84fc-2b7c5224c41b/NL-HlmNHA_1478_44813K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/08006a80-c8be-85ac-fcdb-f631b800b03e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/08006a80-c8be-85ac-fcdb-f631b800b03e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7e6812a-d010-ae3d-84fc-2b7c5224c41b/NL-HlmNHA_1478_44813K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7e6812a-d010-ae3d-84fc-2b7c5224c41b/NL-HlmNHA_1478_44813K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Jos Beekman, redacteur Donald Duck, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5db01df3-05cd-7387-6037-c3cd37e107ba\">https://hdl.handle.net/21.12102/5db01df3-05cd-7387-6037-c3cd37e107ba</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7e6812a-d010-ae3d-84fc-2b7c5224c41b/NL-HlmNHA_1478_44813K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7e6812a-d010-ae3d-84fc-2b7c5224c41b/NL-HlmNHA_1478_44813K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/bc2a04d6-9a61-7f9f-9c5c-d13c8fb36a9b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/bc2a04d6-9a61-7f9f-9c5c-d13c8fb36a9b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7e6812a-d010-ae3d-84fc-2b7c5224c41b/NL-HlmNHA_1478_44813K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7e6812a-d010-ae3d-84fc-2b7c5224c41b/NL-HlmNHA_1478_44813K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Jos Beekman, redacteur Donald Duck, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d10b3f93-d7be-a517-7917-01f232f30856\">https://hdl.handle.net/21.12102/d10b3f93-d7be-a517-7917-01f232f30856</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7e6812a-d010-ae3d-84fc-2b7c5224c41b/NL-HlmNHA_1478_44813K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7e6812a-d010-ae3d-84fc-2b7c5224c41b/NL-HlmNHA_1478_44813K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/87ee4820-a144-a9df-49ea-9c639de2dbb0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/87ee4820-a144-a9df-49ea-9c639de2dbb0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7e6812a-d010-ae3d-84fc-2b7c5224c41b/NL-HlmNHA_1478_44813K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7e6812a-d010-ae3d-84fc-2b7c5224c41b/NL-HlmNHA_1478_44813K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Jos Beekman, redacteur Donald Duck, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/eb4e52d4-29af-6214-4440-074cf7ebb240\">https://hdl.handle.net/21.12102/eb4e52d4-29af-6214-4440-074cf7ebb240</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7e6812a-d010-ae3d-84fc-2b7c5224c41b/NL-HlmNHA_1478_44813K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7e6812a-d010-ae3d-84fc-2b7c5224c41b/NL-HlmNHA_1478_44813K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/deef24ef-e26a-54d1-7034-bfa7ffdbe320/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/deef24ef-e26a-54d1-7034-bfa7ffdbe320",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7e6812a-d010-ae3d-84fc-2b7c5224c41b/NL-HlmNHA_1478_44813K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

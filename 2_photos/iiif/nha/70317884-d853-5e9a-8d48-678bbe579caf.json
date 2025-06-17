@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/70317884-d853-5e9a-8d48-678bbe579caf.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "IJweg/Lijnderdijk Halfweg (1985-11-20)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "IJweg/Lijnderdijk Halfweg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1985-11-20"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q19269398\">IJweg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Wegen, wegenbouw, wegenbeplanting"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7539,
+            52.3763
+          ]
+        },
+        "properties": {
+          "title": "IJweg",
+          "url": "http://www.wikidata.org/entity/Q19269398"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/70317884-d853-5e9a-8d48-678bbe579caf/NL-HlmNHA_1478_25734K00_34/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "IJweg/Lijnderdijk Halfweg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/746192a3-cfc1-c262-5470-5734c7d1558d\">https://hdl.handle.net/21.12102/746192a3-cfc1-c262-5470-5734c7d1558d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/70317884-d853-5e9a-8d48-678bbe579caf/NL-HlmNHA_1478_25734K00_34/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/70317884-d853-5e9a-8d48-678bbe579caf/NL-HlmNHA_1478_25734K00_34/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/74c6ad17-f1ab-6ed0-4757-05155a14cd0d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/74c6ad17-f1ab-6ed0-4757-05155a14cd0d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/70317884-d853-5e9a-8d48-678bbe579caf/NL-HlmNHA_1478_25734K00_34/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/70317884-d853-5e9a-8d48-678bbe579caf/NL-HlmNHA_1478_25734K00_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "IJweg/Lijnderdijk Halfweg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ea836250-b51c-fcf7-e7eb-0ca9655a9c0a\">https://hdl.handle.net/21.12102/ea836250-b51c-fcf7-e7eb-0ca9655a9c0a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/70317884-d853-5e9a-8d48-678bbe579caf/NL-HlmNHA_1478_25734K00_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/70317884-d853-5e9a-8d48-678bbe579caf/NL-HlmNHA_1478_25734K00_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/785f353a-89f7-f66f-b298-cdcd3cd3c272/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/785f353a-89f7-f66f-b298-cdcd3cd3c272",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/70317884-d853-5e9a-8d48-678bbe579caf/NL-HlmNHA_1478_25734K00_35/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

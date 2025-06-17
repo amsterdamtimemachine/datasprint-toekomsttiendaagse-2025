@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/e5deadc8-a27d-2607-14fb-d2be7436b6fb.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Kamerleden van Groen Links bezoeken o.a. de Olm in Zwanenburg (1994-04-15)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Kamerleden van Groen Links bezoeken o.a. de Olm in Zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1994-04-15"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e5deadc8-a27d-2607-14fb-d2be7436b6fb/NL-HlmNHA_1478_39584K01_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kamerleden van Groen Links bezoeken o.a. de Olm in Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/76e77014-b831-df0a-0493-670551bdb7fe\">https://hdl.handle.net/21.12102/76e77014-b831-df0a-0493-670551bdb7fe</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e5deadc8-a27d-2607-14fb-d2be7436b6fb/NL-HlmNHA_1478_39584K01_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e5deadc8-a27d-2607-14fb-d2be7436b6fb/NL-HlmNHA_1478_39584K01_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0562e7e8-823d-0400-6742-f66d877955c2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0562e7e8-823d-0400-6742-f66d877955c2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e5deadc8-a27d-2607-14fb-d2be7436b6fb/NL-HlmNHA_1478_39584K01_11/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e5deadc8-a27d-2607-14fb-d2be7436b6fb/NL-HlmNHA_1478_39584K01_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kamerleden van Groen Links bezoeken o.a. de Olm in Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a9acb078-0c6c-fd7c-8840-aa1635e755d3\">https://hdl.handle.net/21.12102/a9acb078-0c6c-fd7c-8840-aa1635e755d3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e5deadc8-a27d-2607-14fb-d2be7436b6fb/NL-HlmNHA_1478_39584K01_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e5deadc8-a27d-2607-14fb-d2be7436b6fb/NL-HlmNHA_1478_39584K01_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e17b601b-90cb-9fb2-b587-0b861d65f689/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e17b601b-90cb-9fb2-b587-0b861d65f689",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e5deadc8-a27d-2607-14fb-d2be7436b6fb/NL-HlmNHA_1478_39584K01_10/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e5deadc8-a27d-2607-14fb-d2be7436b6fb/NL-HlmNHA_1478_39584K01_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kamerleden van Groen Links bezoeken o.a. de Olm in Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/aaa3c1c4-3702-4458-9ad0-63fa0cf1788a\">https://hdl.handle.net/21.12102/aaa3c1c4-3702-4458-9ad0-63fa0cf1788a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e5deadc8-a27d-2607-14fb-d2be7436b6fb/NL-HlmNHA_1478_39584K01_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e5deadc8-a27d-2607-14fb-d2be7436b6fb/NL-HlmNHA_1478_39584K01_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/58abf812-6379-4480-dc66-a33a1a446052/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/58abf812-6379-4480-dc66-a33a1a446052",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e5deadc8-a27d-2607-14fb-d2be7436b6fb/NL-HlmNHA_1478_39584K01_09/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e5deadc8-a27d-2607-14fb-d2be7436b6fb/NL-HlmNHA_1478_39584K01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kamerleden van Groen Links bezoeken o.a. de Olm in Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/dca3cd12-95fa-7978-d34f-e06a230d0116\">https://hdl.handle.net/21.12102/dca3cd12-95fa-7978-d34f-e06a230d0116</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e5deadc8-a27d-2607-14fb-d2be7436b6fb/NL-HlmNHA_1478_39584K01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e5deadc8-a27d-2607-14fb-d2be7436b6fb/NL-HlmNHA_1478_39584K01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2a057304-39a9-121b-9856-c473aee243d6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2a057304-39a9-121b-9856-c473aee243d6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e5deadc8-a27d-2607-14fb-d2be7436b6fb/NL-HlmNHA_1478_39584K01_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

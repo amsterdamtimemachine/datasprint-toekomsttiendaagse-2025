@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/5851e883-c0cb-aab8-4686-c9e384539388.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Het dorpshuis, B'dorp (1990-04-18)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Het dorpshuis, B'dorp"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1990-04-18"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q568337\">Badhoevedorp</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Dorpen en steden"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7803,
+            52.3381
+          ]
+        },
+        "properties": {
+          "title": "Badhoevedorp",
+          "url": "http://www.wikidata.org/entity/Q568337"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5851e883-c0cb-aab8-4686-c9e384539388/NL-HlmNHA_1478_32231K00_36/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Het dorpshuis, B'dorp"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/06db0ae4-a8d6-9c8a-e212-f72a0e6540fb\">https://hdl.handle.net/21.12102/06db0ae4-a8d6-9c8a-e212-f72a0e6540fb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5851e883-c0cb-aab8-4686-c9e384539388/NL-HlmNHA_1478_32231K00_36/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5851e883-c0cb-aab8-4686-c9e384539388/NL-HlmNHA_1478_32231K00_36/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/000ba6c3-e677-0bd1-195e-6e2b6affae7b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/000ba6c3-e677-0bd1-195e-6e2b6affae7b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5851e883-c0cb-aab8-4686-c9e384539388/NL-HlmNHA_1478_32231K00_36/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5851e883-c0cb-aab8-4686-c9e384539388/NL-HlmNHA_1478_32231K00_34/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Het dorpshuis, B'dorp"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6d383ac3-5d03-d63f-2a5a-85362db9c233\">https://hdl.handle.net/21.12102/6d383ac3-5d03-d63f-2a5a-85362db9c233</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5851e883-c0cb-aab8-4686-c9e384539388/NL-HlmNHA_1478_32231K00_34/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5851e883-c0cb-aab8-4686-c9e384539388/NL-HlmNHA_1478_32231K00_34/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1798e7d6-6a31-8293-6645-0d02dd725d63/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1798e7d6-6a31-8293-6645-0d02dd725d63",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5851e883-c0cb-aab8-4686-c9e384539388/NL-HlmNHA_1478_32231K00_34/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5851e883-c0cb-aab8-4686-c9e384539388/NL-HlmNHA_1478_32231K00_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Het dorpshuis, B'dorp"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f5f86679-d0e1-82b6-c5a1-f012c370ec31\">https://hdl.handle.net/21.12102/f5f86679-d0e1-82b6-c5a1-f012c370ec31</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5851e883-c0cb-aab8-4686-c9e384539388/NL-HlmNHA_1478_32231K00_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5851e883-c0cb-aab8-4686-c9e384539388/NL-HlmNHA_1478_32231K00_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/039b3eaf-08fb-a4ea-10f0-14fe8e4b3799/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/039b3eaf-08fb-a4ea-10f0-14fe8e4b3799",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5851e883-c0cb-aab8-4686-c9e384539388/NL-HlmNHA_1478_32231K00_35/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

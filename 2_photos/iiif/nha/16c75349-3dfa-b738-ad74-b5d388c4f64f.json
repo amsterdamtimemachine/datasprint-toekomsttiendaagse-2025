@@ -1,0 +1,732 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/16c75349-3dfa-b738-ad74-b5d388c4f64f.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Mevrouw Mizee, zangeres, Amsterdam (1991-02-12)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Mevrouw Mizee, zangeres, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1991-02-12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Mevrouw Mizee, zangeres, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1fc1d4af-67b8-6a9e-aa9c-fe0e81289d4d\">https://hdl.handle.net/21.12102/1fc1d4af-67b8-6a9e-aa9c-fe0e81289d4d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/54c77274-9cdd-4d45-00c7-c670be153d9c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/54c77274-9cdd-4d45-00c7-c670be153d9c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_12/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Mevrouw Mizee, zangeres, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/29cf8786-2570-b9f2-efc9-bc810575aab9\">https://hdl.handle.net/21.12102/29cf8786-2570-b9f2-efc9-bc810575aab9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/212fa68c-ee4e-5a6b-a107-682a425f00e1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/212fa68c-ee4e-5a6b-a107-682a425f00e1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Mevrouw Mizee, zangeres, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2dfa6f3f-12f4-f50e-139b-72c125926bac\">https://hdl.handle.net/21.12102/2dfa6f3f-12f4-f50e-139b-72c125926bac</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/da42cd58-60cc-709e-692a-59bbabfad82e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/da42cd58-60cc-709e-692a-59bbabfad82e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_10/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Mevrouw Mizee, zangeres, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2f17a61f-792e-2d88-6dc6-c075679d79d6\">https://hdl.handle.net/21.12102/2f17a61f-792e-2d88-6dc6-c075679d79d6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a086c29e-40f2-8f50-07eb-3cfd5f11066c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a086c29e-40f2-8f50-07eb-3cfd5f11066c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Mevrouw Mizee, zangeres, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/467b12ed-2668-5449-2829-265371409f20\">https://hdl.handle.net/21.12102/467b12ed-2668-5449-2829-265371409f20</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5b7d6796-9b27-dbf1-be0d-80faffa49d6d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5b7d6796-9b27-dbf1-be0d-80faffa49d6d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Mevrouw Mizee, zangeres, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/706becfd-c289-db4b-653b-b69238b01507\">https://hdl.handle.net/21.12102/706becfd-c289-db4b-653b-b69238b01507</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ab0baa11-ab01-e72b-dae1-383e2901f844/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ab0baa11-ab01-e72b-dae1-383e2901f844",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Mevrouw Mizee, zangeres, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/764c7103-5dd4-4020-da54-a039e842851a\">https://hdl.handle.net/21.12102/764c7103-5dd4-4020-da54-a039e842851a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5dd2691a-2e78-cb54-3f43-7d992b82d4e7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5dd2691a-2e78-cb54-3f43-7d992b82d4e7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_21/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Mevrouw Mizee, zangeres, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c80726c0-7d92-175d-c28f-1964234b82f9\">https://hdl.handle.net/21.12102/c80726c0-7d92-175d-c28f-1964234b82f9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_21/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_21/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/98a25e97-4778-cea8-a3bb-40334e0896f3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/98a25e97-4778-cea8-a3bb-40334e0896f3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_21/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Mevrouw Mizee, zangeres, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d10b320f-23bf-ed4e-0c7b-252a70f62cd5\">https://hdl.handle.net/21.12102/d10b320f-23bf-ed4e-0c7b-252a70f62cd5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f47b88d7-4be2-45c4-d776-03f7883c93d8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f47b88d7-4be2-45c4-d776-03f7883c93d8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Mevrouw Mizee, zangeres, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d261d078-7ec8-9017-b8b5-0dca7926ce4c\">https://hdl.handle.net/21.12102/d261d078-7ec8-9017-b8b5-0dca7926ce4c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/891081a7-2fe3-f3e7-20f9-c088200b9a07/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/891081a7-2fe3-f3e7-20f9-c088200b9a07",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Mevrouw Mizee, zangeres, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d3e5c10c-1a52-f1f9-d99e-79ed48c7594e\">https://hdl.handle.net/21.12102/d3e5c10c-1a52-f1f9-d99e-79ed48c7594e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/04b4108a-e506-92f8-fc2e-47e9ef89c7bd/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/04b4108a-e506-92f8-fc2e-47e9ef89c7bd",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_11/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Mevrouw Mizee, zangeres, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/dc502522-3375-f85c-9625-ab838bf74496\">https://hdl.handle.net/21.12102/dc502522-3375-f85c-9625-ab838bf74496</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e0045c3e-4394-9a42-70f6-388441375db8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e0045c3e-4394-9a42-70f6-388441375db8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16c75349-3dfa-b738-ad74-b5d388c4f64f/NL-HlmNHA_1478_33773K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

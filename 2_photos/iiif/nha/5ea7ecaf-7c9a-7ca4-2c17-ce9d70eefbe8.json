@@ -1,0 +1,467 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/5ea7ecaf-7c9a-7ca4-2c17-ce9d70eefbe8.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Onno te Rijdt, Amsterdam (2001-09-20)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Onno te Rijdt, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2001-09-20"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ea7ecaf-7c9a-7ca4-2c17-ce9d70eefbe8/NL-HlmNHA_1478_49783K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Onno te Rijdt, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/50aa4105-266f-07ea-c0fa-d59e9c85c2b3\">https://hdl.handle.net/21.12102/50aa4105-266f-07ea-c0fa-d59e9c85c2b3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ea7ecaf-7c9a-7ca4-2c17-ce9d70eefbe8/NL-HlmNHA_1478_49783K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ea7ecaf-7c9a-7ca4-2c17-ce9d70eefbe8/NL-HlmNHA_1478_49783K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/79f8ba59-473a-6f14-f280-64af74986011/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/79f8ba59-473a-6f14-f280-64af74986011",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ea7ecaf-7c9a-7ca4-2c17-ce9d70eefbe8/NL-HlmNHA_1478_49783K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ea7ecaf-7c9a-7ca4-2c17-ce9d70eefbe8/NL-HlmNHA_1478_49783K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Onno te Rijdt, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5f238e50-8bc4-4e05-907c-086db0ef8914\">https://hdl.handle.net/21.12102/5f238e50-8bc4-4e05-907c-086db0ef8914</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ea7ecaf-7c9a-7ca4-2c17-ce9d70eefbe8/NL-HlmNHA_1478_49783K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ea7ecaf-7c9a-7ca4-2c17-ce9d70eefbe8/NL-HlmNHA_1478_49783K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/357eb3eb-e4fc-10aa-2fba-d17b2d6e88fc/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/357eb3eb-e4fc-10aa-2fba-d17b2d6e88fc",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ea7ecaf-7c9a-7ca4-2c17-ce9d70eefbe8/NL-HlmNHA_1478_49783K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ea7ecaf-7c9a-7ca4-2c17-ce9d70eefbe8/NL-HlmNHA_1478_49783K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Onno te Rijdt, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/82930a8e-d91b-c837-7247-e97152519e86\">https://hdl.handle.net/21.12102/82930a8e-d91b-c837-7247-e97152519e86</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ea7ecaf-7c9a-7ca4-2c17-ce9d70eefbe8/NL-HlmNHA_1478_49783K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ea7ecaf-7c9a-7ca4-2c17-ce9d70eefbe8/NL-HlmNHA_1478_49783K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/29998272-9d79-3a78-8415-72d059948f8c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/29998272-9d79-3a78-8415-72d059948f8c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ea7ecaf-7c9a-7ca4-2c17-ce9d70eefbe8/NL-HlmNHA_1478_49783K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ea7ecaf-7c9a-7ca4-2c17-ce9d70eefbe8/NL-HlmNHA_1478_49783K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Onno te Rijdt, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a3fd96b4-d82b-336b-fe8a-b589f282fafb\">https://hdl.handle.net/21.12102/a3fd96b4-d82b-336b-fe8a-b589f282fafb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ea7ecaf-7c9a-7ca4-2c17-ce9d70eefbe8/NL-HlmNHA_1478_49783K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ea7ecaf-7c9a-7ca4-2c17-ce9d70eefbe8/NL-HlmNHA_1478_49783K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5d5020ee-9945-d434-794d-4467928c6f0d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5d5020ee-9945-d434-794d-4467928c6f0d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ea7ecaf-7c9a-7ca4-2c17-ce9d70eefbe8/NL-HlmNHA_1478_49783K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ea7ecaf-7c9a-7ca4-2c17-ce9d70eefbe8/NL-HlmNHA_1478_49783K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Onno te Rijdt, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b7ff6ccd-83ec-8e47-32d3-2552440145c0\">https://hdl.handle.net/21.12102/b7ff6ccd-83ec-8e47-32d3-2552440145c0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ea7ecaf-7c9a-7ca4-2c17-ce9d70eefbe8/NL-HlmNHA_1478_49783K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ea7ecaf-7c9a-7ca4-2c17-ce9d70eefbe8/NL-HlmNHA_1478_49783K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8436613c-b6cf-9928-cc64-44d34792b322/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8436613c-b6cf-9928-cc64-44d34792b322",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ea7ecaf-7c9a-7ca4-2c17-ce9d70eefbe8/NL-HlmNHA_1478_49783K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ea7ecaf-7c9a-7ca4-2c17-ce9d70eefbe8/NL-HlmNHA_1478_49783K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Onno te Rijdt, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c0dd1e9b-db87-5db5-6877-418593f7113a\">https://hdl.handle.net/21.12102/c0dd1e9b-db87-5db5-6877-418593f7113a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ea7ecaf-7c9a-7ca4-2c17-ce9d70eefbe8/NL-HlmNHA_1478_49783K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ea7ecaf-7c9a-7ca4-2c17-ce9d70eefbe8/NL-HlmNHA_1478_49783K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b2cf7eb5-0f88-74a0-29f2-fec89eb0141d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b2cf7eb5-0f88-74a0-29f2-fec89eb0141d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ea7ecaf-7c9a-7ca4-2c17-ce9d70eefbe8/NL-HlmNHA_1478_49783K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ea7ecaf-7c9a-7ca4-2c17-ce9d70eefbe8/NL-HlmNHA_1478_49783K00_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Onno te Rijdt, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/cc4dd766-efc8-1a49-50f1-3c96c2f9cc2c\">https://hdl.handle.net/21.12102/cc4dd766-efc8-1a49-50f1-3c96c2f9cc2c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ea7ecaf-7c9a-7ca4-2c17-ce9d70eefbe8/NL-HlmNHA_1478_49783K00_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ea7ecaf-7c9a-7ca4-2c17-ce9d70eefbe8/NL-HlmNHA_1478_49783K00_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f3393564-b53e-249a-8085-58618c332578/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f3393564-b53e-249a-8085-58618c332578",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ea7ecaf-7c9a-7ca4-2c17-ce9d70eefbe8/NL-HlmNHA_1478_49783K00_12/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

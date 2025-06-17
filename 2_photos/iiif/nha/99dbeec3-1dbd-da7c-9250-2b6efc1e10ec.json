@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/99dbeec3-1dbd-da7c-9250-2b6efc1e10ec.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Waterskiwedstrijden op de Bosbaan, Amsterdam (1960-07)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Waterskiwedstrijden op de Bosbaan, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1960-07"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/99dbeec3-1dbd-da7c-9250-2b6efc1e10ec/NL-HlmNHA_1478_18056B01b_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Waterskiwedstrijden op de Bosbaan, Amsterdam"
+        ]
+      },
+      "height": 1340,
+      "width": 1353,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/06f4e82e-7377-9547-d930-31a73511674a\">https://hdl.handle.net/21.12102/06f4e82e-7377-9547-d930-31a73511674a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/99dbeec3-1dbd-da7c-9250-2b6efc1e10ec/NL-HlmNHA_1478_18056B01b_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/99dbeec3-1dbd-da7c-9250-2b6efc1e10ec/NL-HlmNHA_1478_18056B01b_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1956e02e-3fff-b1b6-1259-140dbd438744/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1340,
+                "width": 1353,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1956e02e-3fff-b1b6-1259-140dbd438744",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/99dbeec3-1dbd-da7c-9250-2b6efc1e10ec/NL-HlmNHA_1478_18056B01b_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

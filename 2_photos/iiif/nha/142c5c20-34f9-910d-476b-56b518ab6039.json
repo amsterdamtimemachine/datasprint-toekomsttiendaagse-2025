@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/142c5c20-34f9-910d-476b-56b518ab6039.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Kantine Bijenkorf Amsterdam (1968-06-26)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Kantine Bijenkorf Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1968-06-26"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Veratio"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/142c5c20-34f9-910d-476b-56b518ab6039/NL-HlmNHA_1478_20564B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kantine Bijenkorf Amsterdam"
+        ]
+      },
+      "height": 2240,
+      "width": 2852,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d5befc67-5108-8e35-28b8-5c8c2f395490\">https://hdl.handle.net/21.12102/d5befc67-5108-8e35-28b8-5c8c2f395490</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/142c5c20-34f9-910d-476b-56b518ab6039/NL-HlmNHA_1478_20564B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/142c5c20-34f9-910d-476b-56b518ab6039/NL-HlmNHA_1478_20564B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/cfc6d87d-eaaf-e887-e629-f0978795be31/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2240,
+                "width": 2852,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/cfc6d87d-eaaf-e887-e629-f0978795be31",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/142c5c20-34f9-910d-476b-56b518ab6039/NL-HlmNHA_1478_20564B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

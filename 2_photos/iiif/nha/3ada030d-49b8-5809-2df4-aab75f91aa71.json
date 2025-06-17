@@ -1,0 +1,626 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/3ada030d-49b8-5809-2df4-aab75f91aa71.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Stewardes KLM, Amstelveen (1989-09-19)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Stewardes KLM, Amstelveen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1989-09-19"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q33421878\">Amstelveen</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "KLM"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/58878"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.858056,
+            52.301944
+          ]
+        },
+        "properties": {
+          "title": "Amstelveen",
+          "url": "http://www.wikidata.org/entity/Q33421878"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Stewardes KLM, Amstelveen"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/078fc5f8-798a-1081-0313-7b9c8bfd8952\">https://hdl.handle.net/21.12102/078fc5f8-798a-1081-0313-7b9c8bfd8952</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ad83ce46-2319-936e-a8f4-5eda047ba9c6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ad83ce46-2319-936e-a8f4-5eda047ba9c6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Stewardes KLM, Amstelveen"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/652ea9a4-7cf0-967d-0245-70d725837de4\">https://hdl.handle.net/21.12102/652ea9a4-7cf0-967d-0245-70d725837de4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0458fdcf-20b5-5e63-3fa3-243da49ad93e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0458fdcf-20b5-5e63-3fa3-243da49ad93e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Stewardes KLM, Amstelveen"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/676ef1f5-8a01-113e-35b8-61f44e78b5c6\">https://hdl.handle.net/21.12102/676ef1f5-8a01-113e-35b8-61f44e78b5c6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/019ef666-f84b-7e2d-887f-8447d0220dab/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/019ef666-f84b-7e2d-887f-8447d0220dab",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_08/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Stewardes KLM, Amstelveen"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8125aed7-b1f9-06fc-9a6b-59aee33f27b7\">https://hdl.handle.net/21.12102/8125aed7-b1f9-06fc-9a6b-59aee33f27b7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1594d176-2cf4-862f-29af-4e780f3f9503/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1594d176-2cf4-862f-29af-4e780f3f9503",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_09/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Stewardes KLM, Amstelveen"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/97101b74-7d46-63d8-b5f3-788f6bdbe3b9\">https://hdl.handle.net/21.12102/97101b74-7d46-63d8-b5f3-788f6bdbe3b9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/96f531b6-7a27-00fa-b81d-5d2cd968344e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/96f531b6-7a27-00fa-b81d-5d2cd968344e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_10/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Stewardes KLM, Amstelveen"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/abf429b3-df87-4c36-8e95-743b1bb5fb5a\">https://hdl.handle.net/21.12102/abf429b3-df87-4c36-8e95-743b1bb5fb5a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/bb04f5be-2103-dee1-511b-c49ebc8e6361/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/bb04f5be-2103-dee1-511b-c49ebc8e6361",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Stewardes KLM, Amstelveen"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ba99c63a-9dd5-1a49-a463-1ab46ef93328\">https://hdl.handle.net/21.12102/ba99c63a-9dd5-1a49-a463-1ab46ef93328</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d06c6d51-9514-1612-880a-db5256ad8ad5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d06c6d51-9514-1612-880a-db5256ad8ad5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Stewardes KLM, Amstelveen"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d118c120-e919-379b-cf49-c7a540cee1a4\">https://hdl.handle.net/21.12102/d118c120-e919-379b-cf49-c7a540cee1a4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c7483a78-fa95-b785-e02f-d3a07b23b72c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c7483a78-fa95-b785-e02f-d3a07b23b72c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Stewardes KLM, Amstelveen"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d17f6826-9062-f8e6-d73d-a36d2976f3ff\">https://hdl.handle.net/21.12102/d17f6826-9062-f8e6-d73d-a36d2976f3ff</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/60438678-503e-0415-eb76-a9a6375422c9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/60438678-503e-0415-eb76-a9a6375422c9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Stewardes KLM, Amstelveen"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d1e9a068-a1d5-c772-3688-bb1cb04f04ed\">https://hdl.handle.net/21.12102/d1e9a068-a1d5-c772-3688-bb1cb04f04ed</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ba9da5e8-aa84-1868-3f46-099898ee659d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ba9da5e8-aa84-1868-3f46-099898ee659d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ada030d-49b8-5809-2df4-aab75f91aa71/NL-HlmNHA_1478_31249K01_05/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

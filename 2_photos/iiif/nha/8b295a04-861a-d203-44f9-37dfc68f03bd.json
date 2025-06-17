@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/8b295a04-861a-d203-44f9-37dfc68f03bd.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "\"de Tien\": Cora Buis Amsterdam (1996-08-15)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "\"de Tien\": Cora Buis Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1996-08-15"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8b295a04-861a-d203-44f9-37dfc68f03bd/NL-HlmNHA_1478_43110K00_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "\"de Tien\": Cora Buis Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/12cd8c99-0362-2ca6-94a0-fd2d8e78eec5\">https://hdl.handle.net/21.12102/12cd8c99-0362-2ca6-94a0-fd2d8e78eec5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8b295a04-861a-d203-44f9-37dfc68f03bd/NL-HlmNHA_1478_43110K00_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8b295a04-861a-d203-44f9-37dfc68f03bd/NL-HlmNHA_1478_43110K00_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d9e5ca95-f2e4-83d9-9460-ec705833d1dd/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d9e5ca95-f2e4-83d9-9460-ec705833d1dd",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8b295a04-861a-d203-44f9-37dfc68f03bd/NL-HlmNHA_1478_43110K00_08/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8b295a04-861a-d203-44f9-37dfc68f03bd/NL-HlmNHA_1478_43110K00_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "\"de Tien\": Cora Buis Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1eae57d1-f7e3-ff2e-43d8-0c358fda7fa2\">https://hdl.handle.net/21.12102/1eae57d1-f7e3-ff2e-43d8-0c358fda7fa2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8b295a04-861a-d203-44f9-37dfc68f03bd/NL-HlmNHA_1478_43110K00_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8b295a04-861a-d203-44f9-37dfc68f03bd/NL-HlmNHA_1478_43110K00_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/03493f02-79a6-1c46-3a0c-5a4a1214b7eb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/03493f02-79a6-1c46-3a0c-5a4a1214b7eb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8b295a04-861a-d203-44f9-37dfc68f03bd/NL-HlmNHA_1478_43110K00_10/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8b295a04-861a-d203-44f9-37dfc68f03bd/NL-HlmNHA_1478_43110K00_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "\"de Tien\": Cora Buis Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5987e586-980d-c5f0-36db-84fa67235889\">https://hdl.handle.net/21.12102/5987e586-980d-c5f0-36db-84fa67235889</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8b295a04-861a-d203-44f9-37dfc68f03bd/NL-HlmNHA_1478_43110K00_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8b295a04-861a-d203-44f9-37dfc68f03bd/NL-HlmNHA_1478_43110K00_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a36b5351-3035-3058-af6d-6b12e9bd8a4e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a36b5351-3035-3058-af6d-6b12e9bd8a4e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8b295a04-861a-d203-44f9-37dfc68f03bd/NL-HlmNHA_1478_43110K00_12/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8b295a04-861a-d203-44f9-37dfc68f03bd/NL-HlmNHA_1478_43110K00_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "\"de Tien\": Cora Buis Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9dac8c46-4ad4-4aa8-e2b6-8c40cd87dbb9\">https://hdl.handle.net/21.12102/9dac8c46-4ad4-4aa8-e2b6-8c40cd87dbb9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8b295a04-861a-d203-44f9-37dfc68f03bd/NL-HlmNHA_1478_43110K00_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8b295a04-861a-d203-44f9-37dfc68f03bd/NL-HlmNHA_1478_43110K00_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/80fd7b57-f25e-b62d-ad10-191a52ecb84f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/80fd7b57-f25e-b62d-ad10-191a52ecb84f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8b295a04-861a-d203-44f9-37dfc68f03bd/NL-HlmNHA_1478_43110K00_09/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8b295a04-861a-d203-44f9-37dfc68f03bd/NL-HlmNHA_1478_43110K00_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "\"de Tien\": Cora Buis Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ad16fab5-0084-86c5-1760-4f2eb74a137b\">https://hdl.handle.net/21.12102/ad16fab5-0084-86c5-1760-4f2eb74a137b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8b295a04-861a-d203-44f9-37dfc68f03bd/NL-HlmNHA_1478_43110K00_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8b295a04-861a-d203-44f9-37dfc68f03bd/NL-HlmNHA_1478_43110K00_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/318a687a-f7a8-9530-5053-65a2b22039f7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/318a687a-f7a8-9530-5053-65a2b22039f7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8b295a04-861a-d203-44f9-37dfc68f03bd/NL-HlmNHA_1478_43110K00_11/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8b295a04-861a-d203-44f9-37dfc68f03bd/NL-HlmNHA_1478_43110K00_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "\"de Tien\": Cora Buis Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/db73bb01-c118-3d7a-6f88-0b2e20ae2f4d\">https://hdl.handle.net/21.12102/db73bb01-c118-3d7a-6f88-0b2e20ae2f4d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8b295a04-861a-d203-44f9-37dfc68f03bd/NL-HlmNHA_1478_43110K00_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8b295a04-861a-d203-44f9-37dfc68f03bd/NL-HlmNHA_1478_43110K00_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/94f9ccf8-de1b-a8e5-d4ff-71e353468773/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/94f9ccf8-de1b-a8e5-d4ff-71e353468773",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8b295a04-861a-d203-44f9-37dfc68f03bd/NL-HlmNHA_1478_43110K00_07/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

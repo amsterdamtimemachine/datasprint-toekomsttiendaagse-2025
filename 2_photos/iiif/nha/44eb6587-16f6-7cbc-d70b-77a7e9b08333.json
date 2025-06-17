@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/44eb6587-16f6-7cbc-d70b-77a7e9b08333.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Het schip Johan van Oldenbarnevelt met aan boord zo'n 1450 emigranten op weg naar Australi\u00eb. Emigratie, RAU. (1951-10-07)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Het schip Johan van Oldenbarnevelt met aan boord zo'n 1450 emigranten op weg naar Australi\u00eb. Emigratie, RAU."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1951-10-07"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/44eb6587-16f6-7cbc-d70b-77a7e9b08333/NL-HlmNHA_1478_06679B05_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Het schip Johan van Oldenbarnevelt met aan boord zo'n 1450 emigranten op weg naar Australi\u00eb. Emigratie, RAU."
+        ]
+      },
+      "height": 1329,
+      "width": 1382,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d278f4ae-6d3b-4169-5007-2e4d3658cfe2\">https://hdl.handle.net/21.12102/d278f4ae-6d3b-4169-5007-2e4d3658cfe2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/44eb6587-16f6-7cbc-d70b-77a7e9b08333/NL-HlmNHA_1478_06679B05_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/44eb6587-16f6-7cbc-d70b-77a7e9b08333/NL-HlmNHA_1478_06679B05_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f1491d2a-ad0d-43a8-44a4-d941af9bc6bc/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1329,
+                "width": 1382,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f1491d2a-ad0d-43a8-44a4-d941af9bc6bc",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/44eb6587-16f6-7cbc-d70b-77a7e9b08333/NL-HlmNHA_1478_06679B05_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/28857f80-e7ff-5a00-b1cb-6451f32c0b5a.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Tivotel zwanenburg (1989-09-13)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Tivotel zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1989-09-13"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Hotels"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/28462"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/28857f80-e7ff-5a00-b1cb-6451f32c0b5a/NL-HlmNHA_1478_31222K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tivotel zwanenburg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6d82475f-2f6b-dbb2-86fb-fbb07904e53e\">https://hdl.handle.net/21.12102/6d82475f-2f6b-dbb2-86fb-fbb07904e53e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/28857f80-e7ff-5a00-b1cb-6451f32c0b5a/NL-HlmNHA_1478_31222K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/28857f80-e7ff-5a00-b1cb-6451f32c0b5a/NL-HlmNHA_1478_31222K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/512175c7-cba4-29d9-99dd-160d3444d50a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/512175c7-cba4-29d9-99dd-160d3444d50a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/28857f80-e7ff-5a00-b1cb-6451f32c0b5a/NL-HlmNHA_1478_31222K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/28857f80-e7ff-5a00-b1cb-6451f32c0b5a/NL-HlmNHA_1478_31222K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tivotel zwanenburg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b08141f7-068e-d33c-56f2-0f875f955e6c\">https://hdl.handle.net/21.12102/b08141f7-068e-d33c-56f2-0f875f955e6c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/28857f80-e7ff-5a00-b1cb-6451f32c0b5a/NL-HlmNHA_1478_31222K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/28857f80-e7ff-5a00-b1cb-6451f32c0b5a/NL-HlmNHA_1478_31222K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c3cd2de8-82b1-ca46-a283-ff587970e3e0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c3cd2de8-82b1-ca46-a283-ff587970e3e0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/28857f80-e7ff-5a00-b1cb-6451f32c0b5a/NL-HlmNHA_1478_31222K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

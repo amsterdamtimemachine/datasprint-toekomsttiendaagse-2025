@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/25b28873-7c2a-ad10-f045-145dbb6dbfe7.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Kilopak kristalsuiker van CSM, Halfweg (1979)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Kilopak kristalsuiker van CSM, Halfweg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1979"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2367253\">Halfweg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.755,
+            52.3828
+          ]
+        },
+        "properties": {
+          "title": "Halfweg",
+          "url": "http://www.wikidata.org/entity/Q2367253"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/25b28873-7c2a-ad10-f045-145dbb6dbfe7/NL-HlmNHA_1478_03555AC02_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kilopak kristalsuiker van CSM, Halfweg"
+        ]
+      },
+      "height": 4789,
+      "width": 4789,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/08185f20-b9db-04e7-b61a-30c0f38496f3\">https://hdl.handle.net/21.12102/08185f20-b9db-04e7-b61a-30c0f38496f3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/25b28873-7c2a-ad10-f045-145dbb6dbfe7/NL-HlmNHA_1478_03555AC02_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/25b28873-7c2a-ad10-f045-145dbb6dbfe7/NL-HlmNHA_1478_03555AC02_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/54457395-edcc-a2c7-62d7-ede643d6b02e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4789,
+                "width": 4789,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/54457395-edcc-a2c7-62d7-ede643d6b02e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/25b28873-7c2a-ad10-f045-145dbb6dbfe7/NL-HlmNHA_1478_03555AC02_12/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/25b28873-7c2a-ad10-f045-145dbb6dbfe7/NL-HlmNHA_1478_03555AC02_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kilopak kristalsuiker van CSM, Halfweg"
+        ]
+      },
+      "height": 4765,
+      "width": 4765,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/84fdc99c-9bd5-7ec2-aefb-eb10409ad130\">https://hdl.handle.net/21.12102/84fdc99c-9bd5-7ec2-aefb-eb10409ad130</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/25b28873-7c2a-ad10-f045-145dbb6dbfe7/NL-HlmNHA_1478_03555AC02_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/25b28873-7c2a-ad10-f045-145dbb6dbfe7/NL-HlmNHA_1478_03555AC02_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/38000cb2-b905-6520-f347-102dcf4e28ff/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4765,
+                "width": 4765,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/38000cb2-b905-6520-f347-102dcf4e28ff",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/25b28873-7c2a-ad10-f045-145dbb6dbfe7/NL-HlmNHA_1478_03555AC02_11/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/25b28873-7c2a-ad10-f045-145dbb6dbfe7/NL-HlmNHA_1478_03555AC02_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kilopak kristalsuiker van CSM, Halfweg"
+        ]
+      },
+      "height": 4749,
+      "width": 4749,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e0a03b1c-fc69-3d48-2df8-190d41516ae5\">https://hdl.handle.net/21.12102/e0a03b1c-fc69-3d48-2df8-190d41516ae5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/25b28873-7c2a-ad10-f045-145dbb6dbfe7/NL-HlmNHA_1478_03555AC02_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/25b28873-7c2a-ad10-f045-145dbb6dbfe7/NL-HlmNHA_1478_03555AC02_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/bfdb21f2-b6bb-1131-b9f7-ebe0fb82e9f0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4749,
+                "width": 4749,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/bfdb21f2-b6bb-1131-b9f7-ebe0fb82e9f0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/25b28873-7c2a-ad10-f045-145dbb6dbfe7/NL-HlmNHA_1478_03555AC02_10/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

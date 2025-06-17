@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/e6323489-a6af-5057-f959-53e1dbdb142b.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Interieur Bank van Lening Amsterdam (werkruimte achter loketten) (1979-07-23)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Interieur Bank van Lening Amsterdam (werkruimte achter loketten)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1979-07-23"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e6323489-a6af-5057-f959-53e1dbdb142b/NL-HlmNHA_1478_18196K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interieur Bank van Lening Amsterdam (werkruimte achter loketten)"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3dc5c9cf-b915-d609-7d6f-a567c10133df\">https://hdl.handle.net/21.12102/3dc5c9cf-b915-d609-7d6f-a567c10133df</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e6323489-a6af-5057-f959-53e1dbdb142b/NL-HlmNHA_1478_18196K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e6323489-a6af-5057-f959-53e1dbdb142b/NL-HlmNHA_1478_18196K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6707dce9-b9b4-82d4-2bac-2c5869c0459c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6707dce9-b9b4-82d4-2bac-2c5869c0459c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e6323489-a6af-5057-f959-53e1dbdb142b/NL-HlmNHA_1478_18196K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e6323489-a6af-5057-f959-53e1dbdb142b/NL-HlmNHA_1478_18196K00_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interieur Bank van Lening Amsterdam (werkruimte achter loketten)"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/92a49fa3-c92b-5a69-a603-4cfbac4dc92f\">https://hdl.handle.net/21.12102/92a49fa3-c92b-5a69-a603-4cfbac4dc92f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e6323489-a6af-5057-f959-53e1dbdb142b/NL-HlmNHA_1478_18196K00_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e6323489-a6af-5057-f959-53e1dbdb142b/NL-HlmNHA_1478_18196K00_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/48308d6e-5a14-5056-abcf-ad4f20667dfa/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/48308d6e-5a14-5056-abcf-ad4f20667dfa",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e6323489-a6af-5057-f959-53e1dbdb142b/NL-HlmNHA_1478_18196K00_12/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

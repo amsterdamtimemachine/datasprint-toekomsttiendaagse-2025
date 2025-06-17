@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/1e32bfe1-1a7e-dfb7-3f38-bb40741ad469.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Restaurant Chez Ferro. Eigenaar: Amadeus Fernandez Ferro. Overleden 1 januari 2006 in Amsterdam (1975-04-28)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Restaurant Chez Ferro. Eigenaar: Amadeus Fernandez Ferro. Overleden 1 januari 2006 in Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1975-04-28"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2196486\">Rozengracht</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.87917,
+            52.37278
+          ]
+        },
+        "properties": {
+          "title": "Rozengracht",
+          "url": "http://www.wikidata.org/entity/Q2196486"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e32bfe1-1a7e-dfb7-3f38-bb40741ad469/NL-HlmNHA_1478_13785K01_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Restaurant Chez Ferro. Eigenaar: Amadeus Fernandez Ferro. Overleden 1 januari 2006 in Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2a6ec036-d034-d6bd-8d6e-10a037f19e30\">https://hdl.handle.net/21.12102/2a6ec036-d034-d6bd-8d6e-10a037f19e30</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e32bfe1-1a7e-dfb7-3f38-bb40741ad469/NL-HlmNHA_1478_13785K01_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e32bfe1-1a7e-dfb7-3f38-bb40741ad469/NL-HlmNHA_1478_13785K01_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d7d5285d-3ef9-9607-9175-2a869cecf17b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d7d5285d-3ef9-9607-9175-2a869cecf17b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e32bfe1-1a7e-dfb7-3f38-bb40741ad469/NL-HlmNHA_1478_13785K01_35/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e32bfe1-1a7e-dfb7-3f38-bb40741ad469/NL-HlmNHA_1478_13785K01_36/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Restaurant Chez Ferro. Eigenaar: Amadeus Fernandez Ferro. Overleden 1 januari 2006 in Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/db190812-6e27-9ad2-ad36-d72d19ce57be\">https://hdl.handle.net/21.12102/db190812-6e27-9ad2-ad36-d72d19ce57be</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e32bfe1-1a7e-dfb7-3f38-bb40741ad469/NL-HlmNHA_1478_13785K01_36/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e32bfe1-1a7e-dfb7-3f38-bb40741ad469/NL-HlmNHA_1478_13785K01_36/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/082fab44-f0e3-e135-84ce-e33c6357f01a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/082fab44-f0e3-e135-84ce-e33c6357f01a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e32bfe1-1a7e-dfb7-3f38-bb40741ad469/NL-HlmNHA_1478_13785K01_36/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

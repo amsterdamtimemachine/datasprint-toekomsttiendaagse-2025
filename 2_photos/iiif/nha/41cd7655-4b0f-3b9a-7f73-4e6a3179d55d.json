@@ -1,0 +1,520 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Myrthe Kamp, Amsterdam (1999-07-16)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Myrthe Kamp, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1999-07-16"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Myrthe Kamp, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/101a11ad-e437-b552-d9aa-1ed5bb122571\">https://hdl.handle.net/21.12102/101a11ad-e437-b552-d9aa-1ed5bb122571</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/543203e6-a3f4-9d00-b4a7-02584526bd75/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/543203e6-a3f4-9d00-b4a7-02584526bd75",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Myrthe Kamp, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/144788c6-1858-e15b-cc61-b705db37f9fd\">https://hdl.handle.net/21.12102/144788c6-1858-e15b-cc61-b705db37f9fd</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/badd5cf8-8696-9134-3d6f-455476517b0e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/badd5cf8-8696-9134-3d6f-455476517b0e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Myrthe Kamp, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/36d73f2d-c5cf-aef3-275b-aaf5dc6c9ae3\">https://hdl.handle.net/21.12102/36d73f2d-c5cf-aef3-275b-aaf5dc6c9ae3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d403bb43-128d-4e18-7767-a4138fa80f68/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d403bb43-128d-4e18-7767-a4138fa80f68",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Myrthe Kamp, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/423ded6d-893b-de10-d28e-70a64af53ee4\">https://hdl.handle.net/21.12102/423ded6d-893b-de10-d28e-70a64af53ee4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8bc3a634-3461-fc95-04b6-587b83d079fe/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8bc3a634-3461-fc95-04b6-587b83d079fe",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_08/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Myrthe Kamp, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/84162cb6-bb5c-535b-ac77-d514e7a9eecd\">https://hdl.handle.net/21.12102/84162cb6-bb5c-535b-ac77-d514e7a9eecd</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4353444c-4309-e73e-f0b8-38ee1750af3a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4353444c-4309-e73e-f0b8-38ee1750af3a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Myrthe Kamp, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ab9b5f86-b90d-8784-f472-efb53617acc8\">https://hdl.handle.net/21.12102/ab9b5f86-b90d-8784-f472-efb53617acc8</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/094fa109-e6ea-130d-f001-8d51878d24ad/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/094fa109-e6ea-130d-f001-8d51878d24ad",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Myrthe Kamp, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d798dffd-1a25-9921-a425-5961098109ba\">https://hdl.handle.net/21.12102/d798dffd-1a25-9921-a425-5961098109ba</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8ec99838-9205-4298-4c68-670147650f7c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8ec99838-9205-4298-4c68-670147650f7c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Myrthe Kamp, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/fe00c276-239b-39bf-c0d3-6fd4fdd8c478\">https://hdl.handle.net/21.12102/fe00c276-239b-39bf-c0d3-6fd4fdd8c478</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fc66193b-2d17-1912-4ee2-cc685d45af0e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fc66193b-2d17-1912-4ee2-cc685d45af0e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/41cd7655-4b0f-3b9a-7f73-4e6a3179d55d/NL-HlmNHA_1478_47163K01_03/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

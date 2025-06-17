@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/7f16f90c-cb9d-3477-3053-b7700851bd2c.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Exterieur Rh\u00f4nestraat Amsterdam (1970-10-02)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Exterieur Rh\u00f4nestraat Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1970-10-02"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q19465524\">Rh\u00f4neweg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Uddeholm NV"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.8274,
+            52.3902
+          ]
+        },
+        "properties": {
+          "title": "Rh\u00f4neweg",
+          "url": "http://www.wikidata.org/entity/Q19465524"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7f16f90c-cb9d-3477-3053-b7700851bd2c/NL-HlmNHA_1478_20872B01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur Rh\u00f4nestraat Amsterdam"
+        ]
+      },
+      "height": 2208,
+      "width": 2927,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0da47000-525e-93a4-c1a0-d62ababcc9e9\">https://hdl.handle.net/21.12102/0da47000-525e-93a4-c1a0-d62ababcc9e9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7f16f90c-cb9d-3477-3053-b7700851bd2c/NL-HlmNHA_1478_20872B01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7f16f90c-cb9d-3477-3053-b7700851bd2c/NL-HlmNHA_1478_20872B01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fe773776-9503-de6d-df76-99e7ed47cb10/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2208,
+                "width": 2927,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fe773776-9503-de6d-df76-99e7ed47cb10",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7f16f90c-cb9d-3477-3053-b7700851bd2c/NL-HlmNHA_1478_20872B01_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7f16f90c-cb9d-3477-3053-b7700851bd2c/NL-HlmNHA_1478_20872B02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur Rh\u00f4nestraat Amsterdam"
+        ]
+      },
+      "height": 2183,
+      "width": 2895,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/219eb973-7a79-e84e-bc73-83c9ce3fbed3\">https://hdl.handle.net/21.12102/219eb973-7a79-e84e-bc73-83c9ce3fbed3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7f16f90c-cb9d-3477-3053-b7700851bd2c/NL-HlmNHA_1478_20872B02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7f16f90c-cb9d-3477-3053-b7700851bd2c/NL-HlmNHA_1478_20872B02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/caa53ce1-1c27-26af-388f-dd76d079d1f1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2183,
+                "width": 2895,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/caa53ce1-1c27-26af-388f-dd76d079d1f1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7f16f90c-cb9d-3477-3053-b7700851bd2c/NL-HlmNHA_1478_20872B02_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

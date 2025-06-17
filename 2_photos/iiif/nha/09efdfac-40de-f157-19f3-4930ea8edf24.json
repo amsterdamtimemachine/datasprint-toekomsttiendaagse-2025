@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/09efdfac-40de-f157-19f3-4930ea8edf24.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Gelede bus in verkeer Amsterdam (1957-03-14)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Gelede bus in verkeer Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1957-03-14"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Verheul Carosseriefabriek Waddinxveen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/09efdfac-40de-f157-19f3-4930ea8edf24/NL-HlmNHA_1478_13887B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Gelede bus in verkeer Amsterdam"
+        ]
+      },
+      "height": 2164,
+      "width": 2813,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a38fe15e-cfed-893b-c0d7-395c0526ccd4\">https://hdl.handle.net/21.12102/a38fe15e-cfed-893b-c0d7-395c0526ccd4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/09efdfac-40de-f157-19f3-4930ea8edf24/NL-HlmNHA_1478_13887B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/09efdfac-40de-f157-19f3-4930ea8edf24/NL-HlmNHA_1478_13887B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b3e4110f-8d0f-1709-9c36-1e342f8689ab/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2164,
+                "width": 2813,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b3e4110f-8d0f-1709-9c36-1e342f8689ab",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/09efdfac-40de-f157-19f3-4930ea8edf24/NL-HlmNHA_1478_13887B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

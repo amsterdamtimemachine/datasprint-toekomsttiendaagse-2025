@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/81624518-2c96-89f2-59fc-d979028d9cc8.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Zwembad, Zwanenburg (1991-03-12)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Zwembad, Zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1991-03-12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/81624518-2c96-89f2-59fc-d979028d9cc8/NL-HlmNHA_1478_33936K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Zwembad, Zwanenburg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7302daa0-b24e-0c3e-8411-bf23cfe0ad06\">https://hdl.handle.net/21.12102/7302daa0-b24e-0c3e-8411-bf23cfe0ad06</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/81624518-2c96-89f2-59fc-d979028d9cc8/NL-HlmNHA_1478_33936K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/81624518-2c96-89f2-59fc-d979028d9cc8/NL-HlmNHA_1478_33936K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d3f8b765-4204-2029-d3af-31d59f55ee15/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d3f8b765-4204-2029-d3af-31d59f55ee15",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/81624518-2c96-89f2-59fc-d979028d9cc8/NL-HlmNHA_1478_33936K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/81624518-2c96-89f2-59fc-d979028d9cc8/NL-HlmNHA_1478_33936K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Zwembad, Zwanenburg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/bc065401-5788-610d-746e-c8ad1b67e118\">https://hdl.handle.net/21.12102/bc065401-5788-610d-746e-c8ad1b67e118</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/81624518-2c96-89f2-59fc-d979028d9cc8/NL-HlmNHA_1478_33936K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/81624518-2c96-89f2-59fc-d979028d9cc8/NL-HlmNHA_1478_33936K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6de5ea49-5413-36cc-33a4-d19a457f7b6e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6de5ea49-5413-36cc-33a4-d19a457f7b6e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/81624518-2c96-89f2-59fc-d979028d9cc8/NL-HlmNHA_1478_33936K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/81624518-2c96-89f2-59fc-d979028d9cc8/NL-HlmNHA_1478_33936K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Zwembad, Zwanenburg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c3d15f89-b1cd-8fea-6ca2-d7f41aaa3a19\">https://hdl.handle.net/21.12102/c3d15f89-b1cd-8fea-6ca2-d7f41aaa3a19</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/81624518-2c96-89f2-59fc-d979028d9cc8/NL-HlmNHA_1478_33936K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/81624518-2c96-89f2-59fc-d979028d9cc8/NL-HlmNHA_1478_33936K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/efbd5e9a-6d53-4b51-5dc6-82025b5f0411/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/efbd5e9a-6d53-4b51-5dc6-82025b5f0411",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/81624518-2c96-89f2-59fc-d979028d9cc8/NL-HlmNHA_1478_33936K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

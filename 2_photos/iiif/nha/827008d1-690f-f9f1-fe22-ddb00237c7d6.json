@@ -1,0 +1,732 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/827008d1-690f-f9f1-fe22-ddb00237c7d6.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Rob Rensenbrink, OSV Oostzaan (1994-12-01)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Rob Rensenbrink, OSV Oostzaan"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1994-12-01"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9951\">Oostzaan</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.8789,
+            52.4406
+          ]
+        },
+        "properties": {
+          "title": "Oostzaan",
+          "url": "http://www.wikidata.org/entity/Q9951"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_28/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rob Rensenbrink, OSV Oostzaan"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/38ff008e-b58d-837f-45b2-c9ccbe8e37a1\">https://hdl.handle.net/21.12102/38ff008e-b58d-837f-45b2-c9ccbe8e37a1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_28/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_28/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6429fd02-d46d-ee81-8778-5381391f6267/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6429fd02-d46d-ee81-8778-5381391f6267",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_28/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rob Rensenbrink, OSV Oostzaan"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4dc902ba-ecc1-ccf1-5f6b-b8184aeb298a\">https://hdl.handle.net/21.12102/4dc902ba-ecc1-ccf1-5f6b-b8184aeb298a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a0431f75-12c5-8387-b97c-68c3ec6dbfe9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a0431f75-12c5-8387-b97c-68c3ec6dbfe9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rob Rensenbrink, OSV Oostzaan"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/61e10f88-3d3c-322f-df9f-3e91e266f917\">https://hdl.handle.net/21.12102/61e10f88-3d3c-322f-df9f-3e91e266f917</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/63800e91-3955-f479-fcea-6854874b5b71/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/63800e91-3955-f479-fcea-6854874b5b71",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rob Rensenbrink, OSV Oostzaan"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7b940494-baa0-55c9-2f90-8906c5c930a3\">https://hdl.handle.net/21.12102/7b940494-baa0-55c9-2f90-8906c5c930a3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4c70c6f1-ebf5-1054-efd3-737d8ebdcadd/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4c70c6f1-ebf5-1054-efd3-737d8ebdcadd",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rob Rensenbrink, OSV Oostzaan"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8c363864-d758-798a-bd25-1f7505bb3424\">https://hdl.handle.net/21.12102/8c363864-d758-798a-bd25-1f7505bb3424</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f6ddbced-f8c3-c0db-7d51-8d2ca6bf7587/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f6ddbced-f8c3-c0db-7d51-8d2ca6bf7587",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_26/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rob Rensenbrink, OSV Oostzaan"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9030e148-eb42-30bb-7daa-1b3c562e352c\">https://hdl.handle.net/21.12102/9030e148-eb42-30bb-7daa-1b3c562e352c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_26/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_26/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7ec3a4a0-6292-a7ec-75c5-f3f38dd25592/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7ec3a4a0-6292-a7ec-75c5-f3f38dd25592",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_26/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rob Rensenbrink, OSV Oostzaan"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a28fe3f7-29f6-dfe0-a364-80d626f2e137\">https://hdl.handle.net/21.12102/a28fe3f7-29f6-dfe0-a364-80d626f2e137</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9d73e8b9-f822-603d-8518-5f538324d2bb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9d73e8b9-f822-603d-8518-5f538324d2bb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_29/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_21/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rob Rensenbrink, OSV Oostzaan"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a485ee34-0259-aff1-b296-268b567cac49\">https://hdl.handle.net/21.12102/a485ee34-0259-aff1-b296-268b567cac49</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_21/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_21/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3edbab62-f3b7-91c2-485c-67a18020d8ee/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3edbab62-f3b7-91c2-485c-67a18020d8ee",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_21/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_25/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rob Rensenbrink, OSV Oostzaan"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/cb745cdf-ae44-496d-5e97-5145dee5efc8\">https://hdl.handle.net/21.12102/cb745cdf-ae44-496d-5e97-5145dee5efc8</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_25/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_25/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1862c458-da4e-19aa-a2cc-fed6ee0eea3b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1862c458-da4e-19aa-a2cc-fed6ee0eea3b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_25/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_27/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rob Rensenbrink, OSV Oostzaan"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e699644e-8e0d-b249-bf9c-12a12e9b98a2\">https://hdl.handle.net/21.12102/e699644e-8e0d-b249-bf9c-12a12e9b98a2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_27/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_27/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/07cc4e00-dfe8-7904-63ae-bad9e7743c0f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/07cc4e00-dfe8-7904-63ae-bad9e7743c0f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_27/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rob Rensenbrink, OSV Oostzaan"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ee16e551-fced-5a97-14dc-e79f43f811ef\">https://hdl.handle.net/21.12102/ee16e551-fced-5a97-14dc-e79f43f811ef</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/40eb3971-b10a-e105-332c-d15ff31a0fb2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/40eb3971-b10a-e105-332c-d15ff31a0fb2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_22/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rob Rensenbrink, OSV Oostzaan"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/efd0699f-6aa3-3e6e-c654-bb52115c7a4b\">https://hdl.handle.net/21.12102/efd0699f-6aa3-3e6e-c654-bb52115c7a4b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_22/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_22/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/50380655-e9e5-a70c-f01a-c471ffd546be/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/50380655-e9e5-a70c-f01a-c471ffd546be",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/827008d1-690f-f9f1-fe22-ddb00237c7d6/NL-HlmNHA_1478_40547K00_22/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

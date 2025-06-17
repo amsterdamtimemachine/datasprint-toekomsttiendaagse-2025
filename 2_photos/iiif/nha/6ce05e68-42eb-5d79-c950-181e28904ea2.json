@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/6ce05e68-42eb-5d79-c950-181e28904ea2.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Expositie Jan Dik Zegel in galerie Wetering in Amsterdam (1981-10-05)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Expositie Jan Dik Zegel in galerie Wetering in Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1981-10-05"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Expositie"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ce05e68-42eb-5d79-c950-181e28904ea2/NL-HlmNHA_1478_21197K00_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Expositie Jan Dik Zegel in galerie Wetering in Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1455c426-d831-f93f-dfaa-fdfa021d2563\">https://hdl.handle.net/21.12102/1455c426-d831-f93f-dfaa-fdfa021d2563</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ce05e68-42eb-5d79-c950-181e28904ea2/NL-HlmNHA_1478_21197K00_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ce05e68-42eb-5d79-c950-181e28904ea2/NL-HlmNHA_1478_21197K00_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/44737439-a858-6010-bd0f-6447507ecf8f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/44737439-a858-6010-bd0f-6447507ecf8f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ce05e68-42eb-5d79-c950-181e28904ea2/NL-HlmNHA_1478_21197K00_11/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ce05e68-42eb-5d79-c950-181e28904ea2/NL-HlmNHA_1478_21197K00_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Expositie Jan Dik Zegel in galerie Wetering in Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/397736f1-bc06-b7dc-5e3f-2fc136a1218a\">https://hdl.handle.net/21.12102/397736f1-bc06-b7dc-5e3f-2fc136a1218a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ce05e68-42eb-5d79-c950-181e28904ea2/NL-HlmNHA_1478_21197K00_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ce05e68-42eb-5d79-c950-181e28904ea2/NL-HlmNHA_1478_21197K00_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5a801149-3b4c-4031-19d8-19e5936ed04f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5a801149-3b4c-4031-19d8-19e5936ed04f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ce05e68-42eb-5d79-c950-181e28904ea2/NL-HlmNHA_1478_21197K00_12/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ce05e68-42eb-5d79-c950-181e28904ea2/NL-HlmNHA_1478_21197K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Expositie Jan Dik Zegel in galerie Wetering in Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5dc04946-b8e4-8639-a0b8-e4fd6c4874d1\">https://hdl.handle.net/21.12102/5dc04946-b8e4-8639-a0b8-e4fd6c4874d1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ce05e68-42eb-5d79-c950-181e28904ea2/NL-HlmNHA_1478_21197K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ce05e68-42eb-5d79-c950-181e28904ea2/NL-HlmNHA_1478_21197K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/58f1f317-01f0-df7d-6637-517c6c18602f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/58f1f317-01f0-df7d-6637-517c6c18602f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ce05e68-42eb-5d79-c950-181e28904ea2/NL-HlmNHA_1478_21197K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ce05e68-42eb-5d79-c950-181e28904ea2/NL-HlmNHA_1478_21197K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Expositie Jan Dik Zegel in galerie Wetering in Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8e6cdc04-f6a1-32d8-f701-b627da43a686\">https://hdl.handle.net/21.12102/8e6cdc04-f6a1-32d8-f701-b627da43a686</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ce05e68-42eb-5d79-c950-181e28904ea2/NL-HlmNHA_1478_21197K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ce05e68-42eb-5d79-c950-181e28904ea2/NL-HlmNHA_1478_21197K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ea0fc2ee-6b5c-c3e1-6e7b-f9aadc5e6d8f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ea0fc2ee-6b5c-c3e1-6e7b-f9aadc5e6d8f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ce05e68-42eb-5d79-c950-181e28904ea2/NL-HlmNHA_1478_21197K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ce05e68-42eb-5d79-c950-181e28904ea2/NL-HlmNHA_1478_21197K00_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Expositie Jan Dik Zegel in galerie Wetering in Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a029d021-d8cf-d1ed-9576-2403536a74e0\">https://hdl.handle.net/21.12102/a029d021-d8cf-d1ed-9576-2403536a74e0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ce05e68-42eb-5d79-c950-181e28904ea2/NL-HlmNHA_1478_21197K00_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ce05e68-42eb-5d79-c950-181e28904ea2/NL-HlmNHA_1478_21197K00_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0140d512-33ba-8727-7694-8496631be24c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0140d512-33ba-8727-7694-8496631be24c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ce05e68-42eb-5d79-c950-181e28904ea2/NL-HlmNHA_1478_21197K00_10/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ce05e68-42eb-5d79-c950-181e28904ea2/NL-HlmNHA_1478_21197K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Expositie Jan Dik Zegel in galerie Wetering in Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/bfffd001-9829-09b2-a8d6-b90e2c0641ba\">https://hdl.handle.net/21.12102/bfffd001-9829-09b2-a8d6-b90e2c0641ba</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ce05e68-42eb-5d79-c950-181e28904ea2/NL-HlmNHA_1478_21197K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ce05e68-42eb-5d79-c950-181e28904ea2/NL-HlmNHA_1478_21197K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b4120c0c-176c-d7f6-ed5d-4fea86f64047/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b4120c0c-176c-d7f6-ed5d-4fea86f64047",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ce05e68-42eb-5d79-c950-181e28904ea2/NL-HlmNHA_1478_21197K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

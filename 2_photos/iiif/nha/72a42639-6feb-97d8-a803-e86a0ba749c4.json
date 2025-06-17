@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/72a42639-6feb-97d8-a803-e86a0ba749c4.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Mariahoeve, Badhoevedorp (1991-05-15)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Mariahoeve, Badhoevedorp"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1991-05-15"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q568337\">Badhoevedorp</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7803,
+            52.3381
+          ]
+        },
+        "properties": {
+          "title": "Badhoevedorp",
+          "url": "http://www.wikidata.org/entity/Q568337"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72a42639-6feb-97d8-a803-e86a0ba749c4/NL-HlmNHA_1478_34355K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Mariahoeve, Badhoevedorp"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/32af1cc1-61f8-195c-8661-fb04e46fdce5\">https://hdl.handle.net/21.12102/32af1cc1-61f8-195c-8661-fb04e46fdce5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72a42639-6feb-97d8-a803-e86a0ba749c4/NL-HlmNHA_1478_34355K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72a42639-6feb-97d8-a803-e86a0ba749c4/NL-HlmNHA_1478_34355K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8c0b8bab-b900-a132-63f7-54f050bb0d48/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8c0b8bab-b900-a132-63f7-54f050bb0d48",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72a42639-6feb-97d8-a803-e86a0ba749c4/NL-HlmNHA_1478_34355K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72a42639-6feb-97d8-a803-e86a0ba749c4/NL-HlmNHA_1478_34355K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Mariahoeve, Badhoevedorp"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e760fae4-5a11-33be-0c2e-d99dbf92f755\">https://hdl.handle.net/21.12102/e760fae4-5a11-33be-0c2e-d99dbf92f755</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72a42639-6feb-97d8-a803-e86a0ba749c4/NL-HlmNHA_1478_34355K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72a42639-6feb-97d8-a803-e86a0ba749c4/NL-HlmNHA_1478_34355K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7bd448c4-43c7-e3a8-9016-36fc1b6cdcaf/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7bd448c4-43c7-e3a8-9016-36fc1b6cdcaf",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72a42639-6feb-97d8-a803-e86a0ba749c4/NL-HlmNHA_1478_34355K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

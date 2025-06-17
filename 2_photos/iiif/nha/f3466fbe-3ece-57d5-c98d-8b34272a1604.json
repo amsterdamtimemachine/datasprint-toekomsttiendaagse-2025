@@ -1,0 +1,732 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/f3466fbe-3ece-57d5-c98d-8b34272a1604.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Portret mr. Geeske Eelsing Amsterdam (1983-03-02)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Portret mr. Geeske Eelsing Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1983-03-02"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Justitie"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/29893"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_32/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret mr. Geeske Eelsing Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0117cdb5-5e9e-9cf1-b485-d1b6f07cec9f\">https://hdl.handle.net/21.12102/0117cdb5-5e9e-9cf1-b485-d1b6f07cec9f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_32/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_32/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/629133f2-acb4-f81a-b6a8-63dce41b3fe9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/629133f2-acb4-f81a-b6a8-63dce41b3fe9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_32/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_22/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret mr. Geeske Eelsing Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/19a63bf0-85d1-e703-22d6-828b62efc8f3\">https://hdl.handle.net/21.12102/19a63bf0-85d1-e703-22d6-828b62efc8f3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_22/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_22/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/63587144-591e-eeb9-f183-e94bc9a9fec4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/63587144-591e-eeb9-f183-e94bc9a9fec4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_22/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_33/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret mr. Geeske Eelsing Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6ee24543-d8d4-459a-6004-a382e8945189\">https://hdl.handle.net/21.12102/6ee24543-d8d4-459a-6004-a382e8945189</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_33/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_33/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4e144aa8-4349-68a4-781c-9ebd102edab5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4e144aa8-4349-68a4-781c-9ebd102edab5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_33/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret mr. Geeske Eelsing Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8491de68-908b-9698-60ef-9a7088b35953\">https://hdl.handle.net/21.12102/8491de68-908b-9698-60ef-9a7088b35953</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d56f7c80-c703-0708-ef66-983164bc5926/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d56f7c80-c703-0708-ef66-983164bc5926",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_28/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret mr. Geeske Eelsing Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/89ae7467-493d-269a-8fdd-fae28bac37ed\">https://hdl.handle.net/21.12102/89ae7467-493d-269a-8fdd-fae28bac37ed</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_28/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_28/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4f7c3715-b2e3-05d2-270a-7cdae08b69b8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4f7c3715-b2e3-05d2-270a-7cdae08b69b8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_28/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret mr. Geeske Eelsing Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b08f57b8-8375-a6b7-53f4-df621eac4018\">https://hdl.handle.net/21.12102/b08f57b8-8375-a6b7-53f4-df621eac4018</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8e8df28c-a23a-db6c-9a6f-9997bacbc5e4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8e8df28c-a23a-db6c-9a6f-9997bacbc5e4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_30/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_27/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret mr. Geeske Eelsing Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c1be3ade-bf7e-6221-0d52-a79e80e78299\">https://hdl.handle.net/21.12102/c1be3ade-bf7e-6221-0d52-a79e80e78299</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_27/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_27/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2bafe8c7-d770-63eb-f073-3b5f222c6984/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2bafe8c7-d770-63eb-f073-3b5f222c6984",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_27/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_31/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret mr. Geeske Eelsing Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c2284c6c-8ead-c85b-67de-13c493a46cfb\">https://hdl.handle.net/21.12102/c2284c6c-8ead-c85b-67de-13c493a46cfb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_31/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_31/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f6ade524-e65f-d7bc-ef3e-9d1b88ed0599/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f6ade524-e65f-d7bc-ef3e-9d1b88ed0599",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_31/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_25/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret mr. Geeske Eelsing Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c30ec13f-244e-de3a-f9fe-737bb8c4607d\">https://hdl.handle.net/21.12102/c30ec13f-244e-de3a-f9fe-737bb8c4607d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_25/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_25/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/52360468-f165-60c4-3069-3e8bfaaf0f33/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/52360468-f165-60c4-3069-3e8bfaaf0f33",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_25/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_26/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret mr. Geeske Eelsing Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d4c0cb2a-84da-1021-d0c3-b44cea8b2ab0\">https://hdl.handle.net/21.12102/d4c0cb2a-84da-1021-d0c3-b44cea8b2ab0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_26/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_26/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/693f1731-92f1-306b-cf0f-f301da805b09/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/693f1731-92f1-306b-cf0f-f301da805b09",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_26/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret mr. Geeske Eelsing Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/dfd4eac7-fd59-4799-9e23-acc3b5aa8056\">https://hdl.handle.net/21.12102/dfd4eac7-fd59-4799-9e23-acc3b5aa8056</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f4274719-9846-3ddc-1769-54570cf9bc5a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f4274719-9846-3ddc-1769-54570cf9bc5a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret mr. Geeske Eelsing Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f24553db-a754-13ad-dca7-5156e8890e0e\">https://hdl.handle.net/21.12102/f24553db-a754-13ad-dca7-5156e8890e0e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3da1487f-acf4-caaf-7a34-6e3b20a6a75a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3da1487f-acf4-caaf-7a34-6e3b20a6a75a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3466fbe-3ece-57d5-c98d-8b34272a1604/NL-HlmNHA_1478_22819K00_29/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

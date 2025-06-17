@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/8ae4164e-b0b8-0cec-c759-d6cf1a0b2ac9.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Huldiging bij wereldkampioenschappen baanwielrennen 1959, Olympisch Stadion te Amsterdam, 8 tot 13 augustus (1959-08)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Huldiging bij wereldkampioenschappen baanwielrennen 1959, Olympisch Stadion te Amsterdam, 8 tot 13 augustus"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1959-08"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8ae4164e-b0b8-0cec-c759-d6cf1a0b2ac9/NL-HlmNHA_1478_16971B01b_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Huldiging bij wereldkampioenschappen baanwielrennen 1959, Olympisch Stadion te Amsterdam, 8 tot 13 augustus"
+        ]
+      },
+      "height": 1250,
+      "width": 1413,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a6138b56-2e81-a0c2-a2ad-a5431cd2f3c2\">https://hdl.handle.net/21.12102/a6138b56-2e81-a0c2-a2ad-a5431cd2f3c2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8ae4164e-b0b8-0cec-c759-d6cf1a0b2ac9/NL-HlmNHA_1478_16971B01b_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8ae4164e-b0b8-0cec-c759-d6cf1a0b2ac9/NL-HlmNHA_1478_16971B01b_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0bba31a6-c531-0f82-0274-3e9ad4a8738a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1250,
+                "width": 1413,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0bba31a6-c531-0f82-0274-3e9ad4a8738a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8ae4164e-b0b8-0cec-c759-d6cf1a0b2ac9/NL-HlmNHA_1478_16971B01b_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

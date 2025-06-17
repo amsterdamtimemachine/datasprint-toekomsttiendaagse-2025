@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/6ffe800a-d9d7-3115-80bb-510ff3af62fd.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Luchtfoto's Halfweg en Haarlemmerliede, Bouw boezemgemaal Halfweg (1976-06-17)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Luchtfoto's Halfweg en Haarlemmerliede, Bouw boezemgemaal Halfweg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1976-06-17"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2367253\">Halfweg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.755,
+            52.3828
+          ]
+        },
+        "properties": {
+          "title": "Halfweg",
+          "url": "http://www.wikidata.org/entity/Q2367253"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ffe800a-d9d7-3115-80bb-510ff3af62fd/NL-HlmNHA_1478_00296L00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Luchtfoto's Halfweg en Haarlemmerliede, Bouw boezemgemaal Halfweg"
+        ]
+      },
+      "height": 2320,
+      "width": 3118,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c3a56b3a-e194-48bd-4247-b1ae36d8edb0\">https://hdl.handle.net/21.12102/c3a56b3a-e194-48bd-4247-b1ae36d8edb0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ffe800a-d9d7-3115-80bb-510ff3af62fd/NL-HlmNHA_1478_00296L00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ffe800a-d9d7-3115-80bb-510ff3af62fd/NL-HlmNHA_1478_00296L00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/87206c46-5b37-3ce4-d77c-c5fbf2db4d06/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2320,
+                "width": 3118,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/87206c46-5b37-3ce4-d77c-c5fbf2db4d06",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ffe800a-d9d7-3115-80bb-510ff3af62fd/NL-HlmNHA_1478_00296L00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,520 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/1b95db65-3a55-664c-84f8-f263fec9da21.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Dhr. N.M.A. ter Wolbeek, directeur van de Spaarbank voor de Stad Amsterdam. Gezeten op spaarvarken bij verzameling van spaarpotten in de kelder van het bankgebouw aan de Singel 546, Amsterdam. Zie HD 25-01-1974, pag 13 (1974-01-22)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Dhr. N.M.A. ter Wolbeek, directeur van de Spaarbank voor de Stad Amsterdam. Gezeten op spaarvarken bij verzameling van spaarpotten in de kelder van het bankgebouw aan de Singel 546, Amsterdam. Zie HD 25-01-1974, pag 13"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1974-01-22"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q893046\">Singel</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.889,
+            52.3737
+          ]
+        },
+        "properties": {
+          "title": "Singel",
+          "url": "http://www.wikidata.org/entity/Q893046"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dhr. N.M.A. ter Wolbeek, directeur van de Spaarbank voor de Stad Amsterdam. Gezeten op spaarvarken bij verzameling van spaarpotten in de kelder van het bankgebouw aan de Singel 546, Amsterdam. Zie HD 25-01-1974, pag 13"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/45b9a59d-909a-72e1-b8dd-e51d0f0d4006\">https://hdl.handle.net/21.12102/45b9a59d-909a-72e1-b8dd-e51d0f0d4006</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/77b442ac-550a-0670-1615-c65b6d8de951/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/77b442ac-550a-0670-1615-c65b6d8de951",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dhr. N.M.A. ter Wolbeek, directeur van de Spaarbank voor de Stad Amsterdam. Gezeten op spaarvarken bij verzameling van spaarpotten in de kelder van het bankgebouw aan de Singel 546, Amsterdam. Zie HD 25-01-1974, pag 13"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/64802557-51ab-eff5-eb37-c1a64d8c609c\">https://hdl.handle.net/21.12102/64802557-51ab-eff5-eb37-c1a64d8c609c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e0484d22-173c-7041-571f-e6f4112cd225/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e0484d22-173c-7041-571f-e6f4112cd225",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dhr. N.M.A. ter Wolbeek, directeur van de Spaarbank voor de Stad Amsterdam. Gezeten op spaarvarken bij verzameling van spaarpotten in de kelder van het bankgebouw aan de Singel 546, Amsterdam. Zie HD 25-01-1974, pag 13"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/71f828f6-8c42-f0c4-b64f-3bd3f26dfb63\">https://hdl.handle.net/21.12102/71f828f6-8c42-f0c4-b64f-3bd3f26dfb63</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/102ca319-7cb9-ddd6-bf94-51e6983b549d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/102ca319-7cb9-ddd6-bf94-51e6983b549d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dhr. N.M.A. ter Wolbeek, directeur van de Spaarbank voor de Stad Amsterdam. Gezeten op spaarvarken bij verzameling van spaarpotten in de kelder van het bankgebouw aan de Singel 546, Amsterdam. Zie HD 25-01-1974, pag 13"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b5a12272-dbd6-644f-381b-6071833e7d8e\">https://hdl.handle.net/21.12102/b5a12272-dbd6-644f-381b-6071833e7d8e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d0124181-2004-8eb2-f8bb-bb68401e16f2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d0124181-2004-8eb2-f8bb-bb68401e16f2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dhr. N.M.A. ter Wolbeek, directeur van de Spaarbank voor de Stad Amsterdam. Gezeten op spaarvarken bij verzameling van spaarpotten in de kelder van het bankgebouw aan de Singel 546, Amsterdam. Zie HD 25-01-1974, pag 13"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c5bff1f1-90a3-3e97-09fa-d3c5c6ccc608\">https://hdl.handle.net/21.12102/c5bff1f1-90a3-3e97-09fa-d3c5c6ccc608</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/21549f97-6fed-0fc3-b5ae-32684f5f84a9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/21549f97-6fed-0fc3-b5ae-32684f5f84a9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dhr. N.M.A. ter Wolbeek, directeur van de Spaarbank voor de Stad Amsterdam. Gezeten op spaarvarken bij verzameling van spaarpotten in de kelder van het bankgebouw aan de Singel 546, Amsterdam. Zie HD 25-01-1974, pag 13"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/cb364116-9bce-6643-ab05-fde6c3c3b9c1\">https://hdl.handle.net/21.12102/cb364116-9bce-6643-ab05-fde6c3c3b9c1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4bebda58-f4d1-1fdb-ec3e-c5fadce50b2b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4bebda58-f4d1-1fdb-ec3e-c5fadce50b2b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_08/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dhr. N.M.A. ter Wolbeek, directeur van de Spaarbank voor de Stad Amsterdam. Gezeten op spaarvarken bij verzameling van spaarpotten in de kelder van het bankgebouw aan de Singel 546, Amsterdam. Zie HD 25-01-1974, pag 13"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d3afdfd1-2792-5706-3d1d-461d072a0fd3\">https://hdl.handle.net/21.12102/d3afdfd1-2792-5706-3d1d-461d072a0fd3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6779dd43-ebd0-ef21-44df-cfef2717c12c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6779dd43-ebd0-ef21-44df-cfef2717c12c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dhr. N.M.A. ter Wolbeek, directeur van de Spaarbank voor de Stad Amsterdam. Gezeten op spaarvarken bij verzameling van spaarpotten in de kelder van het bankgebouw aan de Singel 546, Amsterdam. Zie HD 25-01-1974, pag 13"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/fbe8bcab-0f3e-4660-6ebc-4bf19d6775a2\">https://hdl.handle.net/21.12102/fbe8bcab-0f3e-4660-6ebc-4bf19d6775a2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/191313e6-11b4-9646-e4c2-f6b9c5257d53/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/191313e6-11b4-9646-e4c2-f6b9c5257d53",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b95db65-3a55-664c-84f8-f263fec9da21/NL-HlmNHA_1478_12639K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

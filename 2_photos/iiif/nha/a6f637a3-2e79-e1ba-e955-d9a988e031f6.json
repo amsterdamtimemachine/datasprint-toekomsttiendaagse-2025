@@ -1,0 +1,467 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/a6f637a3-2e79-e1ba-e955-d9a988e031f6.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Demo aerobics, Kenneth Leeuwin, A'dam [Walk Reebok] (1995-10-08)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Demo aerobics, Kenneth Leeuwin, A'dam [Walk Reebok]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1995-10-08"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a6f637a3-2e79-e1ba-e955-d9a988e031f6/NL-HlmNHA_1478_41870K00_37/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Demo aerobics, Kenneth Leeuwin, A'dam [Walk Reebok]"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1a3a10a6-d257-e3b0-5dd1-ff5eaef5da1c\">https://hdl.handle.net/21.12102/1a3a10a6-d257-e3b0-5dd1-ff5eaef5da1c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a6f637a3-2e79-e1ba-e955-d9a988e031f6/NL-HlmNHA_1478_41870K00_37/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a6f637a3-2e79-e1ba-e955-d9a988e031f6/NL-HlmNHA_1478_41870K00_37/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b07b8154-790a-5065-97e4-356b27ff6750/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b07b8154-790a-5065-97e4-356b27ff6750",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a6f637a3-2e79-e1ba-e955-d9a988e031f6/NL-HlmNHA_1478_41870K00_37/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a6f637a3-2e79-e1ba-e955-d9a988e031f6/NL-HlmNHA_1478_41870K00_40/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Demo aerobics, Kenneth Leeuwin, A'dam [Walk Reebok]"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4dc9da92-330a-ae65-ff1d-7608d37fd0f4\">https://hdl.handle.net/21.12102/4dc9da92-330a-ae65-ff1d-7608d37fd0f4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a6f637a3-2e79-e1ba-e955-d9a988e031f6/NL-HlmNHA_1478_41870K00_40/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a6f637a3-2e79-e1ba-e955-d9a988e031f6/NL-HlmNHA_1478_41870K00_40/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/40b18659-0c3c-0e69-bc43-8b5f296779b2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/40b18659-0c3c-0e69-bc43-8b5f296779b2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a6f637a3-2e79-e1ba-e955-d9a988e031f6/NL-HlmNHA_1478_41870K00_40/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a6f637a3-2e79-e1ba-e955-d9a988e031f6/NL-HlmNHA_1478_41870K00_38/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Demo aerobics, Kenneth Leeuwin, A'dam [Walk Reebok]"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/59de2dc1-f49d-3a5d-f2e2-5ff8ba1a522b\">https://hdl.handle.net/21.12102/59de2dc1-f49d-3a5d-f2e2-5ff8ba1a522b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a6f637a3-2e79-e1ba-e955-d9a988e031f6/NL-HlmNHA_1478_41870K00_38/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a6f637a3-2e79-e1ba-e955-d9a988e031f6/NL-HlmNHA_1478_41870K00_38/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/68b932bd-f7d2-ac6a-5c20-486c9553bb6e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/68b932bd-f7d2-ac6a-5c20-486c9553bb6e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a6f637a3-2e79-e1ba-e955-d9a988e031f6/NL-HlmNHA_1478_41870K00_38/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a6f637a3-2e79-e1ba-e955-d9a988e031f6/NL-HlmNHA_1478_41870K00_42/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Demo aerobics, Kenneth Leeuwin, A'dam [Walk Reebok]"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/804baccf-0f71-e9d1-0f82-129bbcdb5573\">https://hdl.handle.net/21.12102/804baccf-0f71-e9d1-0f82-129bbcdb5573</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a6f637a3-2e79-e1ba-e955-d9a988e031f6/NL-HlmNHA_1478_41870K00_42/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a6f637a3-2e79-e1ba-e955-d9a988e031f6/NL-HlmNHA_1478_41870K00_42/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/782f2c30-7b66-c0e2-951f-744b08b7e8a8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/782f2c30-7b66-c0e2-951f-744b08b7e8a8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a6f637a3-2e79-e1ba-e955-d9a988e031f6/NL-HlmNHA_1478_41870K00_42/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a6f637a3-2e79-e1ba-e955-d9a988e031f6/NL-HlmNHA_1478_41870K00_41/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Demo aerobics, Kenneth Leeuwin, A'dam [Walk Reebok]"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a559f6ba-1c96-3d8e-8fd6-885f258c52e2\">https://hdl.handle.net/21.12102/a559f6ba-1c96-3d8e-8fd6-885f258c52e2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a6f637a3-2e79-e1ba-e955-d9a988e031f6/NL-HlmNHA_1478_41870K00_41/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a6f637a3-2e79-e1ba-e955-d9a988e031f6/NL-HlmNHA_1478_41870K00_41/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6f225c63-1790-1727-02b7-f4f6b925f36c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6f225c63-1790-1727-02b7-f4f6b925f36c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a6f637a3-2e79-e1ba-e955-d9a988e031f6/NL-HlmNHA_1478_41870K00_41/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a6f637a3-2e79-e1ba-e955-d9a988e031f6/NL-HlmNHA_1478_41870K00_36/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Demo aerobics, Kenneth Leeuwin, A'dam [Walk Reebok]"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b19fc447-17b0-349a-5f7f-19c865a4e626\">https://hdl.handle.net/21.12102/b19fc447-17b0-349a-5f7f-19c865a4e626</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a6f637a3-2e79-e1ba-e955-d9a988e031f6/NL-HlmNHA_1478_41870K00_36/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a6f637a3-2e79-e1ba-e955-d9a988e031f6/NL-HlmNHA_1478_41870K00_36/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b5f768d7-dd7d-4ad3-f212-248bbf9c73b7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b5f768d7-dd7d-4ad3-f212-248bbf9c73b7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a6f637a3-2e79-e1ba-e955-d9a988e031f6/NL-HlmNHA_1478_41870K00_36/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a6f637a3-2e79-e1ba-e955-d9a988e031f6/NL-HlmNHA_1478_41870K00_39/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Demo aerobics, Kenneth Leeuwin, A'dam [Walk Reebok]"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e4376adb-3ece-f6e9-dae4-2e8d13c58fa4\">https://hdl.handle.net/21.12102/e4376adb-3ece-f6e9-dae4-2e8d13c58fa4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a6f637a3-2e79-e1ba-e955-d9a988e031f6/NL-HlmNHA_1478_41870K00_39/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a6f637a3-2e79-e1ba-e955-d9a988e031f6/NL-HlmNHA_1478_41870K00_39/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f9a4a720-b0b1-849b-9f83-56e31fe3d4c3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f9a4a720-b0b1-849b-9f83-56e31fe3d4c3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a6f637a3-2e79-e1ba-e955-d9a988e031f6/NL-HlmNHA_1478_41870K00_39/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

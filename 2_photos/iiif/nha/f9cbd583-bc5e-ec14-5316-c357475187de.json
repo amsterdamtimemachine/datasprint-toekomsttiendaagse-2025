@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/f9cbd583-bc5e-ec14-5316-c357475187de.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Portret van de heer Hogers, Lijnden (1983-03-09)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Portret van de heer Hogers, Lijnden"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1983-03-09"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q1981949\">Lijnden</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Portretten"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/27140"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7597,
+            52.3522
+          ]
+        },
+        "properties": {
+          "title": "Lijnden",
+          "url": "http://www.wikidata.org/entity/Q1981949"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f9cbd583-bc5e-ec14-5316-c357475187de/NL-HlmNHA_1478_22845K00_36/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van de heer Hogers, Lijnden"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/88329dd8-1bd9-1915-dc7a-e946d3fed78a\">https://hdl.handle.net/21.12102/88329dd8-1bd9-1915-dc7a-e946d3fed78a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f9cbd583-bc5e-ec14-5316-c357475187de/NL-HlmNHA_1478_22845K00_36/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f9cbd583-bc5e-ec14-5316-c357475187de/NL-HlmNHA_1478_22845K00_36/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/19db932c-3c7b-42fb-4b17-9af11a8fb49c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/19db932c-3c7b-42fb-4b17-9af11a8fb49c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f9cbd583-bc5e-ec14-5316-c357475187de/NL-HlmNHA_1478_22845K00_36/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f9cbd583-bc5e-ec14-5316-c357475187de/NL-HlmNHA_1478_22845K00_34/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van de heer Hogers, Lijnden"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/924d0d54-695e-8d8d-d81c-c892c149d542\">https://hdl.handle.net/21.12102/924d0d54-695e-8d8d-d81c-c892c149d542</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f9cbd583-bc5e-ec14-5316-c357475187de/NL-HlmNHA_1478_22845K00_34/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f9cbd583-bc5e-ec14-5316-c357475187de/NL-HlmNHA_1478_22845K00_34/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d0c64d5f-f594-62d1-1143-7e62ec02dfef/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d0c64d5f-f594-62d1-1143-7e62ec02dfef",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f9cbd583-bc5e-ec14-5316-c357475187de/NL-HlmNHA_1478_22845K00_34/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f9cbd583-bc5e-ec14-5316-c357475187de/NL-HlmNHA_1478_22845K00_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van de heer Hogers, Lijnden"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/cf9737cc-e341-7ff8-c833-59344ec2371d\">https://hdl.handle.net/21.12102/cf9737cc-e341-7ff8-c833-59344ec2371d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f9cbd583-bc5e-ec14-5316-c357475187de/NL-HlmNHA_1478_22845K00_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f9cbd583-bc5e-ec14-5316-c357475187de/NL-HlmNHA_1478_22845K00_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ae2106d4-5379-4e85-43cd-b7ce09402454/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ae2106d4-5379-4e85-43cd-b7ce09402454",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f9cbd583-bc5e-ec14-5316-c357475187de/NL-HlmNHA_1478_22845K00_35/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

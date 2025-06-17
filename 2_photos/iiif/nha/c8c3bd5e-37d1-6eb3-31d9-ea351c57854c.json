@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/c8c3bd5e-37d1-6eb3-31d9-ea351c57854c.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "NAS - EDO, Zwanenburg (2003-09-06)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "NAS - EDO, Zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2003-09-06"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c8c3bd5e-37d1-6eb3-31d9-ea351c57854c/NL-HlmNHA_1478_51887K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "NAS - EDO, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/17f7bbfa-9416-65b6-cffc-0fe85edb544e\">https://hdl.handle.net/21.12102/17f7bbfa-9416-65b6-cffc-0fe85edb544e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c8c3bd5e-37d1-6eb3-31d9-ea351c57854c/NL-HlmNHA_1478_51887K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c8c3bd5e-37d1-6eb3-31d9-ea351c57854c/NL-HlmNHA_1478_51887K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3b5ebdbc-0677-77a6-fad4-a2194c1a2225/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3b5ebdbc-0677-77a6-fad4-a2194c1a2225",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c8c3bd5e-37d1-6eb3-31d9-ea351c57854c/NL-HlmNHA_1478_51887K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c8c3bd5e-37d1-6eb3-31d9-ea351c57854c/NL-HlmNHA_1478_51887K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "NAS - EDO, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/38bd91ee-ee1a-2300-7311-3f67345cb202\">https://hdl.handle.net/21.12102/38bd91ee-ee1a-2300-7311-3f67345cb202</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c8c3bd5e-37d1-6eb3-31d9-ea351c57854c/NL-HlmNHA_1478_51887K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c8c3bd5e-37d1-6eb3-31d9-ea351c57854c/NL-HlmNHA_1478_51887K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6a485332-3659-2cb9-6919-834e23c57958/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6a485332-3659-2cb9-6919-834e23c57958",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c8c3bd5e-37d1-6eb3-31d9-ea351c57854c/NL-HlmNHA_1478_51887K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c8c3bd5e-37d1-6eb3-31d9-ea351c57854c/NL-HlmNHA_1478_51887K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "NAS - EDO, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5f4d015a-d6c9-d52c-4490-f2ed224aa72c\">https://hdl.handle.net/21.12102/5f4d015a-d6c9-d52c-4490-f2ed224aa72c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c8c3bd5e-37d1-6eb3-31d9-ea351c57854c/NL-HlmNHA_1478_51887K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c8c3bd5e-37d1-6eb3-31d9-ea351c57854c/NL-HlmNHA_1478_51887K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3cca2837-3881-deed-e0f0-e85b8b310e54/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3cca2837-3881-deed-e0f0-e85b8b310e54",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c8c3bd5e-37d1-6eb3-31d9-ea351c57854c/NL-HlmNHA_1478_51887K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c8c3bd5e-37d1-6eb3-31d9-ea351c57854c/NL-HlmNHA_1478_51887K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "NAS - EDO, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/aa79cf36-9a25-63b9-eb63-e1e1cd1441e3\">https://hdl.handle.net/21.12102/aa79cf36-9a25-63b9-eb63-e1e1cd1441e3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c8c3bd5e-37d1-6eb3-31d9-ea351c57854c/NL-HlmNHA_1478_51887K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c8c3bd5e-37d1-6eb3-31d9-ea351c57854c/NL-HlmNHA_1478_51887K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7dde51f0-51f5-5e96-be89-eab103aeba5b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7dde51f0-51f5-5e96-be89-eab103aeba5b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c8c3bd5e-37d1-6eb3-31d9-ea351c57854c/NL-HlmNHA_1478_51887K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c8c3bd5e-37d1-6eb3-31d9-ea351c57854c/NL-HlmNHA_1478_51887K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "NAS - EDO, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b2bc0685-3df6-c110-d65a-c8dd0ab0ee8e\">https://hdl.handle.net/21.12102/b2bc0685-3df6-c110-d65a-c8dd0ab0ee8e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c8c3bd5e-37d1-6eb3-31d9-ea351c57854c/NL-HlmNHA_1478_51887K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c8c3bd5e-37d1-6eb3-31d9-ea351c57854c/NL-HlmNHA_1478_51887K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a2fee8dc-6c29-7d0b-d574-697b9e4994e5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a2fee8dc-6c29-7d0b-d574-697b9e4994e5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c8c3bd5e-37d1-6eb3-31d9-ea351c57854c/NL-HlmNHA_1478_51887K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c8c3bd5e-37d1-6eb3-31d9-ea351c57854c/NL-HlmNHA_1478_51887K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "NAS - EDO, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ff166fae-464a-9b71-67a8-1c53de186843\">https://hdl.handle.net/21.12102/ff166fae-464a-9b71-67a8-1c53de186843</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c8c3bd5e-37d1-6eb3-31d9-ea351c57854c/NL-HlmNHA_1478_51887K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c8c3bd5e-37d1-6eb3-31d9-ea351c57854c/NL-HlmNHA_1478_51887K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7b544bbf-a3d8-88d3-7585-75b7cd8de29f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7b544bbf-a3d8-88d3-7585-75b7cd8de29f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c8c3bd5e-37d1-6eb3-31d9-ea351c57854c/NL-HlmNHA_1478_51887K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

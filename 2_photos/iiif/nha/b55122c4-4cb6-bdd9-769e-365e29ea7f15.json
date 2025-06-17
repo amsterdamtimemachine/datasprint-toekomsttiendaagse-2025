@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/b55122c4-4cb6-bdd9-769e-365e29ea7f15.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Man in een kantoor op Schiphol (1978-01-03)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Man in een kantoor op Schiphol"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1978-01-03"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b55122c4-4cb6-bdd9-769e-365e29ea7f15/NL-HlmNHA_1478_16316K01_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Man in een kantoor op Schiphol"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/96f6e9df-44d9-4755-34cf-55bb9a75bdef\">https://hdl.handle.net/21.12102/96f6e9df-44d9-4755-34cf-55bb9a75bdef</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b55122c4-4cb6-bdd9-769e-365e29ea7f15/NL-HlmNHA_1478_16316K01_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b55122c4-4cb6-bdd9-769e-365e29ea7f15/NL-HlmNHA_1478_16316K01_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0b452bba-573e-fcdb-25b4-4a84b80269fd/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0b452bba-573e-fcdb-25b4-4a84b80269fd",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b55122c4-4cb6-bdd9-769e-365e29ea7f15/NL-HlmNHA_1478_16316K01_24/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b55122c4-4cb6-bdd9-769e-365e29ea7f15/NL-HlmNHA_1478_16316K01_25/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Man in een kantoor op Schiphol"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d39b1f42-e7a0-0030-93b4-1d150233a744\">https://hdl.handle.net/21.12102/d39b1f42-e7a0-0030-93b4-1d150233a744</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b55122c4-4cb6-bdd9-769e-365e29ea7f15/NL-HlmNHA_1478_16316K01_25/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b55122c4-4cb6-bdd9-769e-365e29ea7f15/NL-HlmNHA_1478_16316K01_25/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/60f79761-b21d-4df1-cb30-f0fd7136c899/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/60f79761-b21d-4df1-cb30-f0fd7136c899",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b55122c4-4cb6-bdd9-769e-365e29ea7f15/NL-HlmNHA_1478_16316K01_25/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/6d72c354-93b8-5162-9431-e0ed7aeed223.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Koninklijke ontvangst Amsterdam, prinses Margaret (met hoed) en Anthony Amstrong-Jones (lord Snowdon) (1965-05-14)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Koninklijke ontvangst Amsterdam, prinses Margaret (met hoed) en Anthony Amstrong-Jones (lord Snowdon)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1965-05-14"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q839050\">Dam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.892778,
+            52.373056
+          ]
+        },
+        "properties": {
+          "title": "Dam",
+          "url": "http://www.wikidata.org/entity/Q839050"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6d72c354-93b8-5162-9431-e0ed7aeed223/NL-HlmNHA_1478_03414K01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Koninklijke ontvangst Amsterdam, prinses Margaret (met hoed) en Anthony Amstrong-Jones (lord Snowdon)"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a18fa985-6ed6-ee2d-c6dc-30dede5b810b\">https://hdl.handle.net/21.12102/a18fa985-6ed6-ee2d-c6dc-30dede5b810b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6d72c354-93b8-5162-9431-e0ed7aeed223/NL-HlmNHA_1478_03414K01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6d72c354-93b8-5162-9431-e0ed7aeed223/NL-HlmNHA_1478_03414K01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/905ff009-096e-749a-a89d-452b4d635b7d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/905ff009-096e-749a-a89d-452b4d635b7d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6d72c354-93b8-5162-9431-e0ed7aeed223/NL-HlmNHA_1478_03414K01_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

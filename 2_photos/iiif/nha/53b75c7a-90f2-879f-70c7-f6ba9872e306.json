@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/53b75c7a-90f2-879f-70c7-f6ba9872e306.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Kees Nevenzel, schilder, Zw'burg (1992-02-26)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Kees Nevenzel, schilder, Zw'burg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1992-02-26"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53b75c7a-90f2-879f-70c7-f6ba9872e306/NL-HlmNHA_1478_35923K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kees Nevenzel, schilder, Zw'burg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/042185b8-ca7c-a5c9-c432-f006814316a9\">https://hdl.handle.net/21.12102/042185b8-ca7c-a5c9-c432-f006814316a9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53b75c7a-90f2-879f-70c7-f6ba9872e306/NL-HlmNHA_1478_35923K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53b75c7a-90f2-879f-70c7-f6ba9872e306/NL-HlmNHA_1478_35923K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/14fc7732-d27f-4531-3950-1f5022fd500f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/14fc7732-d27f-4531-3950-1f5022fd500f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53b75c7a-90f2-879f-70c7-f6ba9872e306/NL-HlmNHA_1478_35923K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53b75c7a-90f2-879f-70c7-f6ba9872e306/NL-HlmNHA_1478_35923K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kees Nevenzel, schilder, Zw'burg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/223b010b-6a18-e3f8-aca4-ecd35f93c98c\">https://hdl.handle.net/21.12102/223b010b-6a18-e3f8-aca4-ecd35f93c98c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53b75c7a-90f2-879f-70c7-f6ba9872e306/NL-HlmNHA_1478_35923K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53b75c7a-90f2-879f-70c7-f6ba9872e306/NL-HlmNHA_1478_35923K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/dc53b69b-0f44-28ea-60d5-d15efc9de130/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/dc53b69b-0f44-28ea-60d5-d15efc9de130",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53b75c7a-90f2-879f-70c7-f6ba9872e306/NL-HlmNHA_1478_35923K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53b75c7a-90f2-879f-70c7-f6ba9872e306/NL-HlmNHA_1478_35923K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kees Nevenzel, schilder, Zw'burg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/473b9af4-4bd4-ce36-99ae-14aa1a94e594\">https://hdl.handle.net/21.12102/473b9af4-4bd4-ce36-99ae-14aa1a94e594</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53b75c7a-90f2-879f-70c7-f6ba9872e306/NL-HlmNHA_1478_35923K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53b75c7a-90f2-879f-70c7-f6ba9872e306/NL-HlmNHA_1478_35923K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/bf819901-d2c6-80b6-b11c-752e4428cd03/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/bf819901-d2c6-80b6-b11c-752e4428cd03",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53b75c7a-90f2-879f-70c7-f6ba9872e306/NL-HlmNHA_1478_35923K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53b75c7a-90f2-879f-70c7-f6ba9872e306/NL-HlmNHA_1478_35923K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kees Nevenzel, schilder, Zw'burg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/cfaf20ef-8efa-80ea-de01-546c73f3fb21\">https://hdl.handle.net/21.12102/cfaf20ef-8efa-80ea-de01-546c73f3fb21</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53b75c7a-90f2-879f-70c7-f6ba9872e306/NL-HlmNHA_1478_35923K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53b75c7a-90f2-879f-70c7-f6ba9872e306/NL-HlmNHA_1478_35923K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c633f48b-e7d8-9784-4a84-755e43551906/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c633f48b-e7d8-9784-4a84-755e43551906",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53b75c7a-90f2-879f-70c7-f6ba9872e306/NL-HlmNHA_1478_35923K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53b75c7a-90f2-879f-70c7-f6ba9872e306/NL-HlmNHA_1478_35923K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kees Nevenzel, schilder, Zw'burg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/db75936f-a3bf-4540-fa86-529b32d4da24\">https://hdl.handle.net/21.12102/db75936f-a3bf-4540-fa86-529b32d4da24</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53b75c7a-90f2-879f-70c7-f6ba9872e306/NL-HlmNHA_1478_35923K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53b75c7a-90f2-879f-70c7-f6ba9872e306/NL-HlmNHA_1478_35923K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b3e88599-6fea-2776-038f-ba07f79e6a23/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b3e88599-6fea-2776-038f-ba07f79e6a23",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53b75c7a-90f2-879f-70c7-f6ba9872e306/NL-HlmNHA_1478_35923K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53b75c7a-90f2-879f-70c7-f6ba9872e306/NL-HlmNHA_1478_35923K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kees Nevenzel, schilder, Zw'burg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ec3f70f1-344e-e766-1abe-08b081a00ff8\">https://hdl.handle.net/21.12102/ec3f70f1-344e-e766-1abe-08b081a00ff8</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53b75c7a-90f2-879f-70c7-f6ba9872e306/NL-HlmNHA_1478_35923K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53b75c7a-90f2-879f-70c7-f6ba9872e306/NL-HlmNHA_1478_35923K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/711cfd66-1bd3-2c63-52c2-439c670fc0cb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/711cfd66-1bd3-2c63-52c2-439c670fc0cb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53b75c7a-90f2-879f-70c7-f6ba9872e306/NL-HlmNHA_1478_35923K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/f67f6a7f-bec0-585d-811e-76b9a25f67c1.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "De heer van Middelkoop, Aerophoto, Schiphol (1990-11-12)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "De heer van Middelkoop, Aerophoto, Schiphol"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1990-11-12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f67f6a7f-bec0-585d-811e-76b9a25f67c1/NL-HlmNHA_1478_33308K00_21/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer van Middelkoop, Aerophoto, Schiphol"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/00ac182a-8b7f-5801-077f-d6a20cc63de7\">https://hdl.handle.net/21.12102/00ac182a-8b7f-5801-077f-d6a20cc63de7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f67f6a7f-bec0-585d-811e-76b9a25f67c1/NL-HlmNHA_1478_33308K00_21/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f67f6a7f-bec0-585d-811e-76b9a25f67c1/NL-HlmNHA_1478_33308K00_21/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/12cfab95-ee14-a811-52cc-bb4c5970f232/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/12cfab95-ee14-a811-52cc-bb4c5970f232",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f67f6a7f-bec0-585d-811e-76b9a25f67c1/NL-HlmNHA_1478_33308K00_21/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f67f6a7f-bec0-585d-811e-76b9a25f67c1/NL-HlmNHA_1478_33308K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer van Middelkoop, Aerophoto, Schiphol"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0b20b0fa-6fb6-6a8a-a04f-997917ab3ca2\">https://hdl.handle.net/21.12102/0b20b0fa-6fb6-6a8a-a04f-997917ab3ca2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f67f6a7f-bec0-585d-811e-76b9a25f67c1/NL-HlmNHA_1478_33308K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f67f6a7f-bec0-585d-811e-76b9a25f67c1/NL-HlmNHA_1478_33308K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c6cbd8f2-19fb-cf45-3788-26e4e117d681/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c6cbd8f2-19fb-cf45-3788-26e4e117d681",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f67f6a7f-bec0-585d-811e-76b9a25f67c1/NL-HlmNHA_1478_33308K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f67f6a7f-bec0-585d-811e-76b9a25f67c1/NL-HlmNHA_1478_33308K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer van Middelkoop, Aerophoto, Schiphol"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/16182318-ad5c-e121-41fd-0a571568ce7b\">https://hdl.handle.net/21.12102/16182318-ad5c-e121-41fd-0a571568ce7b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f67f6a7f-bec0-585d-811e-76b9a25f67c1/NL-HlmNHA_1478_33308K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f67f6a7f-bec0-585d-811e-76b9a25f67c1/NL-HlmNHA_1478_33308K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/22b86c26-051b-04ff-61d9-fc527ed80c1a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/22b86c26-051b-04ff-61d9-fc527ed80c1a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f67f6a7f-bec0-585d-811e-76b9a25f67c1/NL-HlmNHA_1478_33308K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f67f6a7f-bec0-585d-811e-76b9a25f67c1/NL-HlmNHA_1478_33308K00_22/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer van Middelkoop, Aerophoto, Schiphol"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2e017681-4653-264f-aeed-5834e00d5deb\">https://hdl.handle.net/21.12102/2e017681-4653-264f-aeed-5834e00d5deb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f67f6a7f-bec0-585d-811e-76b9a25f67c1/NL-HlmNHA_1478_33308K00_22/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f67f6a7f-bec0-585d-811e-76b9a25f67c1/NL-HlmNHA_1478_33308K00_22/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/71774580-6798-3a53-b51f-7ff900a4d353/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/71774580-6798-3a53-b51f-7ff900a4d353",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f67f6a7f-bec0-585d-811e-76b9a25f67c1/NL-HlmNHA_1478_33308K00_22/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f67f6a7f-bec0-585d-811e-76b9a25f67c1/NL-HlmNHA_1478_33308K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer van Middelkoop, Aerophoto, Schiphol"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d46b54a0-ab0d-67b0-5126-592100200dfb\">https://hdl.handle.net/21.12102/d46b54a0-ab0d-67b0-5126-592100200dfb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f67f6a7f-bec0-585d-811e-76b9a25f67c1/NL-HlmNHA_1478_33308K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f67f6a7f-bec0-585d-811e-76b9a25f67c1/NL-HlmNHA_1478_33308K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2e879a4c-4b32-c67a-66da-fde0c0900465/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2e879a4c-4b32-c67a-66da-fde0c0900465",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f67f6a7f-bec0-585d-811e-76b9a25f67c1/NL-HlmNHA_1478_33308K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f67f6a7f-bec0-585d-811e-76b9a25f67c1/NL-HlmNHA_1478_33308K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer van Middelkoop, Aerophoto, Schiphol"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/faaba992-3d52-f5af-f69c-9520ab0db857\">https://hdl.handle.net/21.12102/faaba992-3d52-f5af-f69c-9520ab0db857</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f67f6a7f-bec0-585d-811e-76b9a25f67c1/NL-HlmNHA_1478_33308K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f67f6a7f-bec0-585d-811e-76b9a25f67c1/NL-HlmNHA_1478_33308K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b346ab0d-37fa-7c3d-d59d-7bfccc0d39fc/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b346ab0d-37fa-7c3d-d59d-7bfccc0d39fc",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f67f6a7f-bec0-585d-811e-76b9a25f67c1/NL-HlmNHA_1478_33308K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

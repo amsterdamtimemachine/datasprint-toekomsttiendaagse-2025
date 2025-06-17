@@ -1,0 +1,732 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Straatmuziek en verkoop Amsterdam (1981-07-22)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Straatmuziek en verkoop Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1981-07-22"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Muziek, Straten"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/28200, http://data.beeldengeluid.nl/gtaa/27919"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_34/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Straatmuziek en verkoop Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/015726b0-f287-806b-d20e-79c214a29b32\">https://hdl.handle.net/21.12102/015726b0-f287-806b-d20e-79c214a29b32</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_34/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_34/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/65d11e08-e1f8-156c-2810-71f11f1e67c5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/65d11e08-e1f8-156c-2810-71f11f1e67c5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_34/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Straatmuziek en verkoop Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/015b63b5-2916-63e9-e901-d9f65f24bd42\">https://hdl.handle.net/21.12102/015b63b5-2916-63e9-e901-d9f65f24bd42</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/addb49d2-d4a1-b7b4-7fd6-6cf403707bd9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/addb49d2-d4a1-b7b4-7fd6-6cf403707bd9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_29/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Straatmuziek en verkoop Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1c9f798e-d15a-9ccd-937e-f81144af56d1\">https://hdl.handle.net/21.12102/1c9f798e-d15a-9ccd-937e-f81144af56d1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/532f448d-e28d-2cd2-942c-2f6ebea40638/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/532f448d-e28d-2cd2-942c-2f6ebea40638",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_27/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Straatmuziek en verkoop Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/25306674-2e7d-912e-198e-4d7564c14bbe\">https://hdl.handle.net/21.12102/25306674-2e7d-912e-198e-4d7564c14bbe</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_27/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_27/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a9dd0fc9-0c04-b881-076e-a2b48a16de14/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a9dd0fc9-0c04-b881-076e-a2b48a16de14",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_27/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Straatmuziek en verkoop Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2e924f0e-cf06-d793-cf44-350aede4b13a\">https://hdl.handle.net/21.12102/2e924f0e-cf06-d793-cf44-350aede4b13a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/dfb45129-8ad4-a300-7694-21bcb9d3bf27/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/dfb45129-8ad4-a300-7694-21bcb9d3bf27",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_35/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_32/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Straatmuziek en verkoop Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3cabef3e-9904-3ed2-2e63-182c1a60ba54\">https://hdl.handle.net/21.12102/3cabef3e-9904-3ed2-2e63-182c1a60ba54</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_32/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_32/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e8fe8594-ea53-8bd4-f180-d3b00c63fe86/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e8fe8594-ea53-8bd4-f180-d3b00c63fe86",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_32/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_28/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Straatmuziek en verkoop Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/485757ca-619c-706e-60cf-fc2c8df71e81\">https://hdl.handle.net/21.12102/485757ca-619c-706e-60cf-fc2c8df71e81</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_28/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_28/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9f224db4-cf4e-c79e-1277-597da34fbb6d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9f224db4-cf4e-c79e-1277-597da34fbb6d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_28/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_25/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Straatmuziek en verkoop Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4b13b17a-3eeb-80df-10dc-0c5807a9d2bd\">https://hdl.handle.net/21.12102/4b13b17a-3eeb-80df-10dc-0c5807a9d2bd</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_25/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_25/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/85ffac74-8099-32cf-5d4a-4448f8738c31/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/85ffac74-8099-32cf-5d4a-4448f8738c31",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_25/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_33/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Straatmuziek en verkoop Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5cb0f349-1e9a-400b-51af-dfd7f00d284e\">https://hdl.handle.net/21.12102/5cb0f349-1e9a-400b-51af-dfd7f00d284e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_33/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_33/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/209278db-b9ed-258d-f370-e665d46bba30/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/209278db-b9ed-258d-f370-e665d46bba30",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_33/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_31/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Straatmuziek en verkoop Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8166fee9-4603-010a-5be2-cfd40de0c923\">https://hdl.handle.net/21.12102/8166fee9-4603-010a-5be2-cfd40de0c923</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_31/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_31/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/57d892be-303d-a624-13b4-849dfcdfe42c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/57d892be-303d-a624-13b4-849dfcdfe42c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_31/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_26/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Straatmuziek en verkoop Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9cc37d91-1210-cb4c-3e22-138b9aea96db\">https://hdl.handle.net/21.12102/9cc37d91-1210-cb4c-3e22-138b9aea96db</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_26/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_26/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e0b5520d-d384-d1f9-da5a-6ba25b57a848/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e0b5520d-d384-d1f9-da5a-6ba25b57a848",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_26/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Straatmuziek en verkoop Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/baabbbc1-2fe0-e5c2-4cef-793142ec0fdf\">https://hdl.handle.net/21.12102/baabbbc1-2fe0-e5c2-4cef-793142ec0fdf</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8270126a-025d-962f-ecae-51cdfdfb82c8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8270126a-025d-962f-ecae-51cdfdfb82c8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/715fdaaf-9f3f-cfc5-7fe5-cee560c4d5c4/NL-HlmNHA_1478_20969K00_30/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

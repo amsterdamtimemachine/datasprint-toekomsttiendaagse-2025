@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/2e45bdaf-8a69-a6ed-92af-04080826c648.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Schip Koningin Juliana in haven Amsterdam (1985-04-02)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Schip Koningin Juliana in haven Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1985-04-02"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Schepen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/28142"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2e45bdaf-8a69-a6ed-92af-04080826c648/NL-HlmNHA_1478_25020K01_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schip Koningin Juliana in haven Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0f9c083f-cee4-7adb-473a-d2ae708691fb\">https://hdl.handle.net/21.12102/0f9c083f-cee4-7adb-473a-d2ae708691fb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2e45bdaf-8a69-a6ed-92af-04080826c648/NL-HlmNHA_1478_25020K01_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2e45bdaf-8a69-a6ed-92af-04080826c648/NL-HlmNHA_1478_25020K01_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/11a90582-c15d-9493-0edc-9dfad107426f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/11a90582-c15d-9493-0edc-9dfad107426f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2e45bdaf-8a69-a6ed-92af-04080826c648/NL-HlmNHA_1478_25020K01_35/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2e45bdaf-8a69-a6ed-92af-04080826c648/NL-HlmNHA_1478_25020K01_33/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schip Koningin Juliana in haven Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5612d41a-6266-a166-de71-b15bf4f15c8d\">https://hdl.handle.net/21.12102/5612d41a-6266-a166-de71-b15bf4f15c8d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2e45bdaf-8a69-a6ed-92af-04080826c648/NL-HlmNHA_1478_25020K01_33/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2e45bdaf-8a69-a6ed-92af-04080826c648/NL-HlmNHA_1478_25020K01_33/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/751b58a3-8433-b077-5355-f91f461a4a6d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/751b58a3-8433-b077-5355-f91f461a4a6d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2e45bdaf-8a69-a6ed-92af-04080826c648/NL-HlmNHA_1478_25020K01_33/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2e45bdaf-8a69-a6ed-92af-04080826c648/NL-HlmNHA_1478_25020K01_36/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schip Koningin Juliana in haven Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5659e94c-3b5e-4ccd-8b6e-933fddf687bc\">https://hdl.handle.net/21.12102/5659e94c-3b5e-4ccd-8b6e-933fddf687bc</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2e45bdaf-8a69-a6ed-92af-04080826c648/NL-HlmNHA_1478_25020K01_36/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2e45bdaf-8a69-a6ed-92af-04080826c648/NL-HlmNHA_1478_25020K01_36/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/899254b0-c972-1ab9-af5a-e1561cd72c3a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/899254b0-c972-1ab9-af5a-e1561cd72c3a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2e45bdaf-8a69-a6ed-92af-04080826c648/NL-HlmNHA_1478_25020K01_36/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2e45bdaf-8a69-a6ed-92af-04080826c648/NL-HlmNHA_1478_25020K02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schip Koningin Juliana in haven Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/95435835-3dda-e9ad-f33b-2c573ff2ae57\">https://hdl.handle.net/21.12102/95435835-3dda-e9ad-f33b-2c573ff2ae57</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2e45bdaf-8a69-a6ed-92af-04080826c648/NL-HlmNHA_1478_25020K02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2e45bdaf-8a69-a6ed-92af-04080826c648/NL-HlmNHA_1478_25020K02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8709d095-9566-bea9-28cc-384e19787924/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8709d095-9566-bea9-28cc-384e19787924",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2e45bdaf-8a69-a6ed-92af-04080826c648/NL-HlmNHA_1478_25020K02_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2e45bdaf-8a69-a6ed-92af-04080826c648/NL-HlmNHA_1478_25020K01_34/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schip Koningin Juliana in haven Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/be64a752-9eac-e7f5-240f-b9fbd115d162\">https://hdl.handle.net/21.12102/be64a752-9eac-e7f5-240f-b9fbd115d162</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2e45bdaf-8a69-a6ed-92af-04080826c648/NL-HlmNHA_1478_25020K01_34/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2e45bdaf-8a69-a6ed-92af-04080826c648/NL-HlmNHA_1478_25020K01_34/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ee045674-90b8-32e0-389f-506f582b250a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ee045674-90b8-32e0-389f-506f582b250a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2e45bdaf-8a69-a6ed-92af-04080826c648/NL-HlmNHA_1478_25020K01_34/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

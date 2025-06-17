@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/1056555e-628c-2e21-7327-b5bb8cb70dd7.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "De heer Gerritsen Zwanenburg (2002-09-09)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "De heer Gerritsen Zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2002-09-09"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1056555e-628c-2e21-7327-b5bb8cb70dd7/NL-HlmNHA_1478_50885K00_36/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer Gerritsen Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1305bee7-76f1-a26f-8f42-2ebecf39cd29\">https://hdl.handle.net/21.12102/1305bee7-76f1-a26f-8f42-2ebecf39cd29</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1056555e-628c-2e21-7327-b5bb8cb70dd7/NL-HlmNHA_1478_50885K00_36/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1056555e-628c-2e21-7327-b5bb8cb70dd7/NL-HlmNHA_1478_50885K00_36/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b521da12-e0bc-4a5e-0ac7-c5a41b43b135/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b521da12-e0bc-4a5e-0ac7-c5a41b43b135",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1056555e-628c-2e21-7327-b5bb8cb70dd7/NL-HlmNHA_1478_50885K00_36/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1056555e-628c-2e21-7327-b5bb8cb70dd7/NL-HlmNHA_1478_50885K00_39/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer Gerritsen Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/19223678-79d9-a02e-6c7f-9992a8d97b65\">https://hdl.handle.net/21.12102/19223678-79d9-a02e-6c7f-9992a8d97b65</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1056555e-628c-2e21-7327-b5bb8cb70dd7/NL-HlmNHA_1478_50885K00_39/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1056555e-628c-2e21-7327-b5bb8cb70dd7/NL-HlmNHA_1478_50885K00_39/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9deb07db-714e-1ff6-141f-528ceb216773/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9deb07db-714e-1ff6-141f-528ceb216773",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1056555e-628c-2e21-7327-b5bb8cb70dd7/NL-HlmNHA_1478_50885K00_39/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1056555e-628c-2e21-7327-b5bb8cb70dd7/NL-HlmNHA_1478_50885K00_40/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer Gerritsen Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/66f18caa-be12-a3aa-6912-b137c702b58c\">https://hdl.handle.net/21.12102/66f18caa-be12-a3aa-6912-b137c702b58c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1056555e-628c-2e21-7327-b5bb8cb70dd7/NL-HlmNHA_1478_50885K00_40/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1056555e-628c-2e21-7327-b5bb8cb70dd7/NL-HlmNHA_1478_50885K00_40/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/00613003-ebc8-b0d3-2678-a5dcfc55083d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/00613003-ebc8-b0d3-2678-a5dcfc55083d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1056555e-628c-2e21-7327-b5bb8cb70dd7/NL-HlmNHA_1478_50885K00_40/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1056555e-628c-2e21-7327-b5bb8cb70dd7/NL-HlmNHA_1478_50885K00_37/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer Gerritsen Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7d32b7d0-da0c-dc0d-8567-278afa015327\">https://hdl.handle.net/21.12102/7d32b7d0-da0c-dc0d-8567-278afa015327</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1056555e-628c-2e21-7327-b5bb8cb70dd7/NL-HlmNHA_1478_50885K00_37/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1056555e-628c-2e21-7327-b5bb8cb70dd7/NL-HlmNHA_1478_50885K00_37/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d51913bc-8e50-024d-7e3e-479155c7342b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d51913bc-8e50-024d-7e3e-479155c7342b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1056555e-628c-2e21-7327-b5bb8cb70dd7/NL-HlmNHA_1478_50885K00_37/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1056555e-628c-2e21-7327-b5bb8cb70dd7/NL-HlmNHA_1478_50885K00_38/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer Gerritsen Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/960ffe04-a43b-3817-2da0-758291bd2aee\">https://hdl.handle.net/21.12102/960ffe04-a43b-3817-2da0-758291bd2aee</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1056555e-628c-2e21-7327-b5bb8cb70dd7/NL-HlmNHA_1478_50885K00_38/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1056555e-628c-2e21-7327-b5bb8cb70dd7/NL-HlmNHA_1478_50885K00_38/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3ceec1a6-f028-442d-968d-a0e1206ce743/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3ceec1a6-f028-442d-968d-a0e1206ce743",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1056555e-628c-2e21-7327-b5bb8cb70dd7/NL-HlmNHA_1478_50885K00_38/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1056555e-628c-2e21-7327-b5bb8cb70dd7/NL-HlmNHA_1478_50885K00_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer Gerritsen Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ac32e369-29bb-849c-fece-efbca4f81583\">https://hdl.handle.net/21.12102/ac32e369-29bb-849c-fece-efbca4f81583</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1056555e-628c-2e21-7327-b5bb8cb70dd7/NL-HlmNHA_1478_50885K00_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1056555e-628c-2e21-7327-b5bb8cb70dd7/NL-HlmNHA_1478_50885K00_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/bd5d66f1-63a0-c234-84b4-9b9fed706039/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/bd5d66f1-63a0-c234-84b4-9b9fed706039",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1056555e-628c-2e21-7327-b5bb8cb70dd7/NL-HlmNHA_1478_50885K00_35/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

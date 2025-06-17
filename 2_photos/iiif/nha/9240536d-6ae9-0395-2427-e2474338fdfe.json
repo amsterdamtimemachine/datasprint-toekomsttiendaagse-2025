@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/9240536d-6ae9-0395-2427-e2474338fdfe.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Luchtfoto Amstel van Rokin tot Carr\u00e9 (1974)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Luchtfoto Amstel van Rokin tot Carr\u00e9"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1974"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q1947050\">Amstel</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.900861,
+            52.365
+          ]
+        },
+        "properties": {
+          "title": "Amstel",
+          "url": "http://www.wikidata.org/entity/Q1947050"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9240536d-6ae9-0395-2427-e2474338fdfe/NL-HlmNHA_1478_02950A00_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Luchtfoto Amstel van Rokin tot Carr\u00e9"
+        ]
+      },
+      "height": 2488,
+      "width": 3121,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1d372f9f-3eca-87a2-9c7f-78d9fc9cc6c5\">https://hdl.handle.net/21.12102/1d372f9f-3eca-87a2-9c7f-78d9fc9cc6c5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9240536d-6ae9-0395-2427-e2474338fdfe/NL-HlmNHA_1478_02950A00_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9240536d-6ae9-0395-2427-e2474338fdfe/NL-HlmNHA_1478_02950A00_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5a521e8e-cfe2-e15e-ed49-91f36d937f48/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2488,
+                "width": 3121,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5a521e8e-cfe2-e15e-ed49-91f36d937f48",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9240536d-6ae9-0395-2427-e2474338fdfe/NL-HlmNHA_1478_02950A00_09/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

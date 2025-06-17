@@ -1,0 +1,520 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/3e41ca73-25c9-5476-a383-6839555e71a0.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Ext. Elzenhof, Schiphol (1991-11-22)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Ext. Elzenhof, Schiphol"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1991-11-22"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_31/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ext. Elzenhof, Schiphol"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0a4087b0-1007-44b6-7a19-a8126bad5599\">https://hdl.handle.net/21.12102/0a4087b0-1007-44b6-7a19-a8126bad5599</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_31/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_31/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2cb4c083-2eae-6551-cb39-fa2660119c84/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2cb4c083-2eae-6551-cb39-fa2660119c84",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_31/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ext. Elzenhof, Schiphol"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1534f170-27b0-7275-abeb-3ef9bc5d8832\">https://hdl.handle.net/21.12102/1534f170-27b0-7275-abeb-3ef9bc5d8832</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c6f53ee6-5f58-020a-cb15-0e153ba7b297/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c6f53ee6-5f58-020a-cb15-0e153ba7b297",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_30/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_32/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ext. Elzenhof, Schiphol"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/64ec8f20-056b-d689-6009-be01c56e5ee0\">https://hdl.handle.net/21.12102/64ec8f20-056b-d689-6009-be01c56e5ee0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_32/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_32/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9aa27494-221e-8fe3-9865-eaa6d0a68f69/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9aa27494-221e-8fe3-9865-eaa6d0a68f69",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_32/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_25/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ext. Elzenhof, Schiphol"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7dcad924-2b01-36f0-f466-60a001374a61\">https://hdl.handle.net/21.12102/7dcad924-2b01-36f0-f466-60a001374a61</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_25/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_25/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f5f536dc-1030-159c-3c16-d939e734e186/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f5f536dc-1030-159c-3c16-d939e734e186",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_25/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_26/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ext. Elzenhof, Schiphol"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c8a2f032-150c-9bfd-7588-a3948eecabdb\">https://hdl.handle.net/21.12102/c8a2f032-150c-9bfd-7588-a3948eecabdb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_26/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_26/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2ca08920-c56f-fb7a-39cd-5d14f4781472/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2ca08920-c56f-fb7a-39cd-5d14f4781472",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_26/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_27/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ext. Elzenhof, Schiphol"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d044588d-de1a-f1fb-59cb-6248b08ff061\">https://hdl.handle.net/21.12102/d044588d-de1a-f1fb-59cb-6248b08ff061</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_27/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_27/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ceab5693-c75a-9867-8596-49f4c282f79c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ceab5693-c75a-9867-8596-49f4c282f79c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_27/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_28/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ext. Elzenhof, Schiphol"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/eace62f1-e32b-88e8-3d55-1e8095e5cdd0\">https://hdl.handle.net/21.12102/eace62f1-e32b-88e8-3d55-1e8095e5cdd0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_28/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_28/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/276b066b-33ed-89ab-5212-0015405ccb32/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/276b066b-33ed-89ab-5212-0015405ccb32",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_28/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ext. Elzenhof, Schiphol"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ef85fa9f-6b6c-6791-0910-1a8e818f2707\">https://hdl.handle.net/21.12102/ef85fa9f-6b6c-6791-0910-1a8e818f2707</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9a849aba-6399-6d27-22f6-c47e93c9073e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9a849aba-6399-6d27-22f6-c47e93c9073e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3e41ca73-25c9-5476-a383-6839555e71a0/NL-HlmNHA_1478_35446K01_29/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

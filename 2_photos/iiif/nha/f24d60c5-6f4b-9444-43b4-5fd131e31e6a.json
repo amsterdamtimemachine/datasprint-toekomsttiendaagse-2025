@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/f24d60c5-6f4b-9444-43b4-5fd131e31e6a.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Vermeer, PTT Amsterdam (1984-10)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Vermeer, PTT Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1984-10"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Verom"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f24d60c5-6f4b-9444-43b4-5fd131e31e6a/NL-HlmNHA_1478_00384C00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vermeer, PTT Amsterdam"
+        ]
+      },
+      "height": 2320,
+      "width": 2986,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9231d6c3-c070-049d-7570-285498e6c097\">https://hdl.handle.net/21.12102/9231d6c3-c070-049d-7570-285498e6c097</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f24d60c5-6f4b-9444-43b4-5fd131e31e6a/NL-HlmNHA_1478_00384C00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f24d60c5-6f4b-9444-43b4-5fd131e31e6a/NL-HlmNHA_1478_00384C00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ddecfbe0-8c39-7ac3-0be3-0ce024fb3a9d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2320,
+                "width": 2986,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ddecfbe0-8c39-7ac3-0be3-0ce024fb3a9d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f24d60c5-6f4b-9444-43b4-5fd131e31e6a/NL-HlmNHA_1478_00384C00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

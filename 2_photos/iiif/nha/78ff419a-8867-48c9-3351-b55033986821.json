@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/78ff419a-8867-48c9-3351-b55033986821.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Schaatsen op ijsbaan op de Dam in Amsterdam met in het midden de traditionele grote kerstboom. Kunstijsbaan. (2003-12)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Schaatsen op ijsbaan op de Dam in Amsterdam met in het midden de traditionele grote kerstboom. Kunstijsbaan."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2003-12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q839050\">Dam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.892778,
+            52.373056
+          ]
+        },
+        "properties": {
+          "title": "Dam",
+          "url": "http://www.wikidata.org/entity/Q839050"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/78ff419a-8867-48c9-3351-b55033986821/NL-HlmNHA_1478_52137K00_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schaatsen op ijsbaan op de Dam in Amsterdam met in het midden de traditionele grote kerstboom. Kunstijsbaan."
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a518ea0c-5db6-75ea-761b-02ed385dffa1\">https://hdl.handle.net/21.12102/a518ea0c-5db6-75ea-761b-02ed385dffa1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/78ff419a-8867-48c9-3351-b55033986821/NL-HlmNHA_1478_52137K00_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/78ff419a-8867-48c9-3351-b55033986821/NL-HlmNHA_1478_52137K00_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/cd888c9a-1ade-c429-3f57-adba1389ab78/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/cd888c9a-1ade-c429-3f57-adba1389ab78",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/78ff419a-8867-48c9-3351-b55033986821/NL-HlmNHA_1478_52137K00_12/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

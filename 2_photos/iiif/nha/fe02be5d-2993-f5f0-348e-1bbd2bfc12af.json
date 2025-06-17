@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/fe02be5d-2993-f5f0-348e-1bbd2bfc12af.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "O.R. groep VNU Amsterdam. (1984-01-20)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "O.R. groep VNU Amsterdam."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1984-01-20"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "VNU Vereniging Nederlandse Uitgeverijen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fe02be5d-2993-f5f0-348e-1bbd2bfc12af/NL-HlmNHA_1478_23792K00_37/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "O.R. groep VNU Amsterdam."
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1db407fe-d4d0-7866-be53-34a20a18777c\">https://hdl.handle.net/21.12102/1db407fe-d4d0-7866-be53-34a20a18777c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fe02be5d-2993-f5f0-348e-1bbd2bfc12af/NL-HlmNHA_1478_23792K00_37/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fe02be5d-2993-f5f0-348e-1bbd2bfc12af/NL-HlmNHA_1478_23792K00_37/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/778689f8-381c-b8de-f2c1-0ec4e4f3d4a1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/778689f8-381c-b8de-f2c1-0ec4e4f3d4a1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fe02be5d-2993-f5f0-348e-1bbd2bfc12af/NL-HlmNHA_1478_23792K00_37/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fe02be5d-2993-f5f0-348e-1bbd2bfc12af/NL-HlmNHA_1478_23792K00_38/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "O.R. groep VNU Amsterdam."
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8bcb2390-d06d-b981-56fa-7c43d9174185\">https://hdl.handle.net/21.12102/8bcb2390-d06d-b981-56fa-7c43d9174185</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fe02be5d-2993-f5f0-348e-1bbd2bfc12af/NL-HlmNHA_1478_23792K00_38/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fe02be5d-2993-f5f0-348e-1bbd2bfc12af/NL-HlmNHA_1478_23792K00_38/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/67b8d56a-3dc9-5515-7e12-89f795627ff2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/67b8d56a-3dc9-5515-7e12-89f795627ff2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fe02be5d-2993-f5f0-348e-1bbd2bfc12af/NL-HlmNHA_1478_23792K00_38/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fe02be5d-2993-f5f0-348e-1bbd2bfc12af/NL-HlmNHA_1478_23792K00_36/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "O.R. groep VNU Amsterdam."
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/eaae0627-2c31-545b-e3e8-b42fc264018a\">https://hdl.handle.net/21.12102/eaae0627-2c31-545b-e3e8-b42fc264018a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fe02be5d-2993-f5f0-348e-1bbd2bfc12af/NL-HlmNHA_1478_23792K00_36/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fe02be5d-2993-f5f0-348e-1bbd2bfc12af/NL-HlmNHA_1478_23792K00_36/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/63d1cbfd-845e-fea6-fc9a-9e57c6df0951/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/63d1cbfd-845e-fea6-fc9a-9e57c6df0951",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fe02be5d-2993-f5f0-348e-1bbd2bfc12af/NL-HlmNHA_1478_23792K00_36/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

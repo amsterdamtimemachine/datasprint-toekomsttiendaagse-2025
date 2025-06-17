@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/17c93bec-5f59-edab-9f4a-6d56092a8b26.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Bloemenmeisjes op de Nieuwezijds Voorburgwal in Amsterdam (1967-05-13)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Bloemenmeisjes op de Nieuwezijds Voorburgwal in Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1967-05-13"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2379926\">Nieuwezijds Voorburgwal</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.889722,
+            52.370278
+          ]
+        },
+        "properties": {
+          "title": "Nieuwezijds Voorburgwal",
+          "url": "http://www.wikidata.org/entity/Q2379926"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/17c93bec-5f59-edab-9f4a-6d56092a8b26/NL-HlmNHA_1478_05141K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bloemenmeisjes op de Nieuwezijds Voorburgwal in Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3aac2ef5-6cf2-61c2-c93f-f49fbee1a664\">https://hdl.handle.net/21.12102/3aac2ef5-6cf2-61c2-c93f-f49fbee1a664</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/17c93bec-5f59-edab-9f4a-6d56092a8b26/NL-HlmNHA_1478_05141K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/17c93bec-5f59-edab-9f4a-6d56092a8b26/NL-HlmNHA_1478_05141K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a0376ab9-3b42-8c87-81e5-fc39c0aac39a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a0376ab9-3b42-8c87-81e5-fc39c0aac39a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/17c93bec-5f59-edab-9f4a-6d56092a8b26/NL-HlmNHA_1478_05141K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/17c93bec-5f59-edab-9f4a-6d56092a8b26/NL-HlmNHA_1478_05141K00_21/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bloemenmeisjes op de Nieuwezijds Voorburgwal in Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9727de87-5eb5-9d97-3178-ea3ff9ed399e\">https://hdl.handle.net/21.12102/9727de87-5eb5-9d97-3178-ea3ff9ed399e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/17c93bec-5f59-edab-9f4a-6d56092a8b26/NL-HlmNHA_1478_05141K00_21/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/17c93bec-5f59-edab-9f4a-6d56092a8b26/NL-HlmNHA_1478_05141K00_21/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/85f4814f-7f9e-17bd-b020-23f410ae15be/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/85f4814f-7f9e-17bd-b020-23f410ae15be",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/17c93bec-5f59-edab-9f4a-6d56092a8b26/NL-HlmNHA_1478_05141K00_21/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

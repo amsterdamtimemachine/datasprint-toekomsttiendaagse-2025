@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/cab77a4f-b1b8-6667-bb8b-e3d274cdce8c.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Miljoenste passagier KLM, Schiphol (1987-10-07)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Miljoenste passagier KLM, Schiphol"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1987-10-07"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "KLM"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/58878"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cab77a4f-b1b8-6667-bb8b-e3d274cdce8c/NL-HlmNHA_1478_28220K01_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Miljoenste passagier KLM, Schiphol"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/06517068-6aca-d6cd-226d-3a6a09a7af35\">https://hdl.handle.net/21.12102/06517068-6aca-d6cd-226d-3a6a09a7af35</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cab77a4f-b1b8-6667-bb8b-e3d274cdce8c/NL-HlmNHA_1478_28220K01_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cab77a4f-b1b8-6667-bb8b-e3d274cdce8c/NL-HlmNHA_1478_28220K01_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f8e0be6c-7643-f0fe-c945-31d4e4a85a00/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f8e0be6c-7643-f0fe-c945-31d4e4a85a00",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cab77a4f-b1b8-6667-bb8b-e3d274cdce8c/NL-HlmNHA_1478_28220K01_08/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cab77a4f-b1b8-6667-bb8b-e3d274cdce8c/NL-HlmNHA_1478_28220K01_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Miljoenste passagier KLM, Schiphol"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/99911639-e13d-70ed-afc9-989226b4d285\">https://hdl.handle.net/21.12102/99911639-e13d-70ed-afc9-989226b4d285</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cab77a4f-b1b8-6667-bb8b-e3d274cdce8c/NL-HlmNHA_1478_28220K01_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cab77a4f-b1b8-6667-bb8b-e3d274cdce8c/NL-HlmNHA_1478_28220K01_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b21ff748-332e-bf69-38b1-ca62a2c207f0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b21ff748-332e-bf69-38b1-ca62a2c207f0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cab77a4f-b1b8-6667-bb8b-e3d274cdce8c/NL-HlmNHA_1478_28220K01_09/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cab77a4f-b1b8-6667-bb8b-e3d274cdce8c/NL-HlmNHA_1478_28220K01_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Miljoenste passagier KLM, Schiphol"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9eccf855-669f-ebde-ad76-8adbecb4c1a7\">https://hdl.handle.net/21.12102/9eccf855-669f-ebde-ad76-8adbecb4c1a7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cab77a4f-b1b8-6667-bb8b-e3d274cdce8c/NL-HlmNHA_1478_28220K01_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cab77a4f-b1b8-6667-bb8b-e3d274cdce8c/NL-HlmNHA_1478_28220K01_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/11d3f6b7-1d5f-bc00-c35b-98f0b40a132d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/11d3f6b7-1d5f-bc00-c35b-98f0b40a132d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cab77a4f-b1b8-6667-bb8b-e3d274cdce8c/NL-HlmNHA_1478_28220K01_07/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

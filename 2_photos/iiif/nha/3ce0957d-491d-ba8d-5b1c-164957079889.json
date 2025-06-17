@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/3ce0957d-491d-ba8d-5b1c-164957079889.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "CHW kaart (Cultuur Historische Waarde) (2000-11-09)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "CHW kaart (Cultuur Historische Waarde)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2000-11-09"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2367253\">Halfweg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.755,
+            52.3828
+          ]
+        },
+        "properties": {
+          "title": "Halfweg",
+          "url": "http://www.wikidata.org/entity/Q2367253"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ce0957d-491d-ba8d-5b1c-164957079889/NL-HlmNHA_1478_48778K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "CHW kaart (Cultuur Historische Waarde)"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7a917000-129d-24c5-c6cb-c3cfb52346dc\">https://hdl.handle.net/21.12102/7a917000-129d-24c5-c6cb-c3cfb52346dc</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ce0957d-491d-ba8d-5b1c-164957079889/NL-HlmNHA_1478_48778K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ce0957d-491d-ba8d-5b1c-164957079889/NL-HlmNHA_1478_48778K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/09477f73-2ce8-f101-78dc-247c9e4faaec/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/09477f73-2ce8-f101-78dc-247c9e4faaec",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ce0957d-491d-ba8d-5b1c-164957079889/NL-HlmNHA_1478_48778K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ce0957d-491d-ba8d-5b1c-164957079889/NL-HlmNHA_1478_48778K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "CHW kaart (Cultuur Historische Waarde)"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/925001a5-dd4c-7e7b-e0e9-f79f4a7b9120\">https://hdl.handle.net/21.12102/925001a5-dd4c-7e7b-e0e9-f79f4a7b9120</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ce0957d-491d-ba8d-5b1c-164957079889/NL-HlmNHA_1478_48778K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ce0957d-491d-ba8d-5b1c-164957079889/NL-HlmNHA_1478_48778K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/bb857ce3-bf3b-d0db-8c23-9a8bc8f4cdd3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/bb857ce3-bf3b-d0db-8c23-9a8bc8f4cdd3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ce0957d-491d-ba8d-5b1c-164957079889/NL-HlmNHA_1478_48778K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ce0957d-491d-ba8d-5b1c-164957079889/NL-HlmNHA_1478_48778K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "CHW kaart (Cultuur Historische Waarde)"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/937dfdf0-ea4b-d82a-3d40-1e51110c7926\">https://hdl.handle.net/21.12102/937dfdf0-ea4b-d82a-3d40-1e51110c7926</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ce0957d-491d-ba8d-5b1c-164957079889/NL-HlmNHA_1478_48778K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ce0957d-491d-ba8d-5b1c-164957079889/NL-HlmNHA_1478_48778K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b050f0a4-d731-e058-64b2-95ecab196014/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b050f0a4-d731-e058-64b2-95ecab196014",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ce0957d-491d-ba8d-5b1c-164957079889/NL-HlmNHA_1478_48778K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ce0957d-491d-ba8d-5b1c-164957079889/NL-HlmNHA_1478_48778K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "CHW kaart (Cultuur Historische Waarde)"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/977dfb6d-877f-6498-f44f-4ea883b5b2d5\">https://hdl.handle.net/21.12102/977dfb6d-877f-6498-f44f-4ea883b5b2d5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ce0957d-491d-ba8d-5b1c-164957079889/NL-HlmNHA_1478_48778K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ce0957d-491d-ba8d-5b1c-164957079889/NL-HlmNHA_1478_48778K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/04a82f5c-0caf-4426-5464-87dfa9db1540/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/04a82f5c-0caf-4426-5464-87dfa9db1540",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ce0957d-491d-ba8d-5b1c-164957079889/NL-HlmNHA_1478_48778K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ce0957d-491d-ba8d-5b1c-164957079889/NL-HlmNHA_1478_48778K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "CHW kaart (Cultuur Historische Waarde)"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a65fdbbc-7d7f-e80d-c48e-da9942e949b8\">https://hdl.handle.net/21.12102/a65fdbbc-7d7f-e80d-c48e-da9942e949b8</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ce0957d-491d-ba8d-5b1c-164957079889/NL-HlmNHA_1478_48778K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ce0957d-491d-ba8d-5b1c-164957079889/NL-HlmNHA_1478_48778K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c49e434c-af71-fb77-4182-c41a1d8d3168/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c49e434c-af71-fb77-4182-c41a1d8d3168",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ce0957d-491d-ba8d-5b1c-164957079889/NL-HlmNHA_1478_48778K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ce0957d-491d-ba8d-5b1c-164957079889/NL-HlmNHA_1478_48778K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "CHW kaart (Cultuur Historische Waarde)"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b20cd2cf-a619-6eef-d8fb-d0b5738ebf4b\">https://hdl.handle.net/21.12102/b20cd2cf-a619-6eef-d8fb-d0b5738ebf4b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ce0957d-491d-ba8d-5b1c-164957079889/NL-HlmNHA_1478_48778K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ce0957d-491d-ba8d-5b1c-164957079889/NL-HlmNHA_1478_48778K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/481edf40-d5a9-64a1-bdbc-e4df3d5e4b2d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/481edf40-d5a9-64a1-bdbc-e4df3d5e4b2d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3ce0957d-491d-ba8d-5b1c-164957079889/NL-HlmNHA_1478_48778K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

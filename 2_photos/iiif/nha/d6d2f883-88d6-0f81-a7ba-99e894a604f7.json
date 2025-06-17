@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/d6d2f883-88d6-0f81-a7ba-99e894a604f7.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Majoor Bosshardt van het Leger des Heils leest de Strijdkreet in haar huiskamer (1964-12-19)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Majoor Bosshardt van het Leger des Heils leest de Strijdkreet in haar huiskamer"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1964-12-19"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d6d2f883-88d6-0f81-a7ba-99e894a604f7/NL-HlmNHA_1478_02077A00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Majoor Bosshardt van het Leger des Heils leest de Strijdkreet in haar huiskamer"
+        ]
+      },
+      "height": 2512,
+      "width": 2512,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2a8e1fd9-956e-b65f-12fe-c6b75c2051da\">https://hdl.handle.net/21.12102/2a8e1fd9-956e-b65f-12fe-c6b75c2051da</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d6d2f883-88d6-0f81-a7ba-99e894a604f7/NL-HlmNHA_1478_02077A00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d6d2f883-88d6-0f81-a7ba-99e894a604f7/NL-HlmNHA_1478_02077A00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b45ddf82-d4a1-95ae-2744-7d934296e2e9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2512,
+                "width": 2512,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b45ddf82-d4a1-95ae-2744-7d934296e2e9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d6d2f883-88d6-0f81-a7ba-99e894a604f7/NL-HlmNHA_1478_02077A00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d6d2f883-88d6-0f81-a7ba-99e894a604f7/NL-HlmNHA_1478_02077A00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Majoor Bosshardt van het Leger des Heils leest de Strijdkreet in haar huiskamer"
+        ]
+      },
+      "height": 2512,
+      "width": 2512,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/56dd64ec-981c-9217-5b70-ffc6f10b1c86\">https://hdl.handle.net/21.12102/56dd64ec-981c-9217-5b70-ffc6f10b1c86</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d6d2f883-88d6-0f81-a7ba-99e894a604f7/NL-HlmNHA_1478_02077A00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d6d2f883-88d6-0f81-a7ba-99e894a604f7/NL-HlmNHA_1478_02077A00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/95e75222-0119-b602-4045-057177145ea8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2512,
+                "width": 2512,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/95e75222-0119-b602-4045-057177145ea8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d6d2f883-88d6-0f81-a7ba-99e894a604f7/NL-HlmNHA_1478_02077A00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d6d2f883-88d6-0f81-a7ba-99e894a604f7/NL-HlmNHA_1478_02077A00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Majoor Bosshardt van het Leger des Heils leest de Strijdkreet in haar huiskamer"
+        ]
+      },
+      "height": 2516,
+      "width": 2516,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/df64aeb4-56ce-517f-7ae5-bdd7025a64ab\">https://hdl.handle.net/21.12102/df64aeb4-56ce-517f-7ae5-bdd7025a64ab</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d6d2f883-88d6-0f81-a7ba-99e894a604f7/NL-HlmNHA_1478_02077A00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d6d2f883-88d6-0f81-a7ba-99e894a604f7/NL-HlmNHA_1478_02077A00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5441fa01-423f-5d2a-0cac-1909f2844e06/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2516,
+                "width": 2516,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5441fa01-423f-5d2a-0cac-1909f2844e06",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d6d2f883-88d6-0f81-a7ba-99e894a604f7/NL-HlmNHA_1478_02077A00_05/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

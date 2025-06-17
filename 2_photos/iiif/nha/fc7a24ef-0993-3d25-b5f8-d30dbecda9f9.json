@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/fc7a24ef-0993-3d25-b5f8-d30dbecda9f9.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Overhandiging varkensboek, Amsterdam (1998-09-11)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Overhandiging varkensboek, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1998-09-11"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fc7a24ef-0993-3d25-b5f8-d30dbecda9f9/NL-HlmNHA_1478_46003K00_38/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Overhandiging varkensboek, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/02f7bd15-8c26-572a-3619-fd480f99105e\">https://hdl.handle.net/21.12102/02f7bd15-8c26-572a-3619-fd480f99105e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fc7a24ef-0993-3d25-b5f8-d30dbecda9f9/NL-HlmNHA_1478_46003K00_38/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fc7a24ef-0993-3d25-b5f8-d30dbecda9f9/NL-HlmNHA_1478_46003K00_38/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fd01cff0-5657-4afb-ce81-899cee47975d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fd01cff0-5657-4afb-ce81-899cee47975d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fc7a24ef-0993-3d25-b5f8-d30dbecda9f9/NL-HlmNHA_1478_46003K00_38/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fc7a24ef-0993-3d25-b5f8-d30dbecda9f9/NL-HlmNHA_1478_46003K00_37/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Overhandiging varkensboek, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/342658f5-9c31-0184-4edd-10daa0a7ebe9\">https://hdl.handle.net/21.12102/342658f5-9c31-0184-4edd-10daa0a7ebe9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fc7a24ef-0993-3d25-b5f8-d30dbecda9f9/NL-HlmNHA_1478_46003K00_37/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fc7a24ef-0993-3d25-b5f8-d30dbecda9f9/NL-HlmNHA_1478_46003K00_37/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9773a311-9cff-0d9d-9d4c-e1e97b163fff/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9773a311-9cff-0d9d-9d4c-e1e97b163fff",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fc7a24ef-0993-3d25-b5f8-d30dbecda9f9/NL-HlmNHA_1478_46003K00_37/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fc7a24ef-0993-3d25-b5f8-d30dbecda9f9/NL-HlmNHA_1478_46003K00_41/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Overhandiging varkensboek, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6d17d9f3-1030-7998-0a90-dc266e593c08\">https://hdl.handle.net/21.12102/6d17d9f3-1030-7998-0a90-dc266e593c08</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fc7a24ef-0993-3d25-b5f8-d30dbecda9f9/NL-HlmNHA_1478_46003K00_41/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fc7a24ef-0993-3d25-b5f8-d30dbecda9f9/NL-HlmNHA_1478_46003K00_41/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/32ddc6d1-80a5-81a5-b3e5-90c5e6064014/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/32ddc6d1-80a5-81a5-b3e5-90c5e6064014",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fc7a24ef-0993-3d25-b5f8-d30dbecda9f9/NL-HlmNHA_1478_46003K00_41/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fc7a24ef-0993-3d25-b5f8-d30dbecda9f9/NL-HlmNHA_1478_46003K00_39/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Overhandiging varkensboek, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/81f088f6-6b93-bd92-9eb2-58e5c5d02aa5\">https://hdl.handle.net/21.12102/81f088f6-6b93-bd92-9eb2-58e5c5d02aa5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fc7a24ef-0993-3d25-b5f8-d30dbecda9f9/NL-HlmNHA_1478_46003K00_39/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fc7a24ef-0993-3d25-b5f8-d30dbecda9f9/NL-HlmNHA_1478_46003K00_39/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6e3d20cb-c373-18f4-d555-2c9322bb91bf/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6e3d20cb-c373-18f4-d555-2c9322bb91bf",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fc7a24ef-0993-3d25-b5f8-d30dbecda9f9/NL-HlmNHA_1478_46003K00_39/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fc7a24ef-0993-3d25-b5f8-d30dbecda9f9/NL-HlmNHA_1478_46003K00_42/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Overhandiging varkensboek, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9d646389-0110-333e-f90a-f26626698222\">https://hdl.handle.net/21.12102/9d646389-0110-333e-f90a-f26626698222</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fc7a24ef-0993-3d25-b5f8-d30dbecda9f9/NL-HlmNHA_1478_46003K00_42/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fc7a24ef-0993-3d25-b5f8-d30dbecda9f9/NL-HlmNHA_1478_46003K00_42/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/cb4382f2-f99f-9ca7-55cf-d25dd94ff3d0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/cb4382f2-f99f-9ca7-55cf-d25dd94ff3d0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fc7a24ef-0993-3d25-b5f8-d30dbecda9f9/NL-HlmNHA_1478_46003K00_42/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fc7a24ef-0993-3d25-b5f8-d30dbecda9f9/NL-HlmNHA_1478_46003K00_40/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Overhandiging varkensboek, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9d79e87e-80c5-55cb-70ed-2915b512be5e\">https://hdl.handle.net/21.12102/9d79e87e-80c5-55cb-70ed-2915b512be5e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fc7a24ef-0993-3d25-b5f8-d30dbecda9f9/NL-HlmNHA_1478_46003K00_40/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fc7a24ef-0993-3d25-b5f8-d30dbecda9f9/NL-HlmNHA_1478_46003K00_40/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9daeb90e-baf2-d72d-49e1-23f50d766d63/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9daeb90e-baf2-d72d-49e1-23f50d766d63",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fc7a24ef-0993-3d25-b5f8-d30dbecda9f9/NL-HlmNHA_1478_46003K00_40/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

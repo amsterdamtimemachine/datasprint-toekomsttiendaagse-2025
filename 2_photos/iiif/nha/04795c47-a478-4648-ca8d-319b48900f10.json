@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/04795c47-a478-4648-ca8d-319b48900f10.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Teleurgestelde fans bij vriendschappelijke wedstrijd Nederland- Tsjechoslowakije (1-2) (1966-11-06)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Teleurgestelde fans bij vriendschappelijke wedstrijd Nederland- Tsjechoslowakije (1-2)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1966-11-06"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q19393276\">Olympisch Stadion</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.854,
+            52.3435
+          ]
+        },
+        "properties": {
+          "title": "Olympisch Stadion",
+          "url": "http://www.wikidata.org/entity/Q19393276"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/04795c47-a478-4648-ca8d-319b48900f10/NL-HlmNHA_1478_53345K00_25/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Teleurgestelde fans bij vriendschappelijke wedstrijd Nederland- Tsjechoslowakije (1-2)"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/85a1baac-d9c7-ebd7-1643-7607e8021257\">https://hdl.handle.net/21.12102/85a1baac-d9c7-ebd7-1643-7607e8021257</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/04795c47-a478-4648-ca8d-319b48900f10/NL-HlmNHA_1478_53345K00_25/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/04795c47-a478-4648-ca8d-319b48900f10/NL-HlmNHA_1478_53345K00_25/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/07f60112-fe3f-8606-cc5d-61f2526105eb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/07f60112-fe3f-8606-cc5d-61f2526105eb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/04795c47-a478-4648-ca8d-319b48900f10/NL-HlmNHA_1478_53345K00_25/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

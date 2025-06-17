@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/c1eecf97-1a94-343f-1d29-326bce1a001f.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "NCRC, Concertgebouw, Amsterdam [NCRV zangdienst, Gr. Zaal] (1951-12-20)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "NCRC, Concertgebouw, Amsterdam [NCRV zangdienst, Gr. Zaal]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1951-12-20"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Muziek"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/28200"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1eecf97-1a94-343f-1d29-326bce1a001f/NL-HlmNHA_1478_06821B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "NCRC, Concertgebouw, Amsterdam [NCRV zangdienst, Gr. Zaal]"
+        ]
+      },
+      "height": 2233,
+      "width": 2911,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3fac96ff-5171-71fe-9101-2bfcc18e53fd\">https://hdl.handle.net/21.12102/3fac96ff-5171-71fe-9101-2bfcc18e53fd</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1eecf97-1a94-343f-1d29-326bce1a001f/NL-HlmNHA_1478_06821B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1eecf97-1a94-343f-1d29-326bce1a001f/NL-HlmNHA_1478_06821B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/de61d6ee-669c-bf6c-e89c-545019e490b9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2233,
+                "width": 2911,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/de61d6ee-669c-bf6c-e89c-545019e490b9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1eecf97-1a94-343f-1d29-326bce1a001f/NL-HlmNHA_1478_06821B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

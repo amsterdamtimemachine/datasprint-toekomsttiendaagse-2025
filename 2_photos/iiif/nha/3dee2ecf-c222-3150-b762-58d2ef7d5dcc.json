@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/3dee2ecf-c222-3150-b762-58d2ef7d5dcc.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Overdracht en Proefrit gelede bus voor Amsterdam (1957-01-15)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Overdracht en Proefrit gelede bus voor Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1957-01-15"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Verheul Carosseriefabriek Waddinxveen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3dee2ecf-c222-3150-b762-58d2ef7d5dcc/NL-HlmNHA_1478_13748B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Overdracht en Proefrit gelede bus voor Amsterdam"
+        ]
+      },
+      "height": 2205,
+      "width": 2823,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8f9dfac5-c0a3-2c74-46cd-54b588354f9c\">https://hdl.handle.net/21.12102/8f9dfac5-c0a3-2c74-46cd-54b588354f9c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3dee2ecf-c222-3150-b762-58d2ef7d5dcc/NL-HlmNHA_1478_13748B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3dee2ecf-c222-3150-b762-58d2ef7d5dcc/NL-HlmNHA_1478_13748B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ad268f51-70be-e4ed-7e10-f8256563c938/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2205,
+                "width": 2823,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ad268f51-70be-e4ed-7e10-f8256563c938",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3dee2ecf-c222-3150-b762-58d2ef7d5dcc/NL-HlmNHA_1478_13748B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

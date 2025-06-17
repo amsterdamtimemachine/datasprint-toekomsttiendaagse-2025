@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/ea7f50c2-97a0-b2b9-b4d2-e0164da3b651.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "1e spade door burg. IJsselmuiden, golfbaan A'dam (plan Houtrak) (1988-12-02)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1e spade door burg. IJsselmuiden, golfbaan A'dam (plan Houtrak)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1988-12-02"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Eerste Steen, Golf, golfen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea7f50c2-97a0-b2b9-b4d2-e0164da3b651/NL-HlmNHA_1478_29870K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "1e spade door burg. IJsselmuiden, golfbaan A'dam (plan Houtrak)"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4d267b6d-2a93-05d2-9166-cba36a3e6797\">https://hdl.handle.net/21.12102/4d267b6d-2a93-05d2-9166-cba36a3e6797</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea7f50c2-97a0-b2b9-b4d2-e0164da3b651/NL-HlmNHA_1478_29870K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea7f50c2-97a0-b2b9-b4d2-e0164da3b651/NL-HlmNHA_1478_29870K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/42867250-799a-173a-d2bf-e2fc674f87d1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/42867250-799a-173a-d2bf-e2fc674f87d1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea7f50c2-97a0-b2b9-b4d2-e0164da3b651/NL-HlmNHA_1478_29870K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/efe67fa5-50c0-07a9-ffc6-3ab062dc94a3.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Groep winnaars mita importeurs Amsterdam (1985-12-06)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Groep winnaars mita importeurs Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1985-12-06"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Groepen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/efe67fa5-50c0-07a9-ffc6-3ab062dc94a3/NL-HlmNHA_1478_25785K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Groep winnaars mita importeurs Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6a8fcbec-3453-5122-3a19-b2ed3ffda1fc\">https://hdl.handle.net/21.12102/6a8fcbec-3453-5122-3a19-b2ed3ffda1fc</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/efe67fa5-50c0-07a9-ffc6-3ab062dc94a3/NL-HlmNHA_1478_25785K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/efe67fa5-50c0-07a9-ffc6-3ab062dc94a3/NL-HlmNHA_1478_25785K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/08b39192-0abf-77e7-cd3d-7da66ea2dad7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/08b39192-0abf-77e7-cd3d-7da66ea2dad7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/efe67fa5-50c0-07a9-ffc6-3ab062dc94a3/NL-HlmNHA_1478_25785K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/efe67fa5-50c0-07a9-ffc6-3ab062dc94a3/NL-HlmNHA_1478_25785K00_26/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Groep winnaars mita importeurs Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/713b7c2e-1074-1073-c112-b3ff9fba39ed\">https://hdl.handle.net/21.12102/713b7c2e-1074-1073-c112-b3ff9fba39ed</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/efe67fa5-50c0-07a9-ffc6-3ab062dc94a3/NL-HlmNHA_1478_25785K00_26/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/efe67fa5-50c0-07a9-ffc6-3ab062dc94a3/NL-HlmNHA_1478_25785K00_26/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/736c9499-1247-06e0-ff30-3a9d5aec237a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/736c9499-1247-06e0-ff30-3a9d5aec237a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/efe67fa5-50c0-07a9-ffc6-3ab062dc94a3/NL-HlmNHA_1478_25785K00_26/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/efe67fa5-50c0-07a9-ffc6-3ab062dc94a3/NL-HlmNHA_1478_25785K00_22/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Groep winnaars mita importeurs Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b1612848-497d-e255-e715-7685217e6214\">https://hdl.handle.net/21.12102/b1612848-497d-e255-e715-7685217e6214</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/efe67fa5-50c0-07a9-ffc6-3ab062dc94a3/NL-HlmNHA_1478_25785K00_22/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/efe67fa5-50c0-07a9-ffc6-3ab062dc94a3/NL-HlmNHA_1478_25785K00_22/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/eed73d69-0a04-5a55-d662-ef9555c6ac7f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/eed73d69-0a04-5a55-d662-ef9555c6ac7f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/efe67fa5-50c0-07a9-ffc6-3ab062dc94a3/NL-HlmNHA_1478_25785K00_22/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/efe67fa5-50c0-07a9-ffc6-3ab062dc94a3/NL-HlmNHA_1478_25785K00_25/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Groep winnaars mita importeurs Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e0db1e23-7ab8-626e-e1e2-28045b99abd4\">https://hdl.handle.net/21.12102/e0db1e23-7ab8-626e-e1e2-28045b99abd4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/efe67fa5-50c0-07a9-ffc6-3ab062dc94a3/NL-HlmNHA_1478_25785K00_25/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/efe67fa5-50c0-07a9-ffc6-3ab062dc94a3/NL-HlmNHA_1478_25785K00_25/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/29e89699-18ca-3652-398d-63db96b57aa8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/29e89699-18ca-3652-398d-63db96b57aa8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/efe67fa5-50c0-07a9-ffc6-3ab062dc94a3/NL-HlmNHA_1478_25785K00_25/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/efe67fa5-50c0-07a9-ffc6-3ab062dc94a3/NL-HlmNHA_1478_25785K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Groep winnaars mita importeurs Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f823e801-d050-4a43-efbb-5b0da0024dd8\">https://hdl.handle.net/21.12102/f823e801-d050-4a43-efbb-5b0da0024dd8</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/efe67fa5-50c0-07a9-ffc6-3ab062dc94a3/NL-HlmNHA_1478_25785K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/efe67fa5-50c0-07a9-ffc6-3ab062dc94a3/NL-HlmNHA_1478_25785K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e4bad305-133b-0bec-4b55-0fe54b8dad5d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e4bad305-133b-0bec-4b55-0fe54b8dad5d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/efe67fa5-50c0-07a9-ffc6-3ab062dc94a3/NL-HlmNHA_1478_25785K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

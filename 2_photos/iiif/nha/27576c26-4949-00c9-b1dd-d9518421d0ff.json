@@ -1,0 +1,838 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/27576c26-4949-00c9-b1dd-d9518421d0ff.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "De heer van Asperen, ontdekte gedichten van Vondel, Amsterdam (1988-07-06)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "De heer van Asperen, ontdekte gedichten van Vondel, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1988-07-06"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Personen schrijven, Personen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer van Asperen, ontdekte gedichten van Vondel, Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0a911a24-33ee-a326-c200-4a0377283cd2\">https://hdl.handle.net/21.12102/0a911a24-33ee-a326-c200-4a0377283cd2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e61265e7-3d66-ee8e-f2fb-e478b37d444c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e61265e7-3d66-ee8e-f2fb-e478b37d444c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer van Asperen, ontdekte gedichten van Vondel, Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0aecb086-7ae8-236b-3bc1-e94625aebb20\">https://hdl.handle.net/21.12102/0aecb086-7ae8-236b-3bc1-e94625aebb20</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/63849ea4-dc73-79c8-1694-09ed58f831ef/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/63849ea4-dc73-79c8-1694-09ed58f831ef",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer van Asperen, ontdekte gedichten van Vondel, Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/14b78183-e93b-9118-90cf-8fc2261e18b5\">https://hdl.handle.net/21.12102/14b78183-e93b-9118-90cf-8fc2261e18b5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0117f391-1f05-da67-db2f-a8ef445a7ada/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0117f391-1f05-da67-db2f-a8ef445a7ada",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer van Asperen, ontdekte gedichten van Vondel, Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/254f2536-a078-f51a-cb73-af6e36cc1be9\">https://hdl.handle.net/21.12102/254f2536-a078-f51a-cb73-af6e36cc1be9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/62363d58-849f-db08-b037-88e783559a76/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/62363d58-849f-db08-b037-88e783559a76",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer van Asperen, ontdekte gedichten van Vondel, Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/376d6957-7d0a-75fb-2ad6-cf3957a99e08\">https://hdl.handle.net/21.12102/376d6957-7d0a-75fb-2ad6-cf3957a99e08</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/cf229161-d1e3-68e0-43d8-b7db20bbc1e7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/cf229161-d1e3-68e0-43d8-b7db20bbc1e7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer van Asperen, ontdekte gedichten van Vondel, Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3ce9d00a-8c93-f8eb-8e17-aa1d1ac8c4d3\">https://hdl.handle.net/21.12102/3ce9d00a-8c93-f8eb-8e17-aa1d1ac8c4d3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6e297eef-9545-335e-4417-bf12d5d88a23/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6e297eef-9545-335e-4417-bf12d5d88a23",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer van Asperen, ontdekte gedichten van Vondel, Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/579cb45c-b0b5-8aed-1c6e-33d3c2ad2bd9\">https://hdl.handle.net/21.12102/579cb45c-b0b5-8aed-1c6e-33d3c2ad2bd9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1ee06a3d-9c56-2379-72f1-86d5dc2d6d31/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1ee06a3d-9c56-2379-72f1-86d5dc2d6d31",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer van Asperen, ontdekte gedichten van Vondel, Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/60e30ad8-614b-09b9-d790-5f0428fdacbb\">https://hdl.handle.net/21.12102/60e30ad8-614b-09b9-d790-5f0428fdacbb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/89e8fb3d-51cb-38b5-390f-a5e65a656b5b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/89e8fb3d-51cb-38b5-390f-a5e65a656b5b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_08/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer van Asperen, ontdekte gedichten van Vondel, Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9342a43e-0e6d-ce28-2b46-fdc3abfc840f\">https://hdl.handle.net/21.12102/9342a43e-0e6d-ce28-2b46-fdc3abfc840f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ab8bc8ca-047f-0963-63e1-3e34af015ebd/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ab8bc8ca-047f-0963-63e1-3e34af015ebd",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_09/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer van Asperen, ontdekte gedichten van Vondel, Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/bac1abc4-c5b7-e91b-000c-c3330d8b023d\">https://hdl.handle.net/21.12102/bac1abc4-c5b7-e91b-000c-c3330d8b023d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/eb22bec9-aa68-b04b-9489-882f54855e2f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/eb22bec9-aa68-b04b-9489-882f54855e2f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer van Asperen, ontdekte gedichten van Vondel, Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/cf7bffa1-72ec-d7da-aad4-bdb5c13f4cb0\">https://hdl.handle.net/21.12102/cf7bffa1-72ec-d7da-aad4-bdb5c13f4cb0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4150c35b-d21f-9cc3-cf10-3392e2806e4d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4150c35b-d21f-9cc3-cf10-3392e2806e4d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_11/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer van Asperen, ontdekte gedichten van Vondel, Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d3ddfcd3-9f6b-5dd5-ba3d-8b407b3a6428\">https://hdl.handle.net/21.12102/d3ddfcd3-9f6b-5dd5-ba3d-8b407b3a6428</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f05e34f3-61f8-f5c1-3fb9-24e7ae97501b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f05e34f3-61f8-f5c1-3fb9-24e7ae97501b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer van Asperen, ontdekte gedichten van Vondel, Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d5365484-484c-8e28-f79e-82755aadc983\">https://hdl.handle.net/21.12102/d5365484-484c-8e28-f79e-82755aadc983</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/aa8b5722-bb23-1097-3447-8fe1f6938a8e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/aa8b5722-bb23-1097-3447-8fe1f6938a8e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_10/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer van Asperen, ontdekte gedichten van Vondel, Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e5ea4093-5365-0268-1c26-fc2c18aeafbc\">https://hdl.handle.net/21.12102/e5ea4093-5365-0268-1c26-fc2c18aeafbc</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/cb06f123-bb91-7e9c-19bd-b7bf9c8ce6f4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/cb06f123-bb91-7e9c-19bd-b7bf9c8ce6f4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/27576c26-4949-00c9-b1dd-d9518421d0ff/NL-HlmNHA_1478_29312K00_12/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

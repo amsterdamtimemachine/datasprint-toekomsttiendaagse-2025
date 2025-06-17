@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/6eff4aaa-a4be-d714-b760-fe7d4385d42f.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Bloemencorso Aalsmeer in Olympisch stadion (praalwagen met opschrift 'steun wettig gezag') (1955-09)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Bloemencorso Aalsmeer in Olympisch stadion (praalwagen met opschrift 'steun wettig gezag')"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1955-09"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6eff4aaa-a4be-d714-b760-fe7d4385d42f/NL-HlmNHA_1478_12216B12_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bloemencorso Aalsmeer in Olympisch stadion (praalwagen met opschrift 'steun wettig gezag')"
+        ]
+      },
+      "height": 2279,
+      "width": 2885,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a8c7738e-2f82-e1cf-f1c0-c4ab059471c7\">https://hdl.handle.net/21.12102/a8c7738e-2f82-e1cf-f1c0-c4ab059471c7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6eff4aaa-a4be-d714-b760-fe7d4385d42f/NL-HlmNHA_1478_12216B12_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6eff4aaa-a4be-d714-b760-fe7d4385d42f/NL-HlmNHA_1478_12216B12_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/157ff3a8-1410-f227-da95-a46df07ec056/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2279,
+                "width": 2885,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/157ff3a8-1410-f227-da95-a46df07ec056",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6eff4aaa-a4be-d714-b760-fe7d4385d42f/NL-HlmNHA_1478_12216B12_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

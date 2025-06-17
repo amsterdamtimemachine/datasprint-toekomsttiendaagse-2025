@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/4018ee38-e276-f1a3-c093-b75ae4dbd3b0.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Portret hr Fred Zurel Ondernemings Raad Spectrum Amsterdam (1981-02-20)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Portret hr Fred Zurel Ondernemings Raad Spectrum Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1981-02-20"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Portretten, Spectrum"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/27140"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4018ee38-e276-f1a3-c093-b75ae4dbd3b0/NL-HlmNHA_1478_20409K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret hr Fred Zurel Ondernemings Raad Spectrum Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3ded8534-c2ca-8968-96d0-98c3640a9812\">https://hdl.handle.net/21.12102/3ded8534-c2ca-8968-96d0-98c3640a9812</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4018ee38-e276-f1a3-c093-b75ae4dbd3b0/NL-HlmNHA_1478_20409K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4018ee38-e276-f1a3-c093-b75ae4dbd3b0/NL-HlmNHA_1478_20409K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/dc9286c7-0848-c04b-3395-e48c141cbd0c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/dc9286c7-0848-c04b-3395-e48c141cbd0c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4018ee38-e276-f1a3-c093-b75ae4dbd3b0/NL-HlmNHA_1478_20409K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4018ee38-e276-f1a3-c093-b75ae4dbd3b0/NL-HlmNHA_1478_20409K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret hr Fred Zurel Ondernemings Raad Spectrum Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6022ec22-eecb-771e-d1c5-08c4407dc0d6\">https://hdl.handle.net/21.12102/6022ec22-eecb-771e-d1c5-08c4407dc0d6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4018ee38-e276-f1a3-c093-b75ae4dbd3b0/NL-HlmNHA_1478_20409K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4018ee38-e276-f1a3-c093-b75ae4dbd3b0/NL-HlmNHA_1478_20409K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4983160a-61e0-1efc-2c15-7ad3dc794921/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4983160a-61e0-1efc-2c15-7ad3dc794921",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4018ee38-e276-f1a3-c093-b75ae4dbd3b0/NL-HlmNHA_1478_20409K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4018ee38-e276-f1a3-c093-b75ae4dbd3b0/NL-HlmNHA_1478_20409K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret hr Fred Zurel Ondernemings Raad Spectrum Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8d57b6a1-96f0-eea1-9c1f-712724e8bc74\">https://hdl.handle.net/21.12102/8d57b6a1-96f0-eea1-9c1f-712724e8bc74</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4018ee38-e276-f1a3-c093-b75ae4dbd3b0/NL-HlmNHA_1478_20409K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4018ee38-e276-f1a3-c093-b75ae4dbd3b0/NL-HlmNHA_1478_20409K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c9d42642-92d9-be00-4ef9-b18992782c8d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c9d42642-92d9-be00-4ef9-b18992782c8d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4018ee38-e276-f1a3-c093-b75ae4dbd3b0/NL-HlmNHA_1478_20409K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4018ee38-e276-f1a3-c093-b75ae4dbd3b0/NL-HlmNHA_1478_20409K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret hr Fred Zurel Ondernemings Raad Spectrum Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8f0c8933-5988-9fe7-e25d-7e3478a9b0e2\">https://hdl.handle.net/21.12102/8f0c8933-5988-9fe7-e25d-7e3478a9b0e2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4018ee38-e276-f1a3-c093-b75ae4dbd3b0/NL-HlmNHA_1478_20409K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4018ee38-e276-f1a3-c093-b75ae4dbd3b0/NL-HlmNHA_1478_20409K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b948f339-4e1c-ca91-8f51-22014ec433f0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b948f339-4e1c-ca91-8f51-22014ec433f0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4018ee38-e276-f1a3-c093-b75ae4dbd3b0/NL-HlmNHA_1478_20409K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4018ee38-e276-f1a3-c093-b75ae4dbd3b0/NL-HlmNHA_1478_20409K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret hr Fred Zurel Ondernemings Raad Spectrum Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e36d960b-e5cd-08f0-9496-cacd1d968d1f\">https://hdl.handle.net/21.12102/e36d960b-e5cd-08f0-9496-cacd1d968d1f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4018ee38-e276-f1a3-c093-b75ae4dbd3b0/NL-HlmNHA_1478_20409K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4018ee38-e276-f1a3-c093-b75ae4dbd3b0/NL-HlmNHA_1478_20409K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6bc49de3-b589-22c7-4df0-33b85c8ed7a9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6bc49de3-b589-22c7-4df0-33b85c8ed7a9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4018ee38-e276-f1a3-c093-b75ae4dbd3b0/NL-HlmNHA_1478_20409K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4018ee38-e276-f1a3-c093-b75ae4dbd3b0/NL-HlmNHA_1478_20409K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret hr Fred Zurel Ondernemings Raad Spectrum Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/fac4c08d-2533-c642-b338-b982f842d171\">https://hdl.handle.net/21.12102/fac4c08d-2533-c642-b338-b982f842d171</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4018ee38-e276-f1a3-c093-b75ae4dbd3b0/NL-HlmNHA_1478_20409K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4018ee38-e276-f1a3-c093-b75ae4dbd3b0/NL-HlmNHA_1478_20409K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/bfa9c360-08a9-98cd-66d5-f50dd57bc9bf/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/bfa9c360-08a9-98cd-66d5-f50dd57bc9bf",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4018ee38-e276-f1a3-c093-b75ae4dbd3b0/NL-HlmNHA_1478_20409K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/9d51a343-54d5-0bd7-9e0f-f8362742fcad.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Interieur Bank van Lening Amsterdam (gevelsteen) (1979-07-23)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Interieur Bank van Lening Amsterdam (gevelsteen)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1979-07-23"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9d51a343-54d5-0bd7-9e0f-f8362742fcad/NL-HlmNHA_1478_18196K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interieur Bank van Lening Amsterdam (gevelsteen)"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5bb3f294-ec3d-b984-12c3-8faaae26fdd8\">https://hdl.handle.net/21.12102/5bb3f294-ec3d-b984-12c3-8faaae26fdd8</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9d51a343-54d5-0bd7-9e0f-f8362742fcad/NL-HlmNHA_1478_18196K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9d51a343-54d5-0bd7-9e0f-f8362742fcad/NL-HlmNHA_1478_18196K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4c36345d-f1d0-822b-1953-580028ae5d85/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4c36345d-f1d0-822b-1953-580028ae5d85",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9d51a343-54d5-0bd7-9e0f-f8362742fcad/NL-HlmNHA_1478_18196K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9d51a343-54d5-0bd7-9e0f-f8362742fcad/NL-HlmNHA_1478_18196K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interieur Bank van Lening Amsterdam (gevelsteen)"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/87cd3b86-545f-10a2-9fc9-36d49a66c7b5\">https://hdl.handle.net/21.12102/87cd3b86-545f-10a2-9fc9-36d49a66c7b5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9d51a343-54d5-0bd7-9e0f-f8362742fcad/NL-HlmNHA_1478_18196K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9d51a343-54d5-0bd7-9e0f-f8362742fcad/NL-HlmNHA_1478_18196K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/89e60d5c-7857-b160-23c5-d7e4cfb5a05a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/89e60d5c-7857-b160-23c5-d7e4cfb5a05a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9d51a343-54d5-0bd7-9e0f-f8362742fcad/NL-HlmNHA_1478_18196K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

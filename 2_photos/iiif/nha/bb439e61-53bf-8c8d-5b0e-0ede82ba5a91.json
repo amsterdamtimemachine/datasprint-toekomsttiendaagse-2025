@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/bb439e61-53bf-8c8d-5b0e-0ede82ba5a91.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Verheul autobus op Schiphol (1956-04-03)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Verheul autobus op Schiphol"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1956-04-03"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Reproductie luchtfoto fabriek Verheul"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bb439e61-53bf-8c8d-5b0e-0ede82ba5a91/NL-HlmNHA_1478_13097B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Verheul autobus op Schiphol"
+        ]
+      },
+      "height": 2786,
+      "width": 2136,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6a460295-68e4-9e12-099a-f96bac4a35d0\">https://hdl.handle.net/21.12102/6a460295-68e4-9e12-099a-f96bac4a35d0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bb439e61-53bf-8c8d-5b0e-0ede82ba5a91/NL-HlmNHA_1478_13097B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bb439e61-53bf-8c8d-5b0e-0ede82ba5a91/NL-HlmNHA_1478_13097B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9b926ee3-f26f-ec7a-41e1-16efa2aa1e12/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2786,
+                "width": 2136,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9b926ee3-f26f-ec7a-41e1-16efa2aa1e12",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bb439e61-53bf-8c8d-5b0e-0ede82ba5a91/NL-HlmNHA_1478_13097B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

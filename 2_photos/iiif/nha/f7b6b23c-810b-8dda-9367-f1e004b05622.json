@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/f7b6b23c-810b-8dda-9367-f1e004b05622.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Dhr. P. Huisman, Halfweg (2000-05-29)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Dhr. P. Huisman, Halfweg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2000-05-29"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2367253\">Halfweg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.755,
+            52.3828
+          ]
+        },
+        "properties": {
+          "title": "Halfweg",
+          "url": "http://www.wikidata.org/entity/Q2367253"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7b6b23c-810b-8dda-9367-f1e004b05622/NL-HlmNHA_1478_48237K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dhr. P. Huisman, Halfweg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/010d8dd9-6f43-8274-b386-02e8df19ac86\">https://hdl.handle.net/21.12102/010d8dd9-6f43-8274-b386-02e8df19ac86</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7b6b23c-810b-8dda-9367-f1e004b05622/NL-HlmNHA_1478_48237K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7b6b23c-810b-8dda-9367-f1e004b05622/NL-HlmNHA_1478_48237K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/12d5fa88-53ca-f839-11cc-9944f8456641/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/12d5fa88-53ca-f839-11cc-9944f8456641",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7b6b23c-810b-8dda-9367-f1e004b05622/NL-HlmNHA_1478_48237K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7b6b23c-810b-8dda-9367-f1e004b05622/NL-HlmNHA_1478_48237K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dhr. P. Huisman, Halfweg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2839e155-012f-941f-6fde-740451a99d28\">https://hdl.handle.net/21.12102/2839e155-012f-941f-6fde-740451a99d28</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7b6b23c-810b-8dda-9367-f1e004b05622/NL-HlmNHA_1478_48237K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7b6b23c-810b-8dda-9367-f1e004b05622/NL-HlmNHA_1478_48237K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4e2a3d8b-fde1-bec0-75b2-ed9989ad8ece/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4e2a3d8b-fde1-bec0-75b2-ed9989ad8ece",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7b6b23c-810b-8dda-9367-f1e004b05622/NL-HlmNHA_1478_48237K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7b6b23c-810b-8dda-9367-f1e004b05622/NL-HlmNHA_1478_48237K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dhr. P. Huisman, Halfweg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6b4b95a0-4802-46b6-dbde-a9c15c8e9821\">https://hdl.handle.net/21.12102/6b4b95a0-4802-46b6-dbde-a9c15c8e9821</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7b6b23c-810b-8dda-9367-f1e004b05622/NL-HlmNHA_1478_48237K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7b6b23c-810b-8dda-9367-f1e004b05622/NL-HlmNHA_1478_48237K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d90fb504-a7a1-5e42-828c-37323d4e2e4d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d90fb504-a7a1-5e42-828c-37323d4e2e4d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7b6b23c-810b-8dda-9367-f1e004b05622/NL-HlmNHA_1478_48237K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7b6b23c-810b-8dda-9367-f1e004b05622/NL-HlmNHA_1478_48237K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dhr. P. Huisman, Halfweg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8add5ec7-294e-2be8-913e-c0143e6dee6a\">https://hdl.handle.net/21.12102/8add5ec7-294e-2be8-913e-c0143e6dee6a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7b6b23c-810b-8dda-9367-f1e004b05622/NL-HlmNHA_1478_48237K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7b6b23c-810b-8dda-9367-f1e004b05622/NL-HlmNHA_1478_48237K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6158715d-f56f-f855-29e6-28f4d8bddb66/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6158715d-f56f-f855-29e6-28f4d8bddb66",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7b6b23c-810b-8dda-9367-f1e004b05622/NL-HlmNHA_1478_48237K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7b6b23c-810b-8dda-9367-f1e004b05622/NL-HlmNHA_1478_48237K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dhr. P. Huisman, Halfweg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/da7b3c5e-d5c9-8e0f-206d-db684512a165\">https://hdl.handle.net/21.12102/da7b3c5e-d5c9-8e0f-206d-db684512a165</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7b6b23c-810b-8dda-9367-f1e004b05622/NL-HlmNHA_1478_48237K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7b6b23c-810b-8dda-9367-f1e004b05622/NL-HlmNHA_1478_48237K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/de2815d8-8db2-0c71-a3be-0b78807c65e3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/de2815d8-8db2-0c71-a3be-0b78807c65e3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7b6b23c-810b-8dda-9367-f1e004b05622/NL-HlmNHA_1478_48237K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7b6b23c-810b-8dda-9367-f1e004b05622/NL-HlmNHA_1478_48237K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dhr. P. Huisman, Halfweg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e46d56a8-7ee9-0e83-7bb2-445a4e88ef0a\">https://hdl.handle.net/21.12102/e46d56a8-7ee9-0e83-7bb2-445a4e88ef0a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7b6b23c-810b-8dda-9367-f1e004b05622/NL-HlmNHA_1478_48237K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7b6b23c-810b-8dda-9367-f1e004b05622/NL-HlmNHA_1478_48237K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/22a23999-e094-8b55-e191-a41a4e1e7615/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/22a23999-e094-8b55-e191-a41a4e1e7615",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7b6b23c-810b-8dda-9367-f1e004b05622/NL-HlmNHA_1478_48237K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

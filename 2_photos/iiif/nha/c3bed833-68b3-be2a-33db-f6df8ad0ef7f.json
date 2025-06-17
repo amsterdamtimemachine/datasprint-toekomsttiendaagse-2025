@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/c3bed833-68b3-be2a-33db-f6df8ad0ef7f.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Perspresentatie Winkler Prins 'Audioclopedie voor de jeugd' en Winkler Prins 'Jeugdencyclopedie, Rozengracht, Amsterdam (1980-09-25)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Perspresentatie Winkler Prins 'Audioclopedie voor de jeugd' en Winkler Prins 'Jeugdencyclopedie, Rozengracht, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1980-09-25"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2196486\">Rozengracht</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.87917,
+            52.37278
+          ]
+        },
+        "properties": {
+          "title": "Rozengracht",
+          "url": "http://www.wikidata.org/entity/Q2196486"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c3bed833-68b3-be2a-33db-f6df8ad0ef7f/NL-HlmNHA_1478_19851K01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Perspresentatie Winkler Prins 'Audioclopedie voor de jeugd' en Winkler Prins 'Jeugdencyclopedie, Rozengracht, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/02e14b7e-8fa7-979f-de6f-dd39fcd9a005\">https://hdl.handle.net/21.12102/02e14b7e-8fa7-979f-de6f-dd39fcd9a005</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c3bed833-68b3-be2a-33db-f6df8ad0ef7f/NL-HlmNHA_1478_19851K01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c3bed833-68b3-be2a-33db-f6df8ad0ef7f/NL-HlmNHA_1478_19851K01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b6e3e6da-765a-58b6-6474-25206bc2073a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b6e3e6da-765a-58b6-6474-25206bc2073a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c3bed833-68b3-be2a-33db-f6df8ad0ef7f/NL-HlmNHA_1478_19851K01_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c3bed833-68b3-be2a-33db-f6df8ad0ef7f/NL-HlmNHA_1478_19851K01_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Perspresentatie Winkler Prins 'Audioclopedie voor de jeugd' en Winkler Prins 'Jeugdencyclopedie, Rozengracht, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/25d142d2-f6e3-66d2-d120-115f90e66517\">https://hdl.handle.net/21.12102/25d142d2-f6e3-66d2-d120-115f90e66517</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c3bed833-68b3-be2a-33db-f6df8ad0ef7f/NL-HlmNHA_1478_19851K01_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c3bed833-68b3-be2a-33db-f6df8ad0ef7f/NL-HlmNHA_1478_19851K01_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d5d3f860-0cf2-2a03-1338-544f10cf7127/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d5d3f860-0cf2-2a03-1338-544f10cf7127",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c3bed833-68b3-be2a-33db-f6df8ad0ef7f/NL-HlmNHA_1478_19851K01_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c3bed833-68b3-be2a-33db-f6df8ad0ef7f/NL-HlmNHA_1478_19851K01_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Perspresentatie Winkler Prins 'Audioclopedie voor de jeugd' en Winkler Prins 'Jeugdencyclopedie, Rozengracht, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/501d08e4-e639-905f-c7dc-7ee8499e9d60\">https://hdl.handle.net/21.12102/501d08e4-e639-905f-c7dc-7ee8499e9d60</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c3bed833-68b3-be2a-33db-f6df8ad0ef7f/NL-HlmNHA_1478_19851K01_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c3bed833-68b3-be2a-33db-f6df8ad0ef7f/NL-HlmNHA_1478_19851K01_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4174a2b7-09c4-f685-9369-3fc5a672505b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4174a2b7-09c4-f685-9369-3fc5a672505b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c3bed833-68b3-be2a-33db-f6df8ad0ef7f/NL-HlmNHA_1478_19851K01_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c3bed833-68b3-be2a-33db-f6df8ad0ef7f/NL-HlmNHA_1478_19851K01_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Perspresentatie Winkler Prins 'Audioclopedie voor de jeugd' en Winkler Prins 'Jeugdencyclopedie, Rozengracht, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/91e0997b-85e0-529c-6d57-3e8934fc9119\">https://hdl.handle.net/21.12102/91e0997b-85e0-529c-6d57-3e8934fc9119</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c3bed833-68b3-be2a-33db-f6df8ad0ef7f/NL-HlmNHA_1478_19851K01_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c3bed833-68b3-be2a-33db-f6df8ad0ef7f/NL-HlmNHA_1478_19851K01_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/13f24a35-1965-f36b-56cc-6fbd9cae1f2f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/13f24a35-1965-f36b-56cc-6fbd9cae1f2f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c3bed833-68b3-be2a-33db-f6df8ad0ef7f/NL-HlmNHA_1478_19851K01_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c3bed833-68b3-be2a-33db-f6df8ad0ef7f/NL-HlmNHA_1478_19851K01_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Perspresentatie Winkler Prins 'Audioclopedie voor de jeugd' en Winkler Prins 'Jeugdencyclopedie, Rozengracht, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d443e85d-e898-bff8-4696-44b1efbea653\">https://hdl.handle.net/21.12102/d443e85d-e898-bff8-4696-44b1efbea653</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c3bed833-68b3-be2a-33db-f6df8ad0ef7f/NL-HlmNHA_1478_19851K01_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c3bed833-68b3-be2a-33db-f6df8ad0ef7f/NL-HlmNHA_1478_19851K01_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9b1197ce-1812-ea60-5e19-3d51dd89138b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9b1197ce-1812-ea60-5e19-3d51dd89138b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c3bed833-68b3-be2a-33db-f6df8ad0ef7f/NL-HlmNHA_1478_19851K01_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c3bed833-68b3-be2a-33db-f6df8ad0ef7f/NL-HlmNHA_1478_19851K01_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Perspresentatie Winkler Prins 'Audioclopedie voor de jeugd' en Winkler Prins 'Jeugdencyclopedie, Rozengracht, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d80311c2-2d42-0197-d562-c9c3273e1a24\">https://hdl.handle.net/21.12102/d80311c2-2d42-0197-d562-c9c3273e1a24</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c3bed833-68b3-be2a-33db-f6df8ad0ef7f/NL-HlmNHA_1478_19851K01_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c3bed833-68b3-be2a-33db-f6df8ad0ef7f/NL-HlmNHA_1478_19851K01_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f7bd55da-59d6-cb4b-8be4-6132cac1f878/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f7bd55da-59d6-cb4b-8be4-6132cac1f878",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c3bed833-68b3-be2a-33db-f6df8ad0ef7f/NL-HlmNHA_1478_19851K01_03/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

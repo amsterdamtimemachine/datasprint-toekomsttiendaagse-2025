@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/ec1fecf8-ecc8-9119-7ef3-8c68760c56fb.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Brug Halfweg - Zwanenburg (1978-12-20)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Brug Halfweg - Zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1978-12-20"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec1fecf8-ecc8-9119-7ef3-8c68760c56fb/NL-HlmNHA_1478_17488K00_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Brug Halfweg - Zwanenburg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6efda896-b4eb-9844-4de7-06f355b235a1\">https://hdl.handle.net/21.12102/6efda896-b4eb-9844-4de7-06f355b235a1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec1fecf8-ecc8-9119-7ef3-8c68760c56fb/NL-HlmNHA_1478_17488K00_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec1fecf8-ecc8-9119-7ef3-8c68760c56fb/NL-HlmNHA_1478_17488K00_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/50567a99-3f43-f48b-ede5-0539367fde83/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/50567a99-3f43-f48b-ede5-0539367fde83",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec1fecf8-ecc8-9119-7ef3-8c68760c56fb/NL-HlmNHA_1478_17488K00_12/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec1fecf8-ecc8-9119-7ef3-8c68760c56fb/NL-HlmNHA_1478_17488K00_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Brug Halfweg - Zwanenburg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/977e4c97-5a78-648e-479b-45888f2c1cee\">https://hdl.handle.net/21.12102/977e4c97-5a78-648e-479b-45888f2c1cee</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec1fecf8-ecc8-9119-7ef3-8c68760c56fb/NL-HlmNHA_1478_17488K00_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec1fecf8-ecc8-9119-7ef3-8c68760c56fb/NL-HlmNHA_1478_17488K00_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/23933ae6-c765-13f2-ee62-de1625ed0d9e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/23933ae6-c765-13f2-ee62-de1625ed0d9e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec1fecf8-ecc8-9119-7ef3-8c68760c56fb/NL-HlmNHA_1478_17488K00_10/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec1fecf8-ecc8-9119-7ef3-8c68760c56fb/NL-HlmNHA_1478_17488K00_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Brug Halfweg - Zwanenburg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9fcfec23-7620-eb70-75e5-12a0d7fafd9e\">https://hdl.handle.net/21.12102/9fcfec23-7620-eb70-75e5-12a0d7fafd9e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec1fecf8-ecc8-9119-7ef3-8c68760c56fb/NL-HlmNHA_1478_17488K00_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec1fecf8-ecc8-9119-7ef3-8c68760c56fb/NL-HlmNHA_1478_17488K00_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b7f34d69-25a1-58b9-9f5b-d3c9c7f1fee2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b7f34d69-25a1-58b9-9f5b-d3c9c7f1fee2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec1fecf8-ecc8-9119-7ef3-8c68760c56fb/NL-HlmNHA_1478_17488K00_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec1fecf8-ecc8-9119-7ef3-8c68760c56fb/NL-HlmNHA_1478_17488K00_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Brug Halfweg - Zwanenburg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b922672c-afba-77fb-cb0a-648ee9475db6\">https://hdl.handle.net/21.12102/b922672c-afba-77fb-cb0a-648ee9475db6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec1fecf8-ecc8-9119-7ef3-8c68760c56fb/NL-HlmNHA_1478_17488K00_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec1fecf8-ecc8-9119-7ef3-8c68760c56fb/NL-HlmNHA_1478_17488K00_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/11fd1e21-0e50-2085-85dc-00e8de156993/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/11fd1e21-0e50-2085-85dc-00e8de156993",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec1fecf8-ecc8-9119-7ef3-8c68760c56fb/NL-HlmNHA_1478_17488K00_08/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec1fecf8-ecc8-9119-7ef3-8c68760c56fb/NL-HlmNHA_1478_17488K00_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Brug Halfweg - Zwanenburg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e3c7b266-83b6-1602-041a-b73415a3647d\">https://hdl.handle.net/21.12102/e3c7b266-83b6-1602-041a-b73415a3647d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec1fecf8-ecc8-9119-7ef3-8c68760c56fb/NL-HlmNHA_1478_17488K00_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec1fecf8-ecc8-9119-7ef3-8c68760c56fb/NL-HlmNHA_1478_17488K00_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/82e87604-cda6-382e-a479-08fc5408836d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/82e87604-cda6-382e-a479-08fc5408836d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec1fecf8-ecc8-9119-7ef3-8c68760c56fb/NL-HlmNHA_1478_17488K00_11/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec1fecf8-ecc8-9119-7ef3-8c68760c56fb/NL-HlmNHA_1478_17488K00_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Brug Halfweg - Zwanenburg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ea54db4e-8aa3-4ee8-8b3e-08a9f1ae085f\">https://hdl.handle.net/21.12102/ea54db4e-8aa3-4ee8-8b3e-08a9f1ae085f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec1fecf8-ecc8-9119-7ef3-8c68760c56fb/NL-HlmNHA_1478_17488K00_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec1fecf8-ecc8-9119-7ef3-8c68760c56fb/NL-HlmNHA_1478_17488K00_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c37482f4-d04c-e9fc-364c-550dc1ba88f2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c37482f4-d04c-e9fc-364c-550dc1ba88f2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec1fecf8-ecc8-9119-7ef3-8c68760c56fb/NL-HlmNHA_1478_17488K00_09/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/ba3ba78c-07e3-c49c-2770-104567323bbf.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Receptie buurthuis badhoevedorp (1985-01-05)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Receptie buurthuis badhoevedorp"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1985-01-05"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q568337\">Badhoevedorp</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Recepties"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/26603"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7803,
+            52.3381
+          ]
+        },
+        "properties": {
+          "title": "Badhoevedorp",
+          "url": "http://www.wikidata.org/entity/Q568337"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba3ba78c-07e3-c49c-2770-104567323bbf/NL-HlmNHA_1478_24782K00_38/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Receptie buurthuis badhoevedorp"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3982dee1-3196-b1f6-91d9-c9a9845135f7\">https://hdl.handle.net/21.12102/3982dee1-3196-b1f6-91d9-c9a9845135f7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba3ba78c-07e3-c49c-2770-104567323bbf/NL-HlmNHA_1478_24782K00_38/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba3ba78c-07e3-c49c-2770-104567323bbf/NL-HlmNHA_1478_24782K00_38/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/97fd7650-fd22-77fe-3c25-d3280e7a84ef/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/97fd7650-fd22-77fe-3c25-d3280e7a84ef",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba3ba78c-07e3-c49c-2770-104567323bbf/NL-HlmNHA_1478_24782K00_38/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba3ba78c-07e3-c49c-2770-104567323bbf/NL-HlmNHA_1478_24782K00_42/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Receptie buurthuis badhoevedorp"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/860cb669-a11b-e0de-6668-dcdbf1ebb2f5\">https://hdl.handle.net/21.12102/860cb669-a11b-e0de-6668-dcdbf1ebb2f5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba3ba78c-07e3-c49c-2770-104567323bbf/NL-HlmNHA_1478_24782K00_42/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba3ba78c-07e3-c49c-2770-104567323bbf/NL-HlmNHA_1478_24782K00_42/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/95e44d87-e6f3-3c3f-7311-84107aeb09ff/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/95e44d87-e6f3-3c3f-7311-84107aeb09ff",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba3ba78c-07e3-c49c-2770-104567323bbf/NL-HlmNHA_1478_24782K00_42/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba3ba78c-07e3-c49c-2770-104567323bbf/NL-HlmNHA_1478_24782K00_40/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Receptie buurthuis badhoevedorp"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ac3f4d5a-bb20-1cc4-6510-10739a5adcfc\">https://hdl.handle.net/21.12102/ac3f4d5a-bb20-1cc4-6510-10739a5adcfc</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba3ba78c-07e3-c49c-2770-104567323bbf/NL-HlmNHA_1478_24782K00_40/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba3ba78c-07e3-c49c-2770-104567323bbf/NL-HlmNHA_1478_24782K00_40/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/89e155df-73c1-a34d-9f7d-334783c98213/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/89e155df-73c1-a34d-9f7d-334783c98213",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba3ba78c-07e3-c49c-2770-104567323bbf/NL-HlmNHA_1478_24782K00_40/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba3ba78c-07e3-c49c-2770-104567323bbf/NL-HlmNHA_1478_24782K00_41/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Receptie buurthuis badhoevedorp"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c903f792-1a52-139d-a265-6a37ac569362\">https://hdl.handle.net/21.12102/c903f792-1a52-139d-a265-6a37ac569362</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba3ba78c-07e3-c49c-2770-104567323bbf/NL-HlmNHA_1478_24782K00_41/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba3ba78c-07e3-c49c-2770-104567323bbf/NL-HlmNHA_1478_24782K00_41/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c405b99c-2ce6-a49b-4447-ec312930d33a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c405b99c-2ce6-a49b-4447-ec312930d33a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba3ba78c-07e3-c49c-2770-104567323bbf/NL-HlmNHA_1478_24782K00_41/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba3ba78c-07e3-c49c-2770-104567323bbf/NL-HlmNHA_1478_24782K00_39/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Receptie buurthuis badhoevedorp"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ebb9f769-a95e-18ad-c50e-e5e198737e25\">https://hdl.handle.net/21.12102/ebb9f769-a95e-18ad-c50e-e5e198737e25</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba3ba78c-07e3-c49c-2770-104567323bbf/NL-HlmNHA_1478_24782K00_39/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba3ba78c-07e3-c49c-2770-104567323bbf/NL-HlmNHA_1478_24782K00_39/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1a6a2660-5486-6a29-907c-f68326293216/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1a6a2660-5486-6a29-907c-f68326293216",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba3ba78c-07e3-c49c-2770-104567323bbf/NL-HlmNHA_1478_24782K00_39/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

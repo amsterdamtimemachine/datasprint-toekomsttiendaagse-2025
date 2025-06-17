@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/59f93738-9faf-10cd-56a8-de95b860b3fa.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Sloop van panden in Amsterdam, omgeving Waterlooplein (1978-02-28)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Sloop van panden in Amsterdam, omgeving Waterlooplein"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1978-02-28"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59f93738-9faf-10cd-56a8-de95b860b3fa/NL-HlmNHA_1478_16491K01_33/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Sloop van panden in Amsterdam, omgeving Waterlooplein"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6844deff-902d-ce7f-429b-6f4c63d006f7\">https://hdl.handle.net/21.12102/6844deff-902d-ce7f-429b-6f4c63d006f7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59f93738-9faf-10cd-56a8-de95b860b3fa/NL-HlmNHA_1478_16491K01_33/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59f93738-9faf-10cd-56a8-de95b860b3fa/NL-HlmNHA_1478_16491K01_33/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/12e9516c-4c92-98dc-cf2e-b81747f694dc/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/12e9516c-4c92-98dc-cf2e-b81747f694dc",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59f93738-9faf-10cd-56a8-de95b860b3fa/NL-HlmNHA_1478_16491K01_33/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59f93738-9faf-10cd-56a8-de95b860b3fa/NL-HlmNHA_1478_16491K01_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Sloop van panden in Amsterdam, omgeving Waterlooplein"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/87c580c9-90b8-53c5-d354-7f4673108717\">https://hdl.handle.net/21.12102/87c580c9-90b8-53c5-d354-7f4673108717</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59f93738-9faf-10cd-56a8-de95b860b3fa/NL-HlmNHA_1478_16491K01_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59f93738-9faf-10cd-56a8-de95b860b3fa/NL-HlmNHA_1478_16491K01_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fe994901-562b-2396-95bb-5760b7a6caf7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fe994901-562b-2396-95bb-5760b7a6caf7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59f93738-9faf-10cd-56a8-de95b860b3fa/NL-HlmNHA_1478_16491K01_35/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59f93738-9faf-10cd-56a8-de95b860b3fa/NL-HlmNHA_1478_16491K01_34/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Sloop van panden in Amsterdam, omgeving Waterlooplein"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/95519e9f-c473-fc62-b46f-9cfff745de78\">https://hdl.handle.net/21.12102/95519e9f-c473-fc62-b46f-9cfff745de78</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59f93738-9faf-10cd-56a8-de95b860b3fa/NL-HlmNHA_1478_16491K01_34/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59f93738-9faf-10cd-56a8-de95b860b3fa/NL-HlmNHA_1478_16491K01_34/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5ed80624-127f-7098-568c-e8b9f5b5add0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5ed80624-127f-7098-568c-e8b9f5b5add0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59f93738-9faf-10cd-56a8-de95b860b3fa/NL-HlmNHA_1478_16491K01_34/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

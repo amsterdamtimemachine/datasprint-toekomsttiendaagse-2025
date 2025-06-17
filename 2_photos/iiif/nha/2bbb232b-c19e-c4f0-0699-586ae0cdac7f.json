@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/2bbb232b-c19e-c4f0-0699-586ae0cdac7f.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Beau van Erven Dorens (2000-10-18)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Beau van Erven Dorens"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2000-10-18"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bbb232b-c19e-c4f0-0699-586ae0cdac7f/NL-HlmNHA_1478_48703K00_40/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Beau van Erven Dorens"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/156e4b1f-5861-cda8-4486-c1cd68a22768\">https://hdl.handle.net/21.12102/156e4b1f-5861-cda8-4486-c1cd68a22768</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bbb232b-c19e-c4f0-0699-586ae0cdac7f/NL-HlmNHA_1478_48703K00_40/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bbb232b-c19e-c4f0-0699-586ae0cdac7f/NL-HlmNHA_1478_48703K00_40/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/36f1f2fb-fcf7-62a8-f1a6-326844cae713/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/36f1f2fb-fcf7-62a8-f1a6-326844cae713",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bbb232b-c19e-c4f0-0699-586ae0cdac7f/NL-HlmNHA_1478_48703K00_40/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bbb232b-c19e-c4f0-0699-586ae0cdac7f/NL-HlmNHA_1478_48703K00_37/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Beau van Erven Dorens"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/70a27d50-1a80-6a00-b7d9-a49e2370af5c\">https://hdl.handle.net/21.12102/70a27d50-1a80-6a00-b7d9-a49e2370af5c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bbb232b-c19e-c4f0-0699-586ae0cdac7f/NL-HlmNHA_1478_48703K00_37/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bbb232b-c19e-c4f0-0699-586ae0cdac7f/NL-HlmNHA_1478_48703K00_37/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/415dfb42-37e9-0e9a-da95-eaf655e1d57e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/415dfb42-37e9-0e9a-da95-eaf655e1d57e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bbb232b-c19e-c4f0-0699-586ae0cdac7f/NL-HlmNHA_1478_48703K00_37/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bbb232b-c19e-c4f0-0699-586ae0cdac7f/NL-HlmNHA_1478_48703K00_39/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Beau van Erven Dorens"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/bd88841d-2462-cf9a-ec26-10b7d6cb60d0\">https://hdl.handle.net/21.12102/bd88841d-2462-cf9a-ec26-10b7d6cb60d0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bbb232b-c19e-c4f0-0699-586ae0cdac7f/NL-HlmNHA_1478_48703K00_39/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bbb232b-c19e-c4f0-0699-586ae0cdac7f/NL-HlmNHA_1478_48703K00_39/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/392c1b61-ab61-186e-f587-08cb820cb4a1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/392c1b61-ab61-186e-f587-08cb820cb4a1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bbb232b-c19e-c4f0-0699-586ae0cdac7f/NL-HlmNHA_1478_48703K00_39/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bbb232b-c19e-c4f0-0699-586ae0cdac7f/NL-HlmNHA_1478_48703K00_41/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Beau van Erven Dorens"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c1bbbd71-b4e3-797a-b94b-d45c113a797f\">https://hdl.handle.net/21.12102/c1bbbd71-b4e3-797a-b94b-d45c113a797f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bbb232b-c19e-c4f0-0699-586ae0cdac7f/NL-HlmNHA_1478_48703K00_41/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bbb232b-c19e-c4f0-0699-586ae0cdac7f/NL-HlmNHA_1478_48703K00_41/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4f8fde85-839f-90b9-320a-72e67fd78443/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4f8fde85-839f-90b9-320a-72e67fd78443",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bbb232b-c19e-c4f0-0699-586ae0cdac7f/NL-HlmNHA_1478_48703K00_41/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bbb232b-c19e-c4f0-0699-586ae0cdac7f/NL-HlmNHA_1478_48703K00_38/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Beau van Erven Dorens"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f3600914-90d9-57d5-1b43-8cd9ea80bd88\">https://hdl.handle.net/21.12102/f3600914-90d9-57d5-1b43-8cd9ea80bd88</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bbb232b-c19e-c4f0-0699-586ae0cdac7f/NL-HlmNHA_1478_48703K00_38/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bbb232b-c19e-c4f0-0699-586ae0cdac7f/NL-HlmNHA_1478_48703K00_38/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d6359fa0-1f6d-9265-c9be-f296d2c94c1b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d6359fa0-1f6d-9265-c9be-f296d2c94c1b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bbb232b-c19e-c4f0-0699-586ae0cdac7f/NL-HlmNHA_1478_48703K00_38/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

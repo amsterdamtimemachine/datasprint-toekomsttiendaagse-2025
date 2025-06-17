@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/4694f4a8-5a08-0d1c-1056-927ffbbd1951.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Ext. Hotel Paap Amsterdam (1979-08-21)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Ext. Hotel Paap Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1979-08-21"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Hotels"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/28462"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4694f4a8-5a08-0d1c-1056-927ffbbd1951/NL-HlmNHA_1478_18318K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ext. Hotel Paap Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/69368612-3996-01a0-37ba-28d55a65a315\">https://hdl.handle.net/21.12102/69368612-3996-01a0-37ba-28d55a65a315</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4694f4a8-5a08-0d1c-1056-927ffbbd1951/NL-HlmNHA_1478_18318K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4694f4a8-5a08-0d1c-1056-927ffbbd1951/NL-HlmNHA_1478_18318K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f57e9cd5-6cb8-37ef-3670-e837af7943bf/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f57e9cd5-6cb8-37ef-3670-e837af7943bf",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4694f4a8-5a08-0d1c-1056-927ffbbd1951/NL-HlmNHA_1478_18318K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4694f4a8-5a08-0d1c-1056-927ffbbd1951/NL-HlmNHA_1478_18318K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ext. Hotel Paap Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ab060d05-8220-d5b5-ef95-05a23ea653c1\">https://hdl.handle.net/21.12102/ab060d05-8220-d5b5-ef95-05a23ea653c1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4694f4a8-5a08-0d1c-1056-927ffbbd1951/NL-HlmNHA_1478_18318K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4694f4a8-5a08-0d1c-1056-927ffbbd1951/NL-HlmNHA_1478_18318K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5fca9bd9-02df-57e1-3842-3a2a24a5ef4a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5fca9bd9-02df-57e1-3842-3a2a24a5ef4a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4694f4a8-5a08-0d1c-1056-927ffbbd1951/NL-HlmNHA_1478_18318K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4694f4a8-5a08-0d1c-1056-927ffbbd1951/NL-HlmNHA_1478_18318K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ext. Hotel Paap Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e6efda87-e638-74b2-0622-ded8e8a1b5e3\">https://hdl.handle.net/21.12102/e6efda87-e638-74b2-0622-ded8e8a1b5e3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4694f4a8-5a08-0d1c-1056-927ffbbd1951/NL-HlmNHA_1478_18318K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4694f4a8-5a08-0d1c-1056-927ffbbd1951/NL-HlmNHA_1478_18318K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8033b5f8-79d3-0a1f-8e64-f96d19ee7f30/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8033b5f8-79d3-0a1f-8e64-f96d19ee7f30",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4694f4a8-5a08-0d1c-1056-927ffbbd1951/NL-HlmNHA_1478_18318K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4694f4a8-5a08-0d1c-1056-927ffbbd1951/NL-HlmNHA_1478_18318K00_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ext. Hotel Paap Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/efb632ba-8017-c6c7-ca3a-e6ef0a8dda85\">https://hdl.handle.net/21.12102/efb632ba-8017-c6c7-ca3a-e6ef0a8dda85</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4694f4a8-5a08-0d1c-1056-927ffbbd1951/NL-HlmNHA_1478_18318K00_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4694f4a8-5a08-0d1c-1056-927ffbbd1951/NL-HlmNHA_1478_18318K00_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/932bde29-2380-94a6-7b29-60b4a4fd9eba/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/932bde29-2380-94a6-7b29-60b4a4fd9eba",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4694f4a8-5a08-0d1c-1056-927ffbbd1951/NL-HlmNHA_1478_18318K00_12/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

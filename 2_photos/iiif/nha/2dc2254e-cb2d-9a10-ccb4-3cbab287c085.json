@@ -1,0 +1,626 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/2dc2254e-cb2d-9a10-ccb4-3cbab287c085.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Watervervuiling Zaandam (1965-10-11)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Watervervuiling Zaandam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1965-10-11"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q15883995\">Wilhelminasluis</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Water"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/25179"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.825622,
+            52.439358
+          ]
+        },
+        "properties": {
+          "title": "Wilhelminasluis",
+          "url": "http://www.wikidata.org/entity/Q15883995"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Watervervuiling Zaandam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/19cdbb7e-342e-28d9-bdfb-d6972e3c5705\">https://hdl.handle.net/21.12102/19cdbb7e-342e-28d9-bdfb-d6972e3c5705</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/724c9313-cb82-846b-302a-eac4e3fc2457/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/724c9313-cb82-846b-302a-eac4e3fc2457",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Watervervuiling Zaandam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/26392ff1-70a0-b390-bccb-d7c97413dfeb\">https://hdl.handle.net/21.12102/26392ff1-70a0-b390-bccb-d7c97413dfeb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0fbf94da-0ebf-0a63-ed61-bc586e9b4b8e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0fbf94da-0ebf-0a63-ed61-bc586e9b4b8e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Watervervuiling Zaandam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2bfca747-75ba-c460-fb3f-577cf9d58fbe\">https://hdl.handle.net/21.12102/2bfca747-75ba-c460-fb3f-577cf9d58fbe</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/96321be7-4aa5-5bfb-c8a4-f6b29358fef2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/96321be7-4aa5-5bfb-c8a4-f6b29358fef2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Watervervuiling Zaandam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/337e3bf2-223c-858b-2b54-cde00366259f\">https://hdl.handle.net/21.12102/337e3bf2-223c-858b-2b54-cde00366259f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/185846a4-76ff-7ed0-85f5-88956d61c85e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/185846a4-76ff-7ed0-85f5-88956d61c85e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_09/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Watervervuiling Zaandam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4213251c-813d-3b73-6e03-5fd5100ca7da\">https://hdl.handle.net/21.12102/4213251c-813d-3b73-6e03-5fd5100ca7da</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b39bd3ea-0d3e-0fbc-bc7e-b8c54b27e957/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b39bd3ea-0d3e-0fbc-bc7e-b8c54b27e957",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_10/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Watervervuiling Zaandam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a23ace53-51b4-4bd0-19d9-c1ed8c3b4f1e\">https://hdl.handle.net/21.12102/a23ace53-51b4-4bd0-19d9-c1ed8c3b4f1e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/58049473-db93-4c98-31bb-f0041239693b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/58049473-db93-4c98-31bb-f0041239693b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_08/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Watervervuiling Zaandam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a2c22973-0595-aa5c-af3e-1accd771aaaa\">https://hdl.handle.net/21.12102/a2c22973-0595-aa5c-af3e-1accd771aaaa</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1a44b0d2-5a8e-96ee-e62a-9b9f191cc4fe/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1a44b0d2-5a8e-96ee-e62a-9b9f191cc4fe",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Watervervuiling Zaandam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a7b00f4f-2f15-acb9-46bc-ae8a3f05294c\">https://hdl.handle.net/21.12102/a7b00f4f-2f15-acb9-46bc-ae8a3f05294c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e6708a7b-c8f8-064a-e00d-8a303a1e716f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e6708a7b-c8f8-064a-e00d-8a303a1e716f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Watervervuiling Zaandam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/beda25f9-9a63-e74e-329b-04e3ddcbe654\">https://hdl.handle.net/21.12102/beda25f9-9a63-e74e-329b-04e3ddcbe654</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9588f251-5359-08e5-96a5-46d330ed8e14/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9588f251-5359-08e5-96a5-46d330ed8e14",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Watervervuiling Zaandam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/dd2a938a-1f56-aee1-8b6a-b73a695c11ee\">https://hdl.handle.net/21.12102/dd2a938a-1f56-aee1-8b6a-b73a695c11ee</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a96b5dbc-bbf5-f0f8-d90a-73801d411f46/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a96b5dbc-bbf5-f0f8-d90a-73801d411f46",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2dc2254e-cb2d-9a10-ccb4-3cbab287c085/NL-HlmNHA_1478_03555K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

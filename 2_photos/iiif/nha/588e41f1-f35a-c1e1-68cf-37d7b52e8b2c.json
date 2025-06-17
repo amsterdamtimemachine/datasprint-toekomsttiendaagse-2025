@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/588e41f1-f35a-c1e1-68cf-37d7b52e8b2c.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Stadsgezicht Amsterdam met Singel hoek Brouwersgracht, de torens van de Posthoornkerk en de engel bovenop Haarlemmerstraat 2. (1956-05)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Stadsgezicht Amsterdam met Singel hoek Brouwersgracht, de torens van de Posthoornkerk en de engel bovenop Haarlemmerstraat 2."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1956-05"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2575400\">Brouwersgracht</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.88917,
+            52.37972
+          ]
+        },
+        "properties": {
+          "title": "Brouwersgracht",
+          "url": "http://www.wikidata.org/entity/Q2575400"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/588e41f1-f35a-c1e1-68cf-37d7b52e8b2c/NL-HlmNHA_1478_01507A00_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Stadsgezicht Amsterdam met Singel hoek Brouwersgracht, de torens van de Posthoornkerk en de engel bovenop Haarlemmerstraat 2."
+        ]
+      },
+      "height": 2575,
+      "width": 2575,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6ebe20d1-d4f9-e37f-50ee-e72b42dd6d3e\">https://hdl.handle.net/21.12102/6ebe20d1-d4f9-e37f-50ee-e72b42dd6d3e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/588e41f1-f35a-c1e1-68cf-37d7b52e8b2c/NL-HlmNHA_1478_01507A00_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/588e41f1-f35a-c1e1-68cf-37d7b52e8b2c/NL-HlmNHA_1478_01507A00_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/60dc5ea4-9e9b-fd20-955a-23df223395db/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2575,
+                "width": 2575,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/60dc5ea4-9e9b-fd20-955a-23df223395db",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/588e41f1-f35a-c1e1-68cf-37d7b52e8b2c/NL-HlmNHA_1478_01507A00_12/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

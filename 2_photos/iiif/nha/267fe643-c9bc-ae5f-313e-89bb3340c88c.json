@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/267fe643-c9bc-ae5f-313e-89bb3340c88c.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Project LVB Amsterdam - Sloten (1980-04-14)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Project LVB Amsterdam - Sloten"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1980-04-14"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "De Rooy"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/267fe643-c9bc-ae5f-313e-89bb3340c88c/NL-HlmNHA_1478_21522B01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Project LVB Amsterdam - Sloten"
+        ]
+      },
+      "height": 1314,
+      "width": 1276,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3ab48bd7-2291-a1e9-b2bf-974d158e501d\">https://hdl.handle.net/21.12102/3ab48bd7-2291-a1e9-b2bf-974d158e501d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/267fe643-c9bc-ae5f-313e-89bb3340c88c/NL-HlmNHA_1478_21522B01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/267fe643-c9bc-ae5f-313e-89bb3340c88c/NL-HlmNHA_1478_21522B01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9d9de3a3-9293-6604-a230-802ee7938831/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1314,
+                "width": 1276,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9d9de3a3-9293-6604-a230-802ee7938831",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/267fe643-c9bc-ae5f-313e-89bb3340c88c/NL-HlmNHA_1478_21522B01_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/267fe643-c9bc-ae5f-313e-89bb3340c88c/NL-HlmNHA_1478_21522B02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Project LVB Amsterdam - Sloten"
+        ]
+      },
+      "height": 1314,
+      "width": 1270,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3e7cbbbc-5669-9ad4-7bd3-6e113aeac1f9\">https://hdl.handle.net/21.12102/3e7cbbbc-5669-9ad4-7bd3-6e113aeac1f9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/267fe643-c9bc-ae5f-313e-89bb3340c88c/NL-HlmNHA_1478_21522B02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/267fe643-c9bc-ae5f-313e-89bb3340c88c/NL-HlmNHA_1478_21522B02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f98238a4-12b1-938b-6ccb-0934d4b5cb01/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1314,
+                "width": 1270,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f98238a4-12b1-938b-6ccb-0934d4b5cb01",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/267fe643-c9bc-ae5f-313e-89bb3340c88c/NL-HlmNHA_1478_21522B02_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

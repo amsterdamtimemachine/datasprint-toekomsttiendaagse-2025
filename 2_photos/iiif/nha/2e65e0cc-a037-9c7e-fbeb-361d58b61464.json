@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/2e65e0cc-a037-9c7e-fbeb-361d58b61464.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "RAI stand bussen Verheul AEC Carrosseriefabriek Waddinxveen (1962-02-22)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "RAI stand bussen Verheul AEC Carrosseriefabriek Waddinxveen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1962-02-22"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2e65e0cc-a037-9c7e-fbeb-361d58b61464/NL-HlmNHA_1478_19223B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "RAI stand bussen Verheul AEC Carrosseriefabriek Waddinxveen"
+        ]
+      },
+      "height": 2238,
+      "width": 2499,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1ce1c4a6-0b42-ed56-df4e-054fc7bea7df\">https://hdl.handle.net/21.12102/1ce1c4a6-0b42-ed56-df4e-054fc7bea7df</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2e65e0cc-a037-9c7e-fbeb-361d58b61464/NL-HlmNHA_1478_19223B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2e65e0cc-a037-9c7e-fbeb-361d58b61464/NL-HlmNHA_1478_19223B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a6ffe475-e7f7-be5f-9462-8666139b61e4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2238,
+                "width": 2499,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a6ffe475-e7f7-be5f-9462-8666139b61e4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2e65e0cc-a037-9c7e-fbeb-361d58b61464/NL-HlmNHA_1478_19223B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

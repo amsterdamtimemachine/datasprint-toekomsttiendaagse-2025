@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/caca12dc-4ea5-49a8-aa6c-b1e247a81e46.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Overdracht gemaal Rijnland Halfweg (1986-09-28)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Overdracht gemaal Rijnland Halfweg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1986-09-28"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2367253\">Halfweg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Overdracht"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.755,
+            52.3828
+          ]
+        },
+        "properties": {
+          "title": "Halfweg",
+          "url": "http://www.wikidata.org/entity/Q2367253"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/caca12dc-4ea5-49a8-aa6c-b1e247a81e46/NL-HlmNHA_1478_26812K00_38/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Overdracht gemaal Rijnland Halfweg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/27147b92-c9d4-3512-0f2b-800845b437b1\">https://hdl.handle.net/21.12102/27147b92-c9d4-3512-0f2b-800845b437b1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/caca12dc-4ea5-49a8-aa6c-b1e247a81e46/NL-HlmNHA_1478_26812K00_38/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/caca12dc-4ea5-49a8-aa6c-b1e247a81e46/NL-HlmNHA_1478_26812K00_38/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/94052963-e740-9e59-1c13-a12975db3d96/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/94052963-e740-9e59-1c13-a12975db3d96",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/caca12dc-4ea5-49a8-aa6c-b1e247a81e46/NL-HlmNHA_1478_26812K00_38/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/caca12dc-4ea5-49a8-aa6c-b1e247a81e46/NL-HlmNHA_1478_26812K00_36/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Overdracht gemaal Rijnland Halfweg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b5f7a71c-adf0-81f8-d93d-d005375c2bd6\">https://hdl.handle.net/21.12102/b5f7a71c-adf0-81f8-d93d-d005375c2bd6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/caca12dc-4ea5-49a8-aa6c-b1e247a81e46/NL-HlmNHA_1478_26812K00_36/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/caca12dc-4ea5-49a8-aa6c-b1e247a81e46/NL-HlmNHA_1478_26812K00_36/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4ef31f1b-1fc4-c173-b75b-c67625f65714/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4ef31f1b-1fc4-c173-b75b-c67625f65714",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/caca12dc-4ea5-49a8-aa6c-b1e247a81e46/NL-HlmNHA_1478_26812K00_36/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/caca12dc-4ea5-49a8-aa6c-b1e247a81e46/NL-HlmNHA_1478_26812K00_37/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Overdracht gemaal Rijnland Halfweg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d1eae767-2f32-e557-fa81-26b8f16e9053\">https://hdl.handle.net/21.12102/d1eae767-2f32-e557-fa81-26b8f16e9053</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/caca12dc-4ea5-49a8-aa6c-b1e247a81e46/NL-HlmNHA_1478_26812K00_37/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/caca12dc-4ea5-49a8-aa6c-b1e247a81e46/NL-HlmNHA_1478_26812K00_37/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1f2db77a-c720-8bcb-e235-7adad9744eaa/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1f2db77a-c720-8bcb-e235-7adad9744eaa",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/caca12dc-4ea5-49a8-aa6c-b1e247a81e46/NL-HlmNHA_1478_26812K00_37/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/caca12dc-4ea5-49a8-aa6c-b1e247a81e46/NL-HlmNHA_1478_26812K00_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Overdracht gemaal Rijnland Halfweg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/edab94b8-d30b-a08d-7e60-6a7d94a6dfb3\">https://hdl.handle.net/21.12102/edab94b8-d30b-a08d-7e60-6a7d94a6dfb3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/caca12dc-4ea5-49a8-aa6c-b1e247a81e46/NL-HlmNHA_1478_26812K00_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/caca12dc-4ea5-49a8-aa6c-b1e247a81e46/NL-HlmNHA_1478_26812K00_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2a8a87ff-ebe6-c904-b529-1a108207a94c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2a8a87ff-ebe6-c904-b529-1a108207a94c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/caca12dc-4ea5-49a8-aa6c-b1e247a81e46/NL-HlmNHA_1478_26812K00_35/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/caca12dc-4ea5-49a8-aa6c-b1e247a81e46/NL-HlmNHA_1478_26812K00_39/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Overdracht gemaal Rijnland Halfweg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ff4c3e2e-0c9f-1f37-ab62-b57c8931da66\">https://hdl.handle.net/21.12102/ff4c3e2e-0c9f-1f37-ab62-b57c8931da66</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/caca12dc-4ea5-49a8-aa6c-b1e247a81e46/NL-HlmNHA_1478_26812K00_39/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/caca12dc-4ea5-49a8-aa6c-b1e247a81e46/NL-HlmNHA_1478_26812K00_39/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c70be22f-f06b-8b6b-7eab-f865200ef7a6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c70be22f-f06b-8b6b-7eab-f865200ef7a6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/caca12dc-4ea5-49a8-aa6c-b1e247a81e46/NL-HlmNHA_1478_26812K00_39/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/d676d437-e372-1a8d-378c-4212f0b0043c.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Hr. Honselo, liftservice Amsterdam (1982-03-26)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Hr. Honselo, liftservice Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1982-03-26"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Personen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d676d437-e372-1a8d-378c-4212f0b0043c/NL-HlmNHA_1478_21732K01_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hr. Honselo, liftservice Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/79af8368-82c5-355e-4c38-0c64701fa51d\">https://hdl.handle.net/21.12102/79af8368-82c5-355e-4c38-0c64701fa51d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d676d437-e372-1a8d-378c-4212f0b0043c/NL-HlmNHA_1478_21732K01_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d676d437-e372-1a8d-378c-4212f0b0043c/NL-HlmNHA_1478_21732K01_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f6fec687-3b45-bf1e-1085-e8e1c85a08c5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f6fec687-3b45-bf1e-1085-e8e1c85a08c5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d676d437-e372-1a8d-378c-4212f0b0043c/NL-HlmNHA_1478_21732K01_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d676d437-e372-1a8d-378c-4212f0b0043c/NL-HlmNHA_1478_21732K01_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hr. Honselo, liftservice Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/976a0fc4-67e4-1887-2880-00530117b589\">https://hdl.handle.net/21.12102/976a0fc4-67e4-1887-2880-00530117b589</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d676d437-e372-1a8d-378c-4212f0b0043c/NL-HlmNHA_1478_21732K01_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d676d437-e372-1a8d-378c-4212f0b0043c/NL-HlmNHA_1478_21732K01_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/84758e3e-e0cb-f398-6276-0120aeb279dd/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/84758e3e-e0cb-f398-6276-0120aeb279dd",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d676d437-e372-1a8d-378c-4212f0b0043c/NL-HlmNHA_1478_21732K01_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d676d437-e372-1a8d-378c-4212f0b0043c/NL-HlmNHA_1478_21732K01_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hr. Honselo, liftservice Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ffcdcf27-f76a-833b-685d-6dd7d51348ae\">https://hdl.handle.net/21.12102/ffcdcf27-f76a-833b-685d-6dd7d51348ae</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d676d437-e372-1a8d-378c-4212f0b0043c/NL-HlmNHA_1478_21732K01_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d676d437-e372-1a8d-378c-4212f0b0043c/NL-HlmNHA_1478_21732K01_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2a0c2132-0f5e-b04e-fa4c-915e5853eb61/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2a0c2132-0f5e-b04e-fa4c-915e5853eb61",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d676d437-e372-1a8d-378c-4212f0b0043c/NL-HlmNHA_1478_21732K01_15/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

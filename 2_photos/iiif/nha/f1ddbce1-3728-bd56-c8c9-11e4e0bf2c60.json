@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/f1ddbce1-3728-bd56-c8c9-11e4e0bf2c60.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "KLM Boeing 767 'Blauwbrug', Schiphol 28-07-1995 Directeur Pieter Bouw begroet passagiers (1995-07-28)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "KLM Boeing 767 'Blauwbrug', Schiphol 28-07-1995 Directeur Pieter Bouw begroet passagiers"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1995-07-28"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1ddbce1-3728-bd56-c8c9-11e4e0bf2c60/NL-HlmNHA_1478_41567K01_37/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "KLM Boeing 767 'Blauwbrug', Schiphol 28-07-1995 Directeur Pieter Bouw begroet passagiers"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/75d2bb8a-8e91-b72c-cea9-9e4e07e59e4d\">https://hdl.handle.net/21.12102/75d2bb8a-8e91-b72c-cea9-9e4e07e59e4d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1ddbce1-3728-bd56-c8c9-11e4e0bf2c60/NL-HlmNHA_1478_41567K01_37/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1ddbce1-3728-bd56-c8c9-11e4e0bf2c60/NL-HlmNHA_1478_41567K01_37/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/650995b5-1063-082b-afc0-c0a4650b1985/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/650995b5-1063-082b-afc0-c0a4650b1985",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1ddbce1-3728-bd56-c8c9-11e4e0bf2c60/NL-HlmNHA_1478_41567K01_37/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1ddbce1-3728-bd56-c8c9-11e4e0bf2c60/NL-HlmNHA_1478_41567K01_36/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "KLM Boeing 767 'Blauwbrug', Schiphol 28-07-1995 Directeur Pieter Bouw begroet passagiers"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ab15ed17-08ac-2bf9-cb08-b3cea90275c4\">https://hdl.handle.net/21.12102/ab15ed17-08ac-2bf9-cb08-b3cea90275c4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1ddbce1-3728-bd56-c8c9-11e4e0bf2c60/NL-HlmNHA_1478_41567K01_36/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1ddbce1-3728-bd56-c8c9-11e4e0bf2c60/NL-HlmNHA_1478_41567K01_36/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/adc5f877-ebf4-277f-2f36-cc065f279e90/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/adc5f877-ebf4-277f-2f36-cc065f279e90",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1ddbce1-3728-bd56-c8c9-11e4e0bf2c60/NL-HlmNHA_1478_41567K01_36/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

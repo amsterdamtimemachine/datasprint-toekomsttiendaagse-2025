@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/e052f58d-8828-a505-ab98-5fa99b7a2c55.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Het verslepen van een drijvende bok met spoorwagon in de takels op het Afgesloten IJ, Amsterdam (1953-03)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Het verslepen van een drijvende bok met spoorwagon in de takels op het Afgesloten IJ, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1953-03"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Afgesloten IJ"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.9,
+            52.383333
+          ]
+        },
+        "properties": {
+          "title": "Afgesloten IJ",
+          "url": ""
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e052f58d-8828-a505-ab98-5fa99b7a2c55/NL-HlmNHA_1478_08468B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Het verslepen van een drijvende bok met spoorwagon in de takels op het Afgesloten IJ, Amsterdam"
+        ]
+      },
+      "height": 2164,
+      "width": 2819,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7d8e54e5-382e-2521-93a9-fd8586ae82fd\">https://hdl.handle.net/21.12102/7d8e54e5-382e-2521-93a9-fd8586ae82fd</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e052f58d-8828-a505-ab98-5fa99b7a2c55/NL-HlmNHA_1478_08468B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e052f58d-8828-a505-ab98-5fa99b7a2c55/NL-HlmNHA_1478_08468B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b237703d-964e-0f1b-574c-61a4d0df2216/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2164,
+                "width": 2819,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b237703d-964e-0f1b-574c-61a4d0df2216",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e052f58d-8828-a505-ab98-5fa99b7a2c55/NL-HlmNHA_1478_08468B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

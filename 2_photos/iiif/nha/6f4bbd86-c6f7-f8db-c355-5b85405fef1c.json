@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/6f4bbd86-c6f7-f8db-c355-5b85405fef1c.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Wereldkampioenschappen baanwielrennen 1959 in het Olympisch Stadion te Amsterdam van 8 tot 13 augustus. Medaillewinnaars achtervolging bij de profs. (1959-08)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Wereldkampioenschappen baanwielrennen 1959 in het Olympisch Stadion te Amsterdam van 8 tot 13 augustus. Medaillewinnaars achtervolging bij de profs."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1959-08"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6f4bbd86-c6f7-f8db-c355-5b85405fef1c/NL-HlmNHA_1478_16970B01b_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Wereldkampioenschappen baanwielrennen 1959 in het Olympisch Stadion te Amsterdam van 8 tot 13 augustus. Medaillewinnaars achtervolging bij de profs."
+        ]
+      },
+      "height": 1360,
+      "width": 1167,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7489329e-e4b6-c220-3bbd-7e9bae42976e\">https://hdl.handle.net/21.12102/7489329e-e4b6-c220-3bbd-7e9bae42976e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6f4bbd86-c6f7-f8db-c355-5b85405fef1c/NL-HlmNHA_1478_16970B01b_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6f4bbd86-c6f7-f8db-c355-5b85405fef1c/NL-HlmNHA_1478_16970B01b_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2a10427b-9503-551b-f953-c90f1741ac1f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1360,
+                "width": 1167,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2a10427b-9503-551b-f953-c90f1741ac1f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6f4bbd86-c6f7-f8db-c355-5b85405fef1c/NL-HlmNHA_1478_16970B01b_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/6259e78a-7d25-a5ca-4f7c-dfa1522e6890.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Vertrek Wim Kan, Corry Vonk en anderen van het ABC cabaret van Schiphol naar Curacao (1952-09-02)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Vertrek Wim Kan, Corry Vonk en anderen van het ABC cabaret van Schiphol naar Curacao"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1952-09-02"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6259e78a-7d25-a5ca-4f7c-dfa1522e6890/NL-HlmNHA_1478_07745B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vertrek Wim Kan, Corry Vonk en anderen van het ABC cabaret van Schiphol naar Curacao"
+        ]
+      },
+      "height": 2789,
+      "width": 2202,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8d92172b-6133-98e1-8165-e55826256eda\">https://hdl.handle.net/21.12102/8d92172b-6133-98e1-8165-e55826256eda</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6259e78a-7d25-a5ca-4f7c-dfa1522e6890/NL-HlmNHA_1478_07745B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6259e78a-7d25-a5ca-4f7c-dfa1522e6890/NL-HlmNHA_1478_07745B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c0f2db5f-35c2-c055-1a96-a73fad935d57/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2789,
+                "width": 2202,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c0f2db5f-35c2-c055-1a96-a73fad935d57",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6259e78a-7d25-a5ca-4f7c-dfa1522e6890/NL-HlmNHA_1478_07745B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

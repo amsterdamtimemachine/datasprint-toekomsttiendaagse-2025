@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/9cb76a37-da17-cc1f-74f6-ffbee80c9975.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Schiphol met Maarse en Kroon bus136 naast de KLM Constellation PH-TDD (1952-08)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Schiphol met Maarse en Kroon bus136 naast de KLM Constellation PH-TDD"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1952-08"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Reproductie luchtfoto fabriek Verheul"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cb76a37-da17-cc1f-74f6-ffbee80c9975/NL-HlmNHA_1478_07806B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schiphol met Maarse en Kroon bus136 naast de KLM Constellation PH-TDD"
+        ]
+      },
+      "height": 2764,
+      "width": 2177,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0ba17de2-dd97-e653-9b8e-da915de58b25\">https://hdl.handle.net/21.12102/0ba17de2-dd97-e653-9b8e-da915de58b25</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cb76a37-da17-cc1f-74f6-ffbee80c9975/NL-HlmNHA_1478_07806B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cb76a37-da17-cc1f-74f6-ffbee80c9975/NL-HlmNHA_1478_07806B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/75ef33a2-b2dc-9d8e-0de2-e95e3a8818d0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2764,
+                "width": 2177,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/75ef33a2-b2dc-9d8e-0de2-e95e3a8818d0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cb76a37-da17-cc1f-74f6-ffbee80c9975/NL-HlmNHA_1478_07806B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

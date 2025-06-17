@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/642ee03d-f877-855e-9553-23d4bdf090c6.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Bouwgrond van de Nederlandse Raffinaderij van Petroleumproducten. Hier kwam de Mobil raffinaderij (1963-06-11)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Bouwgrond van de Nederlandse Raffinaderij van Petroleumproducten. Hier kwam de Mobil raffinaderij"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1963-06-11"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/642ee03d-f877-855e-9553-23d4bdf090c6/NL-HlmNHA_1478_19542B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bouwgrond van de Nederlandse Raffinaderij van Petroleumproducten. Hier kwam de Mobil raffinaderij"
+        ]
+      },
+      "height": 2190,
+      "width": 2832,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/bd59fe19-83e9-1a55-e094-b6e905732012\">https://hdl.handle.net/21.12102/bd59fe19-83e9-1a55-e094-b6e905732012</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/642ee03d-f877-855e-9553-23d4bdf090c6/NL-HlmNHA_1478_19542B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/642ee03d-f877-855e-9553-23d4bdf090c6/NL-HlmNHA_1478_19542B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8c593516-e207-67a2-9923-4f53da1bc2af/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2190,
+                "width": 2832,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8c593516-e207-67a2-9923-4f53da1bc2af",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/642ee03d-f877-855e-9553-23d4bdf090c6/NL-HlmNHA_1478_19542B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

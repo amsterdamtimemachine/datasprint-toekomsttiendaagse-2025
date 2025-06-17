@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/669f8fc1-4ce2-0edf-0a59-98d6db6012ce.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Marco Borsato deelt handtekeningen uit, CD-Plaza Schiphol (1997-03-25)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Marco Borsato deelt handtekeningen uit, CD-Plaza Schiphol"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1997-03-25"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/669f8fc1-4ce2-0edf-0a59-98d6db6012ce/NL-HlmNHA_1478_43962K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Marco Borsato deelt handtekeningen uit, CD-Plaza Schiphol"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1c9dd1d8-6bf0-e799-d0a9-b7a65cdf88bc\">https://hdl.handle.net/21.12102/1c9dd1d8-6bf0-e799-d0a9-b7a65cdf88bc</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/669f8fc1-4ce2-0edf-0a59-98d6db6012ce/NL-HlmNHA_1478_43962K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/669f8fc1-4ce2-0edf-0a59-98d6db6012ce/NL-HlmNHA_1478_43962K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/28d118d4-66ed-68c8-b640-33791b74beab/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/28d118d4-66ed-68c8-b640-33791b74beab",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/669f8fc1-4ce2-0edf-0a59-98d6db6012ce/NL-HlmNHA_1478_43962K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/669f8fc1-4ce2-0edf-0a59-98d6db6012ce/NL-HlmNHA_1478_43962K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Marco Borsato deelt handtekeningen uit, CD-Plaza Schiphol"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5a6767e0-36bc-f655-3c87-398f633ea404\">https://hdl.handle.net/21.12102/5a6767e0-36bc-f655-3c87-398f633ea404</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/669f8fc1-4ce2-0edf-0a59-98d6db6012ce/NL-HlmNHA_1478_43962K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/669f8fc1-4ce2-0edf-0a59-98d6db6012ce/NL-HlmNHA_1478_43962K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/12405331-3fed-9526-731e-f7f75fbcb2d3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/12405331-3fed-9526-731e-f7f75fbcb2d3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/669f8fc1-4ce2-0edf-0a59-98d6db6012ce/NL-HlmNHA_1478_43962K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

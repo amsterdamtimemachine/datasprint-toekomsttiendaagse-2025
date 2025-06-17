@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/ea7cb97b-4970-c638-62c4-cc8c4548fa2d.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Vader &amp; zoon Nawijn, Amstelveen (2003-04-16)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Vader &amp; zoon Nawijn, Amstelveen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2003-04-16"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q33421878\">Amstelveen</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.858056,
+            52.301944
+          ]
+        },
+        "properties": {
+          "title": "Amstelveen",
+          "url": "http://www.wikidata.org/entity/Q33421878"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea7cb97b-4970-c638-62c4-cc8c4548fa2d/NL-HlmNHA_1478_51496K00_34/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vader &amp; zoon Nawijn, Amstelveen"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/15fed729-01fa-3c5a-d3db-330ce1e3fee8\">https://hdl.handle.net/21.12102/15fed729-01fa-3c5a-d3db-330ce1e3fee8</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea7cb97b-4970-c638-62c4-cc8c4548fa2d/NL-HlmNHA_1478_51496K00_34/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea7cb97b-4970-c638-62c4-cc8c4548fa2d/NL-HlmNHA_1478_51496K00_34/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/baf98bf2-17be-6097-0951-af379428b0fa/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/baf98bf2-17be-6097-0951-af379428b0fa",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea7cb97b-4970-c638-62c4-cc8c4548fa2d/NL-HlmNHA_1478_51496K00_34/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea7cb97b-4970-c638-62c4-cc8c4548fa2d/NL-HlmNHA_1478_51496K00_33/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vader &amp; zoon Nawijn, Amstelveen"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1acf9e87-1405-4151-6b35-cd712e0fecdd\">https://hdl.handle.net/21.12102/1acf9e87-1405-4151-6b35-cd712e0fecdd</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea7cb97b-4970-c638-62c4-cc8c4548fa2d/NL-HlmNHA_1478_51496K00_33/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea7cb97b-4970-c638-62c4-cc8c4548fa2d/NL-HlmNHA_1478_51496K00_33/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/58913645-212b-365d-c606-f9afdcf6887b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/58913645-212b-365d-c606-f9afdcf6887b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea7cb97b-4970-c638-62c4-cc8c4548fa2d/NL-HlmNHA_1478_51496K00_33/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea7cb97b-4970-c638-62c4-cc8c4548fa2d/NL-HlmNHA_1478_51496K00_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vader &amp; zoon Nawijn, Amstelveen"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3cc6efb1-f88b-fb8a-2d6f-3d5491776870\">https://hdl.handle.net/21.12102/3cc6efb1-f88b-fb8a-2d6f-3d5491776870</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea7cb97b-4970-c638-62c4-cc8c4548fa2d/NL-HlmNHA_1478_51496K00_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea7cb97b-4970-c638-62c4-cc8c4548fa2d/NL-HlmNHA_1478_51496K00_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1dd49d72-7848-78b5-1493-dd09cfece90c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1dd49d72-7848-78b5-1493-dd09cfece90c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea7cb97b-4970-c638-62c4-cc8c4548fa2d/NL-HlmNHA_1478_51496K00_35/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea7cb97b-4970-c638-62c4-cc8c4548fa2d/NL-HlmNHA_1478_51496K00_36/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vader &amp; zoon Nawijn, Amstelveen"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/55747b92-fce8-29ea-2458-3ccc34bd56f5\">https://hdl.handle.net/21.12102/55747b92-fce8-29ea-2458-3ccc34bd56f5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea7cb97b-4970-c638-62c4-cc8c4548fa2d/NL-HlmNHA_1478_51496K00_36/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea7cb97b-4970-c638-62c4-cc8c4548fa2d/NL-HlmNHA_1478_51496K00_36/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a702ae99-5bf3-6cc9-1bae-d4eb213d0104/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a702ae99-5bf3-6cc9-1bae-d4eb213d0104",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea7cb97b-4970-c638-62c4-cc8c4548fa2d/NL-HlmNHA_1478_51496K00_36/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea7cb97b-4970-c638-62c4-cc8c4548fa2d/NL-HlmNHA_1478_51496K00_32/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vader &amp; zoon Nawijn, Amstelveen"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/93bff37c-2c57-6324-88f9-9f8e4dd69b7a\">https://hdl.handle.net/21.12102/93bff37c-2c57-6324-88f9-9f8e4dd69b7a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea7cb97b-4970-c638-62c4-cc8c4548fa2d/NL-HlmNHA_1478_51496K00_32/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea7cb97b-4970-c638-62c4-cc8c4548fa2d/NL-HlmNHA_1478_51496K00_32/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ec5d405c-b491-1133-3732-2f0c75d25f67/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ec5d405c-b491-1133-3732-2f0c75d25f67",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea7cb97b-4970-c638-62c4-cc8c4548fa2d/NL-HlmNHA_1478_51496K00_32/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea7cb97b-4970-c638-62c4-cc8c4548fa2d/NL-HlmNHA_1478_51496K00_31/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vader &amp; zoon Nawijn, Amstelveen"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e462b677-6994-3e94-09e8-fa5d7daef51c\">https://hdl.handle.net/21.12102/e462b677-6994-3e94-09e8-fa5d7daef51c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea7cb97b-4970-c638-62c4-cc8c4548fa2d/NL-HlmNHA_1478_51496K00_31/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea7cb97b-4970-c638-62c4-cc8c4548fa2d/NL-HlmNHA_1478_51496K00_31/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/eeeae3a2-30fd-8e41-2ee5-6b1d2a8d94c9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/eeeae3a2-30fd-8e41-2ee5-6b1d2a8d94c9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea7cb97b-4970-c638-62c4-cc8c4548fa2d/NL-HlmNHA_1478_51496K00_31/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

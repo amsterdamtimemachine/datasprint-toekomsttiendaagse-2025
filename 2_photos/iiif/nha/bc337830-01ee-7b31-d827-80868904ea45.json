@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/bc337830-01ee-7b31-d827-80868904ea45.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "De heer van de Anker + medewerker Amsterdam. (1983-09-20)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "De heer van de Anker + medewerker Amsterdam."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1983-09-20"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "VNU Vereniging Nederlandse Uitgeverijen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bc337830-01ee-7b31-d827-80868904ea45/NL-HlmNHA_1478_23430K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer van de Anker + medewerker Amsterdam."
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2dde8f9e-b473-ec47-84be-2148f40ad2fa\">https://hdl.handle.net/21.12102/2dde8f9e-b473-ec47-84be-2148f40ad2fa</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bc337830-01ee-7b31-d827-80868904ea45/NL-HlmNHA_1478_23430K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bc337830-01ee-7b31-d827-80868904ea45/NL-HlmNHA_1478_23430K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/95afc1dd-e03c-97c8-0a59-71e0e9b91ef5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/95afc1dd-e03c-97c8-0a59-71e0e9b91ef5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bc337830-01ee-7b31-d827-80868904ea45/NL-HlmNHA_1478_23430K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bc337830-01ee-7b31-d827-80868904ea45/NL-HlmNHA_1478_23430K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer van de Anker + medewerker Amsterdam."
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9eace6bb-ebf3-cda9-4274-7fe929f2b72d\">https://hdl.handle.net/21.12102/9eace6bb-ebf3-cda9-4274-7fe929f2b72d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bc337830-01ee-7b31-d827-80868904ea45/NL-HlmNHA_1478_23430K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bc337830-01ee-7b31-d827-80868904ea45/NL-HlmNHA_1478_23430K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/48b32778-8323-4cbe-ff89-72499d472111/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/48b32778-8323-4cbe-ff89-72499d472111",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bc337830-01ee-7b31-d827-80868904ea45/NL-HlmNHA_1478_23430K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bc337830-01ee-7b31-d827-80868904ea45/NL-HlmNHA_1478_23430K00_22/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer van de Anker + medewerker Amsterdam."
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c67d7dd4-d37d-09ba-3c9a-8e6128678194\">https://hdl.handle.net/21.12102/c67d7dd4-d37d-09ba-3c9a-8e6128678194</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bc337830-01ee-7b31-d827-80868904ea45/NL-HlmNHA_1478_23430K00_22/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bc337830-01ee-7b31-d827-80868904ea45/NL-HlmNHA_1478_23430K00_22/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/99ef7114-2685-09e5-b79c-08639a73d329/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/99ef7114-2685-09e5-b79c-08639a73d329",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bc337830-01ee-7b31-d827-80868904ea45/NL-HlmNHA_1478_23430K00_22/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bc337830-01ee-7b31-d827-80868904ea45/NL-HlmNHA_1478_23430K00_21/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer van de Anker + medewerker Amsterdam."
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/cb41262f-c44e-7568-1588-328f3c1d16fa\">https://hdl.handle.net/21.12102/cb41262f-c44e-7568-1588-328f3c1d16fa</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bc337830-01ee-7b31-d827-80868904ea45/NL-HlmNHA_1478_23430K00_21/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bc337830-01ee-7b31-d827-80868904ea45/NL-HlmNHA_1478_23430K00_21/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/79ded80c-89b2-4128-7ebc-2fff275ce174/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/79ded80c-89b2-4128-7ebc-2fff275ce174",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bc337830-01ee-7b31-d827-80868904ea45/NL-HlmNHA_1478_23430K00_21/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

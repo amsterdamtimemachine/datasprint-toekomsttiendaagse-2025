@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/8c10414b-ec98-5769-e306-cac4216b91fa.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "PTT Telecom Idee\u00ebnmanagement: uitreiking van beloning aan medewerkers J.M. Zwart, F. Franke en G. Bont. (1995-09-26)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "PTT Telecom Idee\u00ebnmanagement: uitreiking van beloning aan medewerkers J.M. Zwart, F. Franke en G. Bont."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1995-09-26"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8c10414b-ec98-5769-e306-cac4216b91fa/NL-HlmNHA_1478_41826K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "PTT Telecom Idee\u00ebnmanagement: uitreiking van beloning aan medewerkers J.M. Zwart, F. Franke en G. Bont."
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4a09c071-ad08-f0d4-8448-2d18d661ec4c\">https://hdl.handle.net/21.12102/4a09c071-ad08-f0d4-8448-2d18d661ec4c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8c10414b-ec98-5769-e306-cac4216b91fa/NL-HlmNHA_1478_41826K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8c10414b-ec98-5769-e306-cac4216b91fa/NL-HlmNHA_1478_41826K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5b2d9301-3e78-8847-7576-5d8c9b6effe3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5b2d9301-3e78-8847-7576-5d8c9b6effe3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8c10414b-ec98-5769-e306-cac4216b91fa/NL-HlmNHA_1478_41826K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8c10414b-ec98-5769-e306-cac4216b91fa/NL-HlmNHA_1478_41826K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "PTT Telecom Idee\u00ebnmanagement: uitreiking van beloning aan medewerkers J.M. Zwart, F. Franke en G. Bont."
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/807ef30e-fb06-9f86-70bb-179da12ffdc9\">https://hdl.handle.net/21.12102/807ef30e-fb06-9f86-70bb-179da12ffdc9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8c10414b-ec98-5769-e306-cac4216b91fa/NL-HlmNHA_1478_41826K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8c10414b-ec98-5769-e306-cac4216b91fa/NL-HlmNHA_1478_41826K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/55fad5ca-75f2-b48e-ba34-7ee1f38275a0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/55fad5ca-75f2-b48e-ba34-7ee1f38275a0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8c10414b-ec98-5769-e306-cac4216b91fa/NL-HlmNHA_1478_41826K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

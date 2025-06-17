@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/c6e6e03d-208c-acf2-41e2-67776a83d27e.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "St. Nicolaas in Zeemanshuis Amsterdam (1953-12-01)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "St. Nicolaas in Zeemanshuis Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1953-12-01"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "St. Nicolaas, Sinterklaas"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c6e6e03d-208c-acf2-41e2-67776a83d27e/NL-HlmNHA_1478_09704B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "St. Nicolaas in Zeemanshuis Amsterdam"
+        ]
+      },
+      "height": 2705,
+      "width": 2106,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d8efc1c7-9af8-f137-5176-2294e9aa3de7\">https://hdl.handle.net/21.12102/d8efc1c7-9af8-f137-5176-2294e9aa3de7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c6e6e03d-208c-acf2-41e2-67776a83d27e/NL-HlmNHA_1478_09704B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c6e6e03d-208c-acf2-41e2-67776a83d27e/NL-HlmNHA_1478_09704B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6036000f-645e-8d8c-3519-91e50f3792bc/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2705,
+                "width": 2106,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6036000f-645e-8d8c-3519-91e50f3792bc",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c6e6e03d-208c-acf2-41e2-67776a83d27e/NL-HlmNHA_1478_09704B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

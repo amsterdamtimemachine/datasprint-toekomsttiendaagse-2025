@@ -1,0 +1,520 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/a0e2b94f-8445-3631-4a3c-745abde757aa.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Portret man in Amstelhotel in Amsterdam (1992-08-26)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Portret man in Amstelhotel in Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1992-08-26"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_41/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret man in Amstelhotel in Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/270862bc-15a3-38d2-2f67-2645dca40507\">https://hdl.handle.net/21.12102/270862bc-15a3-38d2-2f67-2645dca40507</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_41/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_41/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/cd6fa7de-8d7d-4327-6ae6-d4b8086e7915/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/cd6fa7de-8d7d-4327-6ae6-d4b8086e7915",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_41/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret man in Amstelhotel in Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/48c79a67-396d-99a5-6264-6c2af3b7eb72\">https://hdl.handle.net/21.12102/48c79a67-396d-99a5-6264-6c2af3b7eb72</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a9271beb-715f-c3aa-4bd8-5eecc7520cb6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a9271beb-715f-c3aa-4bd8-5eecc7520cb6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_35/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_39/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret man in Amstelhotel in Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/513598bc-15ad-a0eb-4cce-543bab057b5d\">https://hdl.handle.net/21.12102/513598bc-15ad-a0eb-4cce-543bab057b5d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_39/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_39/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/71cff6b1-30b0-f849-c08e-595468ae338e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/71cff6b1-30b0-f849-c08e-595468ae338e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_39/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_38/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret man in Amstelhotel in Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5f0d8b4f-7969-1cc9-9e9e-81e754f368d4\">https://hdl.handle.net/21.12102/5f0d8b4f-7969-1cc9-9e9e-81e754f368d4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_38/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_38/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/53256962-e28e-e967-06a2-80aba7f56f7d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/53256962-e28e-e967-06a2-80aba7f56f7d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_38/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_40/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret man in Amstelhotel in Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/92c8a9f0-2bf9-3007-2bf5-d499304cd660\">https://hdl.handle.net/21.12102/92c8a9f0-2bf9-3007-2bf5-d499304cd660</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_40/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_40/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/db680239-a3bc-22ac-7161-1ae51a0443f8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/db680239-a3bc-22ac-7161-1ae51a0443f8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_40/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_36/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret man in Amstelhotel in Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b676e5ef-5e57-19bc-abc8-9cc4a60f6325\">https://hdl.handle.net/21.12102/b676e5ef-5e57-19bc-abc8-9cc4a60f6325</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_36/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_36/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7f68d395-c1be-ec53-549c-c946b689884d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7f68d395-c1be-ec53-549c-c946b689884d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_36/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_37/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret man in Amstelhotel in Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/bd254c0c-b865-5606-5e51-15623530fd19\">https://hdl.handle.net/21.12102/bd254c0c-b865-5606-5e51-15623530fd19</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_37/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_37/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/32001f9e-174e-44a6-c132-48b706fff3c1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/32001f9e-174e-44a6-c132-48b706fff3c1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_37/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_34/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret man in Amstelhotel in Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/fb9305e3-6ad3-2f96-7ad0-bb94c9e0bd51\">https://hdl.handle.net/21.12102/fb9305e3-6ad3-2f96-7ad0-bb94c9e0bd51</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_34/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_34/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/62138bf6-dda4-e3b7-2664-569d0ecae629/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/62138bf6-dda4-e3b7-2664-569d0ecae629",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0e2b94f-8445-3631-4a3c-745abde757aa/NL-HlmNHA_1478_36881K00_34/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

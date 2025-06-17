@@ -1,0 +1,679 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/436b6806-e282-214b-fbd6-55ac1a2e2a71.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Filmopname de Havik in Amsterdam (1987-03-23)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Filmopname de Havik in Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1987-03-23"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Filmen, filmopnamen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_25/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Filmopname de Havik in Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/06a3cd55-6497-e669-1bb4-d0b9778feafd\">https://hdl.handle.net/21.12102/06a3cd55-6497-e669-1bb4-d0b9778feafd</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_25/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_25/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a76cade5-53f9-dcd4-38ad-c96013ac262e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a76cade5-53f9-dcd4-38ad-c96013ac262e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_25/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Filmopname de Havik in Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/06fd2d3d-6257-8632-08f1-4b8833cb4331\">https://hdl.handle.net/21.12102/06fd2d3d-6257-8632-08f1-4b8833cb4331</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/bf8a1bf6-9879-46f9-2306-a08ade16bdcc/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/bf8a1bf6-9879-46f9-2306-a08ade16bdcc",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Filmopname de Havik in Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1e6baf12-f7c3-d403-f7db-b0b352b3f068\">https://hdl.handle.net/21.12102/1e6baf12-f7c3-d403-f7db-b0b352b3f068</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ee4f45c0-7d2c-8c81-a447-c36f591d1a58/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ee4f45c0-7d2c-8c81-a447-c36f591d1a58",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Filmopname de Havik in Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/22325899-7a3e-9b80-8913-92b2a37e89eb\">https://hdl.handle.net/21.12102/22325899-7a3e-9b80-8913-92b2a37e89eb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c8a146b4-7680-f816-f2e3-4d9b443474d3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c8a146b4-7680-f816-f2e3-4d9b443474d3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_21/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Filmopname de Havik in Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2c00439f-4050-7bb7-9408-d19f3ecf0f50\">https://hdl.handle.net/21.12102/2c00439f-4050-7bb7-9408-d19f3ecf0f50</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_21/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_21/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a9fb1408-a23c-2dcd-16aa-efe865b73ef8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a9fb1408-a23c-2dcd-16aa-efe865b73ef8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_21/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Filmopname de Havik in Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/56d77dd0-6a6e-db01-0032-570e642e6ce5\">https://hdl.handle.net/21.12102/56d77dd0-6a6e-db01-0032-570e642e6ce5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0824c7ab-2bf8-9f73-f0ca-12ebdae52dea/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0824c7ab-2bf8-9f73-f0ca-12ebdae52dea",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_27/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Filmopname de Havik in Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8ac19b1f-5bdb-ea3a-44d2-658d28d464e9\">https://hdl.handle.net/21.12102/8ac19b1f-5bdb-ea3a-44d2-658d28d464e9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_27/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_27/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fe3e976b-38d7-78bb-2d3e-a3bddfa8623a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fe3e976b-38d7-78bb-2d3e-a3bddfa8623a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_27/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_26/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Filmopname de Havik in Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a367ed05-a8e6-d9ff-f230-c27592e51744\">https://hdl.handle.net/21.12102/a367ed05-a8e6-d9ff-f230-c27592e51744</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_26/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_26/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/809803cf-2bb6-3bf3-abe2-63e0b1049be6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/809803cf-2bb6-3bf3-abe2-63e0b1049be6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_26/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_28/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Filmopname de Havik in Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ada5e9ca-065a-c76d-f02f-22c2c880e6eb\">https://hdl.handle.net/21.12102/ada5e9ca-065a-c76d-f02f-22c2c880e6eb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_28/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_28/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1988e1fa-dca7-ca17-275c-262a27386cd0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1988e1fa-dca7-ca17-275c-262a27386cd0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_28/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_22/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Filmopname de Havik in Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c8a6dee1-7fe0-1d90-7043-5b8413cb2ff1\">https://hdl.handle.net/21.12102/c8a6dee1-7fe0-1d90-7043-5b8413cb2ff1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_22/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_22/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b87b2373-ac48-3ca9-3cfa-c35ed3180e68/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b87b2373-ac48-3ca9-3cfa-c35ed3180e68",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_22/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Filmopname de Havik in Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/fb05f69c-ebe5-12f9-ff14-ade84fedbd0a\">https://hdl.handle.net/21.12102/fb05f69c-ebe5-12f9-ff14-ade84fedbd0a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f51b01fc-c877-66d6-12f2-95c267191bdf/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f51b01fc-c877-66d6-12f2-95c267191bdf",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/436b6806-e282-214b-fbd6-55ac1a2e2a71/NL-HlmNHA_1478_27419K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/b042db58-a186-ffa8-b555-429674fb23a0.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Poster: 65 jaar tentoonstelling voor bejaarden in Galerie TOR (1973-09-04)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Poster: 65 jaar tentoonstelling voor bejaarden in Galerie TOR"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1973-09-04"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Czaar Peterstraat 95"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.92889,
+            52.36972
+          ]
+        },
+        "properties": {
+          "title": "Czaar Peterstraat 95",
+          "url": ""
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b042db58-a186-ffa8-b555-429674fb23a0/NL-HlmNHA_1478_12210K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Poster: 65 jaar tentoonstelling voor bejaarden in Galerie TOR"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f8b3f562-db97-6832-7faf-1ecd560708e6\">https://hdl.handle.net/21.12102/f8b3f562-db97-6832-7faf-1ecd560708e6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b042db58-a186-ffa8-b555-429674fb23a0/NL-HlmNHA_1478_12210K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b042db58-a186-ffa8-b555-429674fb23a0/NL-HlmNHA_1478_12210K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6840a83a-0abc-94b3-00ac-3fed2ba68726/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6840a83a-0abc-94b3-00ac-3fed2ba68726",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b042db58-a186-ffa8-b555-429674fb23a0/NL-HlmNHA_1478_12210K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

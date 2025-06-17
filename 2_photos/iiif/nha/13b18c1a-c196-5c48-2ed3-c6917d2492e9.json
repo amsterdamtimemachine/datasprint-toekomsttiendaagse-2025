@@ -1,0 +1,467 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/13b18c1a-c196-5c48-2ed3-c6917d2492e9.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Damrak vanaf station Amsterdam (1992-08-05)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Damrak vanaf station Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1992-08-05"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q901461\">Damrak</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.897113,
+            52.376071
+          ]
+        },
+        "properties": {
+          "title": "Damrak",
+          "url": "http://www.wikidata.org/entity/Q901461"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/13b18c1a-c196-5c48-2ed3-c6917d2492e9/NL-HlmNHA_1478_36778K00_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Damrak vanaf station Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/192d6c8e-4674-da21-650a-45a7a77a5455\">https://hdl.handle.net/21.12102/192d6c8e-4674-da21-650a-45a7a77a5455</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/13b18c1a-c196-5c48-2ed3-c6917d2492e9/NL-HlmNHA_1478_36778K00_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/13b18c1a-c196-5c48-2ed3-c6917d2492e9/NL-HlmNHA_1478_36778K00_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c85a8eb7-7adb-1cf6-2e5c-8b7a2d9a9e89/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c85a8eb7-7adb-1cf6-2e5c-8b7a2d9a9e89",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/13b18c1a-c196-5c48-2ed3-c6917d2492e9/NL-HlmNHA_1478_36778K00_35/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/13b18c1a-c196-5c48-2ed3-c6917d2492e9/NL-HlmNHA_1478_36778K00_36/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Damrak vanaf station Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6e0bf572-9e9d-8e60-d296-9fdaa255ffae\">https://hdl.handle.net/21.12102/6e0bf572-9e9d-8e60-d296-9fdaa255ffae</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/13b18c1a-c196-5c48-2ed3-c6917d2492e9/NL-HlmNHA_1478_36778K00_36/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/13b18c1a-c196-5c48-2ed3-c6917d2492e9/NL-HlmNHA_1478_36778K00_36/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b638cafc-918c-61eb-b9f8-8321990e9500/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b638cafc-918c-61eb-b9f8-8321990e9500",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/13b18c1a-c196-5c48-2ed3-c6917d2492e9/NL-HlmNHA_1478_36778K00_36/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/13b18c1a-c196-5c48-2ed3-c6917d2492e9/NL-HlmNHA_1478_36778K00_40/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Damrak vanaf station Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7206ffb2-6866-6192-78ae-11c9577aa376\">https://hdl.handle.net/21.12102/7206ffb2-6866-6192-78ae-11c9577aa376</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/13b18c1a-c196-5c48-2ed3-c6917d2492e9/NL-HlmNHA_1478_36778K00_40/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/13b18c1a-c196-5c48-2ed3-c6917d2492e9/NL-HlmNHA_1478_36778K00_40/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e38f961a-fc4a-c2bb-00d5-0aba18696118/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e38f961a-fc4a-c2bb-00d5-0aba18696118",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/13b18c1a-c196-5c48-2ed3-c6917d2492e9/NL-HlmNHA_1478_36778K00_40/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/13b18c1a-c196-5c48-2ed3-c6917d2492e9/NL-HlmNHA_1478_36778K00_37/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Damrak vanaf station Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7c018b56-78fe-ee5e-6dbc-ecf3c910f213\">https://hdl.handle.net/21.12102/7c018b56-78fe-ee5e-6dbc-ecf3c910f213</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/13b18c1a-c196-5c48-2ed3-c6917d2492e9/NL-HlmNHA_1478_36778K00_37/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/13b18c1a-c196-5c48-2ed3-c6917d2492e9/NL-HlmNHA_1478_36778K00_37/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d283060d-6ba7-b121-21e8-1923abc5383d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d283060d-6ba7-b121-21e8-1923abc5383d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/13b18c1a-c196-5c48-2ed3-c6917d2492e9/NL-HlmNHA_1478_36778K00_37/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/13b18c1a-c196-5c48-2ed3-c6917d2492e9/NL-HlmNHA_1478_36778K00_39/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Damrak vanaf station Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7d86ca45-16e5-5f13-0e0a-3c0665e37e27\">https://hdl.handle.net/21.12102/7d86ca45-16e5-5f13-0e0a-3c0665e37e27</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/13b18c1a-c196-5c48-2ed3-c6917d2492e9/NL-HlmNHA_1478_36778K00_39/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/13b18c1a-c196-5c48-2ed3-c6917d2492e9/NL-HlmNHA_1478_36778K00_39/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9e03756c-91fe-4052-cbdf-6f3207e1e139/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9e03756c-91fe-4052-cbdf-6f3207e1e139",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/13b18c1a-c196-5c48-2ed3-c6917d2492e9/NL-HlmNHA_1478_36778K00_39/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/13b18c1a-c196-5c48-2ed3-c6917d2492e9/NL-HlmNHA_1478_36778K00_41/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Damrak vanaf station Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ca1ebc2b-b2b5-cee5-85af-73ee22ae9d7a\">https://hdl.handle.net/21.12102/ca1ebc2b-b2b5-cee5-85af-73ee22ae9d7a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/13b18c1a-c196-5c48-2ed3-c6917d2492e9/NL-HlmNHA_1478_36778K00_41/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/13b18c1a-c196-5c48-2ed3-c6917d2492e9/NL-HlmNHA_1478_36778K00_41/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/bffd7c23-4d4c-5f36-ef6c-76567743b616/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/bffd7c23-4d4c-5f36-ef6c-76567743b616",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/13b18c1a-c196-5c48-2ed3-c6917d2492e9/NL-HlmNHA_1478_36778K00_41/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/13b18c1a-c196-5c48-2ed3-c6917d2492e9/NL-HlmNHA_1478_36778K00_38/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Damrak vanaf station Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/fda36957-16a0-d9e2-c9c6-9d4b7b38deed\">https://hdl.handle.net/21.12102/fda36957-16a0-d9e2-c9c6-9d4b7b38deed</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/13b18c1a-c196-5c48-2ed3-c6917d2492e9/NL-HlmNHA_1478_36778K00_38/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/13b18c1a-c196-5c48-2ed3-c6917d2492e9/NL-HlmNHA_1478_36778K00_38/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e9147ccd-b4fc-c6c2-e00f-7e7101d4ea82/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e9147ccd-b4fc-c6c2-e00f-7e7101d4ea82",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/13b18c1a-c196-5c48-2ed3-c6917d2492e9/NL-HlmNHA_1478_36778K00_38/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

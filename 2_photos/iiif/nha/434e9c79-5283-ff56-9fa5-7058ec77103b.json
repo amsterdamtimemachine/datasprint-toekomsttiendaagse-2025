@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/434e9c79-5283-ff56-9fa5-7058ec77103b.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Theaterboekwinkel + eigenaar Amsterdam (1979-12-04)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Theaterboekwinkel + eigenaar Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1979-12-04"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Boeken en boekhandelaren, Winkels en kiosken"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/434e9c79-5283-ff56-9fa5-7058ec77103b/NL-HlmNHA_1478_18731K01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Theaterboekwinkel + eigenaar Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2ce5d9a6-76ec-0de0-f3d7-f2f96da3f9ee\">https://hdl.handle.net/21.12102/2ce5d9a6-76ec-0de0-f3d7-f2f96da3f9ee</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/434e9c79-5283-ff56-9fa5-7058ec77103b/NL-HlmNHA_1478_18731K01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/434e9c79-5283-ff56-9fa5-7058ec77103b/NL-HlmNHA_1478_18731K01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fe528a67-f174-94b5-5038-59b69040fab0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fe528a67-f174-94b5-5038-59b69040fab0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/434e9c79-5283-ff56-9fa5-7058ec77103b/NL-HlmNHA_1478_18731K01_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/434e9c79-5283-ff56-9fa5-7058ec77103b/NL-HlmNHA_1478_18731K01_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Theaterboekwinkel + eigenaar Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3fd79b2b-382a-d818-b40e-b9211885fa74\">https://hdl.handle.net/21.12102/3fd79b2b-382a-d818-b40e-b9211885fa74</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/434e9c79-5283-ff56-9fa5-7058ec77103b/NL-HlmNHA_1478_18731K01_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/434e9c79-5283-ff56-9fa5-7058ec77103b/NL-HlmNHA_1478_18731K01_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e5ec54c2-e493-7c8a-295d-516cffb46e18/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e5ec54c2-e493-7c8a-295d-516cffb46e18",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/434e9c79-5283-ff56-9fa5-7058ec77103b/NL-HlmNHA_1478_18731K01_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/434e9c79-5283-ff56-9fa5-7058ec77103b/NL-HlmNHA_1478_18731K01_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Theaterboekwinkel + eigenaar Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/657e7659-ecdf-a167-2263-9ddbab488281\">https://hdl.handle.net/21.12102/657e7659-ecdf-a167-2263-9ddbab488281</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/434e9c79-5283-ff56-9fa5-7058ec77103b/NL-HlmNHA_1478_18731K01_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/434e9c79-5283-ff56-9fa5-7058ec77103b/NL-HlmNHA_1478_18731K01_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/72e6ae24-2fe1-72a9-98eb-108ac8225150/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/72e6ae24-2fe1-72a9-98eb-108ac8225150",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/434e9c79-5283-ff56-9fa5-7058ec77103b/NL-HlmNHA_1478_18731K01_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/434e9c79-5283-ff56-9fa5-7058ec77103b/NL-HlmNHA_1478_18731K01_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Theaterboekwinkel + eigenaar Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6da4f666-dfc0-c50a-49f6-cbbcb68b5fb0\">https://hdl.handle.net/21.12102/6da4f666-dfc0-c50a-49f6-cbbcb68b5fb0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/434e9c79-5283-ff56-9fa5-7058ec77103b/NL-HlmNHA_1478_18731K01_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/434e9c79-5283-ff56-9fa5-7058ec77103b/NL-HlmNHA_1478_18731K01_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1efc5564-690b-3879-502c-1ea231b269c6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1efc5564-690b-3879-502c-1ea231b269c6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/434e9c79-5283-ff56-9fa5-7058ec77103b/NL-HlmNHA_1478_18731K01_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/434e9c79-5283-ff56-9fa5-7058ec77103b/NL-HlmNHA_1478_18731K01_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Theaterboekwinkel + eigenaar Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/76803101-5f8f-5dfc-53b2-8f71ea439c6c\">https://hdl.handle.net/21.12102/76803101-5f8f-5dfc-53b2-8f71ea439c6c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/434e9c79-5283-ff56-9fa5-7058ec77103b/NL-HlmNHA_1478_18731K01_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/434e9c79-5283-ff56-9fa5-7058ec77103b/NL-HlmNHA_1478_18731K01_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/21c1f865-aac8-1878-022f-a3e53a385234/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/21c1f865-aac8-1878-022f-a3e53a385234",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/434e9c79-5283-ff56-9fa5-7058ec77103b/NL-HlmNHA_1478_18731K01_02/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

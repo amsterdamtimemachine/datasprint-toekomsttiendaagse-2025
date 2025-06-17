@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/0f743bd2-8712-4092-5d92-3eee14161191.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "De Rozenman , A'dam + H'lem (2000-11-30)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "De Rozenman , A'dam + H'lem"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2000-11-30"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0f743bd2-8712-4092-5d92-3eee14161191/NL-HlmNHA_1478_44843K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De Rozenman , A'dam + H'lem"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/193fa8c3-95ab-a85a-cdb2-659bab875d54\">https://hdl.handle.net/21.12102/193fa8c3-95ab-a85a-cdb2-659bab875d54</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0f743bd2-8712-4092-5d92-3eee14161191/NL-HlmNHA_1478_44843K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0f743bd2-8712-4092-5d92-3eee14161191/NL-HlmNHA_1478_44843K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/75c5a7c7-2b34-ddaa-98b9-daa86ad1a8b7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/75c5a7c7-2b34-ddaa-98b9-daa86ad1a8b7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0f743bd2-8712-4092-5d92-3eee14161191/NL-HlmNHA_1478_44843K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0f743bd2-8712-4092-5d92-3eee14161191/NL-HlmNHA_1478_44843K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De Rozenman , A'dam + H'lem"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/234a69bd-97ba-f441-ca77-9e1708e75572\">https://hdl.handle.net/21.12102/234a69bd-97ba-f441-ca77-9e1708e75572</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0f743bd2-8712-4092-5d92-3eee14161191/NL-HlmNHA_1478_44843K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0f743bd2-8712-4092-5d92-3eee14161191/NL-HlmNHA_1478_44843K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/acf58ad7-899b-1c45-0675-f920bf43795b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/acf58ad7-899b-1c45-0675-f920bf43795b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0f743bd2-8712-4092-5d92-3eee14161191/NL-HlmNHA_1478_44843K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0f743bd2-8712-4092-5d92-3eee14161191/NL-HlmNHA_1478_44843K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De Rozenman , A'dam + H'lem"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/db775369-a51b-eb98-8403-81e511ddfcfe\">https://hdl.handle.net/21.12102/db775369-a51b-eb98-8403-81e511ddfcfe</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0f743bd2-8712-4092-5d92-3eee14161191/NL-HlmNHA_1478_44843K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0f743bd2-8712-4092-5d92-3eee14161191/NL-HlmNHA_1478_44843K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4f5835dd-670c-4d2f-fb21-d88b61eefa14/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4f5835dd-670c-4d2f-fb21-d88b61eefa14",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0f743bd2-8712-4092-5d92-3eee14161191/NL-HlmNHA_1478_44843K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0f743bd2-8712-4092-5d92-3eee14161191/NL-HlmNHA_1478_44843K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De Rozenman , A'dam + H'lem"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/fd939cce-d9a3-bcef-12e5-f5e191271853\">https://hdl.handle.net/21.12102/fd939cce-d9a3-bcef-12e5-f5e191271853</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0f743bd2-8712-4092-5d92-3eee14161191/NL-HlmNHA_1478_44843K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0f743bd2-8712-4092-5d92-3eee14161191/NL-HlmNHA_1478_44843K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/35570c6f-cab7-f0c3-d7df-4552fd1519cf/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/35570c6f-cab7-f0c3-d7df-4552fd1519cf",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0f743bd2-8712-4092-5d92-3eee14161191/NL-HlmNHA_1478_44843K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

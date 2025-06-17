@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/6de0961c-ce1e-0da8-19db-4042f32b17d6.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Gevelopschrift Bank van Lening, Amsterdam (1979-07-23)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Gevelopschrift Bank van Lening, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1979-07-23"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2484869\">Oudezijds Voorburgwal</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.89722,
+            52.37278
+          ]
+        },
+        "properties": {
+          "title": "Oudezijds Voorburgwal",
+          "url": "http://www.wikidata.org/entity/Q2484869"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6de0961c-ce1e-0da8-19db-4042f32b17d6/NL-HlmNHA_1478_18196K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Gevelopschrift Bank van Lening, Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ac4a3f50-bcd0-0279-9235-24af09717392\">https://hdl.handle.net/21.12102/ac4a3f50-bcd0-0279-9235-24af09717392</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6de0961c-ce1e-0da8-19db-4042f32b17d6/NL-HlmNHA_1478_18196K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6de0961c-ce1e-0da8-19db-4042f32b17d6/NL-HlmNHA_1478_18196K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/71899db4-9a51-ecc4-4029-23b4c1ffdb08/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/71899db4-9a51-ecc4-4029-23b4c1ffdb08",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6de0961c-ce1e-0da8-19db-4042f32b17d6/NL-HlmNHA_1478_18196K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

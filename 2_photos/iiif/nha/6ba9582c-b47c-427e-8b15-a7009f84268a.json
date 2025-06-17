@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/6ba9582c-b47c-427e-8b15-a7009f84268a.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Recl. \"Phoenix\" Halfweg\" (1953-07-04)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Recl. \"Phoenix\" Halfweg\""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1953-07-04"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2367253\">Halfweg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Reclame"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/26609"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.755,
+            52.3828
+          ]
+        },
+        "properties": {
+          "title": "Halfweg",
+          "url": "http://www.wikidata.org/entity/Q2367253"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ba9582c-b47c-427e-8b15-a7009f84268a/NL-HlmNHA_1478_09005B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Recl. \"Phoenix\" Halfweg\""
+        ]
+      },
+      "height": 2123,
+      "width": 2714,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/be90b342-fa29-7b43-6a7a-88d3888f303b\">https://hdl.handle.net/21.12102/be90b342-fa29-7b43-6a7a-88d3888f303b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ba9582c-b47c-427e-8b15-a7009f84268a/NL-HlmNHA_1478_09005B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ba9582c-b47c-427e-8b15-a7009f84268a/NL-HlmNHA_1478_09005B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/85d216ae-cb06-4b51-43bb-3da86a197288/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2123,
+                "width": 2714,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/85d216ae-cb06-4b51-43bb-3da86a197288",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ba9582c-b47c-427e-8b15-a7009f84268a/NL-HlmNHA_1478_09005B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

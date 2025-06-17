@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/68af7845-78f2-f16f-b28b-c262e7b90388.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Gevelsteen d\u2019Arke Noach (met naar de ark teruggekeerde duif met olijftak) (1970)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Gevelsteen d\u2019Arke Noach (met naar de ark teruggekeerde duif met olijftak)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1970"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2134520\">Bloemgracht</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.880153,
+            52.374572
+          ]
+        },
+        "properties": {
+          "title": "Bloemgracht",
+          "url": "http://www.wikidata.org/entity/Q2134520"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/68af7845-78f2-f16f-b28b-c262e7b90388/NL-HlmNHA_1478_21041B02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Gevelsteen d\u2019Arke Noach (met naar de ark teruggekeerde duif met olijftak)"
+        ]
+      },
+      "height": 2159,
+      "width": 2608,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/45cc6a4d-c650-465f-ee36-d28da14bc091\">https://hdl.handle.net/21.12102/45cc6a4d-c650-465f-ee36-d28da14bc091</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/68af7845-78f2-f16f-b28b-c262e7b90388/NL-HlmNHA_1478_21041B02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/68af7845-78f2-f16f-b28b-c262e7b90388/NL-HlmNHA_1478_21041B02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d7de2a4b-c087-9d07-d0e4-511a3ad3c958/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2159,
+                "width": 2608,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d7de2a4b-c087-9d07-d0e4-511a3ad3c958",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/68af7845-78f2-f16f-b28b-c262e7b90388/NL-HlmNHA_1478_21041B02_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/68af7845-78f2-f16f-b28b-c262e7b90388/NL-HlmNHA_1478_21041B01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Gevelsteen d\u2019Arke Noach (met naar de ark teruggekeerde duif met olijftak)"
+        ]
+      },
+      "height": 2220,
+      "width": 2672,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a9311257-78e1-48b7-14b6-c51ff9cf0674\">https://hdl.handle.net/21.12102/a9311257-78e1-48b7-14b6-c51ff9cf0674</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/68af7845-78f2-f16f-b28b-c262e7b90388/NL-HlmNHA_1478_21041B01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/68af7845-78f2-f16f-b28b-c262e7b90388/NL-HlmNHA_1478_21041B01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1f4c66a4-e1f0-9469-51a5-b504c41780dd/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2220,
+                "width": 2672,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1f4c66a4-e1f0-9469-51a5-b504c41780dd",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/68af7845-78f2-f16f-b28b-c262e7b90388/NL-HlmNHA_1478_21041B01_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

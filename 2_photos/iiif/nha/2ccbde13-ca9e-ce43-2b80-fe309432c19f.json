@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/2ccbde13-ca9e-ce43-2b80-fe309432c19f.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Recreatieloop Zwanenburg (1987-08-31)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Recreatieloop Zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1987-08-31"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Lopen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ccbde13-ca9e-ce43-2b80-fe309432c19f/NL-HlmNHA_1478_28051K00_21/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Recreatieloop Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0b0d8361-01a9-b1a6-1f78-4bf5ed34faa1\">https://hdl.handle.net/21.12102/0b0d8361-01a9-b1a6-1f78-4bf5ed34faa1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ccbde13-ca9e-ce43-2b80-fe309432c19f/NL-HlmNHA_1478_28051K00_21/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ccbde13-ca9e-ce43-2b80-fe309432c19f/NL-HlmNHA_1478_28051K00_21/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/48b0117b-c5ba-b991-c000-2fc726aa8801/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/48b0117b-c5ba-b991-c000-2fc726aa8801",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ccbde13-ca9e-ce43-2b80-fe309432c19f/NL-HlmNHA_1478_28051K00_21/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ccbde13-ca9e-ce43-2b80-fe309432c19f/NL-HlmNHA_1478_28051K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Recreatieloop Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/66f7508d-84bd-609b-0a8b-1aa4e6ea1026\">https://hdl.handle.net/21.12102/66f7508d-84bd-609b-0a8b-1aa4e6ea1026</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ccbde13-ca9e-ce43-2b80-fe309432c19f/NL-HlmNHA_1478_28051K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ccbde13-ca9e-ce43-2b80-fe309432c19f/NL-HlmNHA_1478_28051K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8f3db4df-5d55-279c-674e-b41eec8174e0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8f3db4df-5d55-279c-674e-b41eec8174e0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ccbde13-ca9e-ce43-2b80-fe309432c19f/NL-HlmNHA_1478_28051K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ccbde13-ca9e-ce43-2b80-fe309432c19f/NL-HlmNHA_1478_28051K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Recreatieloop Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a81e2054-cf27-74cc-9cf4-7eb3f8374fd9\">https://hdl.handle.net/21.12102/a81e2054-cf27-74cc-9cf4-7eb3f8374fd9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ccbde13-ca9e-ce43-2b80-fe309432c19f/NL-HlmNHA_1478_28051K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ccbde13-ca9e-ce43-2b80-fe309432c19f/NL-HlmNHA_1478_28051K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9d90252f-acf1-dc54-bc1b-4b1f8f983904/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9d90252f-acf1-dc54-bc1b-4b1f8f983904",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ccbde13-ca9e-ce43-2b80-fe309432c19f/NL-HlmNHA_1478_28051K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ccbde13-ca9e-ce43-2b80-fe309432c19f/NL-HlmNHA_1478_28051K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Recreatieloop Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b904a8b7-629c-0d63-4cdc-aa504def83ac\">https://hdl.handle.net/21.12102/b904a8b7-629c-0d63-4cdc-aa504def83ac</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ccbde13-ca9e-ce43-2b80-fe309432c19f/NL-HlmNHA_1478_28051K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ccbde13-ca9e-ce43-2b80-fe309432c19f/NL-HlmNHA_1478_28051K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5652d100-9451-570d-64b6-98885e697bd2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5652d100-9451-570d-64b6-98885e697bd2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ccbde13-ca9e-ce43-2b80-fe309432c19f/NL-HlmNHA_1478_28051K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ccbde13-ca9e-ce43-2b80-fe309432c19f/NL-HlmNHA_1478_28051K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Recreatieloop Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f82ced45-a5e1-2d4f-8600-d8d6630ae05d\">https://hdl.handle.net/21.12102/f82ced45-a5e1-2d4f-8600-d8d6630ae05d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ccbde13-ca9e-ce43-2b80-fe309432c19f/NL-HlmNHA_1478_28051K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ccbde13-ca9e-ce43-2b80-fe309432c19f/NL-HlmNHA_1478_28051K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fc82d482-9e15-e6a7-feea-6216643e6ebe/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fc82d482-9e15-e6a7-feea-6216643e6ebe",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ccbde13-ca9e-ce43-2b80-fe309432c19f/NL-HlmNHA_1478_28051K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

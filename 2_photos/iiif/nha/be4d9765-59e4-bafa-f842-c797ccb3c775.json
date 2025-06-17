@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/be4d9765-59e4-bafa-f842-c797ccb3c775.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Tekening nieuw spoorwegstation Amsterdam Lelylaan (1985-03-01)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Tekening nieuw spoorwegstation Amsterdam Lelylaan"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1985-03-01"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be4d9765-59e4-bafa-f842-c797ccb3c775/NL-HlmNHA_1478_24924K00_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tekening nieuw spoorwegstation Amsterdam Lelylaan"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/94727caf-c483-cd4e-e8bc-2143a850ad01\">https://hdl.handle.net/21.12102/94727caf-c483-cd4e-e8bc-2143a850ad01</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be4d9765-59e4-bafa-f842-c797ccb3c775/NL-HlmNHA_1478_24924K00_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be4d9765-59e4-bafa-f842-c797ccb3c775/NL-HlmNHA_1478_24924K00_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9c209490-193c-9f20-22c3-54c69f6785df/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9c209490-193c-9f20-22c3-54c69f6785df",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be4d9765-59e4-bafa-f842-c797ccb3c775/NL-HlmNHA_1478_24924K00_10/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be4d9765-59e4-bafa-f842-c797ccb3c775/NL-HlmNHA_1478_24924K00_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tekening nieuw spoorwegstation Amsterdam Lelylaan"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c77a2360-6d95-47b7-fb8c-6a96621c7893\">https://hdl.handle.net/21.12102/c77a2360-6d95-47b7-fb8c-6a96621c7893</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be4d9765-59e4-bafa-f842-c797ccb3c775/NL-HlmNHA_1478_24924K00_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be4d9765-59e4-bafa-f842-c797ccb3c775/NL-HlmNHA_1478_24924K00_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/30cd6013-55d6-f842-b370-f33a3fb5ce08/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/30cd6013-55d6-f842-b370-f33a3fb5ce08",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be4d9765-59e4-bafa-f842-c797ccb3c775/NL-HlmNHA_1478_24924K00_09/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be4d9765-59e4-bafa-f842-c797ccb3c775/NL-HlmNHA_1478_24924K00_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tekening nieuw spoorwegstation Amsterdam Lelylaan"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d1ddbbe1-a924-d4f6-3b41-093b34955fc5\">https://hdl.handle.net/21.12102/d1ddbbe1-a924-d4f6-3b41-093b34955fc5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be4d9765-59e4-bafa-f842-c797ccb3c775/NL-HlmNHA_1478_24924K00_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be4d9765-59e4-bafa-f842-c797ccb3c775/NL-HlmNHA_1478_24924K00_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4ce7aace-5a15-83cb-be4d-ba7626ee5eaa/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4ce7aace-5a15-83cb-be4d-ba7626ee5eaa",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be4d9765-59e4-bafa-f842-c797ccb3c775/NL-HlmNHA_1478_24924K00_11/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

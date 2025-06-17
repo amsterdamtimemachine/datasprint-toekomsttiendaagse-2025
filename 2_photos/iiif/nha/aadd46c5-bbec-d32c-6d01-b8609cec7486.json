@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/aadd46c5-bbec-d32c-6d01-b8609cec7486.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Hester Hofman, Amsterdam (2002-05-10)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Hester Hofman, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2002-05-10"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aadd46c5-bbec-d32c-6d01-b8609cec7486/NL-HlmNHA_1478_50527K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hester Hofman, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0d6be01c-5dda-bd86-9da7-bb5caef2dbf5\">https://hdl.handle.net/21.12102/0d6be01c-5dda-bd86-9da7-bb5caef2dbf5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aadd46c5-bbec-d32c-6d01-b8609cec7486/NL-HlmNHA_1478_50527K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aadd46c5-bbec-d32c-6d01-b8609cec7486/NL-HlmNHA_1478_50527K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ed93f1b6-b974-e16d-4a22-9c4d222b561b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ed93f1b6-b974-e16d-4a22-9c4d222b561b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aadd46c5-bbec-d32c-6d01-b8609cec7486/NL-HlmNHA_1478_50527K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aadd46c5-bbec-d32c-6d01-b8609cec7486/NL-HlmNHA_1478_50527K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hester Hofman, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/298aa6e5-7b69-97fb-7a05-04e98d975f7b\">https://hdl.handle.net/21.12102/298aa6e5-7b69-97fb-7a05-04e98d975f7b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aadd46c5-bbec-d32c-6d01-b8609cec7486/NL-HlmNHA_1478_50527K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aadd46c5-bbec-d32c-6d01-b8609cec7486/NL-HlmNHA_1478_50527K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/07ff3d5d-65c0-974a-9060-bc451008bb46/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/07ff3d5d-65c0-974a-9060-bc451008bb46",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aadd46c5-bbec-d32c-6d01-b8609cec7486/NL-HlmNHA_1478_50527K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aadd46c5-bbec-d32c-6d01-b8609cec7486/NL-HlmNHA_1478_50527K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hester Hofman, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3b438ce0-1135-0490-f59f-69bda8d88a33\">https://hdl.handle.net/21.12102/3b438ce0-1135-0490-f59f-69bda8d88a33</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aadd46c5-bbec-d32c-6d01-b8609cec7486/NL-HlmNHA_1478_50527K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aadd46c5-bbec-d32c-6d01-b8609cec7486/NL-HlmNHA_1478_50527K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6db35080-37a5-f3b8-3fb6-527bba28ea82/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6db35080-37a5-f3b8-3fb6-527bba28ea82",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aadd46c5-bbec-d32c-6d01-b8609cec7486/NL-HlmNHA_1478_50527K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aadd46c5-bbec-d32c-6d01-b8609cec7486/NL-HlmNHA_1478_50527K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hester Hofman, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9b05f47e-e926-89ed-844a-e03725f269e2\">https://hdl.handle.net/21.12102/9b05f47e-e926-89ed-844a-e03725f269e2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aadd46c5-bbec-d32c-6d01-b8609cec7486/NL-HlmNHA_1478_50527K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aadd46c5-bbec-d32c-6d01-b8609cec7486/NL-HlmNHA_1478_50527K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1d7b4c9f-82ac-360d-a0db-787c8654a359/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1d7b4c9f-82ac-360d-a0db-787c8654a359",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aadd46c5-bbec-d32c-6d01-b8609cec7486/NL-HlmNHA_1478_50527K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aadd46c5-bbec-d32c-6d01-b8609cec7486/NL-HlmNHA_1478_50527K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hester Hofman, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f4f3c878-4b51-7a3c-c69a-a939e541305f\">https://hdl.handle.net/21.12102/f4f3c878-4b51-7a3c-c69a-a939e541305f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aadd46c5-bbec-d32c-6d01-b8609cec7486/NL-HlmNHA_1478_50527K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aadd46c5-bbec-d32c-6d01-b8609cec7486/NL-HlmNHA_1478_50527K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7bb92662-9712-8c15-8399-eaebde2646ee/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7bb92662-9712-8c15-8399-eaebde2646ee",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aadd46c5-bbec-d32c-6d01-b8609cec7486/NL-HlmNHA_1478_50527K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aadd46c5-bbec-d32c-6d01-b8609cec7486/NL-HlmNHA_1478_50527K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hester Hofman, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/fc2bd006-b2b5-d429-10a3-67f467f2806d\">https://hdl.handle.net/21.12102/fc2bd006-b2b5-d429-10a3-67f467f2806d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aadd46c5-bbec-d32c-6d01-b8609cec7486/NL-HlmNHA_1478_50527K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aadd46c5-bbec-d32c-6d01-b8609cec7486/NL-HlmNHA_1478_50527K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5993c974-6aae-c85c-86e8-b47d489c6b65/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5993c974-6aae-c85c-86e8-b47d489c6b65",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aadd46c5-bbec-d32c-6d01-b8609cec7486/NL-HlmNHA_1478_50527K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/0972d049-2693-cde0-13c4-a1e091f1dfc1.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Wegwerkzaamheden bij Sloterbrug (1987-06-29)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Wegwerkzaamheden bij Sloterbrug"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1987-06-29"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q568337\">Badhoevedorp</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Werkzaamheden"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7803,
+            52.3381
+          ]
+        },
+        "properties": {
+          "title": "Badhoevedorp",
+          "url": "http://www.wikidata.org/entity/Q568337"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0972d049-2693-cde0-13c4-a1e091f1dfc1/NL-HlmNHA_1478_27824K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Wegwerkzaamheden bij Sloterbrug"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1ec9c1d8-7af4-b08d-1c1a-b06bd0edc4d4\">https://hdl.handle.net/21.12102/1ec9c1d8-7af4-b08d-1c1a-b06bd0edc4d4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0972d049-2693-cde0-13c4-a1e091f1dfc1/NL-HlmNHA_1478_27824K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0972d049-2693-cde0-13c4-a1e091f1dfc1/NL-HlmNHA_1478_27824K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c7406692-c712-a59c-ef72-8067054fb0c8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c7406692-c712-a59c-ef72-8067054fb0c8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0972d049-2693-cde0-13c4-a1e091f1dfc1/NL-HlmNHA_1478_27824K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0972d049-2693-cde0-13c4-a1e091f1dfc1/NL-HlmNHA_1478_27824K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Wegwerkzaamheden bij Sloterbrug"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/42aef1a1-7a01-837b-adbc-865cb6300450\">https://hdl.handle.net/21.12102/42aef1a1-7a01-837b-adbc-865cb6300450</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0972d049-2693-cde0-13c4-a1e091f1dfc1/NL-HlmNHA_1478_27824K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0972d049-2693-cde0-13c4-a1e091f1dfc1/NL-HlmNHA_1478_27824K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2cbcfb7b-7667-b95c-e32f-f38cd702bf69/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2cbcfb7b-7667-b95c-e32f-f38cd702bf69",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0972d049-2693-cde0-13c4-a1e091f1dfc1/NL-HlmNHA_1478_27824K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0972d049-2693-cde0-13c4-a1e091f1dfc1/NL-HlmNHA_1478_27824K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Wegwerkzaamheden bij Sloterbrug"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/686c91b9-65bb-13e3-fce1-3e770037a17a\">https://hdl.handle.net/21.12102/686c91b9-65bb-13e3-fce1-3e770037a17a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0972d049-2693-cde0-13c4-a1e091f1dfc1/NL-HlmNHA_1478_27824K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0972d049-2693-cde0-13c4-a1e091f1dfc1/NL-HlmNHA_1478_27824K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c7ac5ba1-ec35-c6b0-201f-b40eae41dd3d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c7ac5ba1-ec35-c6b0-201f-b40eae41dd3d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0972d049-2693-cde0-13c4-a1e091f1dfc1/NL-HlmNHA_1478_27824K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0972d049-2693-cde0-13c4-a1e091f1dfc1/NL-HlmNHA_1478_27824K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Wegwerkzaamheden bij Sloterbrug"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b415477f-2be6-b85f-623f-4916b6f47477\">https://hdl.handle.net/21.12102/b415477f-2be6-b85f-623f-4916b6f47477</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0972d049-2693-cde0-13c4-a1e091f1dfc1/NL-HlmNHA_1478_27824K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0972d049-2693-cde0-13c4-a1e091f1dfc1/NL-HlmNHA_1478_27824K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d00cdca3-ee3b-75fd-0c10-c00f151db59c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d00cdca3-ee3b-75fd-0c10-c00f151db59c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0972d049-2693-cde0-13c4-a1e091f1dfc1/NL-HlmNHA_1478_27824K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0972d049-2693-cde0-13c4-a1e091f1dfc1/NL-HlmNHA_1478_27824K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Wegwerkzaamheden bij Sloterbrug"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b9afc240-a288-37ab-c296-b55569258025\">https://hdl.handle.net/21.12102/b9afc240-a288-37ab-c296-b55569258025</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0972d049-2693-cde0-13c4-a1e091f1dfc1/NL-HlmNHA_1478_27824K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0972d049-2693-cde0-13c4-a1e091f1dfc1/NL-HlmNHA_1478_27824K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9cde3e66-5323-70b6-66ee-88725bfd88a5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9cde3e66-5323-70b6-66ee-88725bfd88a5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0972d049-2693-cde0-13c4-a1e091f1dfc1/NL-HlmNHA_1478_27824K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

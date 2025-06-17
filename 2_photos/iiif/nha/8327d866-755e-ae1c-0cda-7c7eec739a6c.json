@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/8327d866-755e-ae1c-0cda-7c7eec739a6c.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Schiphol is het eindpunt van de rally voor autobussen en toerwagens georganiseerd door de Koninklijke Nederlandse Vereniging van Transport Ondernemingen (KNVTO). (1956-05-15)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Schiphol is het eindpunt van de rally voor autobussen en toerwagens georganiseerd door de Koninklijke Nederlandse Vereniging van Transport Ondernemingen (KNVTO)."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1956-05-15"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8327d866-755e-ae1c-0cda-7c7eec739a6c/NL-HlmNHA_1478_01495A02_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schiphol is het eindpunt van de rally voor autobussen en toerwagens georganiseerd door de Koninklijke Nederlandse Vereniging van Transport Ondernemingen (KNVTO)."
+        ]
+      },
+      "height": 2567,
+      "width": 2567,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/49387a60-62f4-366b-ba37-2f6959b4a02c\">https://hdl.handle.net/21.12102/49387a60-62f4-366b-ba37-2f6959b4a02c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8327d866-755e-ae1c-0cda-7c7eec739a6c/NL-HlmNHA_1478_01495A02_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8327d866-755e-ae1c-0cda-7c7eec739a6c/NL-HlmNHA_1478_01495A02_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/793ce7d2-3022-72a7-2b6e-acf040500881/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2567,
+                "width": 2567,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/793ce7d2-3022-72a7-2b6e-acf040500881",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8327d866-755e-ae1c-0cda-7c7eec739a6c/NL-HlmNHA_1478_01495A02_09/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

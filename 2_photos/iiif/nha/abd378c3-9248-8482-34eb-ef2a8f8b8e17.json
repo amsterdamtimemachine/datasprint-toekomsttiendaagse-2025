@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/abd378c3-9248-8482-34eb-ef2a8f8b8e17.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Snackkar Zwanenburg (1991-10-24)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Snackkar Zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1991-10-24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abd378c3-9248-8482-34eb-ef2a8f8b8e17/NL-HlmNHA_1478_35286K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Snackkar Zwanenburg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/02c6759a-f039-9d9d-7250-d67cb1de276f\">https://hdl.handle.net/21.12102/02c6759a-f039-9d9d-7250-d67cb1de276f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abd378c3-9248-8482-34eb-ef2a8f8b8e17/NL-HlmNHA_1478_35286K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abd378c3-9248-8482-34eb-ef2a8f8b8e17/NL-HlmNHA_1478_35286K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2f90e431-2b5c-cc1a-9881-cd1a97ed0c45/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2f90e431-2b5c-cc1a-9881-cd1a97ed0c45",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abd378c3-9248-8482-34eb-ef2a8f8b8e17/NL-HlmNHA_1478_35286K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abd378c3-9248-8482-34eb-ef2a8f8b8e17/NL-HlmNHA_1478_35286K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Snackkar Zwanenburg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1e7443f7-b1d3-5dc4-f4e2-4ae317cda443\">https://hdl.handle.net/21.12102/1e7443f7-b1d3-5dc4-f4e2-4ae317cda443</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abd378c3-9248-8482-34eb-ef2a8f8b8e17/NL-HlmNHA_1478_35286K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abd378c3-9248-8482-34eb-ef2a8f8b8e17/NL-HlmNHA_1478_35286K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c7916df6-7bcb-c095-d673-0eadcf9199fb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c7916df6-7bcb-c095-d673-0eadcf9199fb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abd378c3-9248-8482-34eb-ef2a8f8b8e17/NL-HlmNHA_1478_35286K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abd378c3-9248-8482-34eb-ef2a8f8b8e17/NL-HlmNHA_1478_35286K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Snackkar Zwanenburg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/22974f16-245c-873f-941b-dd3fc5ea59f9\">https://hdl.handle.net/21.12102/22974f16-245c-873f-941b-dd3fc5ea59f9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abd378c3-9248-8482-34eb-ef2a8f8b8e17/NL-HlmNHA_1478_35286K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abd378c3-9248-8482-34eb-ef2a8f8b8e17/NL-HlmNHA_1478_35286K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/720bb755-ebdc-79ce-9b84-c9da29c76358/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/720bb755-ebdc-79ce-9b84-c9da29c76358",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abd378c3-9248-8482-34eb-ef2a8f8b8e17/NL-HlmNHA_1478_35286K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abd378c3-9248-8482-34eb-ef2a8f8b8e17/NL-HlmNHA_1478_35286K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Snackkar Zwanenburg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/80aed8e3-efec-13a6-0e28-c97105cf9fe7\">https://hdl.handle.net/21.12102/80aed8e3-efec-13a6-0e28-c97105cf9fe7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abd378c3-9248-8482-34eb-ef2a8f8b8e17/NL-HlmNHA_1478_35286K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abd378c3-9248-8482-34eb-ef2a8f8b8e17/NL-HlmNHA_1478_35286K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/77ac3c1b-e877-d704-5320-5e2f97b97eac/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/77ac3c1b-e877-d704-5320-5e2f97b97eac",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abd378c3-9248-8482-34eb-ef2a8f8b8e17/NL-HlmNHA_1478_35286K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abd378c3-9248-8482-34eb-ef2a8f8b8e17/NL-HlmNHA_1478_35286K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Snackkar Zwanenburg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/99d73df5-e4f0-a9d6-76e6-a889db8014e1\">https://hdl.handle.net/21.12102/99d73df5-e4f0-a9d6-76e6-a889db8014e1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abd378c3-9248-8482-34eb-ef2a8f8b8e17/NL-HlmNHA_1478_35286K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abd378c3-9248-8482-34eb-ef2a8f8b8e17/NL-HlmNHA_1478_35286K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2df47a0f-64cf-2e8a-fd83-9cf1b264f117/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2df47a0f-64cf-2e8a-fd83-9cf1b264f117",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abd378c3-9248-8482-34eb-ef2a8f8b8e17/NL-HlmNHA_1478_35286K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abd378c3-9248-8482-34eb-ef2a8f8b8e17/NL-HlmNHA_1478_35286K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Snackkar Zwanenburg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c088d611-a5ff-46de-8cf6-3a083848f3ed\">https://hdl.handle.net/21.12102/c088d611-a5ff-46de-8cf6-3a083848f3ed</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abd378c3-9248-8482-34eb-ef2a8f8b8e17/NL-HlmNHA_1478_35286K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abd378c3-9248-8482-34eb-ef2a8f8b8e17/NL-HlmNHA_1478_35286K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/58415a98-a256-2ec7-df07-0e6660fef362/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/58415a98-a256-2ec7-df07-0e6660fef362",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abd378c3-9248-8482-34eb-ef2a8f8b8e17/NL-HlmNHA_1478_35286K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

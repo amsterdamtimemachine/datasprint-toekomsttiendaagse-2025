@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/4b1b5e73-187c-9d7c-c9a7-98258edbd427.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Hr. Vorst, New York pizza, Amsterdam (1995-07-20)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Hr. Vorst, New York pizza, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1995-07-20"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4b1b5e73-187c-9d7c-c9a7-98258edbd427/NL-HlmNHA_1478_41553K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hr. Vorst, New York pizza, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1fa6d073-4d0f-f804-96fc-453f4289baff\">https://hdl.handle.net/21.12102/1fa6d073-4d0f-f804-96fc-453f4289baff</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4b1b5e73-187c-9d7c-c9a7-98258edbd427/NL-HlmNHA_1478_41553K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4b1b5e73-187c-9d7c-c9a7-98258edbd427/NL-HlmNHA_1478_41553K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0352a575-30ea-b65c-d29d-410730af809a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0352a575-30ea-b65c-d29d-410730af809a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4b1b5e73-187c-9d7c-c9a7-98258edbd427/NL-HlmNHA_1478_41553K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4b1b5e73-187c-9d7c-c9a7-98258edbd427/NL-HlmNHA_1478_41553K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hr. Vorst, New York pizza, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7f8ae4f9-2773-52ee-eea5-4b84254d9b2c\">https://hdl.handle.net/21.12102/7f8ae4f9-2773-52ee-eea5-4b84254d9b2c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4b1b5e73-187c-9d7c-c9a7-98258edbd427/NL-HlmNHA_1478_41553K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4b1b5e73-187c-9d7c-c9a7-98258edbd427/NL-HlmNHA_1478_41553K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/85f3e7cb-9a4e-c8d0-5317-d0a133f66358/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/85f3e7cb-9a4e-c8d0-5317-d0a133f66358",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4b1b5e73-187c-9d7c-c9a7-98258edbd427/NL-HlmNHA_1478_41553K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4b1b5e73-187c-9d7c-c9a7-98258edbd427/NL-HlmNHA_1478_41553K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hr. Vorst, New York pizza, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/80157de9-7ae3-95cc-1cab-dd85d79ff2d4\">https://hdl.handle.net/21.12102/80157de9-7ae3-95cc-1cab-dd85d79ff2d4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4b1b5e73-187c-9d7c-c9a7-98258edbd427/NL-HlmNHA_1478_41553K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4b1b5e73-187c-9d7c-c9a7-98258edbd427/NL-HlmNHA_1478_41553K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5a310db8-d1bb-ffa5-fc84-52ab5fc63cc3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5a310db8-d1bb-ffa5-fc84-52ab5fc63cc3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4b1b5e73-187c-9d7c-c9a7-98258edbd427/NL-HlmNHA_1478_41553K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4b1b5e73-187c-9d7c-c9a7-98258edbd427/NL-HlmNHA_1478_41553K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hr. Vorst, New York pizza, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e3254552-dcfe-0f49-d644-d50584617f86\">https://hdl.handle.net/21.12102/e3254552-dcfe-0f49-d644-d50584617f86</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4b1b5e73-187c-9d7c-c9a7-98258edbd427/NL-HlmNHA_1478_41553K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4b1b5e73-187c-9d7c-c9a7-98258edbd427/NL-HlmNHA_1478_41553K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8a44d1a4-a998-39aa-8f40-cf0ad92efb4e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8a44d1a4-a998-39aa-8f40-cf0ad92efb4e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4b1b5e73-187c-9d7c-c9a7-98258edbd427/NL-HlmNHA_1478_41553K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4b1b5e73-187c-9d7c-c9a7-98258edbd427/NL-HlmNHA_1478_41553K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hr. Vorst, New York pizza, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e93ec6a1-ef4b-4dd0-1d81-035098e1aed4\">https://hdl.handle.net/21.12102/e93ec6a1-ef4b-4dd0-1d81-035098e1aed4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4b1b5e73-187c-9d7c-c9a7-98258edbd427/NL-HlmNHA_1478_41553K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4b1b5e73-187c-9d7c-c9a7-98258edbd427/NL-HlmNHA_1478_41553K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/80c6dc83-ec30-a537-7a10-c5a62ab2cb88/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/80c6dc83-ec30-a537-7a10-c5a62ab2cb88",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4b1b5e73-187c-9d7c-c9a7-98258edbd427/NL-HlmNHA_1478_41553K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4b1b5e73-187c-9d7c-c9a7-98258edbd427/NL-HlmNHA_1478_41553K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hr. Vorst, New York pizza, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/fa8532b8-15e7-6e98-124f-0c401920b2ea\">https://hdl.handle.net/21.12102/fa8532b8-15e7-6e98-124f-0c401920b2ea</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4b1b5e73-187c-9d7c-c9a7-98258edbd427/NL-HlmNHA_1478_41553K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4b1b5e73-187c-9d7c-c9a7-98258edbd427/NL-HlmNHA_1478_41553K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d1ec4a04-184a-6303-a198-c88ea6370492/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d1ec4a04-184a-6303-a198-c88ea6370492",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4b1b5e73-187c-9d7c-c9a7-98258edbd427/NL-HlmNHA_1478_41553K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

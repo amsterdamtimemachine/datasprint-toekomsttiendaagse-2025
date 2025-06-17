@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/a36b658b-3d4f-cb5d-685a-9a5975e62cf7.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Zicht over Amsterdam Zuid vanuit gebouw Atrium, gezien in noordelijke richting (1991-08-13)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Zicht over Amsterdam Zuid vanuit gebouw Atrium, gezien in noordelijke richting"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1991-08-13"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a36b658b-3d4f-cb5d-685a-9a5975e62cf7/NL-HlmNHA_1478_34859K01_34/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Zicht over Amsterdam Zuid vanuit gebouw Atrium, gezien in noordelijke richting"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4e83acb5-7742-bb2c-788c-e3c56a4b825a\">https://hdl.handle.net/21.12102/4e83acb5-7742-bb2c-788c-e3c56a4b825a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a36b658b-3d4f-cb5d-685a-9a5975e62cf7/NL-HlmNHA_1478_34859K01_34/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a36b658b-3d4f-cb5d-685a-9a5975e62cf7/NL-HlmNHA_1478_34859K01_34/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d4aea83a-644a-2d23-1d4b-23ee89b78d3f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d4aea83a-644a-2d23-1d4b-23ee89b78d3f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a36b658b-3d4f-cb5d-685a-9a5975e62cf7/NL-HlmNHA_1478_34859K01_34/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a36b658b-3d4f-cb5d-685a-9a5975e62cf7/NL-HlmNHA_1478_34859K01_36/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Zicht over Amsterdam Zuid vanuit gebouw Atrium, gezien in noordelijke richting"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ac967b09-30fc-183b-705d-c7a66b54474f\">https://hdl.handle.net/21.12102/ac967b09-30fc-183b-705d-c7a66b54474f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a36b658b-3d4f-cb5d-685a-9a5975e62cf7/NL-HlmNHA_1478_34859K01_36/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a36b658b-3d4f-cb5d-685a-9a5975e62cf7/NL-HlmNHA_1478_34859K01_36/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f695f775-b5aa-ff2e-da78-9d1b70f0683b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f695f775-b5aa-ff2e-da78-9d1b70f0683b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a36b658b-3d4f-cb5d-685a-9a5975e62cf7/NL-HlmNHA_1478_34859K01_36/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a36b658b-3d4f-cb5d-685a-9a5975e62cf7/NL-HlmNHA_1478_34859K01_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Zicht over Amsterdam Zuid vanuit gebouw Atrium, gezien in noordelijke richting"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d6dee389-79e6-e5df-c19d-482cf50cb03d\">https://hdl.handle.net/21.12102/d6dee389-79e6-e5df-c19d-482cf50cb03d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a36b658b-3d4f-cb5d-685a-9a5975e62cf7/NL-HlmNHA_1478_34859K01_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a36b658b-3d4f-cb5d-685a-9a5975e62cf7/NL-HlmNHA_1478_34859K01_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ebeec45b-eb96-5bbc-c399-30ca4c76b189/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ebeec45b-eb96-5bbc-c399-30ca4c76b189",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a36b658b-3d4f-cb5d-685a-9a5975e62cf7/NL-HlmNHA_1478_34859K01_35/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

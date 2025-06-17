@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/1e7bec07-6e3e-8f3f-d9f6-0c127adef8ed.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Luchtfoto Amsterdam (1973)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Luchtfoto Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1973"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e7bec07-6e3e-8f3f-d9f6-0c127adef8ed/NL-HlmNHA_1478_02884A00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Luchtfoto Amsterdam"
+        ]
+      },
+      "height": 2514,
+      "width": 3154,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/147b2661-7f7d-4be5-d961-ba3727ebdfd2\">https://hdl.handle.net/21.12102/147b2661-7f7d-4be5-d961-ba3727ebdfd2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e7bec07-6e3e-8f3f-d9f6-0c127adef8ed/NL-HlmNHA_1478_02884A00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e7bec07-6e3e-8f3f-d9f6-0c127adef8ed/NL-HlmNHA_1478_02884A00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/42cacd73-11df-7e73-dfa1-06b901e9821a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2514,
+                "width": 3154,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/42cacd73-11df-7e73-dfa1-06b901e9821a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e7bec07-6e3e-8f3f-d9f6-0c127adef8ed/NL-HlmNHA_1478_02884A00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e7bec07-6e3e-8f3f-d9f6-0c127adef8ed/NL-HlmNHA_1478_02884A00_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Luchtfoto Amsterdam"
+        ]
+      },
+      "height": 2505,
+      "width": 3143,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2e324d4e-cda8-e52e-fb9d-74e69db6512a\">https://hdl.handle.net/21.12102/2e324d4e-cda8-e52e-fb9d-74e69db6512a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e7bec07-6e3e-8f3f-d9f6-0c127adef8ed/NL-HlmNHA_1478_02884A00_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e7bec07-6e3e-8f3f-d9f6-0c127adef8ed/NL-HlmNHA_1478_02884A00_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/11f74540-5162-4993-b16a-e37222838542/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2505,
+                "width": 3143,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/11f74540-5162-4993-b16a-e37222838542",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e7bec07-6e3e-8f3f-d9f6-0c127adef8ed/NL-HlmNHA_1478_02884A00_08/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e7bec07-6e3e-8f3f-d9f6-0c127adef8ed/NL-HlmNHA_1478_02884A00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Luchtfoto Amsterdam"
+        ]
+      },
+      "height": 2508,
+      "width": 3147,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/66504bc8-1578-5be0-95d1-68453907b8c1\">https://hdl.handle.net/21.12102/66504bc8-1578-5be0-95d1-68453907b8c1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e7bec07-6e3e-8f3f-d9f6-0c127adef8ed/NL-HlmNHA_1478_02884A00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e7bec07-6e3e-8f3f-d9f6-0c127adef8ed/NL-HlmNHA_1478_02884A00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f64d7aee-881f-73e8-6b03-a876b4b18b5f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2508,
+                "width": 3147,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f64d7aee-881f-73e8-6b03-a876b4b18b5f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e7bec07-6e3e-8f3f-d9f6-0c127adef8ed/NL-HlmNHA_1478_02884A00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e7bec07-6e3e-8f3f-d9f6-0c127adef8ed/NL-HlmNHA_1478_02884A00_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Luchtfoto Amsterdam"
+        ]
+      },
+      "height": 2508,
+      "width": 3146,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/90157908-a6fc-a93b-e810-3799391b3530\">https://hdl.handle.net/21.12102/90157908-a6fc-a93b-e810-3799391b3530</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e7bec07-6e3e-8f3f-d9f6-0c127adef8ed/NL-HlmNHA_1478_02884A00_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e7bec07-6e3e-8f3f-d9f6-0c127adef8ed/NL-HlmNHA_1478_02884A00_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a059b606-ffa2-9f85-dad0-6bf6ea534725/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2508,
+                "width": 3146,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a059b606-ffa2-9f85-dad0-6bf6ea534725",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e7bec07-6e3e-8f3f-d9f6-0c127adef8ed/NL-HlmNHA_1478_02884A00_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e7bec07-6e3e-8f3f-d9f6-0c127adef8ed/NL-HlmNHA_1478_02884A00_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Luchtfoto Amsterdam"
+        ]
+      },
+      "height": 2516,
+      "width": 3156,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/dc14d6a3-1e52-2dca-cfc3-45c403fea601\">https://hdl.handle.net/21.12102/dc14d6a3-1e52-2dca-cfc3-45c403fea601</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e7bec07-6e3e-8f3f-d9f6-0c127adef8ed/NL-HlmNHA_1478_02884A00_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e7bec07-6e3e-8f3f-d9f6-0c127adef8ed/NL-HlmNHA_1478_02884A00_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/48cc991d-b9c0-4fd4-0fd8-31cd20629a2c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2516,
+                "width": 3156,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/48cc991d-b9c0-4fd4-0fd8-31cd20629a2c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e7bec07-6e3e-8f3f-d9f6-0c127adef8ed/NL-HlmNHA_1478_02884A00_09/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

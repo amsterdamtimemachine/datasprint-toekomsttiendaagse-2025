@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/dcf6cb79-f86e-af65-2e85-400ba9434d63.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Lezing Ton van Schaik, Amsterdam (2000-04-12)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Lezing Ton van Schaik, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2000-04-12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcf6cb79-f86e-af65-2e85-400ba9434d63/NL-HlmNHA_1478_48067K00_36/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Lezing Ton van Schaik, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4b6aaae4-6bc5-b22a-fea4-02400e5a7afe\">https://hdl.handle.net/21.12102/4b6aaae4-6bc5-b22a-fea4-02400e5a7afe</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcf6cb79-f86e-af65-2e85-400ba9434d63/NL-HlmNHA_1478_48067K00_36/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcf6cb79-f86e-af65-2e85-400ba9434d63/NL-HlmNHA_1478_48067K00_36/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f316a5f5-24b2-71d6-fce5-744f5fb97fe8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f316a5f5-24b2-71d6-fce5-744f5fb97fe8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcf6cb79-f86e-af65-2e85-400ba9434d63/NL-HlmNHA_1478_48067K00_36/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcf6cb79-f86e-af65-2e85-400ba9434d63/NL-HlmNHA_1478_48067K00_40/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Lezing Ton van Schaik, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6f92df2a-4202-4b46-a00e-e2a128c7b2c1\">https://hdl.handle.net/21.12102/6f92df2a-4202-4b46-a00e-e2a128c7b2c1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcf6cb79-f86e-af65-2e85-400ba9434d63/NL-HlmNHA_1478_48067K00_40/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcf6cb79-f86e-af65-2e85-400ba9434d63/NL-HlmNHA_1478_48067K00_40/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f5753b0d-90ec-5f22-f3ec-ab4070684b46/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f5753b0d-90ec-5f22-f3ec-ab4070684b46",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcf6cb79-f86e-af65-2e85-400ba9434d63/NL-HlmNHA_1478_48067K00_40/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcf6cb79-f86e-af65-2e85-400ba9434d63/NL-HlmNHA_1478_48067K00_41/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Lezing Ton van Schaik, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7de9e9e3-bd44-d25a-f75b-0c1d67bc8604\">https://hdl.handle.net/21.12102/7de9e9e3-bd44-d25a-f75b-0c1d67bc8604</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcf6cb79-f86e-af65-2e85-400ba9434d63/NL-HlmNHA_1478_48067K00_41/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcf6cb79-f86e-af65-2e85-400ba9434d63/NL-HlmNHA_1478_48067K00_41/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d6937ca1-91dd-168a-5a72-80d9fce3bacd/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d6937ca1-91dd-168a-5a72-80d9fce3bacd",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcf6cb79-f86e-af65-2e85-400ba9434d63/NL-HlmNHA_1478_48067K00_41/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcf6cb79-f86e-af65-2e85-400ba9434d63/NL-HlmNHA_1478_48067K00_39/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Lezing Ton van Schaik, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ae310693-1a8d-d506-c154-c47fdc265aa2\">https://hdl.handle.net/21.12102/ae310693-1a8d-d506-c154-c47fdc265aa2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcf6cb79-f86e-af65-2e85-400ba9434d63/NL-HlmNHA_1478_48067K00_39/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcf6cb79-f86e-af65-2e85-400ba9434d63/NL-HlmNHA_1478_48067K00_39/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/02a27b6d-9591-8ac5-c328-b8d1d0385eff/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/02a27b6d-9591-8ac5-c328-b8d1d0385eff",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcf6cb79-f86e-af65-2e85-400ba9434d63/NL-HlmNHA_1478_48067K00_39/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcf6cb79-f86e-af65-2e85-400ba9434d63/NL-HlmNHA_1478_48067K00_37/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Lezing Ton van Schaik, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/cd748cbc-96b3-fb19-a271-1b46b2d26ebf\">https://hdl.handle.net/21.12102/cd748cbc-96b3-fb19-a271-1b46b2d26ebf</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcf6cb79-f86e-af65-2e85-400ba9434d63/NL-HlmNHA_1478_48067K00_37/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcf6cb79-f86e-af65-2e85-400ba9434d63/NL-HlmNHA_1478_48067K00_37/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/154bbd9e-defe-a3e3-167e-dc1d606b7d60/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/154bbd9e-defe-a3e3-167e-dc1d606b7d60",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcf6cb79-f86e-af65-2e85-400ba9434d63/NL-HlmNHA_1478_48067K00_37/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcf6cb79-f86e-af65-2e85-400ba9434d63/NL-HlmNHA_1478_48067K00_38/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Lezing Ton van Schaik, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e751c287-a30b-993e-414f-9787c54bce4a\">https://hdl.handle.net/21.12102/e751c287-a30b-993e-414f-9787c54bce4a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcf6cb79-f86e-af65-2e85-400ba9434d63/NL-HlmNHA_1478_48067K00_38/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcf6cb79-f86e-af65-2e85-400ba9434d63/NL-HlmNHA_1478_48067K00_38/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/44ec2c3b-33be-2d92-055c-f42426bb631f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/44ec2c3b-33be-2d92-055c-f42426bb631f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcf6cb79-f86e-af65-2e85-400ba9434d63/NL-HlmNHA_1478_48067K00_38/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

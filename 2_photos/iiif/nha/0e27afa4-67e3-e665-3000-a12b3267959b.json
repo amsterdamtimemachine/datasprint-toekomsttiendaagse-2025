@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/0e27afa4-67e3-e665-3000-a12b3267959b.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Vergadering A9, dorpshuis B'dorp (1992-02-13)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Vergadering A9, dorpshuis B'dorp"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1992-02-13"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q568337\">Badhoevedorp</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7803,
+            52.3381
+          ]
+        },
+        "properties": {
+          "title": "Badhoevedorp",
+          "url": "http://www.wikidata.org/entity/Q568337"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0e27afa4-67e3-e665-3000-a12b3267959b/NL-HlmNHA_1478_35849K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vergadering A9, dorpshuis B'dorp"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/06ef46ea-737a-caf5-217c-fe1cc3ddf264\">https://hdl.handle.net/21.12102/06ef46ea-737a-caf5-217c-fe1cc3ddf264</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0e27afa4-67e3-e665-3000-a12b3267959b/NL-HlmNHA_1478_35849K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0e27afa4-67e3-e665-3000-a12b3267959b/NL-HlmNHA_1478_35849K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ab4473d3-3fcd-2bda-7f39-c1bb2546cd08/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ab4473d3-3fcd-2bda-7f39-c1bb2546cd08",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0e27afa4-67e3-e665-3000-a12b3267959b/NL-HlmNHA_1478_35849K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0e27afa4-67e3-e665-3000-a12b3267959b/NL-HlmNHA_1478_35849K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vergadering A9, dorpshuis B'dorp"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/702d8270-9601-79fd-c897-ce02a87e9fc1\">https://hdl.handle.net/21.12102/702d8270-9601-79fd-c897-ce02a87e9fc1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0e27afa4-67e3-e665-3000-a12b3267959b/NL-HlmNHA_1478_35849K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0e27afa4-67e3-e665-3000-a12b3267959b/NL-HlmNHA_1478_35849K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/af5d363f-1f61-4b52-0b9b-b52d817fd424/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/af5d363f-1f61-4b52-0b9b-b52d817fd424",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0e27afa4-67e3-e665-3000-a12b3267959b/NL-HlmNHA_1478_35849K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0e27afa4-67e3-e665-3000-a12b3267959b/NL-HlmNHA_1478_35849K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vergadering A9, dorpshuis B'dorp"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/71817d29-11fb-b7ad-d66b-0b1b6112477f\">https://hdl.handle.net/21.12102/71817d29-11fb-b7ad-d66b-0b1b6112477f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0e27afa4-67e3-e665-3000-a12b3267959b/NL-HlmNHA_1478_35849K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0e27afa4-67e3-e665-3000-a12b3267959b/NL-HlmNHA_1478_35849K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/45b03267-b631-683f-7b4a-0912d74e9de5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/45b03267-b631-683f-7b4a-0912d74e9de5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0e27afa4-67e3-e665-3000-a12b3267959b/NL-HlmNHA_1478_35849K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0e27afa4-67e3-e665-3000-a12b3267959b/NL-HlmNHA_1478_35849K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vergadering A9, dorpshuis B'dorp"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d6c5591c-df6e-389c-c306-0c227f086f0f\">https://hdl.handle.net/21.12102/d6c5591c-df6e-389c-c306-0c227f086f0f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0e27afa4-67e3-e665-3000-a12b3267959b/NL-HlmNHA_1478_35849K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0e27afa4-67e3-e665-3000-a12b3267959b/NL-HlmNHA_1478_35849K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/aa2d55c7-31bb-c79f-2903-c035b162759a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/aa2d55c7-31bb-c79f-2903-c035b162759a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0e27afa4-67e3-e665-3000-a12b3267959b/NL-HlmNHA_1478_35849K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0e27afa4-67e3-e665-3000-a12b3267959b/NL-HlmNHA_1478_35849K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vergadering A9, dorpshuis B'dorp"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/dad9af8c-365b-ead7-f885-314148199295\">https://hdl.handle.net/21.12102/dad9af8c-365b-ead7-f885-314148199295</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0e27afa4-67e3-e665-3000-a12b3267959b/NL-HlmNHA_1478_35849K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0e27afa4-67e3-e665-3000-a12b3267959b/NL-HlmNHA_1478_35849K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d6f281f5-ca57-ec6c-8727-fd9fe4cd7a28/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d6f281f5-ca57-ec6c-8727-fd9fe4cd7a28",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0e27afa4-67e3-e665-3000-a12b3267959b/NL-HlmNHA_1478_35849K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0e27afa4-67e3-e665-3000-a12b3267959b/NL-HlmNHA_1478_35849K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vergadering A9, dorpshuis B'dorp"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/dd15d5ec-9694-d88d-f26a-5deeac376895\">https://hdl.handle.net/21.12102/dd15d5ec-9694-d88d-f26a-5deeac376895</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0e27afa4-67e3-e665-3000-a12b3267959b/NL-HlmNHA_1478_35849K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0e27afa4-67e3-e665-3000-a12b3267959b/NL-HlmNHA_1478_35849K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a7fc011b-8aab-64c1-9460-8ea570b387ee/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a7fc011b-8aab-64c1-9460-8ea570b387ee",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0e27afa4-67e3-e665-3000-a12b3267959b/NL-HlmNHA_1478_35849K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

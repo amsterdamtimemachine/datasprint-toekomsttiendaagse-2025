@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/c025f7e5-ddea-8cfc-3b22-3ce070c58a00.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Onthulling monument voor oorlogsslachtoffers \"Gefusilleerd 15 december 1944 P.J. Elias, H.J. Verkuyl, M. Verkuyl\" (1964-12-12)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Onthulling monument voor oorlogsslachtoffers \"Gefusilleerd 15 december 1944 P.J. Elias, H.J. Verkuyl, M. Verkuyl\""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1964-12-12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2213806\">Haarlemmerweg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.8675,
+            52.385
+          ]
+        },
+        "properties": {
+          "title": "Haarlemmerweg",
+          "url": "http://www.wikidata.org/entity/Q2213806"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c025f7e5-ddea-8cfc-3b22-3ce070c58a00/NL-HlmNHA_1478_02983K00_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Onthulling monument voor oorlogsslachtoffers \"Gefusilleerd 15 december 1944 P.J. Elias, H.J. Verkuyl, M. Verkuyl\""
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/03f114d7-2cef-a867-112a-af2f4c0d6cc8\">https://hdl.handle.net/21.12102/03f114d7-2cef-a867-112a-af2f4c0d6cc8</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c025f7e5-ddea-8cfc-3b22-3ce070c58a00/NL-HlmNHA_1478_02983K00_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c025f7e5-ddea-8cfc-3b22-3ce070c58a00/NL-HlmNHA_1478_02983K00_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3b1b9bdf-3f13-6e2f-2b9e-6a649862bbd6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3b1b9bdf-3f13-6e2f-2b9e-6a649862bbd6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c025f7e5-ddea-8cfc-3b22-3ce070c58a00/NL-HlmNHA_1478_02983K00_12/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c025f7e5-ddea-8cfc-3b22-3ce070c58a00/NL-HlmNHA_1478_02983K00_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Onthulling monument voor oorlogsslachtoffers \"Gefusilleerd 15 december 1944 P.J. Elias, H.J. Verkuyl, M. Verkuyl\""
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3ab713f6-c9d6-bd95-2024-de2e0d8220f8\">https://hdl.handle.net/21.12102/3ab713f6-c9d6-bd95-2024-de2e0d8220f8</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c025f7e5-ddea-8cfc-3b22-3ce070c58a00/NL-HlmNHA_1478_02983K00_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c025f7e5-ddea-8cfc-3b22-3ce070c58a00/NL-HlmNHA_1478_02983K00_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b8458b44-2682-1e27-072c-bea5eaf64dce/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b8458b44-2682-1e27-072c-bea5eaf64dce",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c025f7e5-ddea-8cfc-3b22-3ce070c58a00/NL-HlmNHA_1478_02983K00_09/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c025f7e5-ddea-8cfc-3b22-3ce070c58a00/NL-HlmNHA_1478_02983K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Onthulling monument voor oorlogsslachtoffers \"Gefusilleerd 15 december 1944 P.J. Elias, H.J. Verkuyl, M. Verkuyl\""
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9552ed44-55f0-8c2d-7369-9363a830d25a\">https://hdl.handle.net/21.12102/9552ed44-55f0-8c2d-7369-9363a830d25a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c025f7e5-ddea-8cfc-3b22-3ce070c58a00/NL-HlmNHA_1478_02983K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c025f7e5-ddea-8cfc-3b22-3ce070c58a00/NL-HlmNHA_1478_02983K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fafe60f5-ab6b-ff9d-077b-9a8fc27536bd/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fafe60f5-ab6b-ff9d-077b-9a8fc27536bd",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c025f7e5-ddea-8cfc-3b22-3ce070c58a00/NL-HlmNHA_1478_02983K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c025f7e5-ddea-8cfc-3b22-3ce070c58a00/NL-HlmNHA_1478_02983K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Onthulling monument voor oorlogsslachtoffers \"Gefusilleerd 15 december 1944 P.J. Elias, H.J. Verkuyl, M. Verkuyl\""
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/966aff8e-28dc-4b37-d6fa-256f266f302c\">https://hdl.handle.net/21.12102/966aff8e-28dc-4b37-d6fa-256f266f302c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c025f7e5-ddea-8cfc-3b22-3ce070c58a00/NL-HlmNHA_1478_02983K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c025f7e5-ddea-8cfc-3b22-3ce070c58a00/NL-HlmNHA_1478_02983K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f545b604-50e1-5a71-2270-ac3e062954b8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f545b604-50e1-5a71-2270-ac3e062954b8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c025f7e5-ddea-8cfc-3b22-3ce070c58a00/NL-HlmNHA_1478_02983K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

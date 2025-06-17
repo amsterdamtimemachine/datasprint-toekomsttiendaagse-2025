@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/a0755861-12ad-4d47-ad74-eb65ec7c019a.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Opening van de tentoonstelling 'Film en Foto' door prins Bernhard in de RAI in Amsterdam. Tentoonstellingen. (1952-06-27)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Opening van de tentoonstelling 'Film en Foto' door prins Bernhard in de RAI in Amsterdam. Tentoonstellingen."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1952-06-27"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0755861-12ad-4d47-ad74-eb65ec7c019a/NL-HlmNHA_1478_07430B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Opening van de tentoonstelling 'Film en Foto' door prins Bernhard in de RAI in Amsterdam. Tentoonstellingen."
+        ]
+      },
+      "height": 2152,
+      "width": 2813,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6427bee1-21e6-8ff7-f51c-5101dfd25f18\">https://hdl.handle.net/21.12102/6427bee1-21e6-8ff7-f51c-5101dfd25f18</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0755861-12ad-4d47-ad74-eb65ec7c019a/NL-HlmNHA_1478_07430B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0755861-12ad-4d47-ad74-eb65ec7c019a/NL-HlmNHA_1478_07430B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6f52b3b6-ee70-c3ef-6470-ed0538a25a0c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2152,
+                "width": 2813,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6f52b3b6-ee70-c3ef-6470-ed0538a25a0c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a0755861-12ad-4d47-ad74-eb65ec7c019a/NL-HlmNHA_1478_07430B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

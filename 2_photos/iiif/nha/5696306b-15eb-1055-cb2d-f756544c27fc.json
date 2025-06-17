@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/5696306b-15eb-1055-cb2d-f756544c27fc.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Paul Tagliabue, NFL, A'dam [National Football League] (1996-02-14)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Paul Tagliabue, NFL, A'dam [National Football League]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1996-02-14"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5696306b-15eb-1055-cb2d-f756544c27fc/NL-HlmNHA_1478_42390K00_42/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Paul Tagliabue, NFL, A'dam [National Football League]"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/222e8dea-ccaa-e850-145e-0fb48462db11\">https://hdl.handle.net/21.12102/222e8dea-ccaa-e850-145e-0fb48462db11</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5696306b-15eb-1055-cb2d-f756544c27fc/NL-HlmNHA_1478_42390K00_42/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5696306b-15eb-1055-cb2d-f756544c27fc/NL-HlmNHA_1478_42390K00_42/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8bd0d494-5f05-e4d7-aaaf-63d48c96acc6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8bd0d494-5f05-e4d7-aaaf-63d48c96acc6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5696306b-15eb-1055-cb2d-f756544c27fc/NL-HlmNHA_1478_42390K00_42/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5696306b-15eb-1055-cb2d-f756544c27fc/NL-HlmNHA_1478_42390K00_41/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Paul Tagliabue, NFL, A'dam [National Football League]"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2620b46a-4f16-a02d-ef64-1325f60f0e56\">https://hdl.handle.net/21.12102/2620b46a-4f16-a02d-ef64-1325f60f0e56</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5696306b-15eb-1055-cb2d-f756544c27fc/NL-HlmNHA_1478_42390K00_41/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5696306b-15eb-1055-cb2d-f756544c27fc/NL-HlmNHA_1478_42390K00_41/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a3f9af8b-f938-6950-3e7b-a97086a41142/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a3f9af8b-f938-6950-3e7b-a97086a41142",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5696306b-15eb-1055-cb2d-f756544c27fc/NL-HlmNHA_1478_42390K00_41/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5696306b-15eb-1055-cb2d-f756544c27fc/NL-HlmNHA_1478_42390K00_40/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Paul Tagliabue, NFL, A'dam [National Football League]"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/58ee21f0-5715-1c24-72b0-27086f6953e7\">https://hdl.handle.net/21.12102/58ee21f0-5715-1c24-72b0-27086f6953e7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5696306b-15eb-1055-cb2d-f756544c27fc/NL-HlmNHA_1478_42390K00_40/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5696306b-15eb-1055-cb2d-f756544c27fc/NL-HlmNHA_1478_42390K00_40/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4845d474-69e5-6057-ddcd-7db486f97dde/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4845d474-69e5-6057-ddcd-7db486f97dde",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5696306b-15eb-1055-cb2d-f756544c27fc/NL-HlmNHA_1478_42390K00_40/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5696306b-15eb-1055-cb2d-f756544c27fc/NL-HlmNHA_1478_42390K00_39/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Paul Tagliabue, NFL, A'dam [National Football League]"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b269e651-c086-99a7-bfa8-2171a36d4a7f\">https://hdl.handle.net/21.12102/b269e651-c086-99a7-bfa8-2171a36d4a7f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5696306b-15eb-1055-cb2d-f756544c27fc/NL-HlmNHA_1478_42390K00_39/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5696306b-15eb-1055-cb2d-f756544c27fc/NL-HlmNHA_1478_42390K00_39/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5d560e3a-b8c4-cac3-c497-45fba498ef10/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5d560e3a-b8c4-cac3-c497-45fba498ef10",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5696306b-15eb-1055-cb2d-f756544c27fc/NL-HlmNHA_1478_42390K00_39/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

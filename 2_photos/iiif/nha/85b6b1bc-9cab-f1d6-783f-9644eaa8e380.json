@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/85b6b1bc-9cab-f1d6-783f-9644eaa8e380.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Affiche Houdt Amsterdam Schoon, Amsterdam (1992-05)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Affiche Houdt Amsterdam Schoon, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1992-05"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/85b6b1bc-9cab-f1d6-783f-9644eaa8e380/NL-HlmNHA_1478_36441K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Affiche Houdt Amsterdam Schoon, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0c3e10f2-f2d4-4dd3-b0e5-c042efdc883b\">https://hdl.handle.net/21.12102/0c3e10f2-f2d4-4dd3-b0e5-c042efdc883b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/85b6b1bc-9cab-f1d6-783f-9644eaa8e380/NL-HlmNHA_1478_36441K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/85b6b1bc-9cab-f1d6-783f-9644eaa8e380/NL-HlmNHA_1478_36441K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0adea875-1280-7ea8-ab01-fd93c61756c1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0adea875-1280-7ea8-ab01-fd93c61756c1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/85b6b1bc-9cab-f1d6-783f-9644eaa8e380/NL-HlmNHA_1478_36441K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/85b6b1bc-9cab-f1d6-783f-9644eaa8e380/NL-HlmNHA_1478_36441K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Affiche Houdt Amsterdam Schoon, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/593d733f-76b2-c320-a9bb-f96bc77b2a3f\">https://hdl.handle.net/21.12102/593d733f-76b2-c320-a9bb-f96bc77b2a3f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/85b6b1bc-9cab-f1d6-783f-9644eaa8e380/NL-HlmNHA_1478_36441K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/85b6b1bc-9cab-f1d6-783f-9644eaa8e380/NL-HlmNHA_1478_36441K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5082c6d9-756f-ae88-4820-486fb22351a5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5082c6d9-756f-ae88-4820-486fb22351a5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/85b6b1bc-9cab-f1d6-783f-9644eaa8e380/NL-HlmNHA_1478_36441K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/85b6b1bc-9cab-f1d6-783f-9644eaa8e380/NL-HlmNHA_1478_36441K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Affiche Houdt Amsterdam Schoon, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/63fba692-b548-4025-d6cf-0e38411996ab\">https://hdl.handle.net/21.12102/63fba692-b548-4025-d6cf-0e38411996ab</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/85b6b1bc-9cab-f1d6-783f-9644eaa8e380/NL-HlmNHA_1478_36441K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/85b6b1bc-9cab-f1d6-783f-9644eaa8e380/NL-HlmNHA_1478_36441K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ae446ecb-0087-86c4-6b35-e82f6ca9a52e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ae446ecb-0087-86c4-6b35-e82f6ca9a52e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/85b6b1bc-9cab-f1d6-783f-9644eaa8e380/NL-HlmNHA_1478_36441K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/85b6b1bc-9cab-f1d6-783f-9644eaa8e380/NL-HlmNHA_1478_36441K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Affiche Houdt Amsterdam Schoon, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6eecae41-7a29-0317-dd37-5125d34a547b\">https://hdl.handle.net/21.12102/6eecae41-7a29-0317-dd37-5125d34a547b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/85b6b1bc-9cab-f1d6-783f-9644eaa8e380/NL-HlmNHA_1478_36441K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/85b6b1bc-9cab-f1d6-783f-9644eaa8e380/NL-HlmNHA_1478_36441K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/98c7f798-5534-e666-1e28-58dff0e05124/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/98c7f798-5534-e666-1e28-58dff0e05124",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/85b6b1bc-9cab-f1d6-783f-9644eaa8e380/NL-HlmNHA_1478_36441K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

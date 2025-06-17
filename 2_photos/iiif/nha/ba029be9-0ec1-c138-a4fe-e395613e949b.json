@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/ba029be9-0ec1-c138-a4fe-e395613e949b.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Braakliggend terrein en grote parkeerplaats centrum Amsterdam (1978-02-28)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Braakliggend terrein en grote parkeerplaats centrum Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1978-02-28"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba029be9-0ec1-c138-a4fe-e395613e949b/NL-HlmNHA_1478_16491K01_32/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Braakliggend terrein en grote parkeerplaats centrum Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/847d86da-0be3-6c1b-7406-98fed7aae039\">https://hdl.handle.net/21.12102/847d86da-0be3-6c1b-7406-98fed7aae039</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba029be9-0ec1-c138-a4fe-e395613e949b/NL-HlmNHA_1478_16491K01_32/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba029be9-0ec1-c138-a4fe-e395613e949b/NL-HlmNHA_1478_16491K01_32/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d402de5c-87c9-9588-c1c7-ca3313e288c8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d402de5c-87c9-9588-c1c7-ca3313e288c8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba029be9-0ec1-c138-a4fe-e395613e949b/NL-HlmNHA_1478_16491K01_32/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba029be9-0ec1-c138-a4fe-e395613e949b/NL-HlmNHA_1478_16491K01_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Braakliggend terrein en grote parkeerplaats centrum Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/962151c0-225e-19c9-094b-f533dc31f55f\">https://hdl.handle.net/21.12102/962151c0-225e-19c9-094b-f533dc31f55f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba029be9-0ec1-c138-a4fe-e395613e949b/NL-HlmNHA_1478_16491K01_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba029be9-0ec1-c138-a4fe-e395613e949b/NL-HlmNHA_1478_16491K01_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5ef6a3b2-e46e-bbc2-6e37-91b473057770/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5ef6a3b2-e46e-bbc2-6e37-91b473057770",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba029be9-0ec1-c138-a4fe-e395613e949b/NL-HlmNHA_1478_16491K01_30/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba029be9-0ec1-c138-a4fe-e395613e949b/NL-HlmNHA_1478_16491K01_31/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Braakliggend terrein en grote parkeerplaats centrum Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e654fc76-3334-1050-d090-307370e83de3\">https://hdl.handle.net/21.12102/e654fc76-3334-1050-d090-307370e83de3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba029be9-0ec1-c138-a4fe-e395613e949b/NL-HlmNHA_1478_16491K01_31/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba029be9-0ec1-c138-a4fe-e395613e949b/NL-HlmNHA_1478_16491K01_31/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/87187f4b-3058-8fc9-8a90-a5b8922294e2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/87187f4b-3058-8fc9-8a90-a5b8922294e2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ba029be9-0ec1-c138-a4fe-e395613e949b/NL-HlmNHA_1478_16491K01_31/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

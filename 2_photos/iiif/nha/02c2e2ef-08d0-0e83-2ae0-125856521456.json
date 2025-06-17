@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/02c2e2ef-08d0-0e83-2ae0-125856521456.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Ontvangst Paleis Dam (1955-04-26)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Ontvangst Paleis Dam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1955-04-26"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q839050\">Dam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Koninklijke ontvangsten en Koninklijke bezoeken"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.892778,
+            52.373056
+          ]
+        },
+        "properties": {
+          "title": "Dam",
+          "url": "http://www.wikidata.org/entity/Q839050"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/02c2e2ef-08d0-0e83-2ae0-125856521456/NL-HlmNHA_1478_11913B02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ontvangst Paleis Dam"
+        ]
+      },
+      "height": 2141,
+      "width": 2706,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c2116344-4499-b87e-d2b4-f2867d6a6c3c\">https://hdl.handle.net/21.12102/c2116344-4499-b87e-d2b4-f2867d6a6c3c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/02c2e2ef-08d0-0e83-2ae0-125856521456/NL-HlmNHA_1478_11913B02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/02c2e2ef-08d0-0e83-2ae0-125856521456/NL-HlmNHA_1478_11913B02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3479993f-ee13-5800-a6ea-c1d672712978/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2141,
+                "width": 2706,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3479993f-ee13-5800-a6ea-c1d672712978",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/02c2e2ef-08d0-0e83-2ae0-125856521456/NL-HlmNHA_1478_11913B02_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/02c2e2ef-08d0-0e83-2ae0-125856521456/NL-HlmNHA_1478_11913B01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ontvangst Paleis Dam"
+        ]
+      },
+      "height": 2182,
+      "width": 2788,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d17499ee-0f7b-245e-e8e3-02ee0a10e632\">https://hdl.handle.net/21.12102/d17499ee-0f7b-245e-e8e3-02ee0a10e632</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/02c2e2ef-08d0-0e83-2ae0-125856521456/NL-HlmNHA_1478_11913B01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/02c2e2ef-08d0-0e83-2ae0-125856521456/NL-HlmNHA_1478_11913B01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fd9acaec-362d-4462-3a70-66c1489276f5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2182,
+                "width": 2788,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fd9acaec-362d-4462-3a70-66c1489276f5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/02c2e2ef-08d0-0e83-2ae0-125856521456/NL-HlmNHA_1478_11913B01_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

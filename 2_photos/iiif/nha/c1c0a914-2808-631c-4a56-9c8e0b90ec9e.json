@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/c1c0a914-2808-631c-4a56-9c8e0b90ec9e.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Kantoor C.B.R. te Amsterdam (1973-01-15)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Kantoor C.B.R. te Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1973-01-15"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Gebouwen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/28322"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1c0a914-2808-631c-4a56-9c8e0b90ec9e/NL-HlmNHA_1478_21114B01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kantoor C.B.R. te Amsterdam"
+        ]
+      },
+      "height": 2260,
+      "width": 2892,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/24099490-92cc-77f6-7021-ca40ed6b8677\">https://hdl.handle.net/21.12102/24099490-92cc-77f6-7021-ca40ed6b8677</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1c0a914-2808-631c-4a56-9c8e0b90ec9e/NL-HlmNHA_1478_21114B01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1c0a914-2808-631c-4a56-9c8e0b90ec9e/NL-HlmNHA_1478_21114B01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/47b1d5be-1cb9-b370-0aad-f8bbb96cb47b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2260,
+                "width": 2892,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/47b1d5be-1cb9-b370-0aad-f8bbb96cb47b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1c0a914-2808-631c-4a56-9c8e0b90ec9e/NL-HlmNHA_1478_21114B01_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1c0a914-2808-631c-4a56-9c8e0b90ec9e/NL-HlmNHA_1478_21114B02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kantoor C.B.R. te Amsterdam"
+        ]
+      },
+      "height": 2240,
+      "width": 2882,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f829e432-d852-7090-3229-cda241c3d44a\">https://hdl.handle.net/21.12102/f829e432-d852-7090-3229-cda241c3d44a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1c0a914-2808-631c-4a56-9c8e0b90ec9e/NL-HlmNHA_1478_21114B02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1c0a914-2808-631c-4a56-9c8e0b90ec9e/NL-HlmNHA_1478_21114B02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/903ea780-66d3-04f2-eeb9-1580a9a8c848/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2240,
+                "width": 2882,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/903ea780-66d3-04f2-eeb9-1580a9a8c848",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1c0a914-2808-631c-4a56-9c8e0b90ec9e/NL-HlmNHA_1478_21114B02_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

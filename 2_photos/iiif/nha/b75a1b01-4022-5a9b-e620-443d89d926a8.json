@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/b75a1b01-4022-5a9b-e620-443d89d926a8.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Luchtfoto van Amsterdam Omgeving Museumplein (1973)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Luchtfoto van Amsterdam Omgeving Museumplein"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1973"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q639321\">Museumplein</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.881619,
+            52.357611
+          ]
+        },
+        "properties": {
+          "title": "Museumplein",
+          "url": "http://www.wikidata.org/entity/Q639321"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b75a1b01-4022-5a9b-e620-443d89d926a8/NL-HlmNHA_1478_02885A00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Luchtfoto van Amsterdam Omgeving Museumplein"
+        ]
+      },
+      "height": 2507,
+      "width": 3145,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1d1199d1-3299-3f60-6472-6fdf2fe29a48\">https://hdl.handle.net/21.12102/1d1199d1-3299-3f60-6472-6fdf2fe29a48</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b75a1b01-4022-5a9b-e620-443d89d926a8/NL-HlmNHA_1478_02885A00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b75a1b01-4022-5a9b-e620-443d89d926a8/NL-HlmNHA_1478_02885A00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c6d652e3-fe10-caba-4fae-32e38c78ba16/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2507,
+                "width": 3145,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c6d652e3-fe10-caba-4fae-32e38c78ba16",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b75a1b01-4022-5a9b-e620-443d89d926a8/NL-HlmNHA_1478_02885A00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b75a1b01-4022-5a9b-e620-443d89d926a8/NL-HlmNHA_1478_02885A00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Luchtfoto van Amsterdam Omgeving Museumplein"
+        ]
+      },
+      "height": 2509,
+      "width": 3148,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e4390813-32c0-1f6f-0e02-eccc2859983a\">https://hdl.handle.net/21.12102/e4390813-32c0-1f6f-0e02-eccc2859983a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b75a1b01-4022-5a9b-e620-443d89d926a8/NL-HlmNHA_1478_02885A00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b75a1b01-4022-5a9b-e620-443d89d926a8/NL-HlmNHA_1478_02885A00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e9b6cd2f-a790-4740-fde6-323ee11708de/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2509,
+                "width": 3148,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e9b6cd2f-a790-4740-fde6-323ee11708de",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b75a1b01-4022-5a9b-e620-443d89d926a8/NL-HlmNHA_1478_02885A00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b75a1b01-4022-5a9b-e620-443d89d926a8/NL-HlmNHA_1478_02885A00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Luchtfoto van Amsterdam Omgeving Museumplein"
+        ]
+      },
+      "height": 2503,
+      "width": 3140,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f6995591-a8c6-3353-8500-081f30fdf7c6\">https://hdl.handle.net/21.12102/f6995591-a8c6-3353-8500-081f30fdf7c6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b75a1b01-4022-5a9b-e620-443d89d926a8/NL-HlmNHA_1478_02885A00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b75a1b01-4022-5a9b-e620-443d89d926a8/NL-HlmNHA_1478_02885A00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/71266faa-36e8-505c-a47c-d223737faa06/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2503,
+                "width": 3140,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/71266faa-36e8-505c-a47c-d223737faa06",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b75a1b01-4022-5a9b-e620-443d89d926a8/NL-HlmNHA_1478_02885A00_03/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

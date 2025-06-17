@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/72829619-a4fa-1f04-c75d-2942fe5f8c3e.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Luchtfoto Amsterdam kijkend naar het zuidoosten met het Rembrandtplein, rivier de Amstel met Magere Brug, de Nederlandse Bank en de Watergraafsmeer. (1974)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Luchtfoto Amsterdam kijkend naar het zuidoosten met het Rembrandtplein, rivier de Amstel met Magere Brug, de Nederlandse Bank en de Watergraafsmeer."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1974"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72829619-a4fa-1f04-c75d-2942fe5f8c3e/NL-HlmNHA_1478_02951A00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Luchtfoto Amsterdam kijkend naar het zuidoosten met het Rembrandtplein, rivier de Amstel met Magere Brug, de Nederlandse Bank en de Watergraafsmeer."
+        ]
+      },
+      "height": 2496,
+      "width": 3131,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/028dc1c7-68bc-9a1a-749b-cae025d962ae\">https://hdl.handle.net/21.12102/028dc1c7-68bc-9a1a-749b-cae025d962ae</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72829619-a4fa-1f04-c75d-2942fe5f8c3e/NL-HlmNHA_1478_02951A00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72829619-a4fa-1f04-c75d-2942fe5f8c3e/NL-HlmNHA_1478_02951A00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/668da414-58c6-61e2-1b0a-6e01c94dde42/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2496,
+                "width": 3131,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/668da414-58c6-61e2-1b0a-6e01c94dde42",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72829619-a4fa-1f04-c75d-2942fe5f8c3e/NL-HlmNHA_1478_02951A00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72829619-a4fa-1f04-c75d-2942fe5f8c3e/NL-HlmNHA_1478_02951A00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Luchtfoto Amsterdam kijkend naar het zuidoosten met het Rembrandtplein, rivier de Amstel met Magere Brug, de Nederlandse Bank en de Watergraafsmeer."
+        ]
+      },
+      "height": 2504,
+      "width": 3141,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/58ff50a2-c3e9-5540-03e4-771d7b195b64\">https://hdl.handle.net/21.12102/58ff50a2-c3e9-5540-03e4-771d7b195b64</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72829619-a4fa-1f04-c75d-2942fe5f8c3e/NL-HlmNHA_1478_02951A00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72829619-a4fa-1f04-c75d-2942fe5f8c3e/NL-HlmNHA_1478_02951A00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/89d00714-a852-2bb7-017c-dbe96ee9e6c7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2504,
+                "width": 3141,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/89d00714-a852-2bb7-017c-dbe96ee9e6c7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72829619-a4fa-1f04-c75d-2942fe5f8c3e/NL-HlmNHA_1478_02951A00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72829619-a4fa-1f04-c75d-2942fe5f8c3e/NL-HlmNHA_1478_02951A00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Luchtfoto Amsterdam kijkend naar het zuidoosten met het Rembrandtplein, rivier de Amstel met Magere Brug, de Nederlandse Bank en de Watergraafsmeer."
+        ]
+      },
+      "height": 2488,
+      "width": 3121,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7d447650-8b46-a5af-23ff-1666416ccdbf\">https://hdl.handle.net/21.12102/7d447650-8b46-a5af-23ff-1666416ccdbf</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72829619-a4fa-1f04-c75d-2942fe5f8c3e/NL-HlmNHA_1478_02951A00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72829619-a4fa-1f04-c75d-2942fe5f8c3e/NL-HlmNHA_1478_02951A00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/92e389a2-3587-6199-63e5-9aebd383c768/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2488,
+                "width": 3121,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/92e389a2-3587-6199-63e5-9aebd383c768",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72829619-a4fa-1f04-c75d-2942fe5f8c3e/NL-HlmNHA_1478_02951A00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/36b2d7fe-d485-7ae6-f5cf-ef135e8e1946.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Bloemencorso in het olympisch stadion, Amsterdam (1952-09)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Bloemencorso in het olympisch stadion, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1952-09"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/36b2d7fe-d485-7ae6-f5cf-ef135e8e1946/NL-HlmNHA_1478_07777B01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bloemencorso in het olympisch stadion, Amsterdam"
+        ]
+      },
+      "height": 2189,
+      "width": 2845,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c74da12d-7245-6c43-c052-f56747ad94b3\">https://hdl.handle.net/21.12102/c74da12d-7245-6c43-c052-f56747ad94b3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/36b2d7fe-d485-7ae6-f5cf-ef135e8e1946/NL-HlmNHA_1478_07777B01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/36b2d7fe-d485-7ae6-f5cf-ef135e8e1946/NL-HlmNHA_1478_07777B01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c52466e1-1cae-a8e6-bbde-c512b6a50f17/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2189,
+                "width": 2845,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c52466e1-1cae-a8e6-bbde-c512b6a50f17",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/36b2d7fe-d485-7ae6-f5cf-ef135e8e1946/NL-HlmNHA_1478_07777B01_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/36b2d7fe-d485-7ae6-f5cf-ef135e8e1946/NL-HlmNHA_1478_07777B02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bloemencorso in het olympisch stadion, Amsterdam"
+        ]
+      },
+      "height": 2190,
+      "width": 2833,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e5068eaa-bc18-c1ee-c3e4-a78204a83e25\">https://hdl.handle.net/21.12102/e5068eaa-bc18-c1ee-c3e4-a78204a83e25</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/36b2d7fe-d485-7ae6-f5cf-ef135e8e1946/NL-HlmNHA_1478_07777B02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/36b2d7fe-d485-7ae6-f5cf-ef135e8e1946/NL-HlmNHA_1478_07777B02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/278cd3fc-0a5b-ce1c-6dc5-1766c05bc055/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2190,
+                "width": 2833,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/278cd3fc-0a5b-ce1c-6dc5-1766c05bc055",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/36b2d7fe-d485-7ae6-f5cf-ef135e8e1946/NL-HlmNHA_1478_07777B02_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

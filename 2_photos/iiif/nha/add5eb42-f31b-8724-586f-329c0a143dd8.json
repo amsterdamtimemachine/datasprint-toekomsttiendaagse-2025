@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/add5eb42-f31b-8724-586f-329c0a143dd8.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Sieraden Brigitte Laken Amsterdam (1981-04-07)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Sieraden Brigitte Laken Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1981-04-07"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Sieraden"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/26714"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/add5eb42-f31b-8724-586f-329c0a143dd8/NL-HlmNHA_1478_20579K00_32/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Sieraden Brigitte Laken Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/37149d8b-73e6-094c-2486-91d0f6e469ed\">https://hdl.handle.net/21.12102/37149d8b-73e6-094c-2486-91d0f6e469ed</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/add5eb42-f31b-8724-586f-329c0a143dd8/NL-HlmNHA_1478_20579K00_32/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/add5eb42-f31b-8724-586f-329c0a143dd8/NL-HlmNHA_1478_20579K00_32/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4600da12-608e-1af2-84b3-aaddfbe68ffa/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4600da12-608e-1af2-84b3-aaddfbe68ffa",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/add5eb42-f31b-8724-586f-329c0a143dd8/NL-HlmNHA_1478_20579K00_32/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/add5eb42-f31b-8724-586f-329c0a143dd8/NL-HlmNHA_1478_20579K00_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Sieraden Brigitte Laken Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6946c80e-0c9d-4735-338a-eb290bc3bc46\">https://hdl.handle.net/21.12102/6946c80e-0c9d-4735-338a-eb290bc3bc46</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/add5eb42-f31b-8724-586f-329c0a143dd8/NL-HlmNHA_1478_20579K00_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/add5eb42-f31b-8724-586f-329c0a143dd8/NL-HlmNHA_1478_20579K00_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2004eca2-840c-68f3-a8a2-f2b7ebb60ea9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2004eca2-840c-68f3-a8a2-f2b7ebb60ea9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/add5eb42-f31b-8724-586f-329c0a143dd8/NL-HlmNHA_1478_20579K00_30/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/add5eb42-f31b-8724-586f-329c0a143dd8/NL-HlmNHA_1478_20579K00_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Sieraden Brigitte Laken Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ab2f3748-0b12-8de5-eafe-bb1709e51179\">https://hdl.handle.net/21.12102/ab2f3748-0b12-8de5-eafe-bb1709e51179</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/add5eb42-f31b-8724-586f-329c0a143dd8/NL-HlmNHA_1478_20579K00_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/add5eb42-f31b-8724-586f-329c0a143dd8/NL-HlmNHA_1478_20579K00_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/90ed830a-ed50-adc7-ea2a-216e91c0d1a1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/90ed830a-ed50-adc7-ea2a-216e91c0d1a1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/add5eb42-f31b-8724-586f-329c0a143dd8/NL-HlmNHA_1478_20579K00_29/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/add5eb42-f31b-8724-586f-329c0a143dd8/NL-HlmNHA_1478_20579K00_31/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Sieraden Brigitte Laken Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c77f29ad-895e-e131-c90c-2d272c9072e6\">https://hdl.handle.net/21.12102/c77f29ad-895e-e131-c90c-2d272c9072e6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/add5eb42-f31b-8724-586f-329c0a143dd8/NL-HlmNHA_1478_20579K00_31/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/add5eb42-f31b-8724-586f-329c0a143dd8/NL-HlmNHA_1478_20579K00_31/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c536504b-3e04-0b7e-4eef-ac2e2ba085b4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c536504b-3e04-0b7e-4eef-ac2e2ba085b4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/add5eb42-f31b-8724-586f-329c0a143dd8/NL-HlmNHA_1478_20579K00_31/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/add5eb42-f31b-8724-586f-329c0a143dd8/NL-HlmNHA_1478_20579K00_28/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Sieraden Brigitte Laken Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f10d643e-ef6b-d6d5-0327-b368fbea9392\">https://hdl.handle.net/21.12102/f10d643e-ef6b-d6d5-0327-b368fbea9392</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/add5eb42-f31b-8724-586f-329c0a143dd8/NL-HlmNHA_1478_20579K00_28/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/add5eb42-f31b-8724-586f-329c0a143dd8/NL-HlmNHA_1478_20579K00_28/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e3ff9aac-6ed9-892d-e446-615b28670553/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e3ff9aac-6ed9-892d-e446-615b28670553",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/add5eb42-f31b-8724-586f-329c0a143dd8/NL-HlmNHA_1478_20579K00_28/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/add5eb42-f31b-8724-586f-329c0a143dd8/NL-HlmNHA_1478_20579K00_27/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Sieraden Brigitte Laken Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/fba681c0-b64a-5210-38c7-623a03bb9cbf\">https://hdl.handle.net/21.12102/fba681c0-b64a-5210-38c7-623a03bb9cbf</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/add5eb42-f31b-8724-586f-329c0a143dd8/NL-HlmNHA_1478_20579K00_27/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/add5eb42-f31b-8724-586f-329c0a143dd8/NL-HlmNHA_1478_20579K00_27/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/58a5fa7c-c2c2-f44f-c329-0c638c70cbeb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/58a5fa7c-c2c2-f44f-c329-0c638c70cbeb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/add5eb42-f31b-8724-586f-329c0a143dd8/NL-HlmNHA_1478_20579K00_27/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

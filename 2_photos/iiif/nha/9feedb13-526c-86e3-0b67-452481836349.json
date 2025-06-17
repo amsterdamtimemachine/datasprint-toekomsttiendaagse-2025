@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/9feedb13-526c-86e3-0b67-452481836349.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Regisseur Twijnstra met toneelgroep Amsterdam (1984-11-29)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Regisseur Twijnstra met toneelgroep Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1984-11-29"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Toneel"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/26944"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9feedb13-526c-86e3-0b67-452481836349/NL-HlmNHA_1478_24687K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Regisseur Twijnstra met toneelgroep Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/54b10f50-99bc-c91a-7b7c-a2c45c3a71b3\">https://hdl.handle.net/21.12102/54b10f50-99bc-c91a-7b7c-a2c45c3a71b3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9feedb13-526c-86e3-0b67-452481836349/NL-HlmNHA_1478_24687K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9feedb13-526c-86e3-0b67-452481836349/NL-HlmNHA_1478_24687K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3eeba027-2239-6144-dad0-c1bdc1090490/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3eeba027-2239-6144-dad0-c1bdc1090490",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9feedb13-526c-86e3-0b67-452481836349/NL-HlmNHA_1478_24687K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9feedb13-526c-86e3-0b67-452481836349/NL-HlmNHA_1478_24687K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Regisseur Twijnstra met toneelgroep Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5e2dc823-c126-51cd-dda1-ae6846d0a7a4\">https://hdl.handle.net/21.12102/5e2dc823-c126-51cd-dda1-ae6846d0a7a4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9feedb13-526c-86e3-0b67-452481836349/NL-HlmNHA_1478_24687K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9feedb13-526c-86e3-0b67-452481836349/NL-HlmNHA_1478_24687K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c6f5c057-ee47-72aa-7ca0-00da845b5d8f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c6f5c057-ee47-72aa-7ca0-00da845b5d8f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9feedb13-526c-86e3-0b67-452481836349/NL-HlmNHA_1478_24687K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9feedb13-526c-86e3-0b67-452481836349/NL-HlmNHA_1478_24687K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Regisseur Twijnstra met toneelgroep Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/732ff6fb-bfb9-8420-3f5b-f353e151d032\">https://hdl.handle.net/21.12102/732ff6fb-bfb9-8420-3f5b-f353e151d032</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9feedb13-526c-86e3-0b67-452481836349/NL-HlmNHA_1478_24687K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9feedb13-526c-86e3-0b67-452481836349/NL-HlmNHA_1478_24687K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2b3a4c10-6e71-57f7-e1cb-769e42eb97e4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2b3a4c10-6e71-57f7-e1cb-769e42eb97e4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9feedb13-526c-86e3-0b67-452481836349/NL-HlmNHA_1478_24687K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9feedb13-526c-86e3-0b67-452481836349/NL-HlmNHA_1478_24687K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Regisseur Twijnstra met toneelgroep Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/dd3d4b66-930a-9f53-0018-8d67192a3925\">https://hdl.handle.net/21.12102/dd3d4b66-930a-9f53-0018-8d67192a3925</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9feedb13-526c-86e3-0b67-452481836349/NL-HlmNHA_1478_24687K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9feedb13-526c-86e3-0b67-452481836349/NL-HlmNHA_1478_24687K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/95c2bd60-2086-5dab-ddcb-ed4524c11415/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/95c2bd60-2086-5dab-ddcb-ed4524c11415",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9feedb13-526c-86e3-0b67-452481836349/NL-HlmNHA_1478_24687K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9feedb13-526c-86e3-0b67-452481836349/NL-HlmNHA_1478_24687K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Regisseur Twijnstra met toneelgroep Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f665ee2b-9c6c-e5e3-aa02-5d4b4c0435f6\">https://hdl.handle.net/21.12102/f665ee2b-9c6c-e5e3-aa02-5d4b4c0435f6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9feedb13-526c-86e3-0b67-452481836349/NL-HlmNHA_1478_24687K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9feedb13-526c-86e3-0b67-452481836349/NL-HlmNHA_1478_24687K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d33f2d90-3051-f64f-7226-6992f6c00dc3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d33f2d90-3051-f64f-7226-6992f6c00dc3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9feedb13-526c-86e3-0b67-452481836349/NL-HlmNHA_1478_24687K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9feedb13-526c-86e3-0b67-452481836349/NL-HlmNHA_1478_24687K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Regisseur Twijnstra met toneelgroep Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f816e325-e34a-93ee-ef62-c8de2ff7ff5a\">https://hdl.handle.net/21.12102/f816e325-e34a-93ee-ef62-c8de2ff7ff5a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9feedb13-526c-86e3-0b67-452481836349/NL-HlmNHA_1478_24687K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9feedb13-526c-86e3-0b67-452481836349/NL-HlmNHA_1478_24687K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4a3cab24-6616-5391-2018-651658ae203b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4a3cab24-6616-5391-2018-651658ae203b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9feedb13-526c-86e3-0b67-452481836349/NL-HlmNHA_1478_24687K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

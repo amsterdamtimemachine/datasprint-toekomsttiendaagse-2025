@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/66b2ea9b-20af-bbb0-0d95-b467a8223011.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Verklede personen bij intocht beeld Sint Geertruid, Ruigoord (1998-07-23)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Verklede personen bij intocht beeld Sint Geertruid, Ruigoord"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1998-07-23"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q3252907\">Ruigoord</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7489,
+            52.4092
+          ]
+        },
+        "properties": {
+          "title": "Ruigoord",
+          "url": "http://www.wikidata.org/entity/Q3252907"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/66b2ea9b-20af-bbb0-0d95-b467a8223011/NL-HlmNHA_1478_45821K00_40/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Verklede personen bij intocht beeld Sint Geertruid, Ruigoord"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1a2fde25-15f2-d527-3b38-ce5ba3cc68ec\">https://hdl.handle.net/21.12102/1a2fde25-15f2-d527-3b38-ce5ba3cc68ec</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/66b2ea9b-20af-bbb0-0d95-b467a8223011/NL-HlmNHA_1478_45821K00_40/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/66b2ea9b-20af-bbb0-0d95-b467a8223011/NL-HlmNHA_1478_45821K00_40/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7b9388f5-ea88-0374-2f1e-55b1e19bea87/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7b9388f5-ea88-0374-2f1e-55b1e19bea87",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/66b2ea9b-20af-bbb0-0d95-b467a8223011/NL-HlmNHA_1478_45821K00_40/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

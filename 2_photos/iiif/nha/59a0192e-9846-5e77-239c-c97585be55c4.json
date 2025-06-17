@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/59a0192e-9846-5e77-239c-c97585be55c4.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Kamer waarin keizerin Sisi van Oostenrijk verbleef tijdens een bezoek aan Nederland in het Doelen Hotel in Amsterdam en die ten tijde van de foto in gebruik was bruidssuite. Onderdeel van de tentoonstelling 'Sisi op klompen' in dat hotel. (1998-06-15)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Kamer waarin keizerin Sisi van Oostenrijk verbleef tijdens een bezoek aan Nederland in het Doelen Hotel in Amsterdam en die ten tijde van de foto in gebruik was bruidssuite. Onderdeel van de tentoonstelling 'Sisi op klompen' in dat hotel."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1998-06-15"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Doelenstraat"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.9,
+            52.383333
+          ]
+        },
+        "properties": {
+          "title": "Doelenstraat",
+          "url": ""
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59a0192e-9846-5e77-239c-c97585be55c4/NL-HlmNHA_1478_45670K00_42/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kamer waarin keizerin Sisi van Oostenrijk verbleef tijdens een bezoek aan Nederland in het Doelen Hotel in Amsterdam en die ten tijde van de foto in gebruik was bruidssuite. Onderdeel van de tentoonstelling 'Sisi op klompen' in dat hotel."
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ade4e89d-963d-88e6-fc93-2207535d7ad2\">https://hdl.handle.net/21.12102/ade4e89d-963d-88e6-fc93-2207535d7ad2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59a0192e-9846-5e77-239c-c97585be55c4/NL-HlmNHA_1478_45670K00_42/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59a0192e-9846-5e77-239c-c97585be55c4/NL-HlmNHA_1478_45670K00_42/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3807aeb6-24cf-d72d-201b-f4d2be8d1b01/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3807aeb6-24cf-d72d-201b-f4d2be8d1b01",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59a0192e-9846-5e77-239c-c97585be55c4/NL-HlmNHA_1478_45670K00_42/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

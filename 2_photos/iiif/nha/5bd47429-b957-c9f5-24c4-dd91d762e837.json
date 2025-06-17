@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/5bd47429-b957-c9f5-24c4-dd91d762e837.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Stalen platen keren en oli\u00ebn (Transito) (1950)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Stalen platen keren en oli\u00ebn (Transito)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1950"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Laden en lossen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/29358"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5bd47429-b957-c9f5-24c4-dd91d762e837/NL-HlmNHA_1478_04745B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Stalen platen keren en oli\u00ebn (Transito)"
+        ]
+      },
+      "height": 2280,
+      "width": 3013,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/af462f94-8126-8008-0758-d2e60a09b267\">https://hdl.handle.net/21.12102/af462f94-8126-8008-0758-d2e60a09b267</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5bd47429-b957-c9f5-24c4-dd91d762e837/NL-HlmNHA_1478_04745B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5bd47429-b957-c9f5-24c4-dd91d762e837/NL-HlmNHA_1478_04745B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0dc183d7-84e6-e032-ee12-ccccb258461c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2280,
+                "width": 3013,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0dc183d7-84e6-e032-ee12-ccccb258461c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5bd47429-b957-c9f5-24c4-dd91d762e837/NL-HlmNHA_1478_04745B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

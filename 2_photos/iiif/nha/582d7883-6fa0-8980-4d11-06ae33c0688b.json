@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/582d7883-6fa0-8980-4d11-06ae33c0688b.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Een bus voor het Centraal Station, Amsterdam (1971-03-11)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Een bus voor het Centraal Station, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1971-03-11"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2095205\">Stationsplein</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.899167,
+            52.378056
+          ]
+        },
+        "properties": {
+          "title": "Stationsplein",
+          "url": "http://www.wikidata.org/entity/Q2095205"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/582d7883-6fa0-8980-4d11-06ae33c0688b/NL-HlmNHA_1478_09293K02_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Een bus voor het Centraal Station, Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a479f845-7ab0-0b5e-1303-257aef3e993e\">https://hdl.handle.net/21.12102/a479f845-7ab0-0b5e-1303-257aef3e993e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/582d7883-6fa0-8980-4d11-06ae33c0688b/NL-HlmNHA_1478_09293K02_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/582d7883-6fa0-8980-4d11-06ae33c0688b/NL-HlmNHA_1478_09293K02_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/03e07ac7-2853-07b6-c8b3-c3cf2f5c4782/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/03e07ac7-2853-07b6-c8b3-c3cf2f5c4782",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/582d7883-6fa0-8980-4d11-06ae33c0688b/NL-HlmNHA_1478_09293K02_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/582d7883-6fa0-8980-4d11-06ae33c0688b/NL-HlmNHA_1478_09293K02_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Een bus voor het Centraal Station, Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ac74a147-7f3c-4c94-d498-54941a72f8a0\">https://hdl.handle.net/21.12102/ac74a147-7f3c-4c94-d498-54941a72f8a0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/582d7883-6fa0-8980-4d11-06ae33c0688b/NL-HlmNHA_1478_09293K02_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/582d7883-6fa0-8980-4d11-06ae33c0688b/NL-HlmNHA_1478_09293K02_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d96f1b1c-298e-b42a-9e40-b28e93296be6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d96f1b1c-298e-b42a-9e40-b28e93296be6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/582d7883-6fa0-8980-4d11-06ae33c0688b/NL-HlmNHA_1478_09293K02_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/582d7883-6fa0-8980-4d11-06ae33c0688b/NL-HlmNHA_1478_09293K02_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Een bus voor het Centraal Station, Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/deceda01-33d4-94cc-6ffa-aa6075a97931\">https://hdl.handle.net/21.12102/deceda01-33d4-94cc-6ffa-aa6075a97931</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/582d7883-6fa0-8980-4d11-06ae33c0688b/NL-HlmNHA_1478_09293K02_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/582d7883-6fa0-8980-4d11-06ae33c0688b/NL-HlmNHA_1478_09293K02_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6a8eea5f-cbf3-5bab-d5b8-0bddbe7cb1b6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6a8eea5f-cbf3-5bab-d5b8-0bddbe7cb1b6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/582d7883-6fa0-8980-4d11-06ae33c0688b/NL-HlmNHA_1478_09293K02_06/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

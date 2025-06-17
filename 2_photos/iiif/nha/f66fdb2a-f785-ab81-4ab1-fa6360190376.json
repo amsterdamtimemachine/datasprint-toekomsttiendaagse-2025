@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/f66fdb2a-f785-ab81-4ab1-fa6360190376.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "H. Roolvink fiets Marokko, Badhoeve dorp (2002-07-04)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "H. Roolvink fiets Marokko, Badhoeve dorp"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2002-07-04"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q568337\">Badhoevedorp</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7803,
+            52.3381
+          ]
+        },
+        "properties": {
+          "title": "Badhoevedorp",
+          "url": "http://www.wikidata.org/entity/Q568337"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f66fdb2a-f785-ab81-4ab1-fa6360190376/NL-HlmNHA_1478_50712K00_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "H. Roolvink fiets Marokko, Badhoeve dorp"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/19828aff-77c1-22b8-fcbd-82ed1f11116d\">https://hdl.handle.net/21.12102/19828aff-77c1-22b8-fcbd-82ed1f11116d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f66fdb2a-f785-ab81-4ab1-fa6360190376/NL-HlmNHA_1478_50712K00_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f66fdb2a-f785-ab81-4ab1-fa6360190376/NL-HlmNHA_1478_50712K00_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2f56ca58-6424-411f-f157-1ee1e4cdfa37/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2f56ca58-6424-411f-f157-1ee1e4cdfa37",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f66fdb2a-f785-ab81-4ab1-fa6360190376/NL-HlmNHA_1478_50712K00_09/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f66fdb2a-f785-ab81-4ab1-fa6360190376/NL-HlmNHA_1478_50712K00_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "H. Roolvink fiets Marokko, Badhoeve dorp"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/31cf1067-6f8d-b839-994b-33ee3449ecb6\">https://hdl.handle.net/21.12102/31cf1067-6f8d-b839-994b-33ee3449ecb6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f66fdb2a-f785-ab81-4ab1-fa6360190376/NL-HlmNHA_1478_50712K00_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f66fdb2a-f785-ab81-4ab1-fa6360190376/NL-HlmNHA_1478_50712K00_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7c0d929b-6c13-a006-cbbe-03b7c55e4af9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7c0d929b-6c13-a006-cbbe-03b7c55e4af9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f66fdb2a-f785-ab81-4ab1-fa6360190376/NL-HlmNHA_1478_50712K00_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f66fdb2a-f785-ab81-4ab1-fa6360190376/NL-HlmNHA_1478_50712K00_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "H. Roolvink fiets Marokko, Badhoeve dorp"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3df647bd-2d58-492f-d286-b23ce674291a\">https://hdl.handle.net/21.12102/3df647bd-2d58-492f-d286-b23ce674291a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f66fdb2a-f785-ab81-4ab1-fa6360190376/NL-HlmNHA_1478_50712K00_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f66fdb2a-f785-ab81-4ab1-fa6360190376/NL-HlmNHA_1478_50712K00_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/970ed412-e973-c706-e56c-25201852d4f9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/970ed412-e973-c706-e56c-25201852d4f9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f66fdb2a-f785-ab81-4ab1-fa6360190376/NL-HlmNHA_1478_50712K00_08/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f66fdb2a-f785-ab81-4ab1-fa6360190376/NL-HlmNHA_1478_50712K00_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "H. Roolvink fiets Marokko, Badhoeve dorp"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9c6f09e9-b027-219c-52d9-97260e22ed61\">https://hdl.handle.net/21.12102/9c6f09e9-b027-219c-52d9-97260e22ed61</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f66fdb2a-f785-ab81-4ab1-fa6360190376/NL-HlmNHA_1478_50712K00_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f66fdb2a-f785-ab81-4ab1-fa6360190376/NL-HlmNHA_1478_50712K00_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/20b8aaf5-1b89-fd6f-f409-550dcfcc1709/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/20b8aaf5-1b89-fd6f-f409-550dcfcc1709",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f66fdb2a-f785-ab81-4ab1-fa6360190376/NL-HlmNHA_1478_50712K00_10/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f66fdb2a-f785-ab81-4ab1-fa6360190376/NL-HlmNHA_1478_50712K00_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "H. Roolvink fiets Marokko, Badhoeve dorp"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a076a802-e3f9-78d9-2ea7-04f3b16a5953\">https://hdl.handle.net/21.12102/a076a802-e3f9-78d9-2ea7-04f3b16a5953</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f66fdb2a-f785-ab81-4ab1-fa6360190376/NL-HlmNHA_1478_50712K00_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f66fdb2a-f785-ab81-4ab1-fa6360190376/NL-HlmNHA_1478_50712K00_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d74a5d06-e62a-2065-4d98-edd4153b3858/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d74a5d06-e62a-2065-4d98-edd4153b3858",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f66fdb2a-f785-ab81-4ab1-fa6360190376/NL-HlmNHA_1478_50712K00_11/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

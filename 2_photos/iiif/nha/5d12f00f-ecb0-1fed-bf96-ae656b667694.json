@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/5d12f00f-ecb0-1fed-bf96-ae656b667694.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Billardfabriek Wilhelmina (1985)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Billardfabriek Wilhelmina"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1985"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Stadhouderskade 127"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.881647,
+            52.361786
+          ]
+        },
+        "properties": {
+          "title": "Stadhouderskade 127",
+          "url": ""
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5d12f00f-ecb0-1fed-bf96-ae656b667694/NL-HlmNHA_1478_25026K00_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Billardfabriek Wilhelmina"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/048f2fb9-1a5d-5f66-2ddc-a50eaff86a6d\">https://hdl.handle.net/21.12102/048f2fb9-1a5d-5f66-2ddc-a50eaff86a6d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5d12f00f-ecb0-1fed-bf96-ae656b667694/NL-HlmNHA_1478_25026K00_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5d12f00f-ecb0-1fed-bf96-ae656b667694/NL-HlmNHA_1478_25026K00_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8d3e57ea-99e5-198d-84d1-75d264cfda60/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8d3e57ea-99e5-198d-84d1-75d264cfda60",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5d12f00f-ecb0-1fed-bf96-ae656b667694/NL-HlmNHA_1478_25026K00_12/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

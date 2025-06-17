@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/e1fca750-fb3e-9b4f-feb4-d1d63478f80e.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Zeilbootje met studenten aan steiger; Schepen (1966-07-12)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Zeilbootje met studenten aan steiger; Schepen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1966-07-12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q119314\">Noordzeekanaal</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.755664,
+            52.428917
+          ]
+        },
+        "properties": {
+          "title": "Noordzeekanaal",
+          "url": "http://www.wikidata.org/entity/Q119314"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e1fca750-fb3e-9b4f-feb4-d1d63478f80e/NL-HlmNHA_1478_03923K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Zeilbootje met studenten aan steiger; Schepen"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/08845e09-d4f6-186c-c5bb-173b37198f3a\">https://hdl.handle.net/21.12102/08845e09-d4f6-186c-c5bb-173b37198f3a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e1fca750-fb3e-9b4f-feb4-d1d63478f80e/NL-HlmNHA_1478_03923K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e1fca750-fb3e-9b4f-feb4-d1d63478f80e/NL-HlmNHA_1478_03923K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/400759cb-1fd8-3a31-7979-390eea4a64ab/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/400759cb-1fd8-3a31-7979-390eea4a64ab",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e1fca750-fb3e-9b4f-feb4-d1d63478f80e/NL-HlmNHA_1478_03923K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e1fca750-fb3e-9b4f-feb4-d1d63478f80e/NL-HlmNHA_1478_03923K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Zeilbootje met studenten aan steiger; Schepen"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f329f866-b59b-28db-b795-60b8b75ba75f\">https://hdl.handle.net/21.12102/f329f866-b59b-28db-b795-60b8b75ba75f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e1fca750-fb3e-9b4f-feb4-d1d63478f80e/NL-HlmNHA_1478_03923K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e1fca750-fb3e-9b4f-feb4-d1d63478f80e/NL-HlmNHA_1478_03923K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/539d85ad-6e91-eae3-6b06-a15ef815d68c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/539d85ad-6e91-eae3-6b06-a15ef815d68c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e1fca750-fb3e-9b4f-feb4-d1d63478f80e/NL-HlmNHA_1478_03923K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

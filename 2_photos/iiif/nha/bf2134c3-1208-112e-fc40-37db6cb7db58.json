@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/bf2134c3-1208-112e-fc40-37db6cb7db58.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Sloop C.pier schiphol centrum (1985-09-02)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Sloop C.pier schiphol centrum"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1985-09-02"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Schiphol"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bf2134c3-1208-112e-fc40-37db6cb7db58/NL-HlmNHA_1478_25474K00_26/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Sloop C.pier schiphol centrum"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0aed82ee-7c5a-9155-6a26-6a82db39e552\">https://hdl.handle.net/21.12102/0aed82ee-7c5a-9155-6a26-6a82db39e552</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bf2134c3-1208-112e-fc40-37db6cb7db58/NL-HlmNHA_1478_25474K00_26/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bf2134c3-1208-112e-fc40-37db6cb7db58/NL-HlmNHA_1478_25474K00_26/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/330bae45-fc03-7cbc-2ff9-4b9818b9d310/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/330bae45-fc03-7cbc-2ff9-4b9818b9d310",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bf2134c3-1208-112e-fc40-37db6cb7db58/NL-HlmNHA_1478_25474K00_26/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bf2134c3-1208-112e-fc40-37db6cb7db58/NL-HlmNHA_1478_25474K00_27/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Sloop C.pier schiphol centrum"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c0dd2576-02a4-0782-a95c-417330bef870\">https://hdl.handle.net/21.12102/c0dd2576-02a4-0782-a95c-417330bef870</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bf2134c3-1208-112e-fc40-37db6cb7db58/NL-HlmNHA_1478_25474K00_27/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bf2134c3-1208-112e-fc40-37db6cb7db58/NL-HlmNHA_1478_25474K00_27/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/275f9a8f-e0d3-ef07-a392-5c5b9fda163c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/275f9a8f-e0d3-ef07-a392-5c5b9fda163c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bf2134c3-1208-112e-fc40-37db6cb7db58/NL-HlmNHA_1478_25474K00_27/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bf2134c3-1208-112e-fc40-37db6cb7db58/NL-HlmNHA_1478_25474K00_25/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Sloop C.pier schiphol centrum"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e19a694f-17d7-4f33-54fc-7dda3c146e33\">https://hdl.handle.net/21.12102/e19a694f-17d7-4f33-54fc-7dda3c146e33</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bf2134c3-1208-112e-fc40-37db6cb7db58/NL-HlmNHA_1478_25474K00_25/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bf2134c3-1208-112e-fc40-37db6cb7db58/NL-HlmNHA_1478_25474K00_25/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7514666b-b7ea-3d94-1542-ba161a55f48b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7514666b-b7ea-3d94-1542-ba161a55f48b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bf2134c3-1208-112e-fc40-37db6cb7db58/NL-HlmNHA_1478_25474K00_25/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

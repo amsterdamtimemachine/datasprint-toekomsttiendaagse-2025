@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/206322a2-f3fb-db65-74b0-aac97be786e5.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Interieur Bank van Lening Amsterdam (taxateur) (1979-07-23)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Interieur Bank van Lening Amsterdam (taxateur)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1979-07-23"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/206322a2-f3fb-db65-74b0-aac97be786e5/NL-HlmNHA_1478_18196K00_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interieur Bank van Lening Amsterdam (taxateur)"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3c0dfea2-a2c0-58e0-0e33-aab6b164e288\">https://hdl.handle.net/21.12102/3c0dfea2-a2c0-58e0-0e33-aab6b164e288</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/206322a2-f3fb-db65-74b0-aac97be786e5/NL-HlmNHA_1478_18196K00_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/206322a2-f3fb-db65-74b0-aac97be786e5/NL-HlmNHA_1478_18196K00_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0e1f9872-f200-3ff3-65dd-49eeb74416e2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0e1f9872-f200-3ff3-65dd-49eeb74416e2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/206322a2-f3fb-db65-74b0-aac97be786e5/NL-HlmNHA_1478_18196K00_10/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/206322a2-f3fb-db65-74b0-aac97be786e5/NL-HlmNHA_1478_18196K00_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interieur Bank van Lening Amsterdam (taxateur)"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/687f0031-771a-cb61-0127-e80770e47fd4\">https://hdl.handle.net/21.12102/687f0031-771a-cb61-0127-e80770e47fd4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/206322a2-f3fb-db65-74b0-aac97be786e5/NL-HlmNHA_1478_18196K00_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/206322a2-f3fb-db65-74b0-aac97be786e5/NL-HlmNHA_1478_18196K00_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ea717f65-8999-dd72-3299-116e86e6ac8c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ea717f65-8999-dd72-3299-116e86e6ac8c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/206322a2-f3fb-db65-74b0-aac97be786e5/NL-HlmNHA_1478_18196K00_11/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/206322a2-f3fb-db65-74b0-aac97be786e5/NL-HlmNHA_1478_18196K00_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interieur Bank van Lening Amsterdam (taxateur)"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/eba08867-fe94-3054-002d-a4dce733246e\">https://hdl.handle.net/21.12102/eba08867-fe94-3054-002d-a4dce733246e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/206322a2-f3fb-db65-74b0-aac97be786e5/NL-HlmNHA_1478_18196K00_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/206322a2-f3fb-db65-74b0-aac97be786e5/NL-HlmNHA_1478_18196K00_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c8ee1b5c-29dc-ba92-db65-da3a1b850ecd/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c8ee1b5c-29dc-ba92-db65-da3a1b850ecd",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/206322a2-f3fb-db65-74b0-aac97be786e5/NL-HlmNHA_1478_18196K00_09/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

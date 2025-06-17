@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/c21972cf-550e-a7cf-9da9-69112ad555b7.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Onthulling tram vermiste kinderen met kunstenaars Aat Veldhoen (uiterst links) en Fabrice H\u00fcnd (gekleurde jas), Dam, Amsterdam (1999-01-19)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Onthulling tram vermiste kinderen met kunstenaars Aat Veldhoen (uiterst links) en Fabrice H\u00fcnd (gekleurde jas), Dam, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1999-01-19"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q839050\">Dam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.892778,
+            52.373056
+          ]
+        },
+        "properties": {
+          "title": "Dam",
+          "url": "http://www.wikidata.org/entity/Q839050"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c21972cf-550e-a7cf-9da9-69112ad555b7/NL-HlmNHA_1478_46489K00_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Onthulling tram vermiste kinderen met kunstenaars Aat Veldhoen (uiterst links) en Fabrice H\u00fcnd (gekleurde jas), Dam, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a62116a6-c38e-2bec-3a7d-ff4e3a7b6029\">https://hdl.handle.net/21.12102/a62116a6-c38e-2bec-3a7d-ff4e3a7b6029</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c21972cf-550e-a7cf-9da9-69112ad555b7/NL-HlmNHA_1478_46489K00_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c21972cf-550e-a7cf-9da9-69112ad555b7/NL-HlmNHA_1478_46489K00_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ce80b6c0-e269-85f7-198b-08b15d9e7c1f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ce80b6c0-e269-85f7-198b-08b15d9e7c1f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c21972cf-550e-a7cf-9da9-69112ad555b7/NL-HlmNHA_1478_46489K00_07/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

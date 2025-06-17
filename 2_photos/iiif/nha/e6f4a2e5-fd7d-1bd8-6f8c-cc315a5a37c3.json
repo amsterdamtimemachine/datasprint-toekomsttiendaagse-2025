@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/e6f4a2e5-fd7d-1bd8-6f8c-cc315a5a37c3.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Mevr. Maureen Sarucco, Amsterdam (2003-08-27)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Mevr. Maureen Sarucco, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2003-08-27"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e6f4a2e5-fd7d-1bd8-6f8c-cc315a5a37c3/NL-HlmNHA_1478_51854K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Mevr. Maureen Sarucco, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2e68cbd2-c1fc-904a-7b41-6861016fc150\">https://hdl.handle.net/21.12102/2e68cbd2-c1fc-904a-7b41-6861016fc150</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e6f4a2e5-fd7d-1bd8-6f8c-cc315a5a37c3/NL-HlmNHA_1478_51854K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e6f4a2e5-fd7d-1bd8-6f8c-cc315a5a37c3/NL-HlmNHA_1478_51854K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/541aa3ab-62ba-f171-10a3-82103bf62bd3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/541aa3ab-62ba-f171-10a3-82103bf62bd3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e6f4a2e5-fd7d-1bd8-6f8c-cc315a5a37c3/NL-HlmNHA_1478_51854K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e6f4a2e5-fd7d-1bd8-6f8c-cc315a5a37c3/NL-HlmNHA_1478_51854K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Mevr. Maureen Sarucco, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/75151519-fbcf-9ec3-5a6e-dc182e98562d\">https://hdl.handle.net/21.12102/75151519-fbcf-9ec3-5a6e-dc182e98562d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e6f4a2e5-fd7d-1bd8-6f8c-cc315a5a37c3/NL-HlmNHA_1478_51854K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e6f4a2e5-fd7d-1bd8-6f8c-cc315a5a37c3/NL-HlmNHA_1478_51854K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f289e6df-e4f2-4fdc-6ed6-6bb5b70254ba/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f289e6df-e4f2-4fdc-6ed6-6bb5b70254ba",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e6f4a2e5-fd7d-1bd8-6f8c-cc315a5a37c3/NL-HlmNHA_1478_51854K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e6f4a2e5-fd7d-1bd8-6f8c-cc315a5a37c3/NL-HlmNHA_1478_51854K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Mevr. Maureen Sarucco, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/cf6e289e-1ec8-d09c-9ba1-ff0ca0b50c44\">https://hdl.handle.net/21.12102/cf6e289e-1ec8-d09c-9ba1-ff0ca0b50c44</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e6f4a2e5-fd7d-1bd8-6f8c-cc315a5a37c3/NL-HlmNHA_1478_51854K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e6f4a2e5-fd7d-1bd8-6f8c-cc315a5a37c3/NL-HlmNHA_1478_51854K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9ac21e77-f1c7-165f-aaad-b236438dce21/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9ac21e77-f1c7-165f-aaad-b236438dce21",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e6f4a2e5-fd7d-1bd8-6f8c-cc315a5a37c3/NL-HlmNHA_1478_51854K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e6f4a2e5-fd7d-1bd8-6f8c-cc315a5a37c3/NL-HlmNHA_1478_51854K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Mevr. Maureen Sarucco, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d3635169-19e7-c2ec-b77a-b3405f824ee8\">https://hdl.handle.net/21.12102/d3635169-19e7-c2ec-b77a-b3405f824ee8</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e6f4a2e5-fd7d-1bd8-6f8c-cc315a5a37c3/NL-HlmNHA_1478_51854K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e6f4a2e5-fd7d-1bd8-6f8c-cc315a5a37c3/NL-HlmNHA_1478_51854K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/eccc1160-474b-cd04-19eb-97ac3ea1a1d2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/eccc1160-474b-cd04-19eb-97ac3ea1a1d2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e6f4a2e5-fd7d-1bd8-6f8c-cc315a5a37c3/NL-HlmNHA_1478_51854K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

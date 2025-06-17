@@ -1,0 +1,467 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/a912279e-dc23-2378-ea34-41fd4e1b5af8.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Neelie Smit-Kroes opent tentoonstelling 400 jaar loodswezen door hijsen van een loodsvlag, Museum 't Kromhout, Amsterdam. (1990-07-26)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Neelie Smit-Kroes opent tentoonstelling 400 jaar loodswezen door hijsen van een loodsvlag, Museum 't Kromhout, Amsterdam."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1990-07-26"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q7476407\">Hoogte Kadijk</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.91778,
+            52.36861
+          ]
+        },
+        "properties": {
+          "title": "Hoogte Kadijk",
+          "url": "http://www.wikidata.org/entity/Q7476407"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a912279e-dc23-2378-ea34-41fd4e1b5af8/NL-HlmNHA_1478_32725K00_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Neelie Smit-Kroes opent tentoonstelling 400 jaar loodswezen door hijsen van een loodsvlag, Museum 't Kromhout, Amsterdam."
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0f9132e2-c783-47f1-e55a-289833ef54bb\">https://hdl.handle.net/21.12102/0f9132e2-c783-47f1-e55a-289833ef54bb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a912279e-dc23-2378-ea34-41fd4e1b5af8/NL-HlmNHA_1478_32725K00_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a912279e-dc23-2378-ea34-41fd4e1b5af8/NL-HlmNHA_1478_32725K00_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/77c2e28f-20ff-7e76-9e2c-720ad18ae9ad/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/77c2e28f-20ff-7e76-9e2c-720ad18ae9ad",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a912279e-dc23-2378-ea34-41fd4e1b5af8/NL-HlmNHA_1478_32725K00_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a912279e-dc23-2378-ea34-41fd4e1b5af8/NL-HlmNHA_1478_32725K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Neelie Smit-Kroes opent tentoonstelling 400 jaar loodswezen door hijsen van een loodsvlag, Museum 't Kromhout, Amsterdam."
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1f0a7c66-ce77-c783-77a9-5fcad6755574\">https://hdl.handle.net/21.12102/1f0a7c66-ce77-c783-77a9-5fcad6755574</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a912279e-dc23-2378-ea34-41fd4e1b5af8/NL-HlmNHA_1478_32725K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a912279e-dc23-2378-ea34-41fd4e1b5af8/NL-HlmNHA_1478_32725K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b8d42c02-32c3-17e9-5789-183d0ad60d41/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b8d42c02-32c3-17e9-5789-183d0ad60d41",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a912279e-dc23-2378-ea34-41fd4e1b5af8/NL-HlmNHA_1478_32725K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a912279e-dc23-2378-ea34-41fd4e1b5af8/NL-HlmNHA_1478_32725K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Neelie Smit-Kroes opent tentoonstelling 400 jaar loodswezen door hijsen van een loodsvlag, Museum 't Kromhout, Amsterdam."
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2a288ae4-29f0-ab7b-13d8-1959bdd81db6\">https://hdl.handle.net/21.12102/2a288ae4-29f0-ab7b-13d8-1959bdd81db6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a912279e-dc23-2378-ea34-41fd4e1b5af8/NL-HlmNHA_1478_32725K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a912279e-dc23-2378-ea34-41fd4e1b5af8/NL-HlmNHA_1478_32725K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3c20b585-4cea-12fa-e08f-bdca513e8897/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3c20b585-4cea-12fa-e08f-bdca513e8897",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a912279e-dc23-2378-ea34-41fd4e1b5af8/NL-HlmNHA_1478_32725K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a912279e-dc23-2378-ea34-41fd4e1b5af8/NL-HlmNHA_1478_32725K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Neelie Smit-Kroes opent tentoonstelling 400 jaar loodswezen door hijsen van een loodsvlag, Museum 't Kromhout, Amsterdam."
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/45f0a021-d86e-0dc1-5578-19c6248ade15\">https://hdl.handle.net/21.12102/45f0a021-d86e-0dc1-5578-19c6248ade15</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a912279e-dc23-2378-ea34-41fd4e1b5af8/NL-HlmNHA_1478_32725K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a912279e-dc23-2378-ea34-41fd4e1b5af8/NL-HlmNHA_1478_32725K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5e316ca0-62b0-65e9-26c6-8a1b6ab18f0d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5e316ca0-62b0-65e9-26c6-8a1b6ab18f0d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a912279e-dc23-2378-ea34-41fd4e1b5af8/NL-HlmNHA_1478_32725K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a912279e-dc23-2378-ea34-41fd4e1b5af8/NL-HlmNHA_1478_32725K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Neelie Smit-Kroes opent tentoonstelling 400 jaar loodswezen door hijsen van een loodsvlag, Museum 't Kromhout, Amsterdam."
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/477bba8d-b211-f741-5e9b-84be27c6f939\">https://hdl.handle.net/21.12102/477bba8d-b211-f741-5e9b-84be27c6f939</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a912279e-dc23-2378-ea34-41fd4e1b5af8/NL-HlmNHA_1478_32725K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a912279e-dc23-2378-ea34-41fd4e1b5af8/NL-HlmNHA_1478_32725K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c39f4dfb-0fff-0a4d-11b7-c46665e1ecac/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c39f4dfb-0fff-0a4d-11b7-c46665e1ecac",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a912279e-dc23-2378-ea34-41fd4e1b5af8/NL-HlmNHA_1478_32725K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a912279e-dc23-2378-ea34-41fd4e1b5af8/NL-HlmNHA_1478_32725K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Neelie Smit-Kroes opent tentoonstelling 400 jaar loodswezen door hijsen van een loodsvlag, Museum 't Kromhout, Amsterdam."
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4d045787-b369-e39c-5ac1-8db6e06384e0\">https://hdl.handle.net/21.12102/4d045787-b369-e39c-5ac1-8db6e06384e0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a912279e-dc23-2378-ea34-41fd4e1b5af8/NL-HlmNHA_1478_32725K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a912279e-dc23-2378-ea34-41fd4e1b5af8/NL-HlmNHA_1478_32725K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e3f10e48-e0f3-e64f-29ea-4350363fcd35/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e3f10e48-e0f3-e64f-29ea-4350363fcd35",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a912279e-dc23-2378-ea34-41fd4e1b5af8/NL-HlmNHA_1478_32725K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a912279e-dc23-2378-ea34-41fd4e1b5af8/NL-HlmNHA_1478_32725K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Neelie Smit-Kroes opent tentoonstelling 400 jaar loodswezen door hijsen van een loodsvlag, Museum 't Kromhout, Amsterdam."
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ac9b164e-6f11-c878-dd24-00afee1b749f\">https://hdl.handle.net/21.12102/ac9b164e-6f11-c878-dd24-00afee1b749f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a912279e-dc23-2378-ea34-41fd4e1b5af8/NL-HlmNHA_1478_32725K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a912279e-dc23-2378-ea34-41fd4e1b5af8/NL-HlmNHA_1478_32725K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d83e8d2d-f9e2-1854-750e-23db3f172dbf/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d83e8d2d-f9e2-1854-750e-23db3f172dbf",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a912279e-dc23-2378-ea34-41fd4e1b5af8/NL-HlmNHA_1478_32725K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

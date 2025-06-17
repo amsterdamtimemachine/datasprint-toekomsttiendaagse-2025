@@ -1,0 +1,467 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/0c3a14a3-f2f5-d87f-9c31-2f6a6f08b91d.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Sierglaswerk in museum Willet-Holthuysen, Herengracht 605 (1965-02-19)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Sierglaswerk in museum Willet-Holthuysen, Herengracht 605"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1965-02-19"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2623129\">Herengracht</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.8868,
+            52.36759
+          ]
+        },
+        "properties": {
+          "title": "Herengracht",
+          "url": "http://www.wikidata.org/entity/Q2623129"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0c3a14a3-f2f5-d87f-9c31-2f6a6f08b91d/NL-HlmNHA_1478_03103K00_32/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Sierglaswerk in museum Willet-Holthuysen, Herengracht 605"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/24f2cde2-a84a-0c92-cd90-3f01a9b37d00\">https://hdl.handle.net/21.12102/24f2cde2-a84a-0c92-cd90-3f01a9b37d00</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0c3a14a3-f2f5-d87f-9c31-2f6a6f08b91d/NL-HlmNHA_1478_03103K00_32/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0c3a14a3-f2f5-d87f-9c31-2f6a6f08b91d/NL-HlmNHA_1478_03103K00_32/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e237a33e-771f-267e-f631-a4ef8d0123e6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e237a33e-771f-267e-f631-a4ef8d0123e6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0c3a14a3-f2f5-d87f-9c31-2f6a6f08b91d/NL-HlmNHA_1478_03103K00_32/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0c3a14a3-f2f5-d87f-9c31-2f6a6f08b91d/NL-HlmNHA_1478_03103K00_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Sierglaswerk in museum Willet-Holthuysen, Herengracht 605"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/51d8c6f9-ba78-7517-f0fc-d5f4da659fdb\">https://hdl.handle.net/21.12102/51d8c6f9-ba78-7517-f0fc-d5f4da659fdb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0c3a14a3-f2f5-d87f-9c31-2f6a6f08b91d/NL-HlmNHA_1478_03103K00_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0c3a14a3-f2f5-d87f-9c31-2f6a6f08b91d/NL-HlmNHA_1478_03103K00_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1cdb227a-97b5-8bbf-a730-f7efbca1cd2c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1cdb227a-97b5-8bbf-a730-f7efbca1cd2c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0c3a14a3-f2f5-d87f-9c31-2f6a6f08b91d/NL-HlmNHA_1478_03103K00_29/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0c3a14a3-f2f5-d87f-9c31-2f6a6f08b91d/NL-HlmNHA_1478_03103K00_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Sierglaswerk in museum Willet-Holthuysen, Herengracht 605"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/62088a95-1eb4-f6fe-5585-e83b36e97ba6\">https://hdl.handle.net/21.12102/62088a95-1eb4-f6fe-5585-e83b36e97ba6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0c3a14a3-f2f5-d87f-9c31-2f6a6f08b91d/NL-HlmNHA_1478_03103K00_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0c3a14a3-f2f5-d87f-9c31-2f6a6f08b91d/NL-HlmNHA_1478_03103K00_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c40c037e-c8bd-3f25-7b0b-8c7fedd8d50e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c40c037e-c8bd-3f25-7b0b-8c7fedd8d50e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0c3a14a3-f2f5-d87f-9c31-2f6a6f08b91d/NL-HlmNHA_1478_03103K00_30/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0c3a14a3-f2f5-d87f-9c31-2f6a6f08b91d/NL-HlmNHA_1478_03103K00_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Sierglaswerk in museum Willet-Holthuysen, Herengracht 605"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7027bc91-e8b8-7f53-ee8c-9d9d63297817\">https://hdl.handle.net/21.12102/7027bc91-e8b8-7f53-ee8c-9d9d63297817</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0c3a14a3-f2f5-d87f-9c31-2f6a6f08b91d/NL-HlmNHA_1478_03103K00_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0c3a14a3-f2f5-d87f-9c31-2f6a6f08b91d/NL-HlmNHA_1478_03103K00_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/26d976a1-7e34-56b4-32c7-0b359f542e88/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/26d976a1-7e34-56b4-32c7-0b359f542e88",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0c3a14a3-f2f5-d87f-9c31-2f6a6f08b91d/NL-HlmNHA_1478_03103K00_35/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0c3a14a3-f2f5-d87f-9c31-2f6a6f08b91d/NL-HlmNHA_1478_03103K00_31/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Sierglaswerk in museum Willet-Holthuysen, Herengracht 605"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/90f0a6d6-30f2-5d71-3223-77e8bef710b5\">https://hdl.handle.net/21.12102/90f0a6d6-30f2-5d71-3223-77e8bef710b5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0c3a14a3-f2f5-d87f-9c31-2f6a6f08b91d/NL-HlmNHA_1478_03103K00_31/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0c3a14a3-f2f5-d87f-9c31-2f6a6f08b91d/NL-HlmNHA_1478_03103K00_31/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e786a702-f210-67d8-f316-9319165b036b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e786a702-f210-67d8-f316-9319165b036b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0c3a14a3-f2f5-d87f-9c31-2f6a6f08b91d/NL-HlmNHA_1478_03103K00_31/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0c3a14a3-f2f5-d87f-9c31-2f6a6f08b91d/NL-HlmNHA_1478_03103K00_33/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Sierglaswerk in museum Willet-Holthuysen, Herengracht 605"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9f79e01b-442c-3f2c-7a37-a76b93f0bd47\">https://hdl.handle.net/21.12102/9f79e01b-442c-3f2c-7a37-a76b93f0bd47</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0c3a14a3-f2f5-d87f-9c31-2f6a6f08b91d/NL-HlmNHA_1478_03103K00_33/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0c3a14a3-f2f5-d87f-9c31-2f6a6f08b91d/NL-HlmNHA_1478_03103K00_33/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1045521c-0c70-f8cc-3b48-bbc5109fbcec/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1045521c-0c70-f8cc-3b48-bbc5109fbcec",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0c3a14a3-f2f5-d87f-9c31-2f6a6f08b91d/NL-HlmNHA_1478_03103K00_33/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0c3a14a3-f2f5-d87f-9c31-2f6a6f08b91d/NL-HlmNHA_1478_03103K00_34/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Sierglaswerk in museum Willet-Holthuysen, Herengracht 605"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b1ca4aea-3057-c35c-ba9b-1da8ab18ddd4\">https://hdl.handle.net/21.12102/b1ca4aea-3057-c35c-ba9b-1da8ab18ddd4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0c3a14a3-f2f5-d87f-9c31-2f6a6f08b91d/NL-HlmNHA_1478_03103K00_34/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0c3a14a3-f2f5-d87f-9c31-2f6a6f08b91d/NL-HlmNHA_1478_03103K00_34/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ca6b509d-49be-7e50-7086-84aa96fea8bb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ca6b509d-49be-7e50-7086-84aa96fea8bb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0c3a14a3-f2f5-d87f-9c31-2f6a6f08b91d/NL-HlmNHA_1478_03103K00_34/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

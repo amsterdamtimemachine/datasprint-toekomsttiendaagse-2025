@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/7ba0e7d3-c326-6d00-6bce-47039d4e6802.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Ontspoorde trein tussen Haarlem en Amsterdam (1951-10-03)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Ontspoorde trein tussen Haarlem en Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1951-10-03"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Botsingen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7ba0e7d3-c326-6d00-6bce-47039d4e6802/NL-HlmNHA_1478_06571B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ontspoorde trein tussen Haarlem en Amsterdam"
+        ]
+      },
+      "height": 2228,
+      "width": 2851,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8c369271-ac25-2795-ebba-d0945ef24e14\">https://hdl.handle.net/21.12102/8c369271-ac25-2795-ebba-d0945ef24e14</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7ba0e7d3-c326-6d00-6bce-47039d4e6802/NL-HlmNHA_1478_06571B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7ba0e7d3-c326-6d00-6bce-47039d4e6802/NL-HlmNHA_1478_06571B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/90e843e1-99ff-3a8c-6a2d-8e77c9a4f162/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2228,
+                "width": 2851,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/90e843e1-99ff-3a8c-6a2d-8e77c9a4f162",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7ba0e7d3-c326-6d00-6bce-47039d4e6802/NL-HlmNHA_1478_06571B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

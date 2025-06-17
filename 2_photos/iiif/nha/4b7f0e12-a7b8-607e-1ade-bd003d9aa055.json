@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/4b7f0e12-a7b8-607e-1ade-bd003d9aa055.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Film en Foto ZKH Amsterdam (1952-06-27)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Film en Foto ZKH Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1952-06-27"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Tentoonstellingen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/27108"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4b7f0e12-a7b8-607e-1ade-bd003d9aa055/NL-HlmNHA_1478_07429B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Film en Foto ZKH Amsterdam"
+        ]
+      },
+      "height": 2183,
+      "width": 2820,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/07d2257b-2f0c-9641-86ca-cfb175b15e83\">https://hdl.handle.net/21.12102/07d2257b-2f0c-9641-86ca-cfb175b15e83</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4b7f0e12-a7b8-607e-1ade-bd003d9aa055/NL-HlmNHA_1478_07429B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4b7f0e12-a7b8-607e-1ade-bd003d9aa055/NL-HlmNHA_1478_07429B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/29d5b7fd-6bcb-ac22-5bf2-421d45c4bc7a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2183,
+                "width": 2820,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/29d5b7fd-6bcb-ac22-5bf2-421d45c4bc7a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4b7f0e12-a7b8-607e-1ade-bd003d9aa055/NL-HlmNHA_1478_07429B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

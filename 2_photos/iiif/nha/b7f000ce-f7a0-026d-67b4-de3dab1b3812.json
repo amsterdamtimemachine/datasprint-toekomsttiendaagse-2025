@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/b7f000ce-f7a0-026d-67b4-de3dab1b3812.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Verlichte suikerfabriek te Halfweg (1953-01)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Verlichte suikerfabriek te Halfweg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1953-01"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2367253\">Halfweg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Suiker"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/27909"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.755,
+            52.3828
+          ]
+        },
+        "properties": {
+          "title": "Halfweg",
+          "url": "http://www.wikidata.org/entity/Q2367253"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b7f000ce-f7a0-026d-67b4-de3dab1b3812/NL-HlmNHA_1478_01000A00_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Verlichte suikerfabriek te Halfweg"
+        ]
+      },
+      "height": 2658,
+      "width": 2658,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0e515d47-5227-cc84-7c69-4601df50c6d9\">https://hdl.handle.net/21.12102/0e515d47-5227-cc84-7c69-4601df50c6d9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b7f000ce-f7a0-026d-67b4-de3dab1b3812/NL-HlmNHA_1478_01000A00_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b7f000ce-f7a0-026d-67b4-de3dab1b3812/NL-HlmNHA_1478_01000A00_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/82a3a27b-1d63-10d4-5de2-e24619cfff4e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2658,
+                "width": 2658,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/82a3a27b-1d63-10d4-5de2-e24619cfff4e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b7f000ce-f7a0-026d-67b4-de3dab1b3812/NL-HlmNHA_1478_01000A00_10/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b7f000ce-f7a0-026d-67b4-de3dab1b3812/NL-HlmNHA_1478_01000A00_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Verlichte suikerfabriek te Halfweg"
+        ]
+      },
+      "height": 2614,
+      "width": 2614,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8a37e5a7-46cd-a7dd-a9ba-0521c76420ad\">https://hdl.handle.net/21.12102/8a37e5a7-46cd-a7dd-a9ba-0521c76420ad</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b7f000ce-f7a0-026d-67b4-de3dab1b3812/NL-HlmNHA_1478_01000A00_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b7f000ce-f7a0-026d-67b4-de3dab1b3812/NL-HlmNHA_1478_01000A00_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c84fce78-88f8-7066-3bc9-2b29181672a4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2614,
+                "width": 2614,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c84fce78-88f8-7066-3bc9-2b29181672a4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b7f000ce-f7a0-026d-67b4-de3dab1b3812/NL-HlmNHA_1478_01000A00_09/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

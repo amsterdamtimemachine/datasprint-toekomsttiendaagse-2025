@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/fd24bdd0-ff21-5e0f-afbe-adfb16cc0bd9.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Toespraak mevr Kroes wgs vertrek/aankomst \"De Uiver\" i.v.m 50 jarig jubileum vlucht Londen - Melbourne, Vliegtuigen, 18-12-1983, Schiphol (1983-12-18)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Toespraak mevr Kroes wgs vertrek/aankomst \"De Uiver\" i.v.m 50 jarig jubileum vlucht Londen - Melbourne, Vliegtuigen, 18-12-1983, Schiphol"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1983-12-18"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fd24bdd0-ff21-5e0f-afbe-adfb16cc0bd9/NL-HlmNHA_1478_23686K00_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Toespraak mevr Kroes wgs vertrek/aankomst \"De Uiver\" i.v.m 50 jarig jubileum vlucht Londen - Melbourne, Vliegtuigen, 18-12-1983, Schiphol"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a93e6fd8-20cf-0b27-fc22-c02305e04f37\">https://hdl.handle.net/21.12102/a93e6fd8-20cf-0b27-fc22-c02305e04f37</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fd24bdd0-ff21-5e0f-afbe-adfb16cc0bd9/NL-HlmNHA_1478_23686K00_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fd24bdd0-ff21-5e0f-afbe-adfb16cc0bd9/NL-HlmNHA_1478_23686K00_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d60ebc25-fbac-9ed4-cc5f-63cf8dfcac54/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d60ebc25-fbac-9ed4-cc5f-63cf8dfcac54",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fd24bdd0-ff21-5e0f-afbe-adfb16cc0bd9/NL-HlmNHA_1478_23686K00_30/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fd24bdd0-ff21-5e0f-afbe-adfb16cc0bd9/NL-HlmNHA_1478_23686K00_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Toespraak mevr Kroes wgs vertrek/aankomst \"De Uiver\" i.v.m 50 jarig jubileum vlucht Londen - Melbourne, Vliegtuigen, 18-12-1983, Schiphol"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/bb4793e7-6ade-0d3c-b70d-6976206ca288\">https://hdl.handle.net/21.12102/bb4793e7-6ade-0d3c-b70d-6976206ca288</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fd24bdd0-ff21-5e0f-afbe-adfb16cc0bd9/NL-HlmNHA_1478_23686K00_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fd24bdd0-ff21-5e0f-afbe-adfb16cc0bd9/NL-HlmNHA_1478_23686K00_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d0f5012b-4e6b-bd8c-af82-45e10ae6e48b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d0f5012b-4e6b-bd8c-af82-45e10ae6e48b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fd24bdd0-ff21-5e0f-afbe-adfb16cc0bd9/NL-HlmNHA_1478_23686K00_29/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

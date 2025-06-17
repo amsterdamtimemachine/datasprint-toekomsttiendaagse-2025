@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/f7767bb0-3a5e-ff45-3dea-d15519193fb1.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Amerikaanse showband zwanenburg (1985-07-20)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Amerikaanse showband zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1985-07-20"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Muziek"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/28200"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7767bb0-3a5e-ff45-3dea-d15519193fb1/NL-HlmNHA_1478_25342K00_34/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Amerikaanse showband zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/17d7ec99-3891-b15a-15b4-e03470e4661e\">https://hdl.handle.net/21.12102/17d7ec99-3891-b15a-15b4-e03470e4661e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7767bb0-3a5e-ff45-3dea-d15519193fb1/NL-HlmNHA_1478_25342K00_34/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7767bb0-3a5e-ff45-3dea-d15519193fb1/NL-HlmNHA_1478_25342K00_34/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ac0a24de-3180-fe6b-8c87-957b007de1af/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ac0a24de-3180-fe6b-8c87-957b007de1af",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7767bb0-3a5e-ff45-3dea-d15519193fb1/NL-HlmNHA_1478_25342K00_34/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7767bb0-3a5e-ff45-3dea-d15519193fb1/NL-HlmNHA_1478_25342K00_32/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Amerikaanse showband zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/308b57fa-2e18-d12f-c23c-5e1ff3456bfb\">https://hdl.handle.net/21.12102/308b57fa-2e18-d12f-c23c-5e1ff3456bfb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7767bb0-3a5e-ff45-3dea-d15519193fb1/NL-HlmNHA_1478_25342K00_32/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7767bb0-3a5e-ff45-3dea-d15519193fb1/NL-HlmNHA_1478_25342K00_32/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/bcc6be47-daf7-f0a5-fc88-c3c50cfe9ace/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/bcc6be47-daf7-f0a5-fc88-c3c50cfe9ace",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7767bb0-3a5e-ff45-3dea-d15519193fb1/NL-HlmNHA_1478_25342K00_32/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7767bb0-3a5e-ff45-3dea-d15519193fb1/NL-HlmNHA_1478_25342K00_37/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Amerikaanse showband zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5a54ff3e-03b0-e845-4ae9-e158d7f06175\">https://hdl.handle.net/21.12102/5a54ff3e-03b0-e845-4ae9-e158d7f06175</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7767bb0-3a5e-ff45-3dea-d15519193fb1/NL-HlmNHA_1478_25342K00_37/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7767bb0-3a5e-ff45-3dea-d15519193fb1/NL-HlmNHA_1478_25342K00_37/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/77824d2a-98c7-d2ba-cf78-1e4fd549ceb7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/77824d2a-98c7-d2ba-cf78-1e4fd549ceb7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7767bb0-3a5e-ff45-3dea-d15519193fb1/NL-HlmNHA_1478_25342K00_37/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7767bb0-3a5e-ff45-3dea-d15519193fb1/NL-HlmNHA_1478_25342K00_36/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Amerikaanse showband zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/638bd720-6ca0-b0b4-569c-3bf421fabff3\">https://hdl.handle.net/21.12102/638bd720-6ca0-b0b4-569c-3bf421fabff3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7767bb0-3a5e-ff45-3dea-d15519193fb1/NL-HlmNHA_1478_25342K00_36/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7767bb0-3a5e-ff45-3dea-d15519193fb1/NL-HlmNHA_1478_25342K00_36/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ad0f3c24-4f2a-2060-647b-7980f3a22076/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ad0f3c24-4f2a-2060-647b-7980f3a22076",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7767bb0-3a5e-ff45-3dea-d15519193fb1/NL-HlmNHA_1478_25342K00_36/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7767bb0-3a5e-ff45-3dea-d15519193fb1/NL-HlmNHA_1478_25342K00_33/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Amerikaanse showband zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8ac03b39-18e8-d4d7-cc14-7531de0e7d5f\">https://hdl.handle.net/21.12102/8ac03b39-18e8-d4d7-cc14-7531de0e7d5f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7767bb0-3a5e-ff45-3dea-d15519193fb1/NL-HlmNHA_1478_25342K00_33/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7767bb0-3a5e-ff45-3dea-d15519193fb1/NL-HlmNHA_1478_25342K00_33/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7baa6e55-bb65-3010-f999-b607e0eced72/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7baa6e55-bb65-3010-f999-b607e0eced72",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7767bb0-3a5e-ff45-3dea-d15519193fb1/NL-HlmNHA_1478_25342K00_33/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7767bb0-3a5e-ff45-3dea-d15519193fb1/NL-HlmNHA_1478_25342K00_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Amerikaanse showband zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a5f53868-903c-a031-d6c4-c3405f283131\">https://hdl.handle.net/21.12102/a5f53868-903c-a031-d6c4-c3405f283131</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7767bb0-3a5e-ff45-3dea-d15519193fb1/NL-HlmNHA_1478_25342K00_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7767bb0-3a5e-ff45-3dea-d15519193fb1/NL-HlmNHA_1478_25342K00_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5cbc7a57-c0c7-98c6-e4f5-8259a6cf6231/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5cbc7a57-c0c7-98c6-e4f5-8259a6cf6231",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f7767bb0-3a5e-ff45-3dea-d15519193fb1/NL-HlmNHA_1478_25342K00_35/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

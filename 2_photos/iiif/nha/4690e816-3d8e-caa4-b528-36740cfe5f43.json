@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/4690e816-3d8e-caa4-b528-36740cfe5f43.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Wereldkampioenschappen baanwielrennen (1959-08)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Wereldkampioenschappen baanwielrennen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1959-08"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q19393276\">Olympisch Stadion</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.854,
+            52.3435
+          ]
+        },
+        "properties": {
+          "title": "Olympisch Stadion",
+          "url": "http://www.wikidata.org/entity/Q19393276"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4690e816-3d8e-caa4-b528-36740cfe5f43/NL-HlmNHA_1478_16973B01a_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Wereldkampioenschappen baanwielrennen"
+        ]
+      },
+      "height": 1291,
+      "width": 1290,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/424abea0-7a8f-1b60-3a0a-1ec3aff7f5f5\">https://hdl.handle.net/21.12102/424abea0-7a8f-1b60-3a0a-1ec3aff7f5f5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4690e816-3d8e-caa4-b528-36740cfe5f43/NL-HlmNHA_1478_16973B01a_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4690e816-3d8e-caa4-b528-36740cfe5f43/NL-HlmNHA_1478_16973B01a_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b4b21092-6133-26f2-4e52-f15cfdeb7da1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1291,
+                "width": 1290,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b4b21092-6133-26f2-4e52-f15cfdeb7da1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4690e816-3d8e-caa4-b528-36740cfe5f43/NL-HlmNHA_1478_16973B01a_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

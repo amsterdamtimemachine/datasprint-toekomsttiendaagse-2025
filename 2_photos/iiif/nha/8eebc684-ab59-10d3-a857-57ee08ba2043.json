@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/8eebc684-ab59-10d3-a857-57ee08ba2043.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Chef patisserie Anton Woolthuis, Schiphol 75 jaar (1991-09-18)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Chef patisserie Anton Woolthuis, Schiphol 75 jaar"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1991-09-18"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8eebc684-ab59-10d3-a857-57ee08ba2043/NL-HlmNHA_1478_35088K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Chef patisserie Anton Woolthuis, Schiphol 75 jaar"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7be8cb51-af41-899d-127b-6778eafe081a\">https://hdl.handle.net/21.12102/7be8cb51-af41-899d-127b-6778eafe081a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8eebc684-ab59-10d3-a857-57ee08ba2043/NL-HlmNHA_1478_35088K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8eebc684-ab59-10d3-a857-57ee08ba2043/NL-HlmNHA_1478_35088K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4358f363-5569-9d84-e642-30a2360263d7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4358f363-5569-9d84-e642-30a2360263d7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8eebc684-ab59-10d3-a857-57ee08ba2043/NL-HlmNHA_1478_35088K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8eebc684-ab59-10d3-a857-57ee08ba2043/NL-HlmNHA_1478_35088K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Chef patisserie Anton Woolthuis, Schiphol 75 jaar"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/85c6bea2-c37c-9afe-3d7c-eddc2cb36246\">https://hdl.handle.net/21.12102/85c6bea2-c37c-9afe-3d7c-eddc2cb36246</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8eebc684-ab59-10d3-a857-57ee08ba2043/NL-HlmNHA_1478_35088K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8eebc684-ab59-10d3-a857-57ee08ba2043/NL-HlmNHA_1478_35088K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/44059d7d-6267-140f-1f08-b5693f0fcb3b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/44059d7d-6267-140f-1f08-b5693f0fcb3b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8eebc684-ab59-10d3-a857-57ee08ba2043/NL-HlmNHA_1478_35088K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8eebc684-ab59-10d3-a857-57ee08ba2043/NL-HlmNHA_1478_35088K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Chef patisserie Anton Woolthuis, Schiphol 75 jaar"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/fdad48e2-e661-e4f2-4f8f-fbe68f42d138\">https://hdl.handle.net/21.12102/fdad48e2-e661-e4f2-4f8f-fbe68f42d138</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8eebc684-ab59-10d3-a857-57ee08ba2043/NL-HlmNHA_1478_35088K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8eebc684-ab59-10d3-a857-57ee08ba2043/NL-HlmNHA_1478_35088K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/88763f2c-19a1-b3c8-68c7-f607bf9cd6cf/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/88763f2c-19a1-b3c8-68c7-f607bf9cd6cf",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8eebc684-ab59-10d3-a857-57ee08ba2043/NL-HlmNHA_1478_35088K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

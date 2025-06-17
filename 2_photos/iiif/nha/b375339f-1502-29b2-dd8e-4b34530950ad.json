@@ -1,0 +1,520 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/b375339f-1502-29b2-dd8e-4b34530950ad.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Matt Heffels red. PCM Amsterdam (1986-09-12)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Matt Heffels red. PCM Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1986-09-12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Computers"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/28497"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Matt Heffels red. PCM Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/02251eac-1a08-a455-1b4f-9eb1f91e2897\">https://hdl.handle.net/21.12102/02251eac-1a08-a455-1b4f-9eb1f91e2897</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/086f4b9f-1670-6480-c799-6beec3a6eb52/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/086f4b9f-1670-6480-c799-6beec3a6eb52",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_09/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Matt Heffels red. PCM Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/10f1d679-268f-e193-3371-436cad9f54bb\">https://hdl.handle.net/21.12102/10f1d679-268f-e193-3371-436cad9f54bb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/30a7d149-20d5-60c4-0271-92032de246ab/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/30a7d149-20d5-60c4-0271-92032de246ab",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Matt Heffels red. PCM Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/12447867-ae5d-a95e-ac19-2f5a4d53e758\">https://hdl.handle.net/21.12102/12447867-ae5d-a95e-ac19-2f5a4d53e758</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c7132061-cc04-9e10-71c2-8f71960d442c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c7132061-cc04-9e10-71c2-8f71960d442c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Matt Heffels red. PCM Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1f0a230e-18f4-5277-a115-e6dd84bdb617\">https://hdl.handle.net/21.12102/1f0a230e-18f4-5277-a115-e6dd84bdb617</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e0f14830-3fbb-a51b-3c74-839d8edb8ec2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e0f14830-3fbb-a51b-3c74-839d8edb8ec2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_10/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Matt Heffels red. PCM Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/200903f3-795c-205f-bbe7-8cd37e731d48\">https://hdl.handle.net/21.12102/200903f3-795c-205f-bbe7-8cd37e731d48</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ed445000-4819-47bb-b438-b9eb4c339e83/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ed445000-4819-47bb-b438-b9eb4c339e83",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_08/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Matt Heffels red. PCM Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/88f41bda-5873-0126-6061-478398194908\">https://hdl.handle.net/21.12102/88f41bda-5873-0126-6061-478398194908</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6ac0a960-a1e4-d715-2479-78778e894522/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6ac0a960-a1e4-d715-2479-78778e894522",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Matt Heffels red. PCM Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a2b20d26-c395-ec68-e3c1-50428e3ac3be\">https://hdl.handle.net/21.12102/a2b20d26-c395-ec68-e3c1-50428e3ac3be</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e9e8a209-c123-edcd-c58f-f7177f088bba/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e9e8a209-c123-edcd-c58f-f7177f088bba",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Matt Heffels red. PCM Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f6a86a78-e204-7b57-ac61-e59b6f33a2ff\">https://hdl.handle.net/21.12102/f6a86a78-e204-7b57-ac61-e59b6f33a2ff</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0ed8c10e-4053-86f6-b279-e68f09e43937/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0ed8c10e-4053-86f6-b279-e68f09e43937",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b375339f-1502-29b2-dd8e-4b34530950ad/NL-HlmNHA_1478_26748K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

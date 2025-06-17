@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/7901acdc-fcf1-de02-7434-e3aafccbdc0d.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Tankwagen FINA op brug 74 over de Reguliersgracht ter hoogte van de Kerkstraat, Amsterdam. Purfina. (1962-03-24)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Tankwagen FINA op brug 74 over de Reguliersgracht ter hoogte van de Kerkstraat, Amsterdam. Purfina."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1962-03-24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2368125\">Kerkstraat</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.89611,
+            52.36222
+          ]
+        },
+        "properties": {
+          "title": "Kerkstraat",
+          "url": "http://www.wikidata.org/entity/Q2368125"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7901acdc-fcf1-de02-7434-e3aafccbdc0d/NL-HlmNHA_1478_19236B02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tankwagen FINA op brug 74 over de Reguliersgracht ter hoogte van de Kerkstraat, Amsterdam. Purfina."
+        ]
+      },
+      "height": 2196,
+      "width": 2802,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/443bbf4b-65bd-584b-d6d6-03e432f12fa6\">https://hdl.handle.net/21.12102/443bbf4b-65bd-584b-d6d6-03e432f12fa6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7901acdc-fcf1-de02-7434-e3aafccbdc0d/NL-HlmNHA_1478_19236B02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7901acdc-fcf1-de02-7434-e3aafccbdc0d/NL-HlmNHA_1478_19236B02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b21300c8-3fd1-bd14-9dca-ba4d14ac1fa2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2196,
+                "width": 2802,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b21300c8-3fd1-bd14-9dca-ba4d14ac1fa2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7901acdc-fcf1-de02-7434-e3aafccbdc0d/NL-HlmNHA_1478_19236B02_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7901acdc-fcf1-de02-7434-e3aafccbdc0d/NL-HlmNHA_1478_19236B01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tankwagen FINA op brug 74 over de Reguliersgracht ter hoogte van de Kerkstraat, Amsterdam. Purfina."
+        ]
+      },
+      "height": 2220,
+      "width": 2825,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/bb9a812e-9ff9-cdcc-7240-a4ce7a30bde9\">https://hdl.handle.net/21.12102/bb9a812e-9ff9-cdcc-7240-a4ce7a30bde9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7901acdc-fcf1-de02-7434-e3aafccbdc0d/NL-HlmNHA_1478_19236B01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7901acdc-fcf1-de02-7434-e3aafccbdc0d/NL-HlmNHA_1478_19236B01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/24ea50f0-2d8a-4eac-8e16-9ff0746e571b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2220,
+                "width": 2825,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/24ea50f0-2d8a-4eac-8e16-9ff0746e571b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7901acdc-fcf1-de02-7434-e3aafccbdc0d/NL-HlmNHA_1478_19236B01_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

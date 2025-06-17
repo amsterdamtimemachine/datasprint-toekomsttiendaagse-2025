@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/afdf0657-6d5a-801d-d239-5ae0a7b8ff1e.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Stand RAI Horecava. (1974-01-08)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Stand RAI Horecava."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1974-01-08"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Philips"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/64325"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/afdf0657-6d5a-801d-d239-5ae0a7b8ff1e/NL-HlmNHA_1478_21209B01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Stand RAI Horecava."
+        ]
+      },
+      "height": 2220,
+      "width": 2862,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3cab1b8a-16b4-4560-1d9b-d131983e1499\">https://hdl.handle.net/21.12102/3cab1b8a-16b4-4560-1d9b-d131983e1499</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/afdf0657-6d5a-801d-d239-5ae0a7b8ff1e/NL-HlmNHA_1478_21209B01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/afdf0657-6d5a-801d-d239-5ae0a7b8ff1e/NL-HlmNHA_1478_21209B01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7fcfb737-ceff-9a8a-9c5f-d733e68e6fb5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2220,
+                "width": 2862,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7fcfb737-ceff-9a8a-9c5f-d733e68e6fb5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/afdf0657-6d5a-801d-d239-5ae0a7b8ff1e/NL-HlmNHA_1478_21209B01_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/afdf0657-6d5a-801d-d239-5ae0a7b8ff1e/NL-HlmNHA_1478_21209B02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Stand RAI Horecava."
+        ]
+      },
+      "height": 2210,
+      "width": 2862,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/68e9fd9b-ee60-f111-7fec-4afcedea9643\">https://hdl.handle.net/21.12102/68e9fd9b-ee60-f111-7fec-4afcedea9643</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/afdf0657-6d5a-801d-d239-5ae0a7b8ff1e/NL-HlmNHA_1478_21209B02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/afdf0657-6d5a-801d-d239-5ae0a7b8ff1e/NL-HlmNHA_1478_21209B02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ba306b9e-8286-0f02-3311-ccec325b162f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2210,
+                "width": 2862,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ba306b9e-8286-0f02-3311-ccec325b162f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/afdf0657-6d5a-801d-d239-5ae0a7b8ff1e/NL-HlmNHA_1478_21209B02_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

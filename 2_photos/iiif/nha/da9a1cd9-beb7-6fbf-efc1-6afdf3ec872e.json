@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/da9a1cd9-beb7-6fbf-efc1-6afdf3ec872e.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Portret van Isabelle Leijn, Amsterdam (1998-09-10)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Portret van Isabelle Leijn, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1998-09-10"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/da9a1cd9-beb7-6fbf-efc1-6afdf3ec872e/NL-HlmNHA_1478_45998K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van Isabelle Leijn, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2da3f3a2-4394-578b-aa74-b0ecd3d25080\">https://hdl.handle.net/21.12102/2da3f3a2-4394-578b-aa74-b0ecd3d25080</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/da9a1cd9-beb7-6fbf-efc1-6afdf3ec872e/NL-HlmNHA_1478_45998K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/da9a1cd9-beb7-6fbf-efc1-6afdf3ec872e/NL-HlmNHA_1478_45998K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/533ac516-fd49-c51f-99a4-73d8a621f7cb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/533ac516-fd49-c51f-99a4-73d8a621f7cb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/da9a1cd9-beb7-6fbf-efc1-6afdf3ec872e/NL-HlmNHA_1478_45998K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/da9a1cd9-beb7-6fbf-efc1-6afdf3ec872e/NL-HlmNHA_1478_45998K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van Isabelle Leijn, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/61aec4af-b583-5895-b96d-271b8d3a8149\">https://hdl.handle.net/21.12102/61aec4af-b583-5895-b96d-271b8d3a8149</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/da9a1cd9-beb7-6fbf-efc1-6afdf3ec872e/NL-HlmNHA_1478_45998K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/da9a1cd9-beb7-6fbf-efc1-6afdf3ec872e/NL-HlmNHA_1478_45998K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e0d061fe-a2a8-fc98-b316-77f4f5bd9fb5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e0d061fe-a2a8-fc98-b316-77f4f5bd9fb5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/da9a1cd9-beb7-6fbf-efc1-6afdf3ec872e/NL-HlmNHA_1478_45998K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/da9a1cd9-beb7-6fbf-efc1-6afdf3ec872e/NL-HlmNHA_1478_45998K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van Isabelle Leijn, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/740542b8-ff5c-aeaf-df27-afde16907cae\">https://hdl.handle.net/21.12102/740542b8-ff5c-aeaf-df27-afde16907cae</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/da9a1cd9-beb7-6fbf-efc1-6afdf3ec872e/NL-HlmNHA_1478_45998K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/da9a1cd9-beb7-6fbf-efc1-6afdf3ec872e/NL-HlmNHA_1478_45998K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/27e779d9-db65-abc9-fe2b-cad001ec7d68/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/27e779d9-db65-abc9-fe2b-cad001ec7d68",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/da9a1cd9-beb7-6fbf-efc1-6afdf3ec872e/NL-HlmNHA_1478_45998K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/da9a1cd9-beb7-6fbf-efc1-6afdf3ec872e/NL-HlmNHA_1478_45998K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van Isabelle Leijn, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/951f22ed-33fa-7d95-38e5-76dc9b65d3a8\">https://hdl.handle.net/21.12102/951f22ed-33fa-7d95-38e5-76dc9b65d3a8</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/da9a1cd9-beb7-6fbf-efc1-6afdf3ec872e/NL-HlmNHA_1478_45998K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/da9a1cd9-beb7-6fbf-efc1-6afdf3ec872e/NL-HlmNHA_1478_45998K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c881234d-9eef-b49a-4218-bb133937c4be/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c881234d-9eef-b49a-4218-bb133937c4be",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/da9a1cd9-beb7-6fbf-efc1-6afdf3ec872e/NL-HlmNHA_1478_45998K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/da9a1cd9-beb7-6fbf-efc1-6afdf3ec872e/NL-HlmNHA_1478_45998K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van Isabelle Leijn, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/bbccc031-93b9-65c2-1a69-2a780b27e692\">https://hdl.handle.net/21.12102/bbccc031-93b9-65c2-1a69-2a780b27e692</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/da9a1cd9-beb7-6fbf-efc1-6afdf3ec872e/NL-HlmNHA_1478_45998K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/da9a1cd9-beb7-6fbf-efc1-6afdf3ec872e/NL-HlmNHA_1478_45998K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7054eabb-8688-5bee-292e-63a9a6e9d7b4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7054eabb-8688-5bee-292e-63a9a6e9d7b4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/da9a1cd9-beb7-6fbf-efc1-6afdf3ec872e/NL-HlmNHA_1478_45998K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/da9a1cd9-beb7-6fbf-efc1-6afdf3ec872e/NL-HlmNHA_1478_45998K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van Isabelle Leijn, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/cab67c02-ec98-737b-19cf-b9ff5ce1bed1\">https://hdl.handle.net/21.12102/cab67c02-ec98-737b-19cf-b9ff5ce1bed1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/da9a1cd9-beb7-6fbf-efc1-6afdf3ec872e/NL-HlmNHA_1478_45998K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/da9a1cd9-beb7-6fbf-efc1-6afdf3ec872e/NL-HlmNHA_1478_45998K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/832012f5-390a-13f2-ad5b-bc1f82b0c1ed/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/832012f5-390a-13f2-ad5b-bc1f82b0c1ed",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/da9a1cd9-beb7-6fbf-efc1-6afdf3ec872e/NL-HlmNHA_1478_45998K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,732 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/bae41e76-4521-99be-de85-d821db93a66d.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Portret Fr. van de Veer FNV Amsterdam (1981-08-27)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Portret Fr. van de Veer FNV Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1981-08-27"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Vakbonden, Portretten"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/28234, http://data.beeldengeluid.nl/gtaa/27140"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Fr. van de Veer FNV Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2674d459-52a7-612d-ff50-04d02e15ed4e\">https://hdl.handle.net/21.12102/2674d459-52a7-612d-ff50-04d02e15ed4e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c1ee418e-bc4c-216e-7a41-16f9be8609eb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c1ee418e-bc4c-216e-7a41-16f9be8609eb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Fr. van de Veer FNV Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2f944647-0898-7b39-4115-e3f76631cebc\">https://hdl.handle.net/21.12102/2f944647-0898-7b39-4115-e3f76631cebc</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/030812be-f1de-3437-cfa5-6802735627cf/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/030812be-f1de-3437-cfa5-6802735627cf",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Fr. van de Veer FNV Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5e090098-8169-4aa8-c14f-be12b889d9ca\">https://hdl.handle.net/21.12102/5e090098-8169-4aa8-c14f-be12b889d9ca</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f3fe16b7-0981-647a-3ec0-80ca81736a8d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f3fe16b7-0981-647a-3ec0-80ca81736a8d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Fr. van de Veer FNV Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/69e0f260-5148-5614-e54f-70dadcd5a2e0\">https://hdl.handle.net/21.12102/69e0f260-5148-5614-e54f-70dadcd5a2e0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5ca30b48-499d-1281-84c5-22771471b3a3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5ca30b48-499d-1281-84c5-22771471b3a3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Fr. van de Veer FNV Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8516273a-d330-3202-03e7-13e0dc3fbe2e\">https://hdl.handle.net/21.12102/8516273a-d330-3202-03e7-13e0dc3fbe2e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/22a644f0-9ccf-7eb2-9f71-283c80dfadd0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/22a644f0-9ccf-7eb2-9f71-283c80dfadd0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_11/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Fr. van de Veer FNV Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9b05e8c1-9e76-e84d-c258-13eb655fba85\">https://hdl.handle.net/21.12102/9b05e8c1-9e76-e84d-c258-13eb655fba85</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ccb5ed87-422e-51e2-2f25-320b557b6b5a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ccb5ed87-422e-51e2-2f25-320b557b6b5a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_08/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Fr. van de Veer FNV Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a24dc6fe-8665-7512-a366-e71bc9a50466\">https://hdl.handle.net/21.12102/a24dc6fe-8665-7512-a366-e71bc9a50466</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/127cb5b8-f291-ab2a-3e33-74c1f1b07059/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/127cb5b8-f291-ab2a-3e33-74c1f1b07059",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Fr. van de Veer FNV Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a92c004d-4bb6-9b8a-1e3a-f415eaed7286\">https://hdl.handle.net/21.12102/a92c004d-4bb6-9b8a-1e3a-f415eaed7286</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e74cef10-8cd2-c8a1-4be8-306bce64b5bb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e74cef10-8cd2-c8a1-4be8-306bce64b5bb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_10/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Fr. van de Veer FNV Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b6c173ba-dd6a-6acb-8f27-d81631340828\">https://hdl.handle.net/21.12102/b6c173ba-dd6a-6acb-8f27-d81631340828</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f4771eec-020a-46d2-9648-9de0ae027b9f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f4771eec-020a-46d2-9648-9de0ae027b9f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_09/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Fr. van de Veer FNV Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b91c134a-46df-3763-ed47-22b62926299b\">https://hdl.handle.net/21.12102/b91c134a-46df-3763-ed47-22b62926299b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2cfbb4b4-3e4d-0850-8bb1-4bddb1ce491c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2cfbb4b4-3e4d-0850-8bb1-4bddb1ce491c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Fr. van de Veer FNV Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/cd94ab62-8d42-c2c6-8d59-0d018fa4efb6\">https://hdl.handle.net/21.12102/cd94ab62-8d42-c2c6-8d59-0d018fa4efb6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/db331c09-3212-1f5a-71d2-1f29a20fb330/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/db331c09-3212-1f5a-71d2-1f29a20fb330",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Fr. van de Veer FNV Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f985f623-cb45-096c-25d5-3f1a4a4beb50\">https://hdl.handle.net/21.12102/f985f623-cb45-096c-25d5-3f1a4a4beb50</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/679cddc0-80b9-c84b-6e05-0ba034cdbce9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/679cddc0-80b9-c84b-6e05-0ba034cdbce9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bae41e76-4521-99be-de85-d821db93a66d/NL-HlmNHA_1478_21079K01_12/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

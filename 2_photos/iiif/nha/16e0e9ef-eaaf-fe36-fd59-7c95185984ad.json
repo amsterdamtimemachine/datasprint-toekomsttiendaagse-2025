@@ -1,0 +1,679 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/16e0e9ef-eaaf-fe36-fd59-7c95185984ad.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Hoorzitting Halfweg bij Zwanenburg (1981-02-12)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Hoorzitting Halfweg bij Zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1981-02-12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Hoorzitting"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/25902"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hoorzitting Halfweg bij Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0a6a4729-d290-02e8-020a-b5630c8eaa46\">https://hdl.handle.net/21.12102/0a6a4729-d290-02e8-020a-b5630c8eaa46</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/04517a9a-d1c7-56ad-e61d-c08df6e4cb65/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/04517a9a-d1c7-56ad-e61d-c08df6e4cb65",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_30/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_22/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hoorzitting Halfweg bij Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0e737899-51ce-8f68-d546-1c804dbfc211\">https://hdl.handle.net/21.12102/0e737899-51ce-8f68-d546-1c804dbfc211</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_22/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_22/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e909367d-768a-352b-923a-cb2bcb7a109e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e909367d-768a-352b-923a-cb2bcb7a109e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_22/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_31/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hoorzitting Halfweg bij Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1605f7b8-ed19-1d5b-4dca-46400e59a923\">https://hdl.handle.net/21.12102/1605f7b8-ed19-1d5b-4dca-46400e59a923</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_31/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_31/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6657dd12-98a5-0a66-dcf2-d7265a3de969/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6657dd12-98a5-0a66-dcf2-d7265a3de969",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_31/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hoorzitting Halfweg bij Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/299183f5-345a-f408-2874-18f4141c4bd5\">https://hdl.handle.net/21.12102/299183f5-345a-f408-2874-18f4141c4bd5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c623b2ef-a54b-4ab8-5663-1e3e8036c289/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c623b2ef-a54b-4ab8-5663-1e3e8036c289",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hoorzitting Halfweg bij Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2e3436ea-a6d4-61a2-fc64-e366eeac1f6d\">https://hdl.handle.net/21.12102/2e3436ea-a6d4-61a2-fc64-e366eeac1f6d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5d2317fa-385d-17d5-202e-5ef1387447ee/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5d2317fa-385d-17d5-202e-5ef1387447ee",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_29/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_21/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hoorzitting Halfweg bij Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/31ea5007-23dd-3c78-ee9b-90856d71f97f\">https://hdl.handle.net/21.12102/31ea5007-23dd-3c78-ee9b-90856d71f97f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_21/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_21/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e907ebcf-86b6-ac41-a559-021f999737c8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e907ebcf-86b6-ac41-a559-021f999737c8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_21/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hoorzitting Halfweg bij Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/357f2c0b-a713-4b43-02c5-ff6ddd948d3a\">https://hdl.handle.net/21.12102/357f2c0b-a713-4b43-02c5-ff6ddd948d3a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/814ac13a-c173-bfe7-2e43-55fe5f336387/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/814ac13a-c173-bfe7-2e43-55fe5f336387",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_26/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hoorzitting Halfweg bij Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4272ee63-d5a8-de50-3da4-768ae4d6b885\">https://hdl.handle.net/21.12102/4272ee63-d5a8-de50-3da4-768ae4d6b885</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_26/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_26/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3e341081-fa06-7b8f-a38d-2032db654d90/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3e341081-fa06-7b8f-a38d-2032db654d90",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_26/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_27/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hoorzitting Halfweg bij Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/911680cb-1259-5a14-7acd-636028077c55\">https://hdl.handle.net/21.12102/911680cb-1259-5a14-7acd-636028077c55</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_27/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_27/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/69e5a8cf-3f90-632b-b0fe-6a2cb42e84a9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/69e5a8cf-3f90-632b-b0fe-6a2cb42e84a9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_27/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_28/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hoorzitting Halfweg bij Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/aa0780b7-ad43-8e38-c2cb-66eb75a83c75\">https://hdl.handle.net/21.12102/aa0780b7-ad43-8e38-c2cb-66eb75a83c75</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_28/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_28/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/327557c3-6649-6036-1af9-c999973c9ef6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/327557c3-6649-6036-1af9-c999973c9ef6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_28/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_25/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hoorzitting Halfweg bij Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f33cfbb8-97fb-b940-5fd5-6a05448eac76\">https://hdl.handle.net/21.12102/f33cfbb8-97fb-b940-5fd5-6a05448eac76</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_25/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_25/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/bc1ad897-aac0-8070-8b72-b99fc9a855cc/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/bc1ad897-aac0-8070-8b72-b99fc9a855cc",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/16e0e9ef-eaaf-fe36-fd59-7c95185984ad/NL-HlmNHA_1478_20386K00_25/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

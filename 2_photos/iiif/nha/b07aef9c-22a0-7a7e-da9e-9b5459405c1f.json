@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/b07aef9c-22a0-7a7e-da9e-9b5459405c1f.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Taxi's voor Centraal Station Amsterdam (1998-12-11)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Taxi's voor Centraal Station Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1998-12-11"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b07aef9c-22a0-7a7e-da9e-9b5459405c1f/NL-HlmNHA_1478_46369K00_38/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Taxi's voor Centraal Station Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/09894083-0fbd-6ecf-03a0-bb5f3d9336cb\">https://hdl.handle.net/21.12102/09894083-0fbd-6ecf-03a0-bb5f3d9336cb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b07aef9c-22a0-7a7e-da9e-9b5459405c1f/NL-HlmNHA_1478_46369K00_38/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b07aef9c-22a0-7a7e-da9e-9b5459405c1f/NL-HlmNHA_1478_46369K00_38/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/325206aa-9f4b-7415-687a-29537a176df1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/325206aa-9f4b-7415-687a-29537a176df1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b07aef9c-22a0-7a7e-da9e-9b5459405c1f/NL-HlmNHA_1478_46369K00_38/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b07aef9c-22a0-7a7e-da9e-9b5459405c1f/NL-HlmNHA_1478_46369K00_36/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Taxi's voor Centraal Station Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4a3fb631-f3ec-e768-86d5-b8283d131420\">https://hdl.handle.net/21.12102/4a3fb631-f3ec-e768-86d5-b8283d131420</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b07aef9c-22a0-7a7e-da9e-9b5459405c1f/NL-HlmNHA_1478_46369K00_36/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b07aef9c-22a0-7a7e-da9e-9b5459405c1f/NL-HlmNHA_1478_46369K00_36/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/cd483e8e-ea54-7b05-f70e-a31f4c8c4729/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/cd483e8e-ea54-7b05-f70e-a31f4c8c4729",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b07aef9c-22a0-7a7e-da9e-9b5459405c1f/NL-HlmNHA_1478_46369K00_36/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b07aef9c-22a0-7a7e-da9e-9b5459405c1f/NL-HlmNHA_1478_46369K00_37/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Taxi's voor Centraal Station Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/aa23deba-60b4-f68c-f855-c272c7a950fb\">https://hdl.handle.net/21.12102/aa23deba-60b4-f68c-f855-c272c7a950fb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b07aef9c-22a0-7a7e-da9e-9b5459405c1f/NL-HlmNHA_1478_46369K00_37/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b07aef9c-22a0-7a7e-da9e-9b5459405c1f/NL-HlmNHA_1478_46369K00_37/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/de17afb2-caac-b28c-cbc2-b63937a276ef/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/de17afb2-caac-b28c-cbc2-b63937a276ef",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b07aef9c-22a0-7a7e-da9e-9b5459405c1f/NL-HlmNHA_1478_46369K00_37/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b07aef9c-22a0-7a7e-da9e-9b5459405c1f/NL-HlmNHA_1478_46369K00_39/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Taxi's voor Centraal Station Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b6e1c458-c95f-dd57-febe-3797d332c9dd\">https://hdl.handle.net/21.12102/b6e1c458-c95f-dd57-febe-3797d332c9dd</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b07aef9c-22a0-7a7e-da9e-9b5459405c1f/NL-HlmNHA_1478_46369K00_39/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b07aef9c-22a0-7a7e-da9e-9b5459405c1f/NL-HlmNHA_1478_46369K00_39/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9682730a-2125-18d3-dbd3-077afd56b802/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9682730a-2125-18d3-dbd3-077afd56b802",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b07aef9c-22a0-7a7e-da9e-9b5459405c1f/NL-HlmNHA_1478_46369K00_39/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b07aef9c-22a0-7a7e-da9e-9b5459405c1f/NL-HlmNHA_1478_46369K00_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Taxi's voor Centraal Station Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c99c588c-c20b-dd48-8aa6-aa063e1f24b6\">https://hdl.handle.net/21.12102/c99c588c-c20b-dd48-8aa6-aa063e1f24b6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b07aef9c-22a0-7a7e-da9e-9b5459405c1f/NL-HlmNHA_1478_46369K00_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b07aef9c-22a0-7a7e-da9e-9b5459405c1f/NL-HlmNHA_1478_46369K00_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7c9d8ae1-fe28-3834-b2c1-c5c0275f76d4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7c9d8ae1-fe28-3834-b2c1-c5c0275f76d4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b07aef9c-22a0-7a7e-da9e-9b5459405c1f/NL-HlmNHA_1478_46369K00_35/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b07aef9c-22a0-7a7e-da9e-9b5459405c1f/NL-HlmNHA_1478_46369K00_40/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Taxi's voor Centraal Station Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d2dca6dd-7deb-ef2f-feef-8c5a580864d5\">https://hdl.handle.net/21.12102/d2dca6dd-7deb-ef2f-feef-8c5a580864d5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b07aef9c-22a0-7a7e-da9e-9b5459405c1f/NL-HlmNHA_1478_46369K00_40/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b07aef9c-22a0-7a7e-da9e-9b5459405c1f/NL-HlmNHA_1478_46369K00_40/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/17bf513b-9b4d-650b-473f-e3b659dc39e9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/17bf513b-9b4d-650b-473f-e3b659dc39e9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b07aef9c-22a0-7a7e-da9e-9b5459405c1f/NL-HlmNHA_1478_46369K00_40/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

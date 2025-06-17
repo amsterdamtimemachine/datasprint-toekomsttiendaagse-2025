@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/5ef5ff8f-6236-628b-cb6a-a33efad0dfbe.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Moeder en dochter Wessels, Schiphol (1997-06-11)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Moeder en dochter Wessels, Schiphol"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1997-06-11"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ef5ff8f-6236-628b-cb6a-a33efad0dfbe/NL-HlmNHA_1478_44276K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Moeder en dochter Wessels, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/35ae002f-2b46-f1aa-b2ef-72bc439d5d42\">https://hdl.handle.net/21.12102/35ae002f-2b46-f1aa-b2ef-72bc439d5d42</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ef5ff8f-6236-628b-cb6a-a33efad0dfbe/NL-HlmNHA_1478_44276K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ef5ff8f-6236-628b-cb6a-a33efad0dfbe/NL-HlmNHA_1478_44276K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8753accf-d355-e9ee-4fc5-28baf7265bef/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8753accf-d355-e9ee-4fc5-28baf7265bef",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ef5ff8f-6236-628b-cb6a-a33efad0dfbe/NL-HlmNHA_1478_44276K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ef5ff8f-6236-628b-cb6a-a33efad0dfbe/NL-HlmNHA_1478_44276K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Moeder en dochter Wessels, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4be679be-2eef-17cd-ca74-b73016abbd53\">https://hdl.handle.net/21.12102/4be679be-2eef-17cd-ca74-b73016abbd53</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ef5ff8f-6236-628b-cb6a-a33efad0dfbe/NL-HlmNHA_1478_44276K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ef5ff8f-6236-628b-cb6a-a33efad0dfbe/NL-HlmNHA_1478_44276K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7bf320a4-a9ac-48ca-d2e6-4441de450aa1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7bf320a4-a9ac-48ca-d2e6-4441de450aa1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ef5ff8f-6236-628b-cb6a-a33efad0dfbe/NL-HlmNHA_1478_44276K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ef5ff8f-6236-628b-cb6a-a33efad0dfbe/NL-HlmNHA_1478_44276K00_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Moeder en dochter Wessels, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/77fe7c6d-f73c-a390-b6e2-01b93357f0f9\">https://hdl.handle.net/21.12102/77fe7c6d-f73c-a390-b6e2-01b93357f0f9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ef5ff8f-6236-628b-cb6a-a33efad0dfbe/NL-HlmNHA_1478_44276K00_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ef5ff8f-6236-628b-cb6a-a33efad0dfbe/NL-HlmNHA_1478_44276K00_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8909b5f1-94c3-692c-1b75-515579544e00/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8909b5f1-94c3-692c-1b75-515579544e00",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ef5ff8f-6236-628b-cb6a-a33efad0dfbe/NL-HlmNHA_1478_44276K00_11/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ef5ff8f-6236-628b-cb6a-a33efad0dfbe/NL-HlmNHA_1478_44276K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Moeder en dochter Wessels, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/af8718b4-9070-4733-37e3-60512dbeef0a\">https://hdl.handle.net/21.12102/af8718b4-9070-4733-37e3-60512dbeef0a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ef5ff8f-6236-628b-cb6a-a33efad0dfbe/NL-HlmNHA_1478_44276K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ef5ff8f-6236-628b-cb6a-a33efad0dfbe/NL-HlmNHA_1478_44276K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2406681c-2e8f-392e-81a1-b77d33351c10/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2406681c-2e8f-392e-81a1-b77d33351c10",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ef5ff8f-6236-628b-cb6a-a33efad0dfbe/NL-HlmNHA_1478_44276K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ef5ff8f-6236-628b-cb6a-a33efad0dfbe/NL-HlmNHA_1478_44276K00_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Moeder en dochter Wessels, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b0db5be2-fc4f-dbda-f2b5-9ef2aa754277\">https://hdl.handle.net/21.12102/b0db5be2-fc4f-dbda-f2b5-9ef2aa754277</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ef5ff8f-6236-628b-cb6a-a33efad0dfbe/NL-HlmNHA_1478_44276K00_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ef5ff8f-6236-628b-cb6a-a33efad0dfbe/NL-HlmNHA_1478_44276K00_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fb1eebd7-9810-377f-18ad-4926656c4139/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fb1eebd7-9810-377f-18ad-4926656c4139",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ef5ff8f-6236-628b-cb6a-a33efad0dfbe/NL-HlmNHA_1478_44276K00_12/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ef5ff8f-6236-628b-cb6a-a33efad0dfbe/NL-HlmNHA_1478_44276K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Moeder en dochter Wessels, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/efa464f6-ef1f-62b2-cba4-88ff24b381a6\">https://hdl.handle.net/21.12102/efa464f6-ef1f-62b2-cba4-88ff24b381a6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ef5ff8f-6236-628b-cb6a-a33efad0dfbe/NL-HlmNHA_1478_44276K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ef5ff8f-6236-628b-cb6a-a33efad0dfbe/NL-HlmNHA_1478_44276K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e9a69cb6-5829-2a16-ba7d-4e49e9f9498c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e9a69cb6-5829-2a16-ba7d-4e49e9f9498c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5ef5ff8f-6236-628b-cb6a-a33efad0dfbe/NL-HlmNHA_1478_44276K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

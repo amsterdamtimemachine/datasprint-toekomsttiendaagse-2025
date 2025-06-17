@@ -1,0 +1,520 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/31a22fbf-e2b8-0162-bdf4-28cd49db30bb.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Interieur drukkerij Zwanenburg (1992-10-02)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Interieur drukkerij Zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1992-10-02"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interieur drukkerij Zwanenburg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/260598ee-7800-c13b-a524-5b1beab26e55\">https://hdl.handle.net/21.12102/260598ee-7800-c13b-a524-5b1beab26e55</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9ebff95c-b90e-27ac-4680-221ba48fc35a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9ebff95c-b90e-27ac-4680-221ba48fc35a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interieur drukkerij Zwanenburg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3c12aba0-d0c7-ab00-5a64-bbecc9b24e16\">https://hdl.handle.net/21.12102/3c12aba0-d0c7-ab00-5a64-bbecc9b24e16</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c7582473-894f-a6b8-12f1-f1d89b3f71ec/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c7582473-894f-a6b8-12f1-f1d89b3f71ec",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interieur drukkerij Zwanenburg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3d011b81-c42e-1efc-e09a-8be238bd9da4\">https://hdl.handle.net/21.12102/3d011b81-c42e-1efc-e09a-8be238bd9da4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ff803592-bc7f-2662-a8c0-e87d412ca6cf/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ff803592-bc7f-2662-a8c0-e87d412ca6cf",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interieur drukkerij Zwanenburg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4875e0ec-c8b9-7a23-6439-91881c8d4c1f\">https://hdl.handle.net/21.12102/4875e0ec-c8b9-7a23-6439-91881c8d4c1f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2b46db0a-0c73-b547-0e9b-75cc0e69cde9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2b46db0a-0c73-b547-0e9b-75cc0e69cde9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_21/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interieur drukkerij Zwanenburg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8b51cd37-325e-155b-19ae-c50d7afcc85f\">https://hdl.handle.net/21.12102/8b51cd37-325e-155b-19ae-c50d7afcc85f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_21/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_21/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ccd13239-a60f-43c9-1e53-0d0d94794ab8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ccd13239-a60f-43c9-1e53-0d0d94794ab8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_21/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interieur drukkerij Zwanenburg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a44ddf8c-6412-c68d-b7d2-141a3cf484a2\">https://hdl.handle.net/21.12102/a44ddf8c-6412-c68d-b7d2-141a3cf484a2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9f8b6d0f-2bda-4f06-8aae-37854a06f1aa/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9f8b6d0f-2bda-4f06-8aae-37854a06f1aa",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_22/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interieur drukkerij Zwanenburg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a6d30cba-de2f-20a9-965b-e7bff99cbfae\">https://hdl.handle.net/21.12102/a6d30cba-de2f-20a9-965b-e7bff99cbfae</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_22/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_22/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c395cd27-cbca-4c33-e5f0-3460a327c9ea/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c395cd27-cbca-4c33-e5f0-3460a327c9ea",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_22/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interieur drukkerij Zwanenburg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c7d0788a-16a4-dd1c-110e-a026544aee7c\">https://hdl.handle.net/21.12102/c7d0788a-16a4-dd1c-110e-a026544aee7c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9bf9505d-b93e-59ff-78a6-3abefa505e45/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9bf9505d-b93e-59ff-78a6-3abefa505e45",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31a22fbf-e2b8-0162-bdf4-28cd49db30bb/NL-HlmNHA_1478_37078K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

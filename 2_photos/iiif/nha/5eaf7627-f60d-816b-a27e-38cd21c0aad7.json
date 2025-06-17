@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/5eaf7627-f60d-816b-a27e-38cd21c0aad7.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Stand Metra Rai Amsterdam (1982-11-22)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Stand Metra Rai Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1982-11-22"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Standwerkers Stands"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5eaf7627-f60d-816b-a27e-38cd21c0aad7/NL-HlmNHA_1478_22550K02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Stand Metra Rai Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/211f5f71-d9f8-837b-9b16-a62fbee3c07f\">https://hdl.handle.net/21.12102/211f5f71-d9f8-837b-9b16-a62fbee3c07f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5eaf7627-f60d-816b-a27e-38cd21c0aad7/NL-HlmNHA_1478_22550K02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5eaf7627-f60d-816b-a27e-38cd21c0aad7/NL-HlmNHA_1478_22550K02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/aaf59086-ebbc-76d6-c4aa-1390e496a624/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/aaf59086-ebbc-76d6-c4aa-1390e496a624",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5eaf7627-f60d-816b-a27e-38cd21c0aad7/NL-HlmNHA_1478_22550K02_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5eaf7627-f60d-816b-a27e-38cd21c0aad7/NL-HlmNHA_1478_22550K02_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Stand Metra Rai Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2d43d6c5-bc46-6ede-9e40-3616bf4023a0\">https://hdl.handle.net/21.12102/2d43d6c5-bc46-6ede-9e40-3616bf4023a0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5eaf7627-f60d-816b-a27e-38cd21c0aad7/NL-HlmNHA_1478_22550K02_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5eaf7627-f60d-816b-a27e-38cd21c0aad7/NL-HlmNHA_1478_22550K02_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/88facf2e-20a9-8d4f-3ffc-ab658211c6ce/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/88facf2e-20a9-8d4f-3ffc-ab658211c6ce",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5eaf7627-f60d-816b-a27e-38cd21c0aad7/NL-HlmNHA_1478_22550K02_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5eaf7627-f60d-816b-a27e-38cd21c0aad7/NL-HlmNHA_1478_22550K02_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Stand Metra Rai Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2d7e3aed-1c86-0a06-5b54-f95f68e142bd\">https://hdl.handle.net/21.12102/2d7e3aed-1c86-0a06-5b54-f95f68e142bd</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5eaf7627-f60d-816b-a27e-38cd21c0aad7/NL-HlmNHA_1478_22550K02_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5eaf7627-f60d-816b-a27e-38cd21c0aad7/NL-HlmNHA_1478_22550K02_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9a0221e2-2c6d-03bd-b103-7420c6b3d988/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9a0221e2-2c6d-03bd-b103-7420c6b3d988",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5eaf7627-f60d-816b-a27e-38cd21c0aad7/NL-HlmNHA_1478_22550K02_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5eaf7627-f60d-816b-a27e-38cd21c0aad7/NL-HlmNHA_1478_22550K02_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Stand Metra Rai Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/74650619-3ae9-f9f9-d4f3-72c14db4d13e\">https://hdl.handle.net/21.12102/74650619-3ae9-f9f9-d4f3-72c14db4d13e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5eaf7627-f60d-816b-a27e-38cd21c0aad7/NL-HlmNHA_1478_22550K02_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5eaf7627-f60d-816b-a27e-38cd21c0aad7/NL-HlmNHA_1478_22550K02_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a87a70cb-00c1-73a4-544e-99e9850ae058/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a87a70cb-00c1-73a4-544e-99e9850ae058",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5eaf7627-f60d-816b-a27e-38cd21c0aad7/NL-HlmNHA_1478_22550K02_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5eaf7627-f60d-816b-a27e-38cd21c0aad7/NL-HlmNHA_1478_22550K02_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Stand Metra Rai Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/77090340-6ddb-fbfd-83da-76e90bb19cf5\">https://hdl.handle.net/21.12102/77090340-6ddb-fbfd-83da-76e90bb19cf5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5eaf7627-f60d-816b-a27e-38cd21c0aad7/NL-HlmNHA_1478_22550K02_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5eaf7627-f60d-816b-a27e-38cd21c0aad7/NL-HlmNHA_1478_22550K02_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/30c4ad16-3392-a7dd-d1ba-211cb643623e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/30c4ad16-3392-a7dd-d1ba-211cb643623e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5eaf7627-f60d-816b-a27e-38cd21c0aad7/NL-HlmNHA_1478_22550K02_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5eaf7627-f60d-816b-a27e-38cd21c0aad7/NL-HlmNHA_1478_22550K02_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Stand Metra Rai Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/913fe904-2cdc-4b74-a19c-a8bcac8145e6\">https://hdl.handle.net/21.12102/913fe904-2cdc-4b74-a19c-a8bcac8145e6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5eaf7627-f60d-816b-a27e-38cd21c0aad7/NL-HlmNHA_1478_22550K02_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5eaf7627-f60d-816b-a27e-38cd21c0aad7/NL-HlmNHA_1478_22550K02_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6f5b7cdf-d606-a8ac-5941-2a942cc6e664/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6f5b7cdf-d606-a8ac-5941-2a942cc6e664",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5eaf7627-f60d-816b-a27e-38cd21c0aad7/NL-HlmNHA_1478_22550K02_02/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/40e45143-87a1-190d-19ac-8f869cd3b2b6.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Wopsie Topsie, Halfweg (2002-08-04)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Wopsie Topsie, Halfweg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2002-08-04"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2367253\">Halfweg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.755,
+            52.3828
+          ]
+        },
+        "properties": {
+          "title": "Halfweg",
+          "url": "http://www.wikidata.org/entity/Q2367253"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/40e45143-87a1-190d-19ac-8f869cd3b2b6/NL-HlmNHA_1478_50783K00_37/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Wopsie Topsie, Halfweg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/10085642-b8a9-4c59-6b28-6d41a647f8d0\">https://hdl.handle.net/21.12102/10085642-b8a9-4c59-6b28-6d41a647f8d0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/40e45143-87a1-190d-19ac-8f869cd3b2b6/NL-HlmNHA_1478_50783K00_37/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/40e45143-87a1-190d-19ac-8f869cd3b2b6/NL-HlmNHA_1478_50783K00_37/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/804a3197-505a-d963-f8c4-f4ad3adf857e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/804a3197-505a-d963-f8c4-f4ad3adf857e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/40e45143-87a1-190d-19ac-8f869cd3b2b6/NL-HlmNHA_1478_50783K00_37/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/40e45143-87a1-190d-19ac-8f869cd3b2b6/NL-HlmNHA_1478_50783K00_42/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Wopsie Topsie, Halfweg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1dd26a2c-93ec-fd30-b510-0d6052f03c49\">https://hdl.handle.net/21.12102/1dd26a2c-93ec-fd30-b510-0d6052f03c49</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/40e45143-87a1-190d-19ac-8f869cd3b2b6/NL-HlmNHA_1478_50783K00_42/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/40e45143-87a1-190d-19ac-8f869cd3b2b6/NL-HlmNHA_1478_50783K00_42/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/49191865-abcb-6ac3-efaf-31c48ace17b8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/49191865-abcb-6ac3-efaf-31c48ace17b8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/40e45143-87a1-190d-19ac-8f869cd3b2b6/NL-HlmNHA_1478_50783K00_42/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/40e45143-87a1-190d-19ac-8f869cd3b2b6/NL-HlmNHA_1478_50783K00_40/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Wopsie Topsie, Halfweg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/36929666-138e-f875-4919-f4c53f22a5b8\">https://hdl.handle.net/21.12102/36929666-138e-f875-4919-f4c53f22a5b8</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/40e45143-87a1-190d-19ac-8f869cd3b2b6/NL-HlmNHA_1478_50783K00_40/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/40e45143-87a1-190d-19ac-8f869cd3b2b6/NL-HlmNHA_1478_50783K00_40/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8fc7919c-4e60-a068-f9e9-7c86c9afbcc3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8fc7919c-4e60-a068-f9e9-7c86c9afbcc3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/40e45143-87a1-190d-19ac-8f869cd3b2b6/NL-HlmNHA_1478_50783K00_40/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/40e45143-87a1-190d-19ac-8f869cd3b2b6/NL-HlmNHA_1478_50783K00_39/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Wopsie Topsie, Halfweg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4f9266cc-8dfd-92d8-9177-8ca62fe3b70a\">https://hdl.handle.net/21.12102/4f9266cc-8dfd-92d8-9177-8ca62fe3b70a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/40e45143-87a1-190d-19ac-8f869cd3b2b6/NL-HlmNHA_1478_50783K00_39/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/40e45143-87a1-190d-19ac-8f869cd3b2b6/NL-HlmNHA_1478_50783K00_39/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c61d4400-c0cb-d687-dca7-d25b92f07d74/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c61d4400-c0cb-d687-dca7-d25b92f07d74",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/40e45143-87a1-190d-19ac-8f869cd3b2b6/NL-HlmNHA_1478_50783K00_39/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/40e45143-87a1-190d-19ac-8f869cd3b2b6/NL-HlmNHA_1478_50783K00_41/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Wopsie Topsie, Halfweg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/82f11737-db65-d58a-53e2-5a5432f41650\">https://hdl.handle.net/21.12102/82f11737-db65-d58a-53e2-5a5432f41650</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/40e45143-87a1-190d-19ac-8f869cd3b2b6/NL-HlmNHA_1478_50783K00_41/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/40e45143-87a1-190d-19ac-8f869cd3b2b6/NL-HlmNHA_1478_50783K00_41/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6b447ae0-c2b0-3ff5-e7ed-521f330c8b33/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6b447ae0-c2b0-3ff5-e7ed-521f330c8b33",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/40e45143-87a1-190d-19ac-8f869cd3b2b6/NL-HlmNHA_1478_50783K00_41/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/40e45143-87a1-190d-19ac-8f869cd3b2b6/NL-HlmNHA_1478_50783K00_38/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Wopsie Topsie, Halfweg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9751ada7-c54e-5a7c-cae6-668c73e194ab\">https://hdl.handle.net/21.12102/9751ada7-c54e-5a7c-cae6-668c73e194ab</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/40e45143-87a1-190d-19ac-8f869cd3b2b6/NL-HlmNHA_1478_50783K00_38/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/40e45143-87a1-190d-19ac-8f869cd3b2b6/NL-HlmNHA_1478_50783K00_38/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/79d8299b-efbc-8fbb-9214-0a9bb7572d5e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/79d8299b-efbc-8fbb-9214-0a9bb7572d5e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/40e45143-87a1-190d-19ac-8f869cd3b2b6/NL-HlmNHA_1478_50783K00_38/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

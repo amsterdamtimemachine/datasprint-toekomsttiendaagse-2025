@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/e9e4cab6-f885-7788-5790-d369eeb565d2.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "1e paal verkeerstoren Schiphol (1988-11-24)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1e paal verkeerstoren Schiphol"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1988-11-24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Schiphol, Eerste paal"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e9e4cab6-f885-7788-5790-d369eeb565d2/NL-HlmNHA_1478_29837K00_25/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "1e paal verkeerstoren Schiphol"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2f13d8cf-90cc-8905-1451-39c7cc1a23b8\">https://hdl.handle.net/21.12102/2f13d8cf-90cc-8905-1451-39c7cc1a23b8</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e9e4cab6-f885-7788-5790-d369eeb565d2/NL-HlmNHA_1478_29837K00_25/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e9e4cab6-f885-7788-5790-d369eeb565d2/NL-HlmNHA_1478_29837K00_25/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b3b6bc06-2295-8049-7f30-85400a2090ed/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b3b6bc06-2295-8049-7f30-85400a2090ed",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e9e4cab6-f885-7788-5790-d369eeb565d2/NL-HlmNHA_1478_29837K00_25/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e9e4cab6-f885-7788-5790-d369eeb565d2/NL-HlmNHA_1478_29837K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "1e paal verkeerstoren Schiphol"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6eb0b269-2a14-0e11-eb83-7f15970c8de6\">https://hdl.handle.net/21.12102/6eb0b269-2a14-0e11-eb83-7f15970c8de6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e9e4cab6-f885-7788-5790-d369eeb565d2/NL-HlmNHA_1478_29837K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e9e4cab6-f885-7788-5790-d369eeb565d2/NL-HlmNHA_1478_29837K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d23ce04f-24a1-d299-ce16-8fb542fecfeb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d23ce04f-24a1-d299-ce16-8fb542fecfeb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e9e4cab6-f885-7788-5790-d369eeb565d2/NL-HlmNHA_1478_29837K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e9e4cab6-f885-7788-5790-d369eeb565d2/NL-HlmNHA_1478_29837K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "1e paal verkeerstoren Schiphol"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/899522e5-b80d-2545-373c-2b6dba4699d0\">https://hdl.handle.net/21.12102/899522e5-b80d-2545-373c-2b6dba4699d0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e9e4cab6-f885-7788-5790-d369eeb565d2/NL-HlmNHA_1478_29837K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e9e4cab6-f885-7788-5790-d369eeb565d2/NL-HlmNHA_1478_29837K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/290b645f-80f3-e405-64cc-8b13f855fadb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/290b645f-80f3-e405-64cc-8b13f855fadb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e9e4cab6-f885-7788-5790-d369eeb565d2/NL-HlmNHA_1478_29837K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e9e4cab6-f885-7788-5790-d369eeb565d2/NL-HlmNHA_1478_29837K00_27/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "1e paal verkeerstoren Schiphol"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a7989ce2-c172-c2e4-d382-d0ac6a6bfd42\">https://hdl.handle.net/21.12102/a7989ce2-c172-c2e4-d382-d0ac6a6bfd42</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e9e4cab6-f885-7788-5790-d369eeb565d2/NL-HlmNHA_1478_29837K00_27/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e9e4cab6-f885-7788-5790-d369eeb565d2/NL-HlmNHA_1478_29837K00_27/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2866688a-21a2-c3ba-04b6-eba05cdb06e0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2866688a-21a2-c3ba-04b6-eba05cdb06e0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e9e4cab6-f885-7788-5790-d369eeb565d2/NL-HlmNHA_1478_29837K00_27/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e9e4cab6-f885-7788-5790-d369eeb565d2/NL-HlmNHA_1478_29837K00_26/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "1e paal verkeerstoren Schiphol"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d22829fe-dc80-d944-d401-62f4aaa980a9\">https://hdl.handle.net/21.12102/d22829fe-dc80-d944-d401-62f4aaa980a9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e9e4cab6-f885-7788-5790-d369eeb565d2/NL-HlmNHA_1478_29837K00_26/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e9e4cab6-f885-7788-5790-d369eeb565d2/NL-HlmNHA_1478_29837K00_26/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/453155e3-90f2-fae5-15e2-8a97c8d44ce8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/453155e3-90f2-fae5-15e2-8a97c8d44ce8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e9e4cab6-f885-7788-5790-d369eeb565d2/NL-HlmNHA_1478_29837K00_26/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

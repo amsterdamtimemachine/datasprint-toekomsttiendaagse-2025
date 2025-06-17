@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/89254af2-eca2-ef0c-3115-a9d2f588b481.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Centraal Station Amsterdam voorzijde (1975-09-03)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Centraal Station Amsterdam voorzijde"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1975-09-03"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2095205\">Stationsplein</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.899167,
+            52.378056
+          ]
+        },
+        "properties": {
+          "title": "Stationsplein",
+          "url": "http://www.wikidata.org/entity/Q2095205"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/89254af2-eca2-ef0c-3115-a9d2f588b481/NL-HlmNHA_1478_14032K00_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Centraal Station Amsterdam voorzijde"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a221e4fb-de14-3c56-7d35-f996531e29f6\">https://hdl.handle.net/21.12102/a221e4fb-de14-3c56-7d35-f996531e29f6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/89254af2-eca2-ef0c-3115-a9d2f588b481/NL-HlmNHA_1478_14032K00_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/89254af2-eca2-ef0c-3115-a9d2f588b481/NL-HlmNHA_1478_14032K00_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2513c4a9-7bd6-2b95-d3e2-62cf3e6e75b3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2513c4a9-7bd6-2b95-d3e2-62cf3e6e75b3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/89254af2-eca2-ef0c-3115-a9d2f588b481/NL-HlmNHA_1478_14032K00_11/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

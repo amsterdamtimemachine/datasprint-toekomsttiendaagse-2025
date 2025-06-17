@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/47ff036a-0c47-d06c-3648-56c988da45ea.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Jan Monikkendam, vuurwerk, Lijnden (1999-10-20)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Jan Monikkendam, vuurwerk, Lijnden"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1999-10-20"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q1981949\">Lijnden</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7597,
+            52.3522
+          ]
+        },
+        "properties": {
+          "title": "Lijnden",
+          "url": "http://www.wikidata.org/entity/Q1981949"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/47ff036a-0c47-d06c-3648-56c988da45ea/NL-HlmNHA_1478_47525K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Jan Monikkendam, vuurwerk, Lijnden"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/62638ba7-4230-841a-ae5f-51cbe8f9983b\">https://hdl.handle.net/21.12102/62638ba7-4230-841a-ae5f-51cbe8f9983b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/47ff036a-0c47-d06c-3648-56c988da45ea/NL-HlmNHA_1478_47525K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/47ff036a-0c47-d06c-3648-56c988da45ea/NL-HlmNHA_1478_47525K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a5e352ca-a302-8e21-70bf-c276e95f62d3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a5e352ca-a302-8e21-70bf-c276e95f62d3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/47ff036a-0c47-d06c-3648-56c988da45ea/NL-HlmNHA_1478_47525K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/47ff036a-0c47-d06c-3648-56c988da45ea/NL-HlmNHA_1478_47525K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Jan Monikkendam, vuurwerk, Lijnden"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b9094265-e11f-9d65-26b2-876d919501d2\">https://hdl.handle.net/21.12102/b9094265-e11f-9d65-26b2-876d919501d2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/47ff036a-0c47-d06c-3648-56c988da45ea/NL-HlmNHA_1478_47525K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/47ff036a-0c47-d06c-3648-56c988da45ea/NL-HlmNHA_1478_47525K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/db898a85-dbf7-0533-d902-a3e0683dbe05/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/db898a85-dbf7-0533-d902-a3e0683dbe05",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/47ff036a-0c47-d06c-3648-56c988da45ea/NL-HlmNHA_1478_47525K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/47ff036a-0c47-d06c-3648-56c988da45ea/NL-HlmNHA_1478_47525K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Jan Monikkendam, vuurwerk, Lijnden"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/bf0aae98-aa65-ef9a-92ea-1dbf9d487052\">https://hdl.handle.net/21.12102/bf0aae98-aa65-ef9a-92ea-1dbf9d487052</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/47ff036a-0c47-d06c-3648-56c988da45ea/NL-HlmNHA_1478_47525K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/47ff036a-0c47-d06c-3648-56c988da45ea/NL-HlmNHA_1478_47525K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3e0b4d17-1bd6-bb18-ae2e-305f9f104210/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3e0b4d17-1bd6-bb18-ae2e-305f9f104210",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/47ff036a-0c47-d06c-3648-56c988da45ea/NL-HlmNHA_1478_47525K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/47ff036a-0c47-d06c-3648-56c988da45ea/NL-HlmNHA_1478_47525K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Jan Monikkendam, vuurwerk, Lijnden"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d0bbcb8c-6753-b577-0c01-aec78ae272a6\">https://hdl.handle.net/21.12102/d0bbcb8c-6753-b577-0c01-aec78ae272a6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/47ff036a-0c47-d06c-3648-56c988da45ea/NL-HlmNHA_1478_47525K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/47ff036a-0c47-d06c-3648-56c988da45ea/NL-HlmNHA_1478_47525K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/382e8d86-8762-0ec2-6589-d485e1a31e7f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/382e8d86-8762-0ec2-6589-d485e1a31e7f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/47ff036a-0c47-d06c-3648-56c988da45ea/NL-HlmNHA_1478_47525K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/47ff036a-0c47-d06c-3648-56c988da45ea/NL-HlmNHA_1478_47525K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Jan Monikkendam, vuurwerk, Lijnden"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d58fb277-7bb6-6833-63b2-beb2c691f7e7\">https://hdl.handle.net/21.12102/d58fb277-7bb6-6833-63b2-beb2c691f7e7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/47ff036a-0c47-d06c-3648-56c988da45ea/NL-HlmNHA_1478_47525K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/47ff036a-0c47-d06c-3648-56c988da45ea/NL-HlmNHA_1478_47525K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/cf44f2c9-724a-863a-d465-c30f2a6a19db/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/cf44f2c9-724a-863a-d465-c30f2a6a19db",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/47ff036a-0c47-d06c-3648-56c988da45ea/NL-HlmNHA_1478_47525K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/2bf10880-a1be-bf0a-5efe-eb25e98285f7.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Interieur Bijlmerbajes Amsterdam (cel) (1978-02-20)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Interieur Bijlmerbajes Amsterdam (cel)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1978-02-20"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q19231255\">H.J.E. Wenckebachweg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.927,
+            52.339
+          ]
+        },
+        "properties": {
+          "title": "H.J.E. Wenckebachweg",
+          "url": "http://www.wikidata.org/entity/Q19231255"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bf10880-a1be-bf0a-5efe-eb25e98285f7/NL-HlmNHA_1478_16468K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interieur Bijlmerbajes Amsterdam (cel)"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/38b2f521-226c-9efa-f26c-306672074094\">https://hdl.handle.net/21.12102/38b2f521-226c-9efa-f26c-306672074094</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bf10880-a1be-bf0a-5efe-eb25e98285f7/NL-HlmNHA_1478_16468K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bf10880-a1be-bf0a-5efe-eb25e98285f7/NL-HlmNHA_1478_16468K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f47d92da-98fa-00ca-9e83-d6ee3533dbe7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f47d92da-98fa-00ca-9e83-d6ee3533dbe7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bf10880-a1be-bf0a-5efe-eb25e98285f7/NL-HlmNHA_1478_16468K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bf10880-a1be-bf0a-5efe-eb25e98285f7/NL-HlmNHA_1478_16468K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interieur Bijlmerbajes Amsterdam (cel)"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b49923cc-cbd9-d784-11bd-70fbe10768f0\">https://hdl.handle.net/21.12102/b49923cc-cbd9-d784-11bd-70fbe10768f0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bf10880-a1be-bf0a-5efe-eb25e98285f7/NL-HlmNHA_1478_16468K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bf10880-a1be-bf0a-5efe-eb25e98285f7/NL-HlmNHA_1478_16468K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/41aa13b4-17f7-c8f2-06dd-5a707f5b27f4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/41aa13b4-17f7-c8f2-06dd-5a707f5b27f4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bf10880-a1be-bf0a-5efe-eb25e98285f7/NL-HlmNHA_1478_16468K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bf10880-a1be-bf0a-5efe-eb25e98285f7/NL-HlmNHA_1478_16468K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interieur Bijlmerbajes Amsterdam (cel)"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e5807905-4786-0498-120b-b1e56352fbf1\">https://hdl.handle.net/21.12102/e5807905-4786-0498-120b-b1e56352fbf1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bf10880-a1be-bf0a-5efe-eb25e98285f7/NL-HlmNHA_1478_16468K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bf10880-a1be-bf0a-5efe-eb25e98285f7/NL-HlmNHA_1478_16468K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/048638b1-bb5b-9910-c94b-c5dc1d892120/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/048638b1-bb5b-9910-c94b-c5dc1d892120",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bf10880-a1be-bf0a-5efe-eb25e98285f7/NL-HlmNHA_1478_16468K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

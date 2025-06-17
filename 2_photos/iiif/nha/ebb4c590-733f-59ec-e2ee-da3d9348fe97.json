@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/ebb4c590-733f-59ec-e2ee-da3d9348fe97.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Ongeluk A9, Badhoevedorp (1991-07-09)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Ongeluk A9, Badhoevedorp"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1991-07-09"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q568337\">Badhoevedorp</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7803,
+            52.3381
+          ]
+        },
+        "properties": {
+          "title": "Badhoevedorp",
+          "url": "http://www.wikidata.org/entity/Q568337"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ebb4c590-733f-59ec-e2ee-da3d9348fe97/NL-HlmNHA_1478_34689K00_41/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ongeluk A9, Badhoevedorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/17a73ff1-515e-6885-0a50-b18a0c3dded2\">https://hdl.handle.net/21.12102/17a73ff1-515e-6885-0a50-b18a0c3dded2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ebb4c590-733f-59ec-e2ee-da3d9348fe97/NL-HlmNHA_1478_34689K00_41/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ebb4c590-733f-59ec-e2ee-da3d9348fe97/NL-HlmNHA_1478_34689K00_41/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/099cf5e8-3109-af7c-637c-f3117c072931/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/099cf5e8-3109-af7c-637c-f3117c072931",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ebb4c590-733f-59ec-e2ee-da3d9348fe97/NL-HlmNHA_1478_34689K00_41/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ebb4c590-733f-59ec-e2ee-da3d9348fe97/NL-HlmNHA_1478_34689K00_40/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ongeluk A9, Badhoevedorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/322010b2-bcaa-f4e0-81c7-64971832515a\">https://hdl.handle.net/21.12102/322010b2-bcaa-f4e0-81c7-64971832515a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ebb4c590-733f-59ec-e2ee-da3d9348fe97/NL-HlmNHA_1478_34689K00_40/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ebb4c590-733f-59ec-e2ee-da3d9348fe97/NL-HlmNHA_1478_34689K00_40/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a4b1ad3e-a3e1-b9d8-af0f-67f0d4cd8a00/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a4b1ad3e-a3e1-b9d8-af0f-67f0d4cd8a00",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ebb4c590-733f-59ec-e2ee-da3d9348fe97/NL-HlmNHA_1478_34689K00_40/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ebb4c590-733f-59ec-e2ee-da3d9348fe97/NL-HlmNHA_1478_34689K00_38/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ongeluk A9, Badhoevedorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/58cef466-8db0-04ad-dd8a-7eba7f343d27\">https://hdl.handle.net/21.12102/58cef466-8db0-04ad-dd8a-7eba7f343d27</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ebb4c590-733f-59ec-e2ee-da3d9348fe97/NL-HlmNHA_1478_34689K00_38/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ebb4c590-733f-59ec-e2ee-da3d9348fe97/NL-HlmNHA_1478_34689K00_38/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d163463a-4160-6f9a-78d8-095c96174c21/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d163463a-4160-6f9a-78d8-095c96174c21",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ebb4c590-733f-59ec-e2ee-da3d9348fe97/NL-HlmNHA_1478_34689K00_38/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ebb4c590-733f-59ec-e2ee-da3d9348fe97/NL-HlmNHA_1478_34689K00_37/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ongeluk A9, Badhoevedorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/708ddb87-b6ab-aa7a-c200-c241867a478e\">https://hdl.handle.net/21.12102/708ddb87-b6ab-aa7a-c200-c241867a478e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ebb4c590-733f-59ec-e2ee-da3d9348fe97/NL-HlmNHA_1478_34689K00_37/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ebb4c590-733f-59ec-e2ee-da3d9348fe97/NL-HlmNHA_1478_34689K00_37/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e94c12f3-4f6e-040d-8dc6-9c179492ca14/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e94c12f3-4f6e-040d-8dc6-9c179492ca14",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ebb4c590-733f-59ec-e2ee-da3d9348fe97/NL-HlmNHA_1478_34689K00_37/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ebb4c590-733f-59ec-e2ee-da3d9348fe97/NL-HlmNHA_1478_34689K00_42/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ongeluk A9, Badhoevedorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7fd06325-f07a-07a9-a712-698dfc22b244\">https://hdl.handle.net/21.12102/7fd06325-f07a-07a9-a712-698dfc22b244</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ebb4c590-733f-59ec-e2ee-da3d9348fe97/NL-HlmNHA_1478_34689K00_42/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ebb4c590-733f-59ec-e2ee-da3d9348fe97/NL-HlmNHA_1478_34689K00_42/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/46ecfe2e-c368-9f87-c50e-9b1df5c3ac66/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/46ecfe2e-c368-9f87-c50e-9b1df5c3ac66",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ebb4c590-733f-59ec-e2ee-da3d9348fe97/NL-HlmNHA_1478_34689K00_42/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ebb4c590-733f-59ec-e2ee-da3d9348fe97/NL-HlmNHA_1478_34689K00_39/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ongeluk A9, Badhoevedorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8917d9a6-31db-33df-16ed-6cc11c555f96\">https://hdl.handle.net/21.12102/8917d9a6-31db-33df-16ed-6cc11c555f96</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ebb4c590-733f-59ec-e2ee-da3d9348fe97/NL-HlmNHA_1478_34689K00_39/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ebb4c590-733f-59ec-e2ee-da3d9348fe97/NL-HlmNHA_1478_34689K00_39/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/76ea41be-b3e3-87ea-2b19-70e6d1d4cb9f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/76ea41be-b3e3-87ea-2b19-70e6d1d4cb9f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ebb4c590-733f-59ec-e2ee-da3d9348fe97/NL-HlmNHA_1478_34689K00_39/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

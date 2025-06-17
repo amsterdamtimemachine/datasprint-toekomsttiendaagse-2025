@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/b525b023-6e94-755c-8a68-8ac3b0a2c271.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Exterieur pand Caf\u00e9 Karpershoek, Amsterdam (1972-09-26)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Exterieur pand Caf\u00e9 Karpershoek, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1972-09-26"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Exterieur"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b525b023-6e94-755c-8a68-8ac3b0a2c271/NL-HlmNHA_1478_11040K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur pand Caf\u00e9 Karpershoek, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0c29ec99-9e43-80e6-1ff1-8b3bb96d4f94\">https://hdl.handle.net/21.12102/0c29ec99-9e43-80e6-1ff1-8b3bb96d4f94</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b525b023-6e94-755c-8a68-8ac3b0a2c271/NL-HlmNHA_1478_11040K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b525b023-6e94-755c-8a68-8ac3b0a2c271/NL-HlmNHA_1478_11040K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8b5dafc2-7e60-252e-9ca3-8bb657edfc81/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8b5dafc2-7e60-252e-9ca3-8bb657edfc81",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b525b023-6e94-755c-8a68-8ac3b0a2c271/NL-HlmNHA_1478_11040K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b525b023-6e94-755c-8a68-8ac3b0a2c271/NL-HlmNHA_1478_11040K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur pand Caf\u00e9 Karpershoek, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e90f63f5-52e6-3a35-fa0b-e7bffc52bbd4\">https://hdl.handle.net/21.12102/e90f63f5-52e6-3a35-fa0b-e7bffc52bbd4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b525b023-6e94-755c-8a68-8ac3b0a2c271/NL-HlmNHA_1478_11040K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b525b023-6e94-755c-8a68-8ac3b0a2c271/NL-HlmNHA_1478_11040K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e1e33921-b7bf-e1f4-9283-e0e8d8502ddc/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e1e33921-b7bf-e1f4-9283-e0e8d8502ddc",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b525b023-6e94-755c-8a68-8ac3b0a2c271/NL-HlmNHA_1478_11040K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b525b023-6e94-755c-8a68-8ac3b0a2c271/NL-HlmNHA_1478_11040K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur pand Caf\u00e9 Karpershoek, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ffc330e3-8ec9-3d5b-726a-32c0fe00c13e\">https://hdl.handle.net/21.12102/ffc330e3-8ec9-3d5b-726a-32c0fe00c13e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b525b023-6e94-755c-8a68-8ac3b0a2c271/NL-HlmNHA_1478_11040K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b525b023-6e94-755c-8a68-8ac3b0a2c271/NL-HlmNHA_1478_11040K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a4edc126-a0d8-e0e8-4912-1637f6297b38/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a4edc126-a0d8-e0e8-4912-1637f6297b38",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b525b023-6e94-755c-8a68-8ac3b0a2c271/NL-HlmNHA_1478_11040K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

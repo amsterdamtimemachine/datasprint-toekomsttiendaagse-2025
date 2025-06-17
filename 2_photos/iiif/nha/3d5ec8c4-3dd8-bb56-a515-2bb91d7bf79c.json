@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/3d5ec8c4-3dd8-bb56-a515-2bb91d7bf79c.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Gala-diner fa. Imbema in het Amstel Hotel te Amsterdam (1987-09-10)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Gala-diner fa. Imbema in het Amstel Hotel te Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1987-09-10"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Diner"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3d5ec8c4-3dd8-bb56-a515-2bb91d7bf79c/NL-HlmNHA_1478_28104K00_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Gala-diner fa. Imbema in het Amstel Hotel te Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/37199e21-2372-b78e-e759-904b7af3135c\">https://hdl.handle.net/21.12102/37199e21-2372-b78e-e759-904b7af3135c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3d5ec8c4-3dd8-bb56-a515-2bb91d7bf79c/NL-HlmNHA_1478_28104K00_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3d5ec8c4-3dd8-bb56-a515-2bb91d7bf79c/NL-HlmNHA_1478_28104K00_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1849bc5f-886d-caf2-ffc2-c594fd702ada/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1849bc5f-886d-caf2-ffc2-c594fd702ada",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3d5ec8c4-3dd8-bb56-a515-2bb91d7bf79c/NL-HlmNHA_1478_28104K00_11/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3d5ec8c4-3dd8-bb56-a515-2bb91d7bf79c/NL-HlmNHA_1478_28104K00_36/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Gala-diner fa. Imbema in het Amstel Hotel te Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d8625256-5267-04e9-9ff8-313ad5addb69\">https://hdl.handle.net/21.12102/d8625256-5267-04e9-9ff8-313ad5addb69</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3d5ec8c4-3dd8-bb56-a515-2bb91d7bf79c/NL-HlmNHA_1478_28104K00_36/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3d5ec8c4-3dd8-bb56-a515-2bb91d7bf79c/NL-HlmNHA_1478_28104K00_36/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/feaf85db-47ec-0745-c61e-b9de96f21519/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/feaf85db-47ec-0745-c61e-b9de96f21519",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3d5ec8c4-3dd8-bb56-a515-2bb91d7bf79c/NL-HlmNHA_1478_28104K00_36/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

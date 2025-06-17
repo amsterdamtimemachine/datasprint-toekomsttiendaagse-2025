@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/441ada3f-8ee5-b432-effc-4cec61f5df53.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Overzicht kleine jachthaven in Amsterdam (1978-01-24)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Overzicht kleine jachthaven in Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1978-01-24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/441ada3f-8ee5-b432-effc-4cec61f5df53/NL-HlmNHA_1478_16383K01_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Overzicht kleine jachthaven in Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/036a575b-5485-1733-0e9b-5f6833c0d378\">https://hdl.handle.net/21.12102/036a575b-5485-1733-0e9b-5f6833c0d378</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/441ada3f-8ee5-b432-effc-4cec61f5df53/NL-HlmNHA_1478_16383K01_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/441ada3f-8ee5-b432-effc-4cec61f5df53/NL-HlmNHA_1478_16383K01_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8b41d25e-993b-2df0-38ba-02b52e1a483b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8b41d25e-993b-2df0-38ba-02b52e1a483b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/441ada3f-8ee5-b432-effc-4cec61f5df53/NL-HlmNHA_1478_16383K01_12/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/441ada3f-8ee5-b432-effc-4cec61f5df53/NL-HlmNHA_1478_16383K01_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Overzicht kleine jachthaven in Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6c7a293f-7917-655e-8d8b-1749e4cac2de\">https://hdl.handle.net/21.12102/6c7a293f-7917-655e-8d8b-1749e4cac2de</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/441ada3f-8ee5-b432-effc-4cec61f5df53/NL-HlmNHA_1478_16383K01_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/441ada3f-8ee5-b432-effc-4cec61f5df53/NL-HlmNHA_1478_16383K01_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/df096bab-4560-dc5d-f8d2-f058d6e74447/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/df096bab-4560-dc5d-f8d2-f058d6e74447",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/441ada3f-8ee5-b432-effc-4cec61f5df53/NL-HlmNHA_1478_16383K01_11/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/441ada3f-8ee5-b432-effc-4cec61f5df53/NL-HlmNHA_1478_16383K01_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Overzicht kleine jachthaven in Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7ad667e2-0429-1dc6-327a-2c631f2980fe\">https://hdl.handle.net/21.12102/7ad667e2-0429-1dc6-327a-2c631f2980fe</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/441ada3f-8ee5-b432-effc-4cec61f5df53/NL-HlmNHA_1478_16383K01_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/441ada3f-8ee5-b432-effc-4cec61f5df53/NL-HlmNHA_1478_16383K01_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8a62266c-3264-e58a-7741-ac60d0b25f18/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8a62266c-3264-e58a-7741-ac60d0b25f18",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/441ada3f-8ee5-b432-effc-4cec61f5df53/NL-HlmNHA_1478_16383K01_10/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

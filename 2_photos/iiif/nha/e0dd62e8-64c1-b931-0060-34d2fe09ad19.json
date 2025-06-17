@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/e0dd62e8-64c1-b931-0060-34d2fe09ad19.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "In aanwezigheid van burgemeester Ivo Samkalden, een toespraak door oud wethouder De Boer, bij Politie Opleidingsschool Noord-Holland (1971-10-25)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "In aanwezigheid van burgemeester Ivo Samkalden, een toespraak door oud wethouder De Boer, bij Politie Opleidingsschool Noord-Holland"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1971-10-25"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2182300\">Sloterweg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.811028,
+            52.341632
+          ]
+        },
+        "properties": {
+          "title": "Sloterweg",
+          "url": "http://www.wikidata.org/entity/Q2182300"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e0dd62e8-64c1-b931-0060-34d2fe09ad19/NL-HlmNHA_1478_10001K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "In aanwezigheid van burgemeester Ivo Samkalden, een toespraak door oud wethouder De Boer, bij Politie Opleidingsschool Noord-Holland"
+        ]
+      },
+      "height": 5018,
+      "width": 6245,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0521b32b-bf5e-da04-5df0-bc6172cc839c\">https://hdl.handle.net/21.12102/0521b32b-bf5e-da04-5df0-bc6172cc839c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e0dd62e8-64c1-b931-0060-34d2fe09ad19/NL-HlmNHA_1478_10001K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e0dd62e8-64c1-b931-0060-34d2fe09ad19/NL-HlmNHA_1478_10001K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/232f0341-d45c-9c11-801c-7fda20e80ce0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 5018,
+                "width": 6245,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/232f0341-d45c-9c11-801c-7fda20e80ce0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e0dd62e8-64c1-b931-0060-34d2fe09ad19/NL-HlmNHA_1478_10001K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e0dd62e8-64c1-b931-0060-34d2fe09ad19/NL-HlmNHA_1478_10001K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "In aanwezigheid van burgemeester Ivo Samkalden, een toespraak door oud wethouder De Boer, bij Politie Opleidingsschool Noord-Holland"
+        ]
+      },
+      "height": 5018,
+      "width": 6245,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b0cf9af3-eaa8-6d01-3da1-ba47ff826481\">https://hdl.handle.net/21.12102/b0cf9af3-eaa8-6d01-3da1-ba47ff826481</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e0dd62e8-64c1-b931-0060-34d2fe09ad19/NL-HlmNHA_1478_10001K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e0dd62e8-64c1-b931-0060-34d2fe09ad19/NL-HlmNHA_1478_10001K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fbc49544-2969-6617-bb67-0d8530e2f656/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 5018,
+                "width": 6245,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fbc49544-2969-6617-bb67-0d8530e2f656",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e0dd62e8-64c1-b931-0060-34d2fe09ad19/NL-HlmNHA_1478_10001K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e0dd62e8-64c1-b931-0060-34d2fe09ad19/NL-HlmNHA_1478_10001K00_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "In aanwezigheid van burgemeester Ivo Samkalden, een toespraak door oud wethouder De Boer, bij Politie Opleidingsschool Noord-Holland"
+        ]
+      },
+      "height": 5018,
+      "width": 6245,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b6ed64e7-dda4-8b9b-756b-92f946dbd454\">https://hdl.handle.net/21.12102/b6ed64e7-dda4-8b9b-756b-92f946dbd454</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e0dd62e8-64c1-b931-0060-34d2fe09ad19/NL-HlmNHA_1478_10001K00_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e0dd62e8-64c1-b931-0060-34d2fe09ad19/NL-HlmNHA_1478_10001K00_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/10a2e3bf-47f9-c6e9-f048-ce6972b77082/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 5018,
+                "width": 6245,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/10a2e3bf-47f9-c6e9-f048-ce6972b77082",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e0dd62e8-64c1-b931-0060-34d2fe09ad19/NL-HlmNHA_1478_10001K00_08/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e0dd62e8-64c1-b931-0060-34d2fe09ad19/NL-HlmNHA_1478_10001K00_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "In aanwezigheid van burgemeester Ivo Samkalden, een toespraak door oud wethouder De Boer, bij Politie Opleidingsschool Noord-Holland"
+        ]
+      },
+      "height": 5018,
+      "width": 6245,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ca2ac286-8a06-e3a8-9032-ca3406a4ff0c\">https://hdl.handle.net/21.12102/ca2ac286-8a06-e3a8-9032-ca3406a4ff0c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e0dd62e8-64c1-b931-0060-34d2fe09ad19/NL-HlmNHA_1478_10001K00_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e0dd62e8-64c1-b931-0060-34d2fe09ad19/NL-HlmNHA_1478_10001K00_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6e8e29d2-022e-8b5f-ef30-1412f160afac/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 5018,
+                "width": 6245,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6e8e29d2-022e-8b5f-ef30-1412f160afac",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e0dd62e8-64c1-b931-0060-34d2fe09ad19/NL-HlmNHA_1478_10001K00_07/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

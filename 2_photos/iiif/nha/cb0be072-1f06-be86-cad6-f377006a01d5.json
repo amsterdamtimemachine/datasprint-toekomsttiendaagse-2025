@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/cb0be072-1f06-be86-cad6-f377006a01d5.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Huishoudbeurs RAI, stand 'Florida' regenmantels ('Het 3-in-1-wonder') (1954-02-12)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Huishoudbeurs RAI, stand 'Florida' regenmantels ('Het 3-in-1-wonder')"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1954-02-12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Modeshow"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/26317"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cb0be072-1f06-be86-cad6-f377006a01d5/NL-HlmNHA_1478_09995B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Huishoudbeurs RAI, stand 'Florida' regenmantels ('Het 3-in-1-wonder')"
+        ]
+      },
+      "height": 2259,
+      "width": 2822,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0d594235-24ec-0f05-6513-665aff0d60b5\">https://hdl.handle.net/21.12102/0d594235-24ec-0f05-6513-665aff0d60b5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cb0be072-1f06-be86-cad6-f377006a01d5/NL-HlmNHA_1478_09995B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cb0be072-1f06-be86-cad6-f377006a01d5/NL-HlmNHA_1478_09995B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7049b71f-c57e-3c38-2ed6-c9b2ad5b0bba/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2259,
+                "width": 2822,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7049b71f-c57e-3c38-2ed6-c9b2ad5b0bba",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cb0be072-1f06-be86-cad6-f377006a01d5/NL-HlmNHA_1478_09995B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

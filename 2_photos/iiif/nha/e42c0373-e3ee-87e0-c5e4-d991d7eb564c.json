@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/e42c0373-e3ee-87e0-c5e4-d991d7eb564c.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Inspectie van de Erewacht voor het Paleis op de Dam in Amsterdam tijdens een driedaags bezoek van koningin Ingrid en koning Frederik van Denemarken aan Nederland. Ze werden ontvangen door koningin Juliana en prins Bernhard. Koninklijke ontvangsten en koninklijke bezoeken. United foto's. (1954-04-26)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Inspectie van de Erewacht voor het Paleis op de Dam in Amsterdam tijdens een driedaags bezoek van koningin Ingrid en koning Frederik van Denemarken aan Nederland. Ze werden ontvangen door koningin Juliana en prins Bernhard. Koninklijke ontvangsten en koninklijke bezoeken. United foto's."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1954-04-26"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q839050\">Dam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.892778,
+            52.373056
+          ]
+        },
+        "properties": {
+          "title": "Dam",
+          "url": "http://www.wikidata.org/entity/Q839050"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e42c0373-e3ee-87e0-c5e4-d991d7eb564c/NL-HlmNHA_1478_10352B02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Inspectie van de Erewacht voor het Paleis op de Dam in Amsterdam tijdens een driedaags bezoek van koningin Ingrid en koning Frederik van Denemarken aan Nederland. Ze werden ontvangen door koningin Juliana en prins Bernhard. Koninklijke ontvangsten en koninklijke bezoeken. United foto's."
+        ]
+      },
+      "height": 2259,
+      "width": 2868,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5762c2ce-dcdb-e80e-a273-a7239d5cf9c1\">https://hdl.handle.net/21.12102/5762c2ce-dcdb-e80e-a273-a7239d5cf9c1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e42c0373-e3ee-87e0-c5e4-d991d7eb564c/NL-HlmNHA_1478_10352B02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e42c0373-e3ee-87e0-c5e4-d991d7eb564c/NL-HlmNHA_1478_10352B02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4bfd9b91-548d-f72a-dbfc-3599bddb0deb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2259,
+                "width": 2868,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4bfd9b91-548d-f72a-dbfc-3599bddb0deb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e42c0373-e3ee-87e0-c5e4-d991d7eb564c/NL-HlmNHA_1478_10352B02_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e42c0373-e3ee-87e0-c5e4-d991d7eb564c/NL-HlmNHA_1478_10352B01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Inspectie van de Erewacht voor het Paleis op de Dam in Amsterdam tijdens een driedaags bezoek van koningin Ingrid en koning Frederik van Denemarken aan Nederland. Ze werden ontvangen door koningin Juliana en prins Bernhard. Koninklijke ontvangsten en koninklijke bezoeken. United foto's."
+        ]
+      },
+      "height": 2248,
+      "width": 2836,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/eee788e1-1521-0c0f-149c-ca2161fd7075\">https://hdl.handle.net/21.12102/eee788e1-1521-0c0f-149c-ca2161fd7075</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e42c0373-e3ee-87e0-c5e4-d991d7eb564c/NL-HlmNHA_1478_10352B01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e42c0373-e3ee-87e0-c5e4-d991d7eb564c/NL-HlmNHA_1478_10352B01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2ebd78ff-fa11-ed19-12ec-a096172ba61d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2248,
+                "width": 2836,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2ebd78ff-fa11-ed19-12ec-a096172ba61d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e42c0373-e3ee-87e0-c5e4-d991d7eb564c/NL-HlmNHA_1478_10352B01_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/71c57666-afbe-8cf6-054a-b112c464aa24.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Bioscoop cineac (1975-02-04)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Bioscoop cineac"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1975-02-04"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q901461\">Damrak</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.897113,
+            52.376071
+          ]
+        },
+        "properties": {
+          "title": "Damrak",
+          "url": "http://www.wikidata.org/entity/Q901461"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/71c57666-afbe-8cf6-054a-b112c464aa24/NL-HlmNHA_1478_13609K00_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bioscoop cineac"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/376484fb-75cb-aabe-6083-0093905ea0e7\">https://hdl.handle.net/21.12102/376484fb-75cb-aabe-6083-0093905ea0e7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/71c57666-afbe-8cf6-054a-b112c464aa24/NL-HlmNHA_1478_13609K00_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/71c57666-afbe-8cf6-054a-b112c464aa24/NL-HlmNHA_1478_13609K00_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2a4a3b9b-c93b-171c-82a7-06e0056b7a5c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2a4a3b9b-c93b-171c-82a7-06e0056b7a5c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/71c57666-afbe-8cf6-054a-b112c464aa24/NL-HlmNHA_1478_13609K00_09/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/71c57666-afbe-8cf6-054a-b112c464aa24/NL-HlmNHA_1478_13609K00_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bioscoop cineac"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/47a1eb17-6b8c-a3ab-1d76-50bb5ce0f721\">https://hdl.handle.net/21.12102/47a1eb17-6b8c-a3ab-1d76-50bb5ce0f721</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/71c57666-afbe-8cf6-054a-b112c464aa24/NL-HlmNHA_1478_13609K00_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/71c57666-afbe-8cf6-054a-b112c464aa24/NL-HlmNHA_1478_13609K00_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/349d6e13-9e41-98fe-3e9d-a703f7422913/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/349d6e13-9e41-98fe-3e9d-a703f7422913",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/71c57666-afbe-8cf6-054a-b112c464aa24/NL-HlmNHA_1478_13609K00_10/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

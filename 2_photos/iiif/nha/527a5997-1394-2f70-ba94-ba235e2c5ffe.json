@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/527a5997-1394-2f70-ba94-ba235e2c5ffe.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Panorama op het Leidseplein en omgeving, Amsterdam (1974-11-26)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Panorama op het Leidseplein en omgeving, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1974-11-26"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/527a5997-1394-2f70-ba94-ba235e2c5ffe/NL-HlmNHA_1478_13457K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Panorama op het Leidseplein en omgeving, Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/29cf3249-0c82-1ccb-85ff-842d7bf2945d\">https://hdl.handle.net/21.12102/29cf3249-0c82-1ccb-85ff-842d7bf2945d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/527a5997-1394-2f70-ba94-ba235e2c5ffe/NL-HlmNHA_1478_13457K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/527a5997-1394-2f70-ba94-ba235e2c5ffe/NL-HlmNHA_1478_13457K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9669ffae-fe0a-2351-0f5c-b9edaf639b75/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9669ffae-fe0a-2351-0f5c-b9edaf639b75",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/527a5997-1394-2f70-ba94-ba235e2c5ffe/NL-HlmNHA_1478_13457K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/527a5997-1394-2f70-ba94-ba235e2c5ffe/NL-HlmNHA_1478_13457K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Panorama op het Leidseplein en omgeving, Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2ad55b7c-6780-230e-7421-74bc08610cf1\">https://hdl.handle.net/21.12102/2ad55b7c-6780-230e-7421-74bc08610cf1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/527a5997-1394-2f70-ba94-ba235e2c5ffe/NL-HlmNHA_1478_13457K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/527a5997-1394-2f70-ba94-ba235e2c5ffe/NL-HlmNHA_1478_13457K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8196d035-619f-9e92-b89c-3fd3d0e54504/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8196d035-619f-9e92-b89c-3fd3d0e54504",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/527a5997-1394-2f70-ba94-ba235e2c5ffe/NL-HlmNHA_1478_13457K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/527a5997-1394-2f70-ba94-ba235e2c5ffe/NL-HlmNHA_1478_13457K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Panorama op het Leidseplein en omgeving, Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/487cacf0-0b67-6336-6077-1ac0aba3f132\">https://hdl.handle.net/21.12102/487cacf0-0b67-6336-6077-1ac0aba3f132</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/527a5997-1394-2f70-ba94-ba235e2c5ffe/NL-HlmNHA_1478_13457K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/527a5997-1394-2f70-ba94-ba235e2c5ffe/NL-HlmNHA_1478_13457K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6b8db4e9-d084-278e-a614-09c19e1cd474/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6b8db4e9-d084-278e-a614-09c19e1cd474",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/527a5997-1394-2f70-ba94-ba235e2c5ffe/NL-HlmNHA_1478_13457K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/527a5997-1394-2f70-ba94-ba235e2c5ffe/NL-HlmNHA_1478_13457K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Panorama op het Leidseplein en omgeving, Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6a00b3e1-b2bc-6e7d-73d7-a0e0cea8a6c5\">https://hdl.handle.net/21.12102/6a00b3e1-b2bc-6e7d-73d7-a0e0cea8a6c5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/527a5997-1394-2f70-ba94-ba235e2c5ffe/NL-HlmNHA_1478_13457K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/527a5997-1394-2f70-ba94-ba235e2c5ffe/NL-HlmNHA_1478_13457K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/dcf7ecfc-171c-522a-142a-8db75e6d66a5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/dcf7ecfc-171c-522a-142a-8db75e6d66a5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/527a5997-1394-2f70-ba94-ba235e2c5ffe/NL-HlmNHA_1478_13457K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/527a5997-1394-2f70-ba94-ba235e2c5ffe/NL-HlmNHA_1478_13457K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Panorama op het Leidseplein en omgeving, Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/808fe7c1-5236-9d7f-9ecd-83ca619b2968\">https://hdl.handle.net/21.12102/808fe7c1-5236-9d7f-9ecd-83ca619b2968</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/527a5997-1394-2f70-ba94-ba235e2c5ffe/NL-HlmNHA_1478_13457K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/527a5997-1394-2f70-ba94-ba235e2c5ffe/NL-HlmNHA_1478_13457K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/aa39547a-5329-16ae-e1c7-f9edc1c2aabb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/aa39547a-5329-16ae-e1c7-f9edc1c2aabb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/527a5997-1394-2f70-ba94-ba235e2c5ffe/NL-HlmNHA_1478_13457K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/527a5997-1394-2f70-ba94-ba235e2c5ffe/NL-HlmNHA_1478_13457K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Panorama op het Leidseplein en omgeving, Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e8322e14-6df7-5295-44c6-920ce98bad42\">https://hdl.handle.net/21.12102/e8322e14-6df7-5295-44c6-920ce98bad42</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/527a5997-1394-2f70-ba94-ba235e2c5ffe/NL-HlmNHA_1478_13457K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/527a5997-1394-2f70-ba94-ba235e2c5ffe/NL-HlmNHA_1478_13457K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3b91d9c6-c115-1df1-b816-b4319cc4bd93/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3b91d9c6-c115-1df1-b816-b4319cc4bd93",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/527a5997-1394-2f70-ba94-ba235e2c5ffe/NL-HlmNHA_1478_13457K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

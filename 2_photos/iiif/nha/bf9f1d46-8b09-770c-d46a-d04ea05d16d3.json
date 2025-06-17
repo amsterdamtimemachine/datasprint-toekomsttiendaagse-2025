@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/bf9f1d46-8b09-770c-d46a-d04ea05d16d3.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Chemische wasserijen, Haarlem - Aalsmeer - Duivendrecht (1978-03-16)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Chemische wasserijen, Haarlem - Aalsmeer - Duivendrecht"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1978-03-16"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2385069\">Duivendrecht</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Wasserijen, Interieur"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/27349, http://data.beeldengeluid.nl/gtaa/27417"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.933333,
+            52.333333
+          ]
+        },
+        "properties": {
+          "title": "Duivendrecht",
+          "url": "http://www.wikidata.org/entity/Q2385069"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bf9f1d46-8b09-770c-d46a-d04ea05d16d3/NL-HlmNHA_1478_00308C02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Chemische wasserijen, Haarlem - Aalsmeer - Duivendrecht"
+        ]
+      },
+      "height": 2388,
+      "width": 2962,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/97ed90ae-06fe-e871-4f15-b15c72cc5dad\">https://hdl.handle.net/21.12102/97ed90ae-06fe-e871-4f15-b15c72cc5dad</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bf9f1d46-8b09-770c-d46a-d04ea05d16d3/NL-HlmNHA_1478_00308C02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bf9f1d46-8b09-770c-d46a-d04ea05d16d3/NL-HlmNHA_1478_00308C02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/972475ed-a4a9-c8d8-6724-896473bb7981/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2388,
+                "width": 2962,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/972475ed-a4a9-c8d8-6724-896473bb7981",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bf9f1d46-8b09-770c-d46a-d04ea05d16d3/NL-HlmNHA_1478_00308C02_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bf9f1d46-8b09-770c-d46a-d04ea05d16d3/NL-HlmNHA_1478_00308C01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Chemische wasserijen, Haarlem - Aalsmeer - Duivendrecht"
+        ]
+      },
+      "height": 2362,
+      "width": 2959,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/bc1348b5-527c-e020-06c8-9b9efba9b030\">https://hdl.handle.net/21.12102/bc1348b5-527c-e020-06c8-9b9efba9b030</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bf9f1d46-8b09-770c-d46a-d04ea05d16d3/NL-HlmNHA_1478_00308C01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bf9f1d46-8b09-770c-d46a-d04ea05d16d3/NL-HlmNHA_1478_00308C01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2e95c845-642e-b1a8-44d4-e56ba2f1f1b2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2362,
+                "width": 2959,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2e95c845-642e-b1a8-44d4-e56ba2f1f1b2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bf9f1d46-8b09-770c-d46a-d04ea05d16d3/NL-HlmNHA_1478_00308C01_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

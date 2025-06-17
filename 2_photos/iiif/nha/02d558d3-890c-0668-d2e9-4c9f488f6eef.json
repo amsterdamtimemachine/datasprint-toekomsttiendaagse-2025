@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/02d558d3-890c-0668-d2e9-4c9f488f6eef.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Ontwerpen door Jan Jansen Amsterdam (1964-12-07)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Ontwerpen door Jan Jansen Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1964-12-07"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Schoenen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/02d558d3-890c-0668-d2e9-4c9f488f6eef/NL-HlmNHA_1478_02142A02_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ontwerpen door Jan Jansen Amsterdam"
+        ]
+      },
+      "height": 2507,
+      "width": 2507,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1bbbb570-e30f-b91e-f8cc-e75ab4468f7b\">https://hdl.handle.net/21.12102/1bbbb570-e30f-b91e-f8cc-e75ab4468f7b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/02d558d3-890c-0668-d2e9-4c9f488f6eef/NL-HlmNHA_1478_02142A02_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/02d558d3-890c-0668-d2e9-4c9f488f6eef/NL-HlmNHA_1478_02142A02_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5f1a9ceb-252e-eb74-0278-faf1228bca72/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2507,
+                "width": 2507,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5f1a9ceb-252e-eb74-0278-faf1228bca72",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/02d558d3-890c-0668-d2e9-4c9f488f6eef/NL-HlmNHA_1478_02142A02_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/02d558d3-890c-0668-d2e9-4c9f488f6eef/NL-HlmNHA_1478_02142A02_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ontwerpen door Jan Jansen Amsterdam"
+        ]
+      },
+      "height": 2516,
+      "width": 2516,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/22235920-2f7f-a759-9362-bf2b3e275c02\">https://hdl.handle.net/21.12102/22235920-2f7f-a759-9362-bf2b3e275c02</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/02d558d3-890c-0668-d2e9-4c9f488f6eef/NL-HlmNHA_1478_02142A02_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/02d558d3-890c-0668-d2e9-4c9f488f6eef/NL-HlmNHA_1478_02142A02_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/bbd1d618-00a8-0dc9-feff-b922c6cfd91e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2516,
+                "width": 2516,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/bbd1d618-00a8-0dc9-feff-b922c6cfd91e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/02d558d3-890c-0668-d2e9-4c9f488f6eef/NL-HlmNHA_1478_02142A02_09/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/02d558d3-890c-0668-d2e9-4c9f488f6eef/NL-HlmNHA_1478_02142A02_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ontwerpen door Jan Jansen Amsterdam"
+        ]
+      },
+      "height": 2496,
+      "width": 2496,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/38ce8a3d-f996-3a18-6f14-daa2b6494b94\">https://hdl.handle.net/21.12102/38ce8a3d-f996-3a18-6f14-daa2b6494b94</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/02d558d3-890c-0668-d2e9-4c9f488f6eef/NL-HlmNHA_1478_02142A02_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/02d558d3-890c-0668-d2e9-4c9f488f6eef/NL-HlmNHA_1478_02142A02_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/731dd2e0-a3b9-7b04-c094-fde7418b1b19/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2496,
+                "width": 2496,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/731dd2e0-a3b9-7b04-c094-fde7418b1b19",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/02d558d3-890c-0668-d2e9-4c9f488f6eef/NL-HlmNHA_1478_02142A02_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/02d558d3-890c-0668-d2e9-4c9f488f6eef/NL-HlmNHA_1478_02142A02_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ontwerpen door Jan Jansen Amsterdam"
+        ]
+      },
+      "height": 2503,
+      "width": 2503,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/409157eb-f912-2270-ed11-81ca4b319e5f\">https://hdl.handle.net/21.12102/409157eb-f912-2270-ed11-81ca4b319e5f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/02d558d3-890c-0668-d2e9-4c9f488f6eef/NL-HlmNHA_1478_02142A02_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/02d558d3-890c-0668-d2e9-4c9f488f6eef/NL-HlmNHA_1478_02142A02_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e2c6e15c-bc77-9e3c-80f7-068a85628389/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2503,
+                "width": 2503,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e2c6e15c-bc77-9e3c-80f7-068a85628389",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/02d558d3-890c-0668-d2e9-4c9f488f6eef/NL-HlmNHA_1478_02142A02_08/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

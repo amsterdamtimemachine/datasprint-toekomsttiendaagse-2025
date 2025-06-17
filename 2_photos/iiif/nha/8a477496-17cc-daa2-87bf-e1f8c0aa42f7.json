@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/8a477496-17cc-daa2-87bf-e1f8c0aa42f7.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Interieur Van Bossestraat, Amsterdam (1998-08-31)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Interieur Van Bossestraat, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1998-08-31"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q19618681\">Van Bossestraat</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.8687,
+            52.3815
+          ]
+        },
+        "properties": {
+          "title": "Van Bossestraat",
+          "url": "http://www.wikidata.org/entity/Q19618681"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a477496-17cc-daa2-87bf-e1f8c0aa42f7/NL-HlmNHA_1478_45955K01_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interieur Van Bossestraat, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6960,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/29a314fb-dd2f-4383-acc6-b39f93de167d\">https://hdl.handle.net/21.12102/29a314fb-dd2f-4383-acc6-b39f93de167d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a477496-17cc-daa2-87bf-e1f8c0aa42f7/NL-HlmNHA_1478_45955K01_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a477496-17cc-daa2-87bf-e1f8c0aa42f7/NL-HlmNHA_1478_45955K01_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/152d054d-6f07-cd7b-52ad-fc7de2ea13d5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6960,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/152d054d-6f07-cd7b-52ad-fc7de2ea13d5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a477496-17cc-daa2-87bf-e1f8c0aa42f7/NL-HlmNHA_1478_45955K01_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a477496-17cc-daa2-87bf-e1f8c0aa42f7/NL-HlmNHA_1478_45955K01_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interieur Van Bossestraat, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6960,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/60aae93b-0e38-f45a-be34-bcf7d6cb5be1\">https://hdl.handle.net/21.12102/60aae93b-0e38-f45a-be34-bcf7d6cb5be1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a477496-17cc-daa2-87bf-e1f8c0aa42f7/NL-HlmNHA_1478_45955K01_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a477496-17cc-daa2-87bf-e1f8c0aa42f7/NL-HlmNHA_1478_45955K01_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/521f2ff0-aa01-d0ac-62f7-0b534b5c2216/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6960,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/521f2ff0-aa01-d0ac-62f7-0b534b5c2216",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a477496-17cc-daa2-87bf-e1f8c0aa42f7/NL-HlmNHA_1478_45955K01_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a477496-17cc-daa2-87bf-e1f8c0aa42f7/NL-HlmNHA_1478_45955K01_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interieur Van Bossestraat, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6960,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/60df7734-0191-e275-3874-148f5f94375a\">https://hdl.handle.net/21.12102/60df7734-0191-e275-3874-148f5f94375a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a477496-17cc-daa2-87bf-e1f8c0aa42f7/NL-HlmNHA_1478_45955K01_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a477496-17cc-daa2-87bf-e1f8c0aa42f7/NL-HlmNHA_1478_45955K01_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/caaf7191-e78b-de56-b1f1-d6a7cf272b32/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6960,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/caaf7191-e78b-de56-b1f1-d6a7cf272b32",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a477496-17cc-daa2-87bf-e1f8c0aa42f7/NL-HlmNHA_1478_45955K01_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a477496-17cc-daa2-87bf-e1f8c0aa42f7/NL-HlmNHA_1478_45955K01_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interieur Van Bossestraat, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6960,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6905cc8b-8197-3b9c-5708-649bf117eb20\">https://hdl.handle.net/21.12102/6905cc8b-8197-3b9c-5708-649bf117eb20</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a477496-17cc-daa2-87bf-e1f8c0aa42f7/NL-HlmNHA_1478_45955K01_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a477496-17cc-daa2-87bf-e1f8c0aa42f7/NL-HlmNHA_1478_45955K01_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8aca010b-7d98-3692-0bbb-ae2a0eb9b7b3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6960,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8aca010b-7d98-3692-0bbb-ae2a0eb9b7b3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a477496-17cc-daa2-87bf-e1f8c0aa42f7/NL-HlmNHA_1478_45955K01_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a477496-17cc-daa2-87bf-e1f8c0aa42f7/NL-HlmNHA_1478_45955K01_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interieur Van Bossestraat, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6960,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d82e944c-0261-8618-cd8d-4782f2432e72\">https://hdl.handle.net/21.12102/d82e944c-0261-8618-cd8d-4782f2432e72</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a477496-17cc-daa2-87bf-e1f8c0aa42f7/NL-HlmNHA_1478_45955K01_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a477496-17cc-daa2-87bf-e1f8c0aa42f7/NL-HlmNHA_1478_45955K01_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3248748d-f938-8239-12f7-c0eafbeeb243/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6960,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3248748d-f938-8239-12f7-c0eafbeeb243",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a477496-17cc-daa2-87bf-e1f8c0aa42f7/NL-HlmNHA_1478_45955K01_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a477496-17cc-daa2-87bf-e1f8c0aa42f7/NL-HlmNHA_1478_45955K01_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interieur Van Bossestraat, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6960,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e8355a13-fe90-767a-aa6c-bde46c8b1380\">https://hdl.handle.net/21.12102/e8355a13-fe90-767a-aa6c-bde46c8b1380</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a477496-17cc-daa2-87bf-e1f8c0aa42f7/NL-HlmNHA_1478_45955K01_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a477496-17cc-daa2-87bf-e1f8c0aa42f7/NL-HlmNHA_1478_45955K01_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b7a050bb-c67d-adea-2ee6-480b6768b067/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6960,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b7a050bb-c67d-adea-2ee6-480b6768b067",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a477496-17cc-daa2-87bf-e1f8c0aa42f7/NL-HlmNHA_1478_45955K01_17/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

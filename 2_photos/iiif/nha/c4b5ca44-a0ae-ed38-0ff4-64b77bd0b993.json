@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/c4b5ca44-a0ae-ed38-0ff4-64b77bd0b993.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Symposium over Pepcidin, RAI Amsterdam (1987-03-07)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Symposium over Pepcidin, RAI Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1987-03-07"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "MSD"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/62207"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4b5ca44-a0ae-ed38-0ff4-64b77bd0b993/NL-HlmNHA_1478_27356K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Symposium over Pepcidin, RAI Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1226be2d-da2d-f3e2-d8ee-0d22e1ba75c7\">https://hdl.handle.net/21.12102/1226be2d-da2d-f3e2-d8ee-0d22e1ba75c7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4b5ca44-a0ae-ed38-0ff4-64b77bd0b993/NL-HlmNHA_1478_27356K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4b5ca44-a0ae-ed38-0ff4-64b77bd0b993/NL-HlmNHA_1478_27356K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/cf6871ac-7986-bbf8-b465-a8d7af40ef35/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/cf6871ac-7986-bbf8-b465-a8d7af40ef35",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4b5ca44-a0ae-ed38-0ff4-64b77bd0b993/NL-HlmNHA_1478_27356K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4b5ca44-a0ae-ed38-0ff4-64b77bd0b993/NL-HlmNHA_1478_27356K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Symposium over Pepcidin, RAI Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/340e26a6-0f11-3ea1-5517-b9849579457c\">https://hdl.handle.net/21.12102/340e26a6-0f11-3ea1-5517-b9849579457c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4b5ca44-a0ae-ed38-0ff4-64b77bd0b993/NL-HlmNHA_1478_27356K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4b5ca44-a0ae-ed38-0ff4-64b77bd0b993/NL-HlmNHA_1478_27356K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/defb1612-d37f-36db-d747-48465418e530/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/defb1612-d37f-36db-d747-48465418e530",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4b5ca44-a0ae-ed38-0ff4-64b77bd0b993/NL-HlmNHA_1478_27356K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4b5ca44-a0ae-ed38-0ff4-64b77bd0b993/NL-HlmNHA_1478_27356K00_28/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Symposium over Pepcidin, RAI Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5d63f5e0-098e-5014-28cc-d2897bf5db91\">https://hdl.handle.net/21.12102/5d63f5e0-098e-5014-28cc-d2897bf5db91</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4b5ca44-a0ae-ed38-0ff4-64b77bd0b993/NL-HlmNHA_1478_27356K00_28/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4b5ca44-a0ae-ed38-0ff4-64b77bd0b993/NL-HlmNHA_1478_27356K00_28/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/181a8916-911e-c6e5-2473-c442ca9d515a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/181a8916-911e-c6e5-2473-c442ca9d515a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4b5ca44-a0ae-ed38-0ff4-64b77bd0b993/NL-HlmNHA_1478_27356K00_28/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4b5ca44-a0ae-ed38-0ff4-64b77bd0b993/NL-HlmNHA_1478_27356K00_38/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Symposium over Pepcidin, RAI Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9a69da05-e6ae-3a18-7420-42e92bcc0dcb\">https://hdl.handle.net/21.12102/9a69da05-e6ae-3a18-7420-42e92bcc0dcb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4b5ca44-a0ae-ed38-0ff4-64b77bd0b993/NL-HlmNHA_1478_27356K00_38/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4b5ca44-a0ae-ed38-0ff4-64b77bd0b993/NL-HlmNHA_1478_27356K00_38/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/54d1fb3f-4a1a-d937-7864-e8b2abf0b8dc/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/54d1fb3f-4a1a-d937-7864-e8b2abf0b8dc",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4b5ca44-a0ae-ed38-0ff4-64b77bd0b993/NL-HlmNHA_1478_27356K00_38/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4b5ca44-a0ae-ed38-0ff4-64b77bd0b993/NL-HlmNHA_1478_27356K00_25/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Symposium over Pepcidin, RAI Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/cab943a7-8d8d-337d-635a-29e4df9e38be\">https://hdl.handle.net/21.12102/cab943a7-8d8d-337d-635a-29e4df9e38be</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4b5ca44-a0ae-ed38-0ff4-64b77bd0b993/NL-HlmNHA_1478_27356K00_25/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4b5ca44-a0ae-ed38-0ff4-64b77bd0b993/NL-HlmNHA_1478_27356K00_25/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f584e2a3-d2e2-cdb1-7e95-9cc05179ede1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f584e2a3-d2e2-cdb1-7e95-9cc05179ede1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4b5ca44-a0ae-ed38-0ff4-64b77bd0b993/NL-HlmNHA_1478_27356K00_25/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

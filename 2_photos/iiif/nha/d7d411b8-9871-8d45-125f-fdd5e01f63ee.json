@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/d7d411b8-9871-8d45-125f-fdd5e01f63ee.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Rellen na aflloop van de voetbalwedstrijd Nederland- Tsjechoslowakije (1966-11-06)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Rellen na aflloop van de voetbalwedstrijd Nederland- Tsjechoslowakije"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1966-11-06"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q19393276\">Olympisch Stadion</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.854,
+            52.3435
+          ]
+        },
+        "properties": {
+          "title": "Olympisch Stadion",
+          "url": "http://www.wikidata.org/entity/Q19393276"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d7d411b8-9871-8d45-125f-fdd5e01f63ee/NL-HlmNHA_1478_53346K00_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rellen na aflloop van de voetbalwedstrijd Nederland- Tsjechoslowakije"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7297a073-5bb0-f340-6e92-386aa003cc26\">https://hdl.handle.net/21.12102/7297a073-5bb0-f340-6e92-386aa003cc26</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d7d411b8-9871-8d45-125f-fdd5e01f63ee/NL-HlmNHA_1478_53346K00_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d7d411b8-9871-8d45-125f-fdd5e01f63ee/NL-HlmNHA_1478_53346K00_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/919c49f3-eec9-6707-8c2d-62b3ae67cdcf/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/919c49f3-eec9-6707-8c2d-62b3ae67cdcf",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d7d411b8-9871-8d45-125f-fdd5e01f63ee/NL-HlmNHA_1478_53346K00_30/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

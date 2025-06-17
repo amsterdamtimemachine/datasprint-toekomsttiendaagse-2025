@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/8428c1fe-9ec3-b23b-b185-7919a36adebe.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Ruiter met paard op Jumping Amsterdam (1997-10-22)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Ruiter met paard op Jumping Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1997-10-22"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2083937\">Europaplein</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.89167,
+            52.34194
+          ]
+        },
+        "properties": {
+          "title": "Europaplein",
+          "url": "http://www.wikidata.org/entity/Q2083937"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8428c1fe-9ec3-b23b-b185-7919a36adebe/NL-HlmNHA_1478_44813K00_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ruiter met paard op Jumping Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/438e211c-7030-84ea-a0c3-9067c8bda0fe\">https://hdl.handle.net/21.12102/438e211c-7030-84ea-a0c3-9067c8bda0fe</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8428c1fe-9ec3-b23b-b185-7919a36adebe/NL-HlmNHA_1478_44813K00_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8428c1fe-9ec3-b23b-b185-7919a36adebe/NL-HlmNHA_1478_44813K00_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/be9d8088-9ae7-1654-018c-050d6460a508/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/be9d8088-9ae7-1654-018c-050d6460a508",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8428c1fe-9ec3-b23b-b185-7919a36adebe/NL-HlmNHA_1478_44813K00_10/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8428c1fe-9ec3-b23b-b185-7919a36adebe/NL-HlmNHA_1478_44813K00_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ruiter met paard op Jumping Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4bab3be6-4b70-6463-3b32-7e08f6a3f1ec\">https://hdl.handle.net/21.12102/4bab3be6-4b70-6463-3b32-7e08f6a3f1ec</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8428c1fe-9ec3-b23b-b185-7919a36adebe/NL-HlmNHA_1478_44813K00_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8428c1fe-9ec3-b23b-b185-7919a36adebe/NL-HlmNHA_1478_44813K00_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/70b3ee61-dbd3-d863-2d8b-f2fa4c8ce42e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/70b3ee61-dbd3-d863-2d8b-f2fa4c8ce42e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8428c1fe-9ec3-b23b-b185-7919a36adebe/NL-HlmNHA_1478_44813K00_09/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8428c1fe-9ec3-b23b-b185-7919a36adebe/NL-HlmNHA_1478_44813K00_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ruiter met paard op Jumping Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b98898f0-eb7a-1e5a-75dd-68a54dc29675\">https://hdl.handle.net/21.12102/b98898f0-eb7a-1e5a-75dd-68a54dc29675</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8428c1fe-9ec3-b23b-b185-7919a36adebe/NL-HlmNHA_1478_44813K00_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8428c1fe-9ec3-b23b-b185-7919a36adebe/NL-HlmNHA_1478_44813K00_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7d7f3e18-fcff-5489-4a95-55e56b81a65a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7d7f3e18-fcff-5489-4a95-55e56b81a65a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8428c1fe-9ec3-b23b-b185-7919a36adebe/NL-HlmNHA_1478_44813K00_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8428c1fe-9ec3-b23b-b185-7919a36adebe/NL-HlmNHA_1478_44813K00_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ruiter met paard op Jumping Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ecbd5a91-ba3f-f0f7-794c-bb8308afdaff\">https://hdl.handle.net/21.12102/ecbd5a91-ba3f-f0f7-794c-bb8308afdaff</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8428c1fe-9ec3-b23b-b185-7919a36adebe/NL-HlmNHA_1478_44813K00_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8428c1fe-9ec3-b23b-b185-7919a36adebe/NL-HlmNHA_1478_44813K00_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/efa076e3-93a2-9dfd-8622-adce695315dc/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/efa076e3-93a2-9dfd-8622-adce695315dc",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8428c1fe-9ec3-b23b-b185-7919a36adebe/NL-HlmNHA_1478_44813K00_08/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

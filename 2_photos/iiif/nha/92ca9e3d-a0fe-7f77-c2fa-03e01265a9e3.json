@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/92ca9e3d-a0fe-7f77-c2fa-03e01265a9e3.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Schilderij - Mask, Galerie [Kunst] 2001, B'dorp (1991-11-30)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Schilderij - Mask, Galerie [Kunst] 2001, B'dorp"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1991-11-30"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q568337\">Badhoevedorp</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7803,
+            52.3381
+          ]
+        },
+        "properties": {
+          "title": "Badhoevedorp",
+          "url": "http://www.wikidata.org/entity/Q568337"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/92ca9e3d-a0fe-7f77-c2fa-03e01265a9e3/NL-HlmNHA_1478_37400K00_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schilderij - Mask, Galerie [Kunst] 2001, B'dorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/04c64e55-e6e9-b66e-7827-0aa61b3adf4f\">https://hdl.handle.net/21.12102/04c64e55-e6e9-b66e-7827-0aa61b3adf4f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/92ca9e3d-a0fe-7f77-c2fa-03e01265a9e3/NL-HlmNHA_1478_37400K00_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/92ca9e3d-a0fe-7f77-c2fa-03e01265a9e3/NL-HlmNHA_1478_37400K00_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d3186587-4ae6-f09e-29e7-4d880cf4cc22/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d3186587-4ae6-f09e-29e7-4d880cf4cc22",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/92ca9e3d-a0fe-7f77-c2fa-03e01265a9e3/NL-HlmNHA_1478_37400K00_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/92ca9e3d-a0fe-7f77-c2fa-03e01265a9e3/NL-HlmNHA_1478_37400K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schilderij - Mask, Galerie [Kunst] 2001, B'dorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/da99c001-376f-26f7-e189-55615cfc07a7\">https://hdl.handle.net/21.12102/da99c001-376f-26f7-e189-55615cfc07a7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/92ca9e3d-a0fe-7f77-c2fa-03e01265a9e3/NL-HlmNHA_1478_37400K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/92ca9e3d-a0fe-7f77-c2fa-03e01265a9e3/NL-HlmNHA_1478_37400K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6f9ddf93-6dc0-e915-327a-4f155df9aea0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6f9ddf93-6dc0-e915-327a-4f155df9aea0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/92ca9e3d-a0fe-7f77-c2fa-03e01265a9e3/NL-HlmNHA_1478_37400K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/92ca9e3d-a0fe-7f77-c2fa-03e01265a9e3/NL-HlmNHA_1478_37400K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schilderij - Mask, Galerie [Kunst] 2001, B'dorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/fb3b5f11-2237-14c1-aa4f-22ebeee57127\">https://hdl.handle.net/21.12102/fb3b5f11-2237-14c1-aa4f-22ebeee57127</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/92ca9e3d-a0fe-7f77-c2fa-03e01265a9e3/NL-HlmNHA_1478_37400K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/92ca9e3d-a0fe-7f77-c2fa-03e01265a9e3/NL-HlmNHA_1478_37400K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ccfe6667-e979-7762-7f75-1387c0e35f04/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ccfe6667-e979-7762-7f75-1387c0e35f04",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/92ca9e3d-a0fe-7f77-c2fa-03e01265a9e3/NL-HlmNHA_1478_37400K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

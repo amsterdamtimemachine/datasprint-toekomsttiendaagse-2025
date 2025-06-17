@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/0bd36c2d-b1e1-e78c-0eee-93ca4599859a.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Belasting kantoor Amsterdam (1958-01-28)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Belasting kantoor Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1958-01-28"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Gebouwen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/28322"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bd36c2d-b1e1-e78c-0eee-93ca4599859a/NL-HlmNHA_1478_15426B02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Belasting kantoor Amsterdam"
+        ]
+      },
+      "height": 2095,
+      "width": 2740,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/71f72636-26f1-4c17-3f6e-6e114640c206\">https://hdl.handle.net/21.12102/71f72636-26f1-4c17-3f6e-6e114640c206</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bd36c2d-b1e1-e78c-0eee-93ca4599859a/NL-HlmNHA_1478_15426B02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bd36c2d-b1e1-e78c-0eee-93ca4599859a/NL-HlmNHA_1478_15426B02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c084ba03-c38d-8aad-a1f5-a2028ef50808/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2095,
+                "width": 2740,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c084ba03-c38d-8aad-a1f5-a2028ef50808",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bd36c2d-b1e1-e78c-0eee-93ca4599859a/NL-HlmNHA_1478_15426B02_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bd36c2d-b1e1-e78c-0eee-93ca4599859a/NL-HlmNHA_1478_15426B01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Belasting kantoor Amsterdam"
+        ]
+      },
+      "height": 2110,
+      "width": 2716,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d929deae-23a1-9a25-7095-4d8d5fccfe25\">https://hdl.handle.net/21.12102/d929deae-23a1-9a25-7095-4d8d5fccfe25</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bd36c2d-b1e1-e78c-0eee-93ca4599859a/NL-HlmNHA_1478_15426B01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bd36c2d-b1e1-e78c-0eee-93ca4599859a/NL-HlmNHA_1478_15426B01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/963aa53f-2554-8e1d-2511-6c1a51e53098/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2110,
+                "width": 2716,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/963aa53f-2554-8e1d-2511-6c1a51e53098",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bd36c2d-b1e1-e78c-0eee-93ca4599859a/NL-HlmNHA_1478_15426B01_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

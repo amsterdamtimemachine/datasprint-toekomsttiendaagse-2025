@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/86b839a2-31bb-feff-ae66-d6cef462425d.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "RAI (1970-02-16)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "RAI"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1970-02-16"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Verheul Leyland"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/86b839a2-31bb-feff-ae66-d6cef462425d/NL-HlmNHA_1478_00134C01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "RAI"
+        ]
+      },
+      "height": 2341,
+      "width": 2972,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/72759c08-f686-a0b1-f9ad-468681ab7e98\">https://hdl.handle.net/21.12102/72759c08-f686-a0b1-f9ad-468681ab7e98</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/86b839a2-31bb-feff-ae66-d6cef462425d/NL-HlmNHA_1478_00134C01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/86b839a2-31bb-feff-ae66-d6cef462425d/NL-HlmNHA_1478_00134C01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/aaf84a92-d7ca-9c3a-bf17-4f8de1e2cba2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2341,
+                "width": 2972,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/aaf84a92-d7ca-9c3a-bf17-4f8de1e2cba2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/86b839a2-31bb-feff-ae66-d6cef462425d/NL-HlmNHA_1478_00134C01_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/86b839a2-31bb-feff-ae66-d6cef462425d/NL-HlmNHA_1478_00134C02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "RAI"
+        ]
+      },
+      "height": 2309,
+      "width": 3003,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/fb284f28-0ac7-11ea-9f27-99b013b026d0\">https://hdl.handle.net/21.12102/fb284f28-0ac7-11ea-9f27-99b013b026d0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/86b839a2-31bb-feff-ae66-d6cef462425d/NL-HlmNHA_1478_00134C02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/86b839a2-31bb-feff-ae66-d6cef462425d/NL-HlmNHA_1478_00134C02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fd47da95-c27a-cc9b-c8d3-39702faf27de/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2309,
+                "width": 3003,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fd47da95-c27a-cc9b-c8d3-39702faf27de",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/86b839a2-31bb-feff-ae66-d6cef462425d/NL-HlmNHA_1478_00134C02_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

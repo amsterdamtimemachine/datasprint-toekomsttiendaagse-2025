@@ -1,0 +1,520 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Restaurant \"Djokja\", oma Keasberry, Amsterdam (1980-11-21)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Restaurant \"Djokja\", oma Keasberry, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1980-11-21"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Restaurant"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/27116"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Restaurant \"Djokja\", oma Keasberry, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0cce4422-236a-6624-96b8-103b097f8668\">https://hdl.handle.net/21.12102/0cce4422-236a-6624-96b8-103b097f8668</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8375291c-ba01-291b-c3ae-7d48bff91b59/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8375291c-ba01-291b-c3ae-7d48bff91b59",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_35/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_34/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Restaurant \"Djokja\", oma Keasberry, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/22331cb1-ea79-9eb4-ca54-8ff102bcca13\">https://hdl.handle.net/21.12102/22331cb1-ea79-9eb4-ca54-8ff102bcca13</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_34/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_34/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/01d97ddd-47d4-54d3-174f-14fcf7dbc39b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/01d97ddd-47d4-54d3-174f-14fcf7dbc39b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_34/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Restaurant \"Djokja\", oma Keasberry, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/48f35c61-5c1e-bc13-2246-898a206b5711\">https://hdl.handle.net/21.12102/48f35c61-5c1e-bc13-2246-898a206b5711</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e45c7633-b90a-b32a-bd72-19544bc711c3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e45c7633-b90a-b32a-bd72-19544bc711c3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_29/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_31/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Restaurant \"Djokja\", oma Keasberry, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/61b9d47c-7b52-8c07-0323-e800bbf866a3\">https://hdl.handle.net/21.12102/61b9d47c-7b52-8c07-0323-e800bbf866a3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_31/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_31/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5afc3b07-2a89-d9a8-1507-2dc55489a257/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5afc3b07-2a89-d9a8-1507-2dc55489a257",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_31/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_33/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Restaurant \"Djokja\", oma Keasberry, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a46f8b2d-27ed-50f1-953c-2a8cd3849d00\">https://hdl.handle.net/21.12102/a46f8b2d-27ed-50f1-953c-2a8cd3849d00</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_33/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_33/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6e319866-1ea9-6ec5-9353-3ab546526962/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6e319866-1ea9-6ec5-9353-3ab546526962",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_33/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Restaurant \"Djokja\", oma Keasberry, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c8591e07-606f-99c5-2368-11db6f9c1e18\">https://hdl.handle.net/21.12102/c8591e07-606f-99c5-2368-11db6f9c1e18</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d8231f26-06ef-1a62-6225-cf729580a860/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d8231f26-06ef-1a62-6225-cf729580a860",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_30/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_32/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Restaurant \"Djokja\", oma Keasberry, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ca2eff61-279c-9aaa-45f8-f2b8acb77c70\">https://hdl.handle.net/21.12102/ca2eff61-279c-9aaa-45f8-f2b8acb77c70</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_32/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_32/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e83eca2e-fa7b-5771-21ed-d16b548be619/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e83eca2e-fa7b-5771-21ed-d16b548be619",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_32/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_28/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Restaurant \"Djokja\", oma Keasberry, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ed9c6daa-05bb-7802-47a6-50955294bb32\">https://hdl.handle.net/21.12102/ed9c6daa-05bb-7802-47a6-50955294bb32</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_28/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_28/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/68d17006-6895-66f1-35ef-76e6b7a7b975/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/68d17006-6895-66f1-35ef-76e6b7a7b975",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b46dbbe-714c-cb53-c41c-f5ee6d5cadf4/NL-HlmNHA_1478_20093K00_28/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

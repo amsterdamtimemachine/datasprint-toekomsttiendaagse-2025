@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/b0fb23c2-74c9-3fc3-fc5b-0b7b5dc219e0.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Delegatie uit Denemarken wordt op Schiphol verwelkomt door Hoofddorp Haarlemmermeer (1990)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Delegatie uit Denemarken wordt op Schiphol verwelkomt door Hoofddorp Haarlemmermeer"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1990"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b0fb23c2-74c9-3fc3-fc5b-0b7b5dc219e0/NL-HlmNHA_1478_33222K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Delegatie uit Denemarken wordt op Schiphol verwelkomt door Hoofddorp Haarlemmermeer"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/12d3d33d-70af-2a06-ef2d-a0fe9182f674\">https://hdl.handle.net/21.12102/12d3d33d-70af-2a06-ef2d-a0fe9182f674</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b0fb23c2-74c9-3fc3-fc5b-0b7b5dc219e0/NL-HlmNHA_1478_33222K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b0fb23c2-74c9-3fc3-fc5b-0b7b5dc219e0/NL-HlmNHA_1478_33222K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/77d0b173-e036-1db5-265b-8d8cd3908aa1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/77d0b173-e036-1db5-265b-8d8cd3908aa1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b0fb23c2-74c9-3fc3-fc5b-0b7b5dc219e0/NL-HlmNHA_1478_33222K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b0fb23c2-74c9-3fc3-fc5b-0b7b5dc219e0/NL-HlmNHA_1478_33222K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Delegatie uit Denemarken wordt op Schiphol verwelkomt door Hoofddorp Haarlemmermeer"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/235dffe0-aaad-a33d-beb2-0b8140b55e27\">https://hdl.handle.net/21.12102/235dffe0-aaad-a33d-beb2-0b8140b55e27</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b0fb23c2-74c9-3fc3-fc5b-0b7b5dc219e0/NL-HlmNHA_1478_33222K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b0fb23c2-74c9-3fc3-fc5b-0b7b5dc219e0/NL-HlmNHA_1478_33222K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ff9271a5-99dd-8d4e-13e2-8a2b79ce0341/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ff9271a5-99dd-8d4e-13e2-8a2b79ce0341",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b0fb23c2-74c9-3fc3-fc5b-0b7b5dc219e0/NL-HlmNHA_1478_33222K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

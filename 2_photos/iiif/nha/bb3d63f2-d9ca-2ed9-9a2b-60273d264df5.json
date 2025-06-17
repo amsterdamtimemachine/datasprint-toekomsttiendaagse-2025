@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/bb3d63f2-d9ca-2ed9-9a2b-60273d264df5.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Scheidsrechter Sijbrandi, Amsterdam (2003-02-12)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Scheidsrechter Sijbrandi, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2003-02-12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bb3d63f2-d9ca-2ed9-9a2b-60273d264df5/NL-HlmNHA_1478_51299K00_41/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Scheidsrechter Sijbrandi, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1dc3d896-089d-8aa1-ad81-1aadb9c27261\">https://hdl.handle.net/21.12102/1dc3d896-089d-8aa1-ad81-1aadb9c27261</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bb3d63f2-d9ca-2ed9-9a2b-60273d264df5/NL-HlmNHA_1478_51299K00_41/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bb3d63f2-d9ca-2ed9-9a2b-60273d264df5/NL-HlmNHA_1478_51299K00_41/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d7047cc7-fd66-01df-5cdc-0aa7ecad2be6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d7047cc7-fd66-01df-5cdc-0aa7ecad2be6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bb3d63f2-d9ca-2ed9-9a2b-60273d264df5/NL-HlmNHA_1478_51299K00_41/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bb3d63f2-d9ca-2ed9-9a2b-60273d264df5/NL-HlmNHA_1478_51299K00_39/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Scheidsrechter Sijbrandi, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/46d9e5fc-7826-46b7-781c-26eb998fb69d\">https://hdl.handle.net/21.12102/46d9e5fc-7826-46b7-781c-26eb998fb69d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bb3d63f2-d9ca-2ed9-9a2b-60273d264df5/NL-HlmNHA_1478_51299K00_39/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bb3d63f2-d9ca-2ed9-9a2b-60273d264df5/NL-HlmNHA_1478_51299K00_39/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1af40b16-90fe-e585-136b-b867ee159b31/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1af40b16-90fe-e585-136b-b867ee159b31",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bb3d63f2-d9ca-2ed9-9a2b-60273d264df5/NL-HlmNHA_1478_51299K00_39/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bb3d63f2-d9ca-2ed9-9a2b-60273d264df5/NL-HlmNHA_1478_51299K00_42/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Scheidsrechter Sijbrandi, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/981ae04d-4219-4c7f-22be-35443eeb9bd9\">https://hdl.handle.net/21.12102/981ae04d-4219-4c7f-22be-35443eeb9bd9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bb3d63f2-d9ca-2ed9-9a2b-60273d264df5/NL-HlmNHA_1478_51299K00_42/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bb3d63f2-d9ca-2ed9-9a2b-60273d264df5/NL-HlmNHA_1478_51299K00_42/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/bdea42f6-2c8d-9d54-66b3-122592e256c7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/bdea42f6-2c8d-9d54-66b3-122592e256c7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bb3d63f2-d9ca-2ed9-9a2b-60273d264df5/NL-HlmNHA_1478_51299K00_42/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bb3d63f2-d9ca-2ed9-9a2b-60273d264df5/NL-HlmNHA_1478_51299K00_37/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Scheidsrechter Sijbrandi, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ae04ea65-5dd6-c918-63cd-13ce392db5f0\">https://hdl.handle.net/21.12102/ae04ea65-5dd6-c918-63cd-13ce392db5f0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bb3d63f2-d9ca-2ed9-9a2b-60273d264df5/NL-HlmNHA_1478_51299K00_37/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bb3d63f2-d9ca-2ed9-9a2b-60273d264df5/NL-HlmNHA_1478_51299K00_37/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c49aa40e-f1b1-9c25-256b-3160f73b3ca9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c49aa40e-f1b1-9c25-256b-3160f73b3ca9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bb3d63f2-d9ca-2ed9-9a2b-60273d264df5/NL-HlmNHA_1478_51299K00_37/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bb3d63f2-d9ca-2ed9-9a2b-60273d264df5/NL-HlmNHA_1478_51299K00_38/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Scheidsrechter Sijbrandi, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b6181f74-8d01-cd90-f13a-1a73cfffe399\">https://hdl.handle.net/21.12102/b6181f74-8d01-cd90-f13a-1a73cfffe399</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bb3d63f2-d9ca-2ed9-9a2b-60273d264df5/NL-HlmNHA_1478_51299K00_38/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bb3d63f2-d9ca-2ed9-9a2b-60273d264df5/NL-HlmNHA_1478_51299K00_38/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1779c54b-04c9-8c16-b78c-41e7eeee9fd4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1779c54b-04c9-8c16-b78c-41e7eeee9fd4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bb3d63f2-d9ca-2ed9-9a2b-60273d264df5/NL-HlmNHA_1478_51299K00_38/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bb3d63f2-d9ca-2ed9-9a2b-60273d264df5/NL-HlmNHA_1478_51299K00_40/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Scheidsrechter Sijbrandi, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/fb489d2b-3c04-6a6e-64b0-01229b1234f0\">https://hdl.handle.net/21.12102/fb489d2b-3c04-6a6e-64b0-01229b1234f0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bb3d63f2-d9ca-2ed9-9a2b-60273d264df5/NL-HlmNHA_1478_51299K00_40/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bb3d63f2-d9ca-2ed9-9a2b-60273d264df5/NL-HlmNHA_1478_51299K00_40/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fa226326-f0e5-17ad-955a-136bdff3fa38/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fa226326-f0e5-17ad-955a-136bdff3fa38",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bb3d63f2-d9ca-2ed9-9a2b-60273d264df5/NL-HlmNHA_1478_51299K00_40/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/ac271551-1b0e-d224-80ab-4c4452b946e1.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Kunst: kazuivels, Badhoevedorp (1991-12-02)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Kunst: kazuivels, Badhoevedorp"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1991-12-02"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q568337\">Badhoevedorp</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7803,
+            52.3381
+          ]
+        },
+        "properties": {
+          "title": "Badhoevedorp",
+          "url": "http://www.wikidata.org/entity/Q568337"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ac271551-1b0e-d224-80ab-4c4452b946e1/NL-HlmNHA_1478_35505K00_28/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kunst: kazuivels, Badhoevedorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0f808b9b-c180-6929-bfaa-6d7e3709cadc\">https://hdl.handle.net/21.12102/0f808b9b-c180-6929-bfaa-6d7e3709cadc</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ac271551-1b0e-d224-80ab-4c4452b946e1/NL-HlmNHA_1478_35505K00_28/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ac271551-1b0e-d224-80ab-4c4452b946e1/NL-HlmNHA_1478_35505K00_28/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/48a4ae17-5c49-f95f-6d84-260e9901b61d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/48a4ae17-5c49-f95f-6d84-260e9901b61d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ac271551-1b0e-d224-80ab-4c4452b946e1/NL-HlmNHA_1478_35505K00_28/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ac271551-1b0e-d224-80ab-4c4452b946e1/NL-HlmNHA_1478_35505K00_27/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kunst: kazuivels, Badhoevedorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/58d1fbef-d400-06ad-5cf8-9438f5309044\">https://hdl.handle.net/21.12102/58d1fbef-d400-06ad-5cf8-9438f5309044</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ac271551-1b0e-d224-80ab-4c4452b946e1/NL-HlmNHA_1478_35505K00_27/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ac271551-1b0e-d224-80ab-4c4452b946e1/NL-HlmNHA_1478_35505K00_27/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ee118b83-97f6-29ac-760c-ddb2450c0338/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ee118b83-97f6-29ac-760c-ddb2450c0338",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ac271551-1b0e-d224-80ab-4c4452b946e1/NL-HlmNHA_1478_35505K00_27/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ac271551-1b0e-d224-80ab-4c4452b946e1/NL-HlmNHA_1478_35505K00_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kunst: kazuivels, Badhoevedorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/bfd038d7-efb9-59cc-9b5c-d2eefa270cd1\">https://hdl.handle.net/21.12102/bfd038d7-efb9-59cc-9b5c-d2eefa270cd1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ac271551-1b0e-d224-80ab-4c4452b946e1/NL-HlmNHA_1478_35505K00_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ac271551-1b0e-d224-80ab-4c4452b946e1/NL-HlmNHA_1478_35505K00_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e2415671-11db-df2a-23ef-86674c0a6161/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e2415671-11db-df2a-23ef-86674c0a6161",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ac271551-1b0e-d224-80ab-4c4452b946e1/NL-HlmNHA_1478_35505K00_29/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ac271551-1b0e-d224-80ab-4c4452b946e1/NL-HlmNHA_1478_35505K00_26/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kunst: kazuivels, Badhoevedorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ca206cb5-6fa4-e6ab-30fd-404c618eb392\">https://hdl.handle.net/21.12102/ca206cb5-6fa4-e6ab-30fd-404c618eb392</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ac271551-1b0e-d224-80ab-4c4452b946e1/NL-HlmNHA_1478_35505K00_26/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ac271551-1b0e-d224-80ab-4c4452b946e1/NL-HlmNHA_1478_35505K00_26/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/34b32bb6-69b0-1f09-7c8a-96b55421cb61/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/34b32bb6-69b0-1f09-7c8a-96b55421cb61",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ac271551-1b0e-d224-80ab-4c4452b946e1/NL-HlmNHA_1478_35505K00_26/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

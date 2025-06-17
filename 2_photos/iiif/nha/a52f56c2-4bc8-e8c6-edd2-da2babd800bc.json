@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/a52f56c2-4bc8-e8c6-edd2-da2babd800bc.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Kranslegging bij het oorlogsmonument op de Dam te Amsterdam (1952-05-04)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Kranslegging bij het oorlogsmonument op de Dam te Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1952-05-04"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q839050\">Dam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.892778,
+            52.373056
+          ]
+        },
+        "properties": {
+          "title": "Dam",
+          "url": "http://www.wikidata.org/entity/Q839050"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a52f56c2-4bc8-e8c6-edd2-da2babd800bc/NL-HlmNHA_1478_08094B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kranslegging bij het oorlogsmonument op de Dam te Amsterdam"
+        ]
+      },
+      "height": 2208,
+      "width": 2802,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e57f32b8-aede-efb4-cfa3-a221fc4ed2d8\">https://hdl.handle.net/21.12102/e57f32b8-aede-efb4-cfa3-a221fc4ed2d8</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a52f56c2-4bc8-e8c6-edd2-da2babd800bc/NL-HlmNHA_1478_08094B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a52f56c2-4bc8-e8c6-edd2-da2babd800bc/NL-HlmNHA_1478_08094B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ddf21b1d-716e-8fad-52fa-17b5d2f19c16/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2208,
+                "width": 2802,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ddf21b1d-716e-8fad-52fa-17b5d2f19c16",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a52f56c2-4bc8-e8c6-edd2-da2babd800bc/NL-HlmNHA_1478_08094B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

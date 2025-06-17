@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/139f8136-cd88-4bd1-ddff-05c917b015f6.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Schaker Paul van de Sterren te Amsterdam (1985-07-30)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Schaker Paul van de Sterren te Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1985-07-30"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Schaken"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/139f8136-cd88-4bd1-ddff-05c917b015f6/NL-HlmNHA_1478_25370K01_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schaker Paul van de Sterren te Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0731b339-1fc4-04cc-450d-afd930f44246\">https://hdl.handle.net/21.12102/0731b339-1fc4-04cc-450d-afd930f44246</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/139f8136-cd88-4bd1-ddff-05c917b015f6/NL-HlmNHA_1478_25370K01_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/139f8136-cd88-4bd1-ddff-05c917b015f6/NL-HlmNHA_1478_25370K01_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/31c3559d-bf5f-be26-34a3-3f2e8f873f08/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/31c3559d-bf5f-be26-34a3-3f2e8f873f08",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/139f8136-cd88-4bd1-ddff-05c917b015f6/NL-HlmNHA_1478_25370K01_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/139f8136-cd88-4bd1-ddff-05c917b015f6/NL-HlmNHA_1478_25370K01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schaker Paul van de Sterren te Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2a893df7-caa0-2288-f22e-f04c72c6eadc\">https://hdl.handle.net/21.12102/2a893df7-caa0-2288-f22e-f04c72c6eadc</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/139f8136-cd88-4bd1-ddff-05c917b015f6/NL-HlmNHA_1478_25370K01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/139f8136-cd88-4bd1-ddff-05c917b015f6/NL-HlmNHA_1478_25370K01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a4a6f4d9-7d5a-0623-7de2-7173a7eaedc7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a4a6f4d9-7d5a-0623-7de2-7173a7eaedc7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/139f8136-cd88-4bd1-ddff-05c917b015f6/NL-HlmNHA_1478_25370K01_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/139f8136-cd88-4bd1-ddff-05c917b015f6/NL-HlmNHA_1478_25370K01_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schaker Paul van de Sterren te Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/cb0a5e26-33ce-afe4-1d60-bb9aef75faf1\">https://hdl.handle.net/21.12102/cb0a5e26-33ce-afe4-1d60-bb9aef75faf1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/139f8136-cd88-4bd1-ddff-05c917b015f6/NL-HlmNHA_1478_25370K01_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/139f8136-cd88-4bd1-ddff-05c917b015f6/NL-HlmNHA_1478_25370K01_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/913c52d1-73af-ad59-e58f-3ccbd846d049/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/913c52d1-73af-ad59-e58f-3ccbd846d049",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/139f8136-cd88-4bd1-ddff-05c917b015f6/NL-HlmNHA_1478_25370K01_02/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/e11470af-eeb6-d3e9-4ac9-376ea837a141.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Verzamelaars ruilbeurs Zwanenburg (1988-12-12)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Verzamelaars ruilbeurs Zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1988-12-12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Verzamelingen, verzamelaars"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e11470af-eeb6-d3e9-4ac9-376ea837a141/NL-HlmNHA_1478_29913K01_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Verzamelaars ruilbeurs Zwanenburg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/066c8806-2f0c-9959-bf61-ffb4418f35e3\">https://hdl.handle.net/21.12102/066c8806-2f0c-9959-bf61-ffb4418f35e3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e11470af-eeb6-d3e9-4ac9-376ea837a141/NL-HlmNHA_1478_29913K01_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e11470af-eeb6-d3e9-4ac9-376ea837a141/NL-HlmNHA_1478_29913K01_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b02ec9c8-1f96-7886-99d1-c68e07256ee0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b02ec9c8-1f96-7886-99d1-c68e07256ee0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e11470af-eeb6-d3e9-4ac9-376ea837a141/NL-HlmNHA_1478_29913K01_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e11470af-eeb6-d3e9-4ac9-376ea837a141/NL-HlmNHA_1478_29913K01_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Verzamelaars ruilbeurs Zwanenburg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/28aa5774-e016-6789-d3aa-840663ed024f\">https://hdl.handle.net/21.12102/28aa5774-e016-6789-d3aa-840663ed024f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e11470af-eeb6-d3e9-4ac9-376ea837a141/NL-HlmNHA_1478_29913K01_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e11470af-eeb6-d3e9-4ac9-376ea837a141/NL-HlmNHA_1478_29913K01_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/74f27f24-249d-013e-784e-670cbce3c947/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/74f27f24-249d-013e-784e-670cbce3c947",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e11470af-eeb6-d3e9-4ac9-376ea837a141/NL-HlmNHA_1478_29913K01_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e11470af-eeb6-d3e9-4ac9-376ea837a141/NL-HlmNHA_1478_29913K01_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Verzamelaars ruilbeurs Zwanenburg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9a856f9b-59c5-2540-2b44-9708b8d0810b\">https://hdl.handle.net/21.12102/9a856f9b-59c5-2540-2b44-9708b8d0810b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e11470af-eeb6-d3e9-4ac9-376ea837a141/NL-HlmNHA_1478_29913K01_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e11470af-eeb6-d3e9-4ac9-376ea837a141/NL-HlmNHA_1478_29913K01_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/71054091-fd6b-b782-9eee-4715535f03ea/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/71054091-fd6b-b782-9eee-4715535f03ea",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e11470af-eeb6-d3e9-4ac9-376ea837a141/NL-HlmNHA_1478_29913K01_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e11470af-eeb6-d3e9-4ac9-376ea837a141/NL-HlmNHA_1478_29913K01_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Verzamelaars ruilbeurs Zwanenburg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d073674d-c372-c5ea-1bec-b36196ff2e86\">https://hdl.handle.net/21.12102/d073674d-c372-c5ea-1bec-b36196ff2e86</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e11470af-eeb6-d3e9-4ac9-376ea837a141/NL-HlmNHA_1478_29913K01_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e11470af-eeb6-d3e9-4ac9-376ea837a141/NL-HlmNHA_1478_29913K01_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3a8a8a2e-278f-8084-17c3-7d2d9acf0f1b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3a8a8a2e-278f-8084-17c3-7d2d9acf0f1b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e11470af-eeb6-d3e9-4ac9-376ea837a141/NL-HlmNHA_1478_29913K01_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e11470af-eeb6-d3e9-4ac9-376ea837a141/NL-HlmNHA_1478_29913K01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Verzamelaars ruilbeurs Zwanenburg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f142def6-3b01-4abf-0c77-7bfa0a5af871\">https://hdl.handle.net/21.12102/f142def6-3b01-4abf-0c77-7bfa0a5af871</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e11470af-eeb6-d3e9-4ac9-376ea837a141/NL-HlmNHA_1478_29913K01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e11470af-eeb6-d3e9-4ac9-376ea837a141/NL-HlmNHA_1478_29913K01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/00024dd0-f739-b3d1-15fe-ac6e1a7a058a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/00024dd0-f739-b3d1-15fe-ac6e1a7a058a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e11470af-eeb6-d3e9-4ac9-376ea837a141/NL-HlmNHA_1478_29913K01_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/f1ab3fa2-b674-007c-a1a4-69045f19a4f5.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Prinsengracht met Westertoren (1974-02-04)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Prinsengracht met Westertoren"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1974-02-04"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q841583\">Prinsengracht</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.88256,
+            52.368776
+          ]
+        },
+        "properties": {
+          "title": "Prinsengracht",
+          "url": "http://www.wikidata.org/entity/Q841583"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1ab3fa2-b674-007c-a1a4-69045f19a4f5/NL-HlmNHA_1478_12673K00_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Prinsengracht met Westertoren"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a3cae8fc-42bd-6539-f209-4a6379d731ea\">https://hdl.handle.net/21.12102/a3cae8fc-42bd-6539-f209-4a6379d731ea</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1ab3fa2-b674-007c-a1a4-69045f19a4f5/NL-HlmNHA_1478_12673K00_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1ab3fa2-b674-007c-a1a4-69045f19a4f5/NL-HlmNHA_1478_12673K00_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3202d134-9d66-fd59-89bd-9f154ee5e2d7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3202d134-9d66-fd59-89bd-9f154ee5e2d7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1ab3fa2-b674-007c-a1a4-69045f19a4f5/NL-HlmNHA_1478_12673K00_09/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1ab3fa2-b674-007c-a1a4-69045f19a4f5/NL-HlmNHA_1478_12673K00_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Prinsengracht met Westertoren"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ae8474a8-258f-f96e-8cb3-42f365c5faee\">https://hdl.handle.net/21.12102/ae8474a8-258f-f96e-8cb3-42f365c5faee</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1ab3fa2-b674-007c-a1a4-69045f19a4f5/NL-HlmNHA_1478_12673K00_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1ab3fa2-b674-007c-a1a4-69045f19a4f5/NL-HlmNHA_1478_12673K00_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4ec6c58f-505d-6df1-1eb3-641530b620a6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4ec6c58f-505d-6df1-1eb3-641530b620a6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1ab3fa2-b674-007c-a1a4-69045f19a4f5/NL-HlmNHA_1478_12673K00_10/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1ab3fa2-b674-007c-a1a4-69045f19a4f5/NL-HlmNHA_1478_12673K00_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Prinsengracht met Westertoren"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d46bbf94-e8a4-b08a-6f4e-4f2978fdf6ae\">https://hdl.handle.net/21.12102/d46bbf94-e8a4-b08a-6f4e-4f2978fdf6ae</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1ab3fa2-b674-007c-a1a4-69045f19a4f5/NL-HlmNHA_1478_12673K00_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1ab3fa2-b674-007c-a1a4-69045f19a4f5/NL-HlmNHA_1478_12673K00_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4ac8052b-e572-0897-ed8b-b2dc51e48064/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4ac8052b-e572-0897-ed8b-b2dc51e48064",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1ab3fa2-b674-007c-a1a4-69045f19a4f5/NL-HlmNHA_1478_12673K00_11/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

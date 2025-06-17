@@ -1,0 +1,626 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/9cabf105-47be-83a0-c63d-4aeb57e1e295.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Drukkerij (Drukkers Herengracht A'dam) (1977-03-07)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Drukkerij (Drukkers Herengracht A'dam)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1977-03-07"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2623129\">Herengracht</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Drukkerij, drukken"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/25569"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.8868,
+            52.36759
+          ]
+        },
+        "properties": {
+          "title": "Herengracht",
+          "url": "http://www.wikidata.org/entity/Q2623129"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Drukkerij (Drukkers Herengracht A'dam)"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/18f1cd66-feab-897a-2e1a-b9db187d894a\">https://hdl.handle.net/21.12102/18f1cd66-feab-897a-2e1a-b9db187d894a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e64b52c9-4b27-1a87-cb01-424373bb125a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e64b52c9-4b27-1a87-cb01-424373bb125a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Drukkerij (Drukkers Herengracht A'dam)"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/316ab99f-43ef-65b9-4b4b-cd6e4de46eb1\">https://hdl.handle.net/21.12102/316ab99f-43ef-65b9-4b4b-cd6e4de46eb1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/266443a2-e5fd-ae79-5600-6116138a7160/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/266443a2-e5fd-ae79-5600-6116138a7160",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_10/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Drukkerij (Drukkers Herengracht A'dam)"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/365ce2d8-7f14-e2f3-ce20-c0612a06faf7\">https://hdl.handle.net/21.12102/365ce2d8-7f14-e2f3-ce20-c0612a06faf7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5da97d3e-485f-3828-6bb1-586abf59e9af/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5da97d3e-485f-3828-6bb1-586abf59e9af",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_09/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Drukkerij (Drukkers Herengracht A'dam)"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/36fe55be-d0b4-f737-6156-9be2be9d8cf6\">https://hdl.handle.net/21.12102/36fe55be-d0b4-f737-6156-9be2be9d8cf6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3c7e49c8-37e4-317a-1a2c-5d064dce3d93/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3c7e49c8-37e4-317a-1a2c-5d064dce3d93",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Drukkerij (Drukkers Herengracht A'dam)"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/472b21d4-480f-32b8-62a8-98e1b9055db8\">https://hdl.handle.net/21.12102/472b21d4-480f-32b8-62a8-98e1b9055db8</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1d56d184-af64-0f30-23ad-6a61006139d8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1d56d184-af64-0f30-23ad-6a61006139d8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Drukkerij (Drukkers Herengracht A'dam)"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/760da6bc-d7fb-7948-e9e8-00c4e5eb536c\">https://hdl.handle.net/21.12102/760da6bc-d7fb-7948-e9e8-00c4e5eb536c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/02a10ca8-d21a-1c6b-b5b9-1b365e853b7f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/02a10ca8-d21a-1c6b-b5b9-1b365e853b7f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Drukkerij (Drukkers Herengracht A'dam)"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/817dc21c-bb22-5f55-6fbc-0bb0edaf6590\">https://hdl.handle.net/21.12102/817dc21c-bb22-5f55-6fbc-0bb0edaf6590</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4fc2d7cb-165f-71e2-de6d-7ff8e80dfb7d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4fc2d7cb-165f-71e2-de6d-7ff8e80dfb7d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_11/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Drukkerij (Drukkers Herengracht A'dam)"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8813539d-6e37-f1d1-d941-3e04a6c2f2f6\">https://hdl.handle.net/21.12102/8813539d-6e37-f1d1-d941-3e04a6c2f2f6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/76214a37-6912-8923-8b78-ec11bca23ae5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/76214a37-6912-8923-8b78-ec11bca23ae5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_12/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Drukkerij (Drukkers Herengracht A'dam)"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e2014295-e0e0-f9cb-fdf5-80f10fc88d33\">https://hdl.handle.net/21.12102/e2014295-e0e0-f9cb-fdf5-80f10fc88d33</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e81951f9-7520-2a49-bd85-b121200c83f1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e81951f9-7520-2a49-bd85-b121200c83f1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Drukkerij (Drukkers Herengracht A'dam)"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ea5172d9-adb2-eaed-44f5-8606a9d08281\">https://hdl.handle.net/21.12102/ea5172d9-adb2-eaed-44f5-8606a9d08281</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3b9e4b99-e39b-a029-7961-04ed8d2a4c7b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3b9e4b99-e39b-a029-7961-04ed8d2a4c7b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cabf105-47be-83a0-c63d-4aeb57e1e295/NL-HlmNHA_1478_15356K00_08/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/91f8b13d-a61d-fabe-c8a4-d8bf1cfecc1f.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Bouw kinderkasteel achter de dam. (1978)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Bouw kinderkasteel achter de dam."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1978"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/91f8b13d-a61d-fabe-c8a4-d8bf1cfecc1f/NL-HlmNHA_1478_16819K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bouw kinderkasteel achter de dam."
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/25008268-93c9-6acf-6a3a-0a3b1b628324\">https://hdl.handle.net/21.12102/25008268-93c9-6acf-6a3a-0a3b1b628324</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/91f8b13d-a61d-fabe-c8a4-d8bf1cfecc1f/NL-HlmNHA_1478_16819K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/91f8b13d-a61d-fabe-c8a4-d8bf1cfecc1f/NL-HlmNHA_1478_16819K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/93ca10b4-bf88-16bc-d197-9d00760e574a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/93ca10b4-bf88-16bc-d197-9d00760e574a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/91f8b13d-a61d-fabe-c8a4-d8bf1cfecc1f/NL-HlmNHA_1478_16819K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/91f8b13d-a61d-fabe-c8a4-d8bf1cfecc1f/NL-HlmNHA_1478_16819K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bouw kinderkasteel achter de dam."
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/853fc1b8-1dd5-a115-3c2d-80dc9aad9605\">https://hdl.handle.net/21.12102/853fc1b8-1dd5-a115-3c2d-80dc9aad9605</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/91f8b13d-a61d-fabe-c8a4-d8bf1cfecc1f/NL-HlmNHA_1478_16819K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/91f8b13d-a61d-fabe-c8a4-d8bf1cfecc1f/NL-HlmNHA_1478_16819K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/cde07bda-cf35-66ff-0e1d-c024321d6c06/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/cde07bda-cf35-66ff-0e1d-c024321d6c06",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/91f8b13d-a61d-fabe-c8a4-d8bf1cfecc1f/NL-HlmNHA_1478_16819K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

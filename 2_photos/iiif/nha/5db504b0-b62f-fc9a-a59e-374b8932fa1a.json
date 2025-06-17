@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/5db504b0-b62f-fc9a-a59e-374b8932fa1a.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "3 Ned. musici, o.a. Viersen Amstelveen (1992-04-05)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "3 Ned. musici, o.a. Viersen Amstelveen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1992-04-05"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q33421878\">Amstelveen</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.858056,
+            52.301944
+          ]
+        },
+        "properties": {
+          "title": "Amstelveen",
+          "url": "http://www.wikidata.org/entity/Q33421878"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5db504b0-b62f-fc9a-a59e-374b8932fa1a/NL-HlmNHA_1478_36140K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "3 Ned. musici, o.a. Viersen Amstelveen"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/24524e45-6abd-ede4-29e5-06453096f73b\">https://hdl.handle.net/21.12102/24524e45-6abd-ede4-29e5-06453096f73b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5db504b0-b62f-fc9a-a59e-374b8932fa1a/NL-HlmNHA_1478_36140K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5db504b0-b62f-fc9a-a59e-374b8932fa1a/NL-HlmNHA_1478_36140K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f26ebf96-e75e-78a3-09a7-970b9befaa90/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f26ebf96-e75e-78a3-09a7-970b9befaa90",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5db504b0-b62f-fc9a-a59e-374b8932fa1a/NL-HlmNHA_1478_36140K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5db504b0-b62f-fc9a-a59e-374b8932fa1a/NL-HlmNHA_1478_36140K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "3 Ned. musici, o.a. Viersen Amstelveen"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4e1e05bb-a93f-c58e-32c7-092424ec0040\">https://hdl.handle.net/21.12102/4e1e05bb-a93f-c58e-32c7-092424ec0040</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5db504b0-b62f-fc9a-a59e-374b8932fa1a/NL-HlmNHA_1478_36140K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5db504b0-b62f-fc9a-a59e-374b8932fa1a/NL-HlmNHA_1478_36140K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e0038de1-3b18-21e1-7ef7-e81257a9eac0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e0038de1-3b18-21e1-7ef7-e81257a9eac0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5db504b0-b62f-fc9a-a59e-374b8932fa1a/NL-HlmNHA_1478_36140K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5db504b0-b62f-fc9a-a59e-374b8932fa1a/NL-HlmNHA_1478_36140K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "3 Ned. musici, o.a. Viersen Amstelveen"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8a2f8d7e-f50b-20ad-c6c9-86a1112b87be\">https://hdl.handle.net/21.12102/8a2f8d7e-f50b-20ad-c6c9-86a1112b87be</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5db504b0-b62f-fc9a-a59e-374b8932fa1a/NL-HlmNHA_1478_36140K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5db504b0-b62f-fc9a-a59e-374b8932fa1a/NL-HlmNHA_1478_36140K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/46cecc96-8e2d-1fb2-e48f-b3229016c559/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/46cecc96-8e2d-1fb2-e48f-b3229016c559",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5db504b0-b62f-fc9a-a59e-374b8932fa1a/NL-HlmNHA_1478_36140K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5db504b0-b62f-fc9a-a59e-374b8932fa1a/NL-HlmNHA_1478_36140K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "3 Ned. musici, o.a. Viersen Amstelveen"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a890979c-492b-b974-ffe6-7618564e1d35\">https://hdl.handle.net/21.12102/a890979c-492b-b974-ffe6-7618564e1d35</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5db504b0-b62f-fc9a-a59e-374b8932fa1a/NL-HlmNHA_1478_36140K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5db504b0-b62f-fc9a-a59e-374b8932fa1a/NL-HlmNHA_1478_36140K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8d379652-d5b9-3cdc-982e-5502042e0014/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8d379652-d5b9-3cdc-982e-5502042e0014",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5db504b0-b62f-fc9a-a59e-374b8932fa1a/NL-HlmNHA_1478_36140K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5db504b0-b62f-fc9a-a59e-374b8932fa1a/NL-HlmNHA_1478_36140K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "3 Ned. musici, o.a. Viersen Amstelveen"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/be8bc289-df8b-745f-e4c0-42d037852b5c\">https://hdl.handle.net/21.12102/be8bc289-df8b-745f-e4c0-42d037852b5c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5db504b0-b62f-fc9a-a59e-374b8932fa1a/NL-HlmNHA_1478_36140K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5db504b0-b62f-fc9a-a59e-374b8932fa1a/NL-HlmNHA_1478_36140K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/63298d1e-3769-37e7-0613-a4a9c4a11dbf/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/63298d1e-3769-37e7-0613-a4a9c4a11dbf",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5db504b0-b62f-fc9a-a59e-374b8932fa1a/NL-HlmNHA_1478_36140K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5db504b0-b62f-fc9a-a59e-374b8932fa1a/NL-HlmNHA_1478_36140K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "3 Ned. musici, o.a. Viersen Amstelveen"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ea23e75b-8af9-74e5-493d-5e7b4684fd24\">https://hdl.handle.net/21.12102/ea23e75b-8af9-74e5-493d-5e7b4684fd24</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5db504b0-b62f-fc9a-a59e-374b8932fa1a/NL-HlmNHA_1478_36140K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5db504b0-b62f-fc9a-a59e-374b8932fa1a/NL-HlmNHA_1478_36140K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6fbef72e-2ce6-2d7b-0900-5ea77bf7bc3d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6fbef72e-2ce6-2d7b-0900-5ea77bf7bc3d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5db504b0-b62f-fc9a-a59e-374b8932fa1a/NL-HlmNHA_1478_36140K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

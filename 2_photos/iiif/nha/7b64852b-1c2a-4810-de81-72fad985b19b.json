@@ -1,0 +1,732 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/7b64852b-1c2a-4810-de81-72fad985b19b.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Exterieur gebouw Comprimo Sloterdijk (1992-07-23)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Exterieur gebouw Comprimo Sloterdijk"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1992-07-23"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_37/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur gebouw Comprimo Sloterdijk"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/10a72f45-f481-38a6-3c53-73c5e2edbccf\">https://hdl.handle.net/21.12102/10a72f45-f481-38a6-3c53-73c5e2edbccf</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_37/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_37/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e78a273d-0849-eed6-2a65-48874dcb27c7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e78a273d-0849-eed6-2a65-48874dcb27c7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_37/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur gebouw Comprimo Sloterdijk"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/127e9f04-e320-b75e-a4aa-ed76a518a729\">https://hdl.handle.net/21.12102/127e9f04-e320-b75e-a4aa-ed76a518a729</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3fb9d376-6f97-4258-7fed-2a88f6e711a5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3fb9d376-6f97-4258-7fed-2a88f6e711a5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_35/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_36/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur gebouw Comprimo Sloterdijk"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2c15b540-7d29-c500-f249-259929b33901\">https://hdl.handle.net/21.12102/2c15b540-7d29-c500-f249-259929b33901</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_36/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_36/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c46f1243-1aa5-b07d-73f8-2b2042348663/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c46f1243-1aa5-b07d-73f8-2b2042348663",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_36/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_39/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur gebouw Comprimo Sloterdijk"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/50b7d654-497f-e42f-760e-b7b87d9c62b0\">https://hdl.handle.net/21.12102/50b7d654-497f-e42f-760e-b7b87d9c62b0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_39/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_39/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fbbd6b72-16c3-dc69-278a-272ccc2edffc/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fbbd6b72-16c3-dc69-278a-272ccc2edffc",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_39/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_34/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur gebouw Comprimo Sloterdijk"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/625f508a-8b10-2dd7-1051-586727a31b71\">https://hdl.handle.net/21.12102/625f508a-8b10-2dd7-1051-586727a31b71</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_34/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_34/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/10e55496-e768-ab1d-76a6-29f68eb7fa1f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/10e55496-e768-ab1d-76a6-29f68eb7fa1f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_34/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_38/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur gebouw Comprimo Sloterdijk"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8016539c-39ee-e3f7-dc4c-d456ae5a2426\">https://hdl.handle.net/21.12102/8016539c-39ee-e3f7-dc4c-d456ae5a2426</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_38/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_38/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/12806e50-24f4-a0a7-f724-f4217c83184c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/12806e50-24f4-a0a7-f724-f4217c83184c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_38/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_41/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur gebouw Comprimo Sloterdijk"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8164cffd-7f4a-5189-d2b6-f899db163304\">https://hdl.handle.net/21.12102/8164cffd-7f4a-5189-d2b6-f899db163304</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_41/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_41/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/52d787ef-cde2-8111-bfd1-f3be00a3a220/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/52d787ef-cde2-8111-bfd1-f3be00a3a220",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_41/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_42/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur gebouw Comprimo Sloterdijk"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8e0d0531-f341-276a-c41b-98fd8bc1f3b5\">https://hdl.handle.net/21.12102/8e0d0531-f341-276a-c41b-98fd8bc1f3b5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_42/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_42/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/78bf29d3-ede8-e734-494c-b836a907ad6a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/78bf29d3-ede8-e734-494c-b836a907ad6a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_42/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_40/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur gebouw Comprimo Sloterdijk"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a67d2091-3325-c372-cdd4-9a9c37a28a76\">https://hdl.handle.net/21.12102/a67d2091-3325-c372-cdd4-9a9c37a28a76</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_40/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_40/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/356e5e9c-e2af-7d38-52cb-49a01bf10f7a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/356e5e9c-e2af-7d38-52cb-49a01bf10f7a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_40/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_32/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur gebouw Comprimo Sloterdijk"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b1f1d13c-cc87-af42-58bf-e91cd55f8f0f\">https://hdl.handle.net/21.12102/b1f1d13c-cc87-af42-58bf-e91cd55f8f0f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_32/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_32/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6c35a482-3cac-4379-6bbe-6e37d2c432e1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6c35a482-3cac-4379-6bbe-6e37d2c432e1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_32/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_31/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur gebouw Comprimo Sloterdijk"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c35f43a1-3324-d654-a4e8-78310d399377\">https://hdl.handle.net/21.12102/c35f43a1-3324-d654-a4e8-78310d399377</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_31/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_31/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/983c5d5d-8a85-e028-be16-186cba78f979/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/983c5d5d-8a85-e028-be16-186cba78f979",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_31/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_33/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur gebouw Comprimo Sloterdijk"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f44707bf-56b6-df9b-a98b-c70f9d76fea1\">https://hdl.handle.net/21.12102/f44707bf-56b6-df9b-a98b-c70f9d76fea1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_33/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_33/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6304cfc0-2e14-8194-d297-ab7165f5f67a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6304cfc0-2e14-8194-d297-ab7165f5f67a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7b64852b-1c2a-4810-de81-72fad985b19b/NL-HlmNHA_1478_36719K00_33/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

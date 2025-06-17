@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/986b6301-59f2-2735-d3df-c0326e71f7dc.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Leo Uitendaal, dierenhotel (1991-10-07)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Leo Uitendaal, dierenhotel"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1991-10-07"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/986b6301-59f2-2735-d3df-c0326e71f7dc/NL-HlmNHA_1478_35190K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Leo Uitendaal, dierenhotel"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/22f73774-8e94-966b-f413-63d47ce829cd\">https://hdl.handle.net/21.12102/22f73774-8e94-966b-f413-63d47ce829cd</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/986b6301-59f2-2735-d3df-c0326e71f7dc/NL-HlmNHA_1478_35190K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/986b6301-59f2-2735-d3df-c0326e71f7dc/NL-HlmNHA_1478_35190K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4b586771-74ac-de90-1adc-85a0ab8fc7a3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4b586771-74ac-de90-1adc-85a0ab8fc7a3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/986b6301-59f2-2735-d3df-c0326e71f7dc/NL-HlmNHA_1478_35190K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/986b6301-59f2-2735-d3df-c0326e71f7dc/NL-HlmNHA_1478_35190K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Leo Uitendaal, dierenhotel"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/539abeda-827f-045b-4fab-9dccfd21aeeb\">https://hdl.handle.net/21.12102/539abeda-827f-045b-4fab-9dccfd21aeeb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/986b6301-59f2-2735-d3df-c0326e71f7dc/NL-HlmNHA_1478_35190K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/986b6301-59f2-2735-d3df-c0326e71f7dc/NL-HlmNHA_1478_35190K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/bece8d7b-0832-81c8-1d20-5cf0c30ce593/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/bece8d7b-0832-81c8-1d20-5cf0c30ce593",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/986b6301-59f2-2735-d3df-c0326e71f7dc/NL-HlmNHA_1478_35190K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/986b6301-59f2-2735-d3df-c0326e71f7dc/NL-HlmNHA_1478_35190K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Leo Uitendaal, dierenhotel"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6c84704f-1bde-dd4f-bf7c-7adf0a29f69a\">https://hdl.handle.net/21.12102/6c84704f-1bde-dd4f-bf7c-7adf0a29f69a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/986b6301-59f2-2735-d3df-c0326e71f7dc/NL-HlmNHA_1478_35190K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/986b6301-59f2-2735-d3df-c0326e71f7dc/NL-HlmNHA_1478_35190K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/46768638-9c4d-a94b-2302-19fdd596e968/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/46768638-9c4d-a94b-2302-19fdd596e968",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/986b6301-59f2-2735-d3df-c0326e71f7dc/NL-HlmNHA_1478_35190K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/986b6301-59f2-2735-d3df-c0326e71f7dc/NL-HlmNHA_1478_35190K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Leo Uitendaal, dierenhotel"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/861dd13b-cc94-b9c7-0842-03456c592384\">https://hdl.handle.net/21.12102/861dd13b-cc94-b9c7-0842-03456c592384</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/986b6301-59f2-2735-d3df-c0326e71f7dc/NL-HlmNHA_1478_35190K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/986b6301-59f2-2735-d3df-c0326e71f7dc/NL-HlmNHA_1478_35190K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f4ddeabb-54fd-70d4-f246-d6b39de88c39/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f4ddeabb-54fd-70d4-f246-d6b39de88c39",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/986b6301-59f2-2735-d3df-c0326e71f7dc/NL-HlmNHA_1478_35190K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/986b6301-59f2-2735-d3df-c0326e71f7dc/NL-HlmNHA_1478_35190K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Leo Uitendaal, dierenhotel"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/cb5074a2-5d59-ef46-a592-38b935dec8bb\">https://hdl.handle.net/21.12102/cb5074a2-5d59-ef46-a592-38b935dec8bb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/986b6301-59f2-2735-d3df-c0326e71f7dc/NL-HlmNHA_1478_35190K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/986b6301-59f2-2735-d3df-c0326e71f7dc/NL-HlmNHA_1478_35190K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3ff44854-85b5-38d3-6862-8d8b8efb725d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3ff44854-85b5-38d3-6862-8d8b8efb725d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/986b6301-59f2-2735-d3df-c0326e71f7dc/NL-HlmNHA_1478_35190K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

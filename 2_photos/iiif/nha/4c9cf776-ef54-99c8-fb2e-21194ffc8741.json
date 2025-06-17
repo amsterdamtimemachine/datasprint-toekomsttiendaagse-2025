@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/4c9cf776-ef54-99c8-fb2e-21194ffc8741.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Kunst Frank v. Eindhoven, B'dorp (1991-03-19)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Kunst Frank v. Eindhoven, B'dorp"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1991-03-19"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q568337\">Badhoevedorp</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7803,
+            52.3381
+          ]
+        },
+        "properties": {
+          "title": "Badhoevedorp",
+          "url": "http://www.wikidata.org/entity/Q568337"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4c9cf776-ef54-99c8-fb2e-21194ffc8741/NL-HlmNHA_1478_33974K00_25/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kunst Frank v. Eindhoven, B'dorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/144fd607-8d5a-b32b-02d0-2efc15340d42\">https://hdl.handle.net/21.12102/144fd607-8d5a-b32b-02d0-2efc15340d42</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4c9cf776-ef54-99c8-fb2e-21194ffc8741/NL-HlmNHA_1478_33974K00_25/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4c9cf776-ef54-99c8-fb2e-21194ffc8741/NL-HlmNHA_1478_33974K00_25/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/14e0bb46-a97f-7b9b-6cb1-5d92868da081/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/14e0bb46-a97f-7b9b-6cb1-5d92868da081",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4c9cf776-ef54-99c8-fb2e-21194ffc8741/NL-HlmNHA_1478_33974K00_25/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4c9cf776-ef54-99c8-fb2e-21194ffc8741/NL-HlmNHA_1478_33974K00_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kunst Frank v. Eindhoven, B'dorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2444a3d4-ee17-cc7d-314d-6ccc73e1691f\">https://hdl.handle.net/21.12102/2444a3d4-ee17-cc7d-314d-6ccc73e1691f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4c9cf776-ef54-99c8-fb2e-21194ffc8741/NL-HlmNHA_1478_33974K00_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4c9cf776-ef54-99c8-fb2e-21194ffc8741/NL-HlmNHA_1478_33974K00_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f97648d0-16c6-0a79-83f2-1c4eec1d1124/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f97648d0-16c6-0a79-83f2-1c4eec1d1124",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4c9cf776-ef54-99c8-fb2e-21194ffc8741/NL-HlmNHA_1478_33974K00_29/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4c9cf776-ef54-99c8-fb2e-21194ffc8741/NL-HlmNHA_1478_33974K00_26/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kunst Frank v. Eindhoven, B'dorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/35dbb1a8-8516-ac38-34ca-7c090b5bd612\">https://hdl.handle.net/21.12102/35dbb1a8-8516-ac38-34ca-7c090b5bd612</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4c9cf776-ef54-99c8-fb2e-21194ffc8741/NL-HlmNHA_1478_33974K00_26/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4c9cf776-ef54-99c8-fb2e-21194ffc8741/NL-HlmNHA_1478_33974K00_26/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/59701366-217f-5594-faeb-29fa573eaf02/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/59701366-217f-5594-faeb-29fa573eaf02",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4c9cf776-ef54-99c8-fb2e-21194ffc8741/NL-HlmNHA_1478_33974K00_26/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4c9cf776-ef54-99c8-fb2e-21194ffc8741/NL-HlmNHA_1478_33974K00_27/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kunst Frank v. Eindhoven, B'dorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/379ba7c9-a2d4-ade6-1299-e047f8aae635\">https://hdl.handle.net/21.12102/379ba7c9-a2d4-ade6-1299-e047f8aae635</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4c9cf776-ef54-99c8-fb2e-21194ffc8741/NL-HlmNHA_1478_33974K00_27/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4c9cf776-ef54-99c8-fb2e-21194ffc8741/NL-HlmNHA_1478_33974K00_27/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f6118615-846f-363f-1fb4-f4b282983b5f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f6118615-846f-363f-1fb4-f4b282983b5f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4c9cf776-ef54-99c8-fb2e-21194ffc8741/NL-HlmNHA_1478_33974K00_27/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4c9cf776-ef54-99c8-fb2e-21194ffc8741/NL-HlmNHA_1478_33974K00_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kunst Frank v. Eindhoven, B'dorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/701ad986-78b3-c56c-918d-d581ffe48daa\">https://hdl.handle.net/21.12102/701ad986-78b3-c56c-918d-d581ffe48daa</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4c9cf776-ef54-99c8-fb2e-21194ffc8741/NL-HlmNHA_1478_33974K00_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4c9cf776-ef54-99c8-fb2e-21194ffc8741/NL-HlmNHA_1478_33974K00_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/643a19d6-c59d-2c3c-9e14-7a47584fd136/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/643a19d6-c59d-2c3c-9e14-7a47584fd136",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4c9cf776-ef54-99c8-fb2e-21194ffc8741/NL-HlmNHA_1478_33974K00_30/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4c9cf776-ef54-99c8-fb2e-21194ffc8741/NL-HlmNHA_1478_33974K00_28/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kunst Frank v. Eindhoven, B'dorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8281baa3-b9c8-4235-e6d0-2fa3615e5e53\">https://hdl.handle.net/21.12102/8281baa3-b9c8-4235-e6d0-2fa3615e5e53</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4c9cf776-ef54-99c8-fb2e-21194ffc8741/NL-HlmNHA_1478_33974K00_28/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4c9cf776-ef54-99c8-fb2e-21194ffc8741/NL-HlmNHA_1478_33974K00_28/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/00f1900b-6804-49cc-5b61-0f837894fde3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/00f1900b-6804-49cc-5b61-0f837894fde3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4c9cf776-ef54-99c8-fb2e-21194ffc8741/NL-HlmNHA_1478_33974K00_28/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

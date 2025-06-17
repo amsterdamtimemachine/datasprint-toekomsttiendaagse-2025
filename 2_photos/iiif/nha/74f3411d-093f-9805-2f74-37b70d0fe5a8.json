@@ -1,0 +1,626 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/74f3411d-093f-9805-2f74-37b70d0fe5a8.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Freek Heijbroek, Amsterdam (1999-07-22)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Freek Heijbroek, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1999-07-22"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Freek Heijbroek, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0cacb21f-462b-2188-3c0b-a01a7e47ac31\">https://hdl.handle.net/21.12102/0cacb21f-462b-2188-3c0b-a01a7e47ac31</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d73cdeee-4996-1ca1-de20-73c2f8f83522/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d73cdeee-4996-1ca1-de20-73c2f8f83522",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_30/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Freek Heijbroek, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0ee6772a-e9a7-13e5-274f-24e8d649edf9\">https://hdl.handle.net/21.12102/0ee6772a-e9a7-13e5-274f-24e8d649edf9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/241a4f34-2e23-e7d7-9789-7253252facf1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/241a4f34-2e23-e7d7-9789-7253252facf1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_29/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_28/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Freek Heijbroek, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/21914896-0a68-79d9-40d8-503131069a65\">https://hdl.handle.net/21.12102/21914896-0a68-79d9-40d8-503131069a65</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_28/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_28/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3d24cba5-983a-7e6b-9d7d-e7deeec73c6a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3d24cba5-983a-7e6b-9d7d-e7deeec73c6a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_28/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_27/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Freek Heijbroek, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/32c7a85f-0cb4-45a3-bbe9-51d56e544c38\">https://hdl.handle.net/21.12102/32c7a85f-0cb4-45a3-bbe9-51d56e544c38</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_27/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_27/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ccadecc4-63e5-094e-0652-e62c46868786/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ccadecc4-63e5-094e-0652-e62c46868786",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_27/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_26/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Freek Heijbroek, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3c5cd18c-0f4b-8cb7-0d8e-7ac91ac8fb26\">https://hdl.handle.net/21.12102/3c5cd18c-0f4b-8cb7-0d8e-7ac91ac8fb26</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_26/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_26/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/55d50e88-0d19-766a-add3-0d0cc482f5b9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/55d50e88-0d19-766a-add3-0d0cc482f5b9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_26/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_32/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Freek Heijbroek, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/66ef0002-de05-9315-1f97-14fbc0b28454\">https://hdl.handle.net/21.12102/66ef0002-de05-9315-1f97-14fbc0b28454</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_32/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_32/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4b8d58a1-6526-ba31-1a1f-f153de945be1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4b8d58a1-6526-ba31-1a1f-f153de945be1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_32/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_33/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Freek Heijbroek, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a8155504-f64a-2684-e78b-c3b0b681c93f\">https://hdl.handle.net/21.12102/a8155504-f64a-2684-e78b-c3b0b681c93f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_33/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_33/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d7a13bb4-df6f-13d7-f58a-504565ea22ff/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d7a13bb4-df6f-13d7-f58a-504565ea22ff",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_33/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_34/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Freek Heijbroek, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/bc890de6-fccb-0047-a6f1-ef677a8c2029\">https://hdl.handle.net/21.12102/bc890de6-fccb-0047-a6f1-ef677a8c2029</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_34/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_34/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fb9f6523-715a-92be-da44-2a780b77b2aa/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fb9f6523-715a-92be-da44-2a780b77b2aa",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_34/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_31/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Freek Heijbroek, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/de18963e-be04-0099-1114-24f73d1bc986\">https://hdl.handle.net/21.12102/de18963e-be04-0099-1114-24f73d1bc986</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_31/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_31/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/eb590dd2-7edd-7e7d-8c6c-4c5858c7b28f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/eb590dd2-7edd-7e7d-8c6c-4c5858c7b28f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_31/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_25/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Freek Heijbroek, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/de1f554b-239c-ef81-996e-4a3e0400d49b\">https://hdl.handle.net/21.12102/de1f554b-239c-ef81-996e-4a3e0400d49b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_25/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_25/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/052d4fa8-9c8e-b7dc-31f4-6658540dd0a0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/052d4fa8-9c8e-b7dc-31f4-6658540dd0a0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/74f3411d-093f-9805-2f74-37b70d0fe5a8/NL-HlmNHA_1478_47181K00_25/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/dba43ff0-4b87-cf08-cf23-2818ce7ea9ec.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Uitreiking Zilveren Camera door Premier Van Agt op Schiphol aan ANP-fotograaf Paul Stolk (publiek waaronder Neelie Smit-Kroes) (1980-12-18)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Uitreiking Zilveren Camera door Premier Van Agt op Schiphol aan ANP-fotograaf Paul Stolk (publiek waaronder Neelie Smit-Kroes)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1980-12-18"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dba43ff0-4b87-cf08-cf23-2818ce7ea9ec/NL-HlmNHA_1478_20198K00_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Uitreiking Zilveren Camera door Premier Van Agt op Schiphol aan ANP-fotograaf Paul Stolk (publiek waaronder Neelie Smit-Kroes)"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4df2650b-b013-751c-7f7b-ae216a5c728e\">https://hdl.handle.net/21.12102/4df2650b-b013-751c-7f7b-ae216a5c728e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dba43ff0-4b87-cf08-cf23-2818ce7ea9ec/NL-HlmNHA_1478_20198K00_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dba43ff0-4b87-cf08-cf23-2818ce7ea9ec/NL-HlmNHA_1478_20198K00_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/25d1f14e-a539-e282-51d3-592326e2dd67/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/25d1f14e-a539-e282-51d3-592326e2dd67",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dba43ff0-4b87-cf08-cf23-2818ce7ea9ec/NL-HlmNHA_1478_20198K00_29/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dba43ff0-4b87-cf08-cf23-2818ce7ea9ec/NL-HlmNHA_1478_20198K00_28/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Uitreiking Zilveren Camera door Premier Van Agt op Schiphol aan ANP-fotograaf Paul Stolk (publiek waaronder Neelie Smit-Kroes)"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5c71b726-5eb8-ec1c-235a-8eb736073e59\">https://hdl.handle.net/21.12102/5c71b726-5eb8-ec1c-235a-8eb736073e59</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dba43ff0-4b87-cf08-cf23-2818ce7ea9ec/NL-HlmNHA_1478_20198K00_28/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dba43ff0-4b87-cf08-cf23-2818ce7ea9ec/NL-HlmNHA_1478_20198K00_28/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6dee37c7-c1b8-81d2-1eed-d90274178d65/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6dee37c7-c1b8-81d2-1eed-d90274178d65",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dba43ff0-4b87-cf08-cf23-2818ce7ea9ec/NL-HlmNHA_1478_20198K00_28/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

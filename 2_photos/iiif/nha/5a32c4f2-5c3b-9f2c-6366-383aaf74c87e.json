@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/5a32c4f2-5c3b-9f2c-6366-383aaf74c87e.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Ben van Cranenburg, A'dam (1994-02-01)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Ben van Cranenburg, A'dam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1994-02-01"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5a32c4f2-5c3b-9f2c-6366-383aaf74c87e/NL-HlmNHA_1478_39217K00_26/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ben van Cranenburg, A'dam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7ff30a3b-638d-a5fe-4dcf-9ec2c8b1c6a8\">https://hdl.handle.net/21.12102/7ff30a3b-638d-a5fe-4dcf-9ec2c8b1c6a8</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5a32c4f2-5c3b-9f2c-6366-383aaf74c87e/NL-HlmNHA_1478_39217K00_26/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5a32c4f2-5c3b-9f2c-6366-383aaf74c87e/NL-HlmNHA_1478_39217K00_26/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/210bb74f-2b32-910a-8bc0-071d3b223480/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/210bb74f-2b32-910a-8bc0-071d3b223480",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5a32c4f2-5c3b-9f2c-6366-383aaf74c87e/NL-HlmNHA_1478_39217K00_26/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5a32c4f2-5c3b-9f2c-6366-383aaf74c87e/NL-HlmNHA_1478_39217K00_25/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ben van Cranenburg, A'dam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/954f650c-eecf-fd13-439a-92560aae3b9c\">https://hdl.handle.net/21.12102/954f650c-eecf-fd13-439a-92560aae3b9c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5a32c4f2-5c3b-9f2c-6366-383aaf74c87e/NL-HlmNHA_1478_39217K00_25/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5a32c4f2-5c3b-9f2c-6366-383aaf74c87e/NL-HlmNHA_1478_39217K00_25/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/88e5ac4d-079c-e374-a3d0-4dbcc46b3a67/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/88e5ac4d-079c-e374-a3d0-4dbcc46b3a67",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5a32c4f2-5c3b-9f2c-6366-383aaf74c87e/NL-HlmNHA_1478_39217K00_25/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5a32c4f2-5c3b-9f2c-6366-383aaf74c87e/NL-HlmNHA_1478_39217K00_22/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ben van Cranenburg, A'dam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a8dad158-41cc-7e70-3b67-7f0832872c44\">https://hdl.handle.net/21.12102/a8dad158-41cc-7e70-3b67-7f0832872c44</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5a32c4f2-5c3b-9f2c-6366-383aaf74c87e/NL-HlmNHA_1478_39217K00_22/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5a32c4f2-5c3b-9f2c-6366-383aaf74c87e/NL-HlmNHA_1478_39217K00_22/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d9530be7-c0c3-98a3-343a-54084f52107c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d9530be7-c0c3-98a3-343a-54084f52107c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5a32c4f2-5c3b-9f2c-6366-383aaf74c87e/NL-HlmNHA_1478_39217K00_22/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5a32c4f2-5c3b-9f2c-6366-383aaf74c87e/NL-HlmNHA_1478_39217K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ben van Cranenburg, A'dam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b4888b6a-8d56-508c-a1f0-6dfd1bf0142d\">https://hdl.handle.net/21.12102/b4888b6a-8d56-508c-a1f0-6dfd1bf0142d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5a32c4f2-5c3b-9f2c-6366-383aaf74c87e/NL-HlmNHA_1478_39217K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5a32c4f2-5c3b-9f2c-6366-383aaf74c87e/NL-HlmNHA_1478_39217K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4d25be52-a88f-0664-1577-39bc05f8e035/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4d25be52-a88f-0664-1577-39bc05f8e035",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5a32c4f2-5c3b-9f2c-6366-383aaf74c87e/NL-HlmNHA_1478_39217K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5a32c4f2-5c3b-9f2c-6366-383aaf74c87e/NL-HlmNHA_1478_39217K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ben van Cranenburg, A'dam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/efd1927e-cedd-84f2-fcaa-9a92547dca30\">https://hdl.handle.net/21.12102/efd1927e-cedd-84f2-fcaa-9a92547dca30</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5a32c4f2-5c3b-9f2c-6366-383aaf74c87e/NL-HlmNHA_1478_39217K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5a32c4f2-5c3b-9f2c-6366-383aaf74c87e/NL-HlmNHA_1478_39217K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/322b9c95-b3e4-360a-6e26-e1f1a4723d16/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/322b9c95-b3e4-360a-6e26-e1f1a4723d16",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5a32c4f2-5c3b-9f2c-6366-383aaf74c87e/NL-HlmNHA_1478_39217K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

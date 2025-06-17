@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/e08524e6-f537-1d14-eecf-9cd951838893.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Rattenplaag Claessenstraat, A'dam Dieren (1954-07-01)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Rattenplaag Claessenstraat, A'dam Dieren"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1954-07-01"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q19158747\">Franciscus Claessenstraat</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.8324,
+            52.3836
+          ]
+        },
+        "properties": {
+          "title": "Franciscus Claessenstraat",
+          "url": "http://www.wikidata.org/entity/Q19158747"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e08524e6-f537-1d14-eecf-9cd951838893/NL-HlmNHA_1478_10868B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rattenplaag Claessenstraat, A'dam Dieren"
+        ]
+      },
+      "height": 3048,
+      "width": 2373,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3346fad1-d45a-024b-e598-1e63044cc482\">https://hdl.handle.net/21.12102/3346fad1-d45a-024b-e598-1e63044cc482</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e08524e6-f537-1d14-eecf-9cd951838893/NL-HlmNHA_1478_10868B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e08524e6-f537-1d14-eecf-9cd951838893/NL-HlmNHA_1478_10868B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9c6d4196-7b19-40cd-cce9-9a71aa587a76/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 3048,
+                "width": 2373,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9c6d4196-7b19-40cd-cce9-9a71aa587a76",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e08524e6-f537-1d14-eecf-9cd951838893/NL-HlmNHA_1478_10868B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

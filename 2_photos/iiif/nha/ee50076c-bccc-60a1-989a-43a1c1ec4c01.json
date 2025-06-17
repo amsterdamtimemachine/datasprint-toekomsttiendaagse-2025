@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/ee50076c-bccc-60a1-989a-43a1c1ec4c01.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Oude gymhal, Zwanenburg (2001-01-30)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Oude gymhal, Zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2001-01-30"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ee50076c-bccc-60a1-989a-43a1c1ec4c01/NL-HlmNHA_1478_49014K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Oude gymhal, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8a09c1c4-d527-1412-31ea-9b85ba4685ac\">https://hdl.handle.net/21.12102/8a09c1c4-d527-1412-31ea-9b85ba4685ac</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ee50076c-bccc-60a1-989a-43a1c1ec4c01/NL-HlmNHA_1478_49014K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ee50076c-bccc-60a1-989a-43a1c1ec4c01/NL-HlmNHA_1478_49014K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a46b7f8c-df80-2e84-b5dc-998093b4bd4a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a46b7f8c-df80-2e84-b5dc-998093b4bd4a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ee50076c-bccc-60a1-989a-43a1c1ec4c01/NL-HlmNHA_1478_49014K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ee50076c-bccc-60a1-989a-43a1c1ec4c01/NL-HlmNHA_1478_49014K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Oude gymhal, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9e4ec2a2-d809-1334-1352-9cbd00c8ecc3\">https://hdl.handle.net/21.12102/9e4ec2a2-d809-1334-1352-9cbd00c8ecc3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ee50076c-bccc-60a1-989a-43a1c1ec4c01/NL-HlmNHA_1478_49014K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ee50076c-bccc-60a1-989a-43a1c1ec4c01/NL-HlmNHA_1478_49014K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9da0c404-19c0-1b80-0eb4-e249201c94ec/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9da0c404-19c0-1b80-0eb4-e249201c94ec",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ee50076c-bccc-60a1-989a-43a1c1ec4c01/NL-HlmNHA_1478_49014K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ee50076c-bccc-60a1-989a-43a1c1ec4c01/NL-HlmNHA_1478_49014K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Oude gymhal, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/abbef058-7e77-75f5-677f-0a27bbd3f35a\">https://hdl.handle.net/21.12102/abbef058-7e77-75f5-677f-0a27bbd3f35a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ee50076c-bccc-60a1-989a-43a1c1ec4c01/NL-HlmNHA_1478_49014K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ee50076c-bccc-60a1-989a-43a1c1ec4c01/NL-HlmNHA_1478_49014K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2fc4a876-a516-ca39-7170-d418551b3d7b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2fc4a876-a516-ca39-7170-d418551b3d7b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ee50076c-bccc-60a1-989a-43a1c1ec4c01/NL-HlmNHA_1478_49014K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ee50076c-bccc-60a1-989a-43a1c1ec4c01/NL-HlmNHA_1478_49014K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Oude gymhal, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c0221f5f-ec5e-f7ec-f37c-4df6fec969d5\">https://hdl.handle.net/21.12102/c0221f5f-ec5e-f7ec-f37c-4df6fec969d5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ee50076c-bccc-60a1-989a-43a1c1ec4c01/NL-HlmNHA_1478_49014K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ee50076c-bccc-60a1-989a-43a1c1ec4c01/NL-HlmNHA_1478_49014K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/45f9eff9-afb7-c182-4330-fa76d3d60164/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/45f9eff9-afb7-c182-4330-fa76d3d60164",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ee50076c-bccc-60a1-989a-43a1c1ec4c01/NL-HlmNHA_1478_49014K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ee50076c-bccc-60a1-989a-43a1c1ec4c01/NL-HlmNHA_1478_49014K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Oude gymhal, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d179e4d1-9d5d-0a2c-e76b-a85eff379b2e\">https://hdl.handle.net/21.12102/d179e4d1-9d5d-0a2c-e76b-a85eff379b2e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ee50076c-bccc-60a1-989a-43a1c1ec4c01/NL-HlmNHA_1478_49014K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ee50076c-bccc-60a1-989a-43a1c1ec4c01/NL-HlmNHA_1478_49014K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8d9bbcaa-2989-7bbc-ece5-8a794194792d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8d9bbcaa-2989-7bbc-ece5-8a794194792d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ee50076c-bccc-60a1-989a-43a1c1ec4c01/NL-HlmNHA_1478_49014K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ee50076c-bccc-60a1-989a-43a1c1ec4c01/NL-HlmNHA_1478_49014K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Oude gymhal, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e2d84b9c-96bd-bab8-61f7-cb5cf7ff164f\">https://hdl.handle.net/21.12102/e2d84b9c-96bd-bab8-61f7-cb5cf7ff164f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ee50076c-bccc-60a1-989a-43a1c1ec4c01/NL-HlmNHA_1478_49014K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ee50076c-bccc-60a1-989a-43a1c1ec4c01/NL-HlmNHA_1478_49014K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4e0362df-00b7-1250-d35b-d75d9bfd5cb3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4e0362df-00b7-1250-d35b-d75d9bfd5cb3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ee50076c-bccc-60a1-989a-43a1c1ec4c01/NL-HlmNHA_1478_49014K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

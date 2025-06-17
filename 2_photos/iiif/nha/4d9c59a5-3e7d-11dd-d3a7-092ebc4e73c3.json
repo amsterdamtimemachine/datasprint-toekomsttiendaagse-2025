@@ -1,0 +1,732 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "\"Parijs \"Lido\", Carr\u00e9, Amsterdam (1956-03-21)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "\"Parijs \"Lido\", Carr\u00e9, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1956-03-21"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Toneel"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/26944"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "\"Parijs \"Lido\", Carr\u00e9, Amsterdam"
+        ]
+      },
+      "height": 2512,
+      "width": 2512,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1a6ae675-f0fb-8680-1f62-60850b2655d6\">https://hdl.handle.net/21.12102/1a6ae675-f0fb-8680-1f62-60850b2655d6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3ce509dd-f3b8-609c-c6fe-4b76e13a654c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2512,
+                "width": 2512,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3ce509dd-f3b8-609c-c6fe-4b76e13a654c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "\"Parijs \"Lido\", Carr\u00e9, Amsterdam"
+        ]
+      },
+      "height": 1920,
+      "width": 1920,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3d648773-e108-aba1-4bf0-0812fa98e9f7\">https://hdl.handle.net/21.12102/3d648773-e108-aba1-4bf0-0812fa98e9f7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/50f2dfef-ad65-7df9-34cb-e68bb82faa7b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1920,
+                "width": 1920,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/50f2dfef-ad65-7df9-34cb-e68bb82faa7b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "\"Parijs \"Lido\", Carr\u00e9, Amsterdam"
+        ]
+      },
+      "height": 2585,
+      "width": 2585,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/587ddc67-7a9e-8515-cc65-fb8af3d674b3\">https://hdl.handle.net/21.12102/587ddc67-7a9e-8515-cc65-fb8af3d674b3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a4ba62d8-2f7a-cfaf-f40e-277b3f3a6434/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2585,
+                "width": 2585,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a4ba62d8-2f7a-cfaf-f40e-277b3f3a6434",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "\"Parijs \"Lido\", Carr\u00e9, Amsterdam"
+        ]
+      },
+      "height": 2568,
+      "width": 2568,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/68df3099-2d86-34e3-b2ae-47e0104ce6a2\">https://hdl.handle.net/21.12102/68df3099-2d86-34e3-b2ae-47e0104ce6a2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3c872d6a-a9b6-4c1a-706d-d8a9a43fd72e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2568,
+                "width": 2568,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3c872d6a-a9b6-4c1a-706d-d8a9a43fd72e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_12/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "\"Parijs \"Lido\", Carr\u00e9, Amsterdam"
+        ]
+      },
+      "height": 2579,
+      "width": 2579,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7345c410-04fd-1d1d-b62f-e144badcd2e6\">https://hdl.handle.net/21.12102/7345c410-04fd-1d1d-b62f-e144badcd2e6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6031ea56-63b6-9bd9-91ec-d62f042eb18a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2579,
+                "width": 2579,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6031ea56-63b6-9bd9-91ec-d62f042eb18a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_08/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "\"Parijs \"Lido\", Carr\u00e9, Amsterdam"
+        ]
+      },
+      "height": 2556,
+      "width": 2556,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7980774f-4d45-d47b-858a-ba98400d57a6\">https://hdl.handle.net/21.12102/7980774f-4d45-d47b-858a-ba98400d57a6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ad304657-5187-c78f-6bc7-5935d569fb93/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2556,
+                "width": 2556,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ad304657-5187-c78f-6bc7-5935d569fb93",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "\"Parijs \"Lido\", Carr\u00e9, Amsterdam"
+        ]
+      },
+      "height": 2495,
+      "width": 2495,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/970201df-8f76-7c2a-a0cb-a6d12b32df77\">https://hdl.handle.net/21.12102/970201df-8f76-7c2a-a0cb-a6d12b32df77</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/dda62eee-93a2-873b-a785-c55f5009e879/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2495,
+                "width": 2495,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/dda62eee-93a2-873b-a785-c55f5009e879",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "\"Parijs \"Lido\", Carr\u00e9, Amsterdam"
+        ]
+      },
+      "height": 2575,
+      "width": 2575,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/986f8d12-3454-eae2-0568-ae3624ff45de\">https://hdl.handle.net/21.12102/986f8d12-3454-eae2-0568-ae3624ff45de</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/dd5b8d23-9106-eba7-604e-cf09dd9bbc40/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2575,
+                "width": 2575,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/dd5b8d23-9106-eba7-604e-cf09dd9bbc40",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_09/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "\"Parijs \"Lido\", Carr\u00e9, Amsterdam"
+        ]
+      },
+      "height": 2597,
+      "width": 2597,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a65acc48-7ef9-7bad-6514-9aa8b559abcb\">https://hdl.handle.net/21.12102/a65acc48-7ef9-7bad-6514-9aa8b559abcb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/181d75c4-2642-3b01-a167-77eb80661f3b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2597,
+                "width": 2597,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/181d75c4-2642-3b01-a167-77eb80661f3b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "\"Parijs \"Lido\", Carr\u00e9, Amsterdam"
+        ]
+      },
+      "height": 2252,
+      "width": 2252,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/af8d8d22-3c5b-c0d2-ea5f-e0fc50bcba45\">https://hdl.handle.net/21.12102/af8d8d22-3c5b-c0d2-ea5f-e0fc50bcba45</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/cafcdee9-7fb9-2bfb-82e3-d48d49859752/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2252,
+                "width": 2252,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/cafcdee9-7fb9-2bfb-82e3-d48d49859752",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "\"Parijs \"Lido\", Carr\u00e9, Amsterdam"
+        ]
+      },
+      "height": 2592,
+      "width": 2592,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e2cbbbde-8240-6a95-50db-4f42ccef3bff\">https://hdl.handle.net/21.12102/e2cbbbde-8240-6a95-50db-4f42ccef3bff</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6442a85a-adb1-0779-4dd0-2299b87f8018/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2592,
+                "width": 2592,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6442a85a-adb1-0779-4dd0-2299b87f8018",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_10/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "\"Parijs \"Lido\", Carr\u00e9, Amsterdam"
+        ]
+      },
+      "height": 2560,
+      "width": 2560,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e98acb60-1083-8326-a389-6d15314d2537\">https://hdl.handle.net/21.12102/e98acb60-1083-8326-a389-6d15314d2537</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a3411c6d-47c3-b9bb-a7fd-c1d22dcc7116/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2560,
+                "width": 2560,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a3411c6d-47c3-b9bb-a7fd-c1d22dcc7116",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4d9c59a5-3e7d-11dd-d3a7-092ebc4e73c3/NL-HlmNHA_1478_01453A00_11/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

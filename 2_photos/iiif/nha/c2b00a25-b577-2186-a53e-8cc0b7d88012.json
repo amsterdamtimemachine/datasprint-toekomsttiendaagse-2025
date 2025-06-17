@@ -1,0 +1,467 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/c2b00a25-b577-2186-a53e-8cc0b7d88012.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Bezoekers in metrobuis in aanleg (1979-04-19)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Bezoekers in metrobuis in aanleg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1979-04-19"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c2b00a25-b577-2186-a53e-8cc0b7d88012/NL-HlmNHA_1478_17867K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bezoekers in metrobuis in aanleg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2a23f029-ebd7-0ab9-8316-c60b88305491\">https://hdl.handle.net/21.12102/2a23f029-ebd7-0ab9-8316-c60b88305491</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c2b00a25-b577-2186-a53e-8cc0b7d88012/NL-HlmNHA_1478_17867K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c2b00a25-b577-2186-a53e-8cc0b7d88012/NL-HlmNHA_1478_17867K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e8b731f1-df4a-0662-6906-c38ef118f85a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e8b731f1-df4a-0662-6906-c38ef118f85a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c2b00a25-b577-2186-a53e-8cc0b7d88012/NL-HlmNHA_1478_17867K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c2b00a25-b577-2186-a53e-8cc0b7d88012/NL-HlmNHA_1478_17867K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bezoekers in metrobuis in aanleg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4086e07c-5aeb-24cd-277d-90bfb77ee466\">https://hdl.handle.net/21.12102/4086e07c-5aeb-24cd-277d-90bfb77ee466</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c2b00a25-b577-2186-a53e-8cc0b7d88012/NL-HlmNHA_1478_17867K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c2b00a25-b577-2186-a53e-8cc0b7d88012/NL-HlmNHA_1478_17867K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7f1ae966-4956-ac76-d702-04d7cf2d6cc8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7f1ae966-4956-ac76-d702-04d7cf2d6cc8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c2b00a25-b577-2186-a53e-8cc0b7d88012/NL-HlmNHA_1478_17867K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c2b00a25-b577-2186-a53e-8cc0b7d88012/NL-HlmNHA_1478_17867K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bezoekers in metrobuis in aanleg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7e752172-7ba7-f24e-e69a-c162f0b917fe\">https://hdl.handle.net/21.12102/7e752172-7ba7-f24e-e69a-c162f0b917fe</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c2b00a25-b577-2186-a53e-8cc0b7d88012/NL-HlmNHA_1478_17867K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c2b00a25-b577-2186-a53e-8cc0b7d88012/NL-HlmNHA_1478_17867K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/358d0db9-7ffc-b6e8-d371-8bd893e99c68/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/358d0db9-7ffc-b6e8-d371-8bd893e99c68",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c2b00a25-b577-2186-a53e-8cc0b7d88012/NL-HlmNHA_1478_17867K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c2b00a25-b577-2186-a53e-8cc0b7d88012/NL-HlmNHA_1478_17867K00_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bezoekers in metrobuis in aanleg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/945abaab-2b41-6abd-fd27-b87df67cd75e\">https://hdl.handle.net/21.12102/945abaab-2b41-6abd-fd27-b87df67cd75e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c2b00a25-b577-2186-a53e-8cc0b7d88012/NL-HlmNHA_1478_17867K00_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c2b00a25-b577-2186-a53e-8cc0b7d88012/NL-HlmNHA_1478_17867K00_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7a14c901-4d73-7b54-fb65-44665f2c4715/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7a14c901-4d73-7b54-fb65-44665f2c4715",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c2b00a25-b577-2186-a53e-8cc0b7d88012/NL-HlmNHA_1478_17867K00_09/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c2b00a25-b577-2186-a53e-8cc0b7d88012/NL-HlmNHA_1478_17867K00_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bezoekers in metrobuis in aanleg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9b7ad6f7-52b8-c80f-070e-a45ea8f92dd5\">https://hdl.handle.net/21.12102/9b7ad6f7-52b8-c80f-070e-a45ea8f92dd5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c2b00a25-b577-2186-a53e-8cc0b7d88012/NL-HlmNHA_1478_17867K00_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c2b00a25-b577-2186-a53e-8cc0b7d88012/NL-HlmNHA_1478_17867K00_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0b170eea-4a0d-bfe3-c9a1-ac3ab85c8899/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0b170eea-4a0d-bfe3-c9a1-ac3ab85c8899",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c2b00a25-b577-2186-a53e-8cc0b7d88012/NL-HlmNHA_1478_17867K00_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c2b00a25-b577-2186-a53e-8cc0b7d88012/NL-HlmNHA_1478_17867K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bezoekers in metrobuis in aanleg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c11d5c37-6c71-4e24-2b7d-cfac2505a869\">https://hdl.handle.net/21.12102/c11d5c37-6c71-4e24-2b7d-cfac2505a869</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c2b00a25-b577-2186-a53e-8cc0b7d88012/NL-HlmNHA_1478_17867K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c2b00a25-b577-2186-a53e-8cc0b7d88012/NL-HlmNHA_1478_17867K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/526de1f8-9784-b038-75da-b1a0e4804a4e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/526de1f8-9784-b038-75da-b1a0e4804a4e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c2b00a25-b577-2186-a53e-8cc0b7d88012/NL-HlmNHA_1478_17867K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c2b00a25-b577-2186-a53e-8cc0b7d88012/NL-HlmNHA_1478_17867K00_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bezoekers in metrobuis in aanleg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/cd8a634d-d0bf-3900-6dd1-6724ad4b144e\">https://hdl.handle.net/21.12102/cd8a634d-d0bf-3900-6dd1-6724ad4b144e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c2b00a25-b577-2186-a53e-8cc0b7d88012/NL-HlmNHA_1478_17867K00_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c2b00a25-b577-2186-a53e-8cc0b7d88012/NL-HlmNHA_1478_17867K00_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b934ed20-4a2e-9b9e-e9cd-0d69723ffd97/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b934ed20-4a2e-9b9e-e9cd-0d69723ffd97",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c2b00a25-b577-2186-a53e-8cc0b7d88012/NL-HlmNHA_1478_17867K00_08/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

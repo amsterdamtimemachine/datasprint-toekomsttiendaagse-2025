@@ -1,0 +1,520 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/ad2a1391-e703-5218-19c5-2a78f1720cfd.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Gezelschap voor het Paleis op de Dam (1976)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Gezelschap voor het Paleis op de Dam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1976"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Gezelschap voor het Paleis op de Dam"
+        ]
+      },
+      "height": 2504,
+      "width": 2504,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/02c02eb7-da69-6b25-88d0-c97f442c6f58\">https://hdl.handle.net/21.12102/02c02eb7-da69-6b25-88d0-c97f442c6f58</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/136c9211-4e5b-c0f6-f150-b8e3e1b15742/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2504,
+                "width": 2504,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/136c9211-4e5b-c0f6-f150-b8e3e1b15742",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Gezelschap voor het Paleis op de Dam"
+        ]
+      },
+      "height": 2512,
+      "width": 2512,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1ecd23b7-70df-72d0-98f3-2cae9b0d1ba3\">https://hdl.handle.net/21.12102/1ecd23b7-70df-72d0-98f3-2cae9b0d1ba3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9fbce1f5-1623-46df-9f55-0827f3e6ad99/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2512,
+                "width": 2512,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9fbce1f5-1623-46df-9f55-0827f3e6ad99",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Gezelschap voor het Paleis op de Dam"
+        ]
+      },
+      "height": 2516,
+      "width": 2516,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5c3b9e2f-f7c7-425a-70de-d6daa2c6e537\">https://hdl.handle.net/21.12102/5c3b9e2f-f7c7-425a-70de-d6daa2c6e537</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2607b0dd-2029-93b9-4cae-7f77b2f5be1e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2516,
+                "width": 2516,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2607b0dd-2029-93b9-4cae-7f77b2f5be1e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Gezelschap voor het Paleis op de Dam"
+        ]
+      },
+      "height": 2516,
+      "width": 2516,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/62f62899-dd98-0f22-7c57-8dde623bff2a\">https://hdl.handle.net/21.12102/62f62899-dd98-0f22-7c57-8dde623bff2a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8e4cabb4-a501-4e2e-017d-b3fee750ce8e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2516,
+                "width": 2516,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8e4cabb4-a501-4e2e-017d-b3fee750ce8e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Gezelschap voor het Paleis op de Dam"
+        ]
+      },
+      "height": 2516,
+      "width": 2516,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8be043a0-a9f4-7910-9e20-da8790ccb6ae\">https://hdl.handle.net/21.12102/8be043a0-a9f4-7910-9e20-da8790ccb6ae</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f0255c36-8f67-cfef-f2d5-0edb85f97935/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2516,
+                "width": 2516,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f0255c36-8f67-cfef-f2d5-0edb85f97935",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Gezelschap voor het Paleis op de Dam"
+        ]
+      },
+      "height": 2512,
+      "width": 2512,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/94891c8a-f430-c72c-86a3-8bc89f2ae812\">https://hdl.handle.net/21.12102/94891c8a-f430-c72c-86a3-8bc89f2ae812</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/65c62668-13a0-0b25-af3d-5574511bba86/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2512,
+                "width": 2512,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/65c62668-13a0-0b25-af3d-5574511bba86",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Gezelschap voor het Paleis op de Dam"
+        ]
+      },
+      "height": 2520,
+      "width": 2520,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c503deab-5594-7115-b611-dcf5deb3a85c\">https://hdl.handle.net/21.12102/c503deab-5594-7115-b611-dcf5deb3a85c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2df8e576-0f52-1301-c672-22c3d41dcac4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2520,
+                "width": 2520,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2df8e576-0f52-1301-c672-22c3d41dcac4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_08/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Gezelschap voor het Paleis op de Dam"
+        ]
+      },
+      "height": 2511,
+      "width": 2511,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/dd7f5683-52af-9e6e-090d-26b6d12f4478\">https://hdl.handle.net/21.12102/dd7f5683-52af-9e6e-090d-26b6d12f4478</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f544c3a8-ff06-e8c8-d7f2-706f7034686a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2511,
+                "width": 2511,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f544c3a8-ff06-e8c8-d7f2-706f7034686a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ad2a1391-e703-5218-19c5-2a78f1720cfd/NL-HlmNHA_1478_03360A00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

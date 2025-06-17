@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/87637d0b-e774-535e-f859-cbb9930070cf.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Diesellocomotief voor de kap van het Centraal Station, Amsterdam (1952-05)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Diesellocomotief voor de kap van het Centraal Station, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1952-05"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2095205\">Stationsplein</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.899167,
+            52.378056
+          ]
+        },
+        "properties": {
+          "title": "Stationsplein",
+          "url": "http://www.wikidata.org/entity/Q2095205"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/87637d0b-e774-535e-f859-cbb9930070cf/NL-HlmNHA_1478_00721A00_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Diesellocomotief voor de kap van het Centraal Station, Amsterdam"
+        ]
+      },
+      "height": 2625,
+      "width": 2625,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b2b24de6-0d29-53a3-cbb6-e33062a8bffd\">https://hdl.handle.net/21.12102/b2b24de6-0d29-53a3-cbb6-e33062a8bffd</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/87637d0b-e774-535e-f859-cbb9930070cf/NL-HlmNHA_1478_00721A00_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/87637d0b-e774-535e-f859-cbb9930070cf/NL-HlmNHA_1478_00721A00_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/aa277be4-d66b-e5b3-6bc2-309677967ef4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2625,
+                "width": 2625,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/aa277be4-d66b-e5b3-6bc2-309677967ef4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/87637d0b-e774-535e-f859-cbb9930070cf/NL-HlmNHA_1478_00721A00_11/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

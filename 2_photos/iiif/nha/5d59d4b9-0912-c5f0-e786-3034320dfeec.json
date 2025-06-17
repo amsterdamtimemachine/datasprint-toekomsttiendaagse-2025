@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/5d59d4b9-0912-c5f0-e786-3034320dfeec.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Int. Wasserij Sloterdijk (1972-11-27)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Int. Wasserij Sloterdijk"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1972-11-27"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Fa. Geerts ingenieurs bureau"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5d59d4b9-0912-c5f0-e786-3034320dfeec/NL-HlmNHA_1478_00164C04_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Int. Wasserij Sloterdijk"
+        ]
+      },
+      "height": 2184,
+      "width": 2859,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/02b1756e-c639-9b62-caa2-38816d5825a0\">https://hdl.handle.net/21.12102/02b1756e-c639-9b62-caa2-38816d5825a0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5d59d4b9-0912-c5f0-e786-3034320dfeec/NL-HlmNHA_1478_00164C04_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5d59d4b9-0912-c5f0-e786-3034320dfeec/NL-HlmNHA_1478_00164C04_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5e6483ce-36bc-6f8f-580f-f43bb900e258/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2184,
+                "width": 2859,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5e6483ce-36bc-6f8f-580f-f43bb900e258",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5d59d4b9-0912-c5f0-e786-3034320dfeec/NL-HlmNHA_1478_00164C04_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

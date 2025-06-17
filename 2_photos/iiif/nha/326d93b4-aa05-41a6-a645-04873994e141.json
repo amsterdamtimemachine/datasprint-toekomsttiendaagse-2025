@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/326d93b4-aa05-41a6-a645-04873994e141.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Schiphol Spoorlijn Rijksweg 4 (1975-12-23)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Schiphol Spoorlijn Rijksweg 4"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1975-12-23"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Rijksweg 4"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Spoorwegen, Schiphol"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/25166"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Rijksweg 4",
+          "url": ""
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/326d93b4-aa05-41a6-a645-04873994e141/NL-HlmNHA_1478_14283K00_25/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schiphol Spoorlijn Rijksweg 4"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/30e13da5-3ef3-c8c6-bcd1-43a79eb4cb11\">https://hdl.handle.net/21.12102/30e13da5-3ef3-c8c6-bcd1-43a79eb4cb11</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/326d93b4-aa05-41a6-a645-04873994e141/NL-HlmNHA_1478_14283K00_25/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/326d93b4-aa05-41a6-a645-04873994e141/NL-HlmNHA_1478_14283K00_25/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9dd1f154-5f8f-1d04-86a8-b7d5d584dbc6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9dd1f154-5f8f-1d04-86a8-b7d5d584dbc6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/326d93b4-aa05-41a6-a645-04873994e141/NL-HlmNHA_1478_14283K00_25/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/326d93b4-aa05-41a6-a645-04873994e141/NL-HlmNHA_1478_14283K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schiphol Spoorlijn Rijksweg 4"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a2ee7cb7-75a1-48fb-7a93-be5d0eccfbd4\">https://hdl.handle.net/21.12102/a2ee7cb7-75a1-48fb-7a93-be5d0eccfbd4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/326d93b4-aa05-41a6-a645-04873994e141/NL-HlmNHA_1478_14283K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/326d93b4-aa05-41a6-a645-04873994e141/NL-HlmNHA_1478_14283K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/dd829578-313c-aff6-f967-1b71135aafa1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/dd829578-313c-aff6-f967-1b71135aafa1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/326d93b4-aa05-41a6-a645-04873994e141/NL-HlmNHA_1478_14283K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/326d93b4-aa05-41a6-a645-04873994e141/NL-HlmNHA_1478_14283K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schiphol Spoorlijn Rijksweg 4"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/fbce8fc8-aa67-55ed-d84a-475cee0c6435\">https://hdl.handle.net/21.12102/fbce8fc8-aa67-55ed-d84a-475cee0c6435</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/326d93b4-aa05-41a6-a645-04873994e141/NL-HlmNHA_1478_14283K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/326d93b4-aa05-41a6-a645-04873994e141/NL-HlmNHA_1478_14283K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/db1b2297-40bd-1d8f-f513-74585aa2d51f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/db1b2297-40bd-1d8f-f513-74585aa2d51f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/326d93b4-aa05-41a6-a645-04873994e141/NL-HlmNHA_1478_14283K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

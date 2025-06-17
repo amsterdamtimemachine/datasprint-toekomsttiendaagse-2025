@@ -1,0 +1,732 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/6ef8dedb-0840-e644-40dc-7472db842da8.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "File voor Schipholtunnel vanaf Amsterdam (1985-03-23)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "File voor Schipholtunnel vanaf Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1985-03-23"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Tunnels, Drukte"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/28094"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_21/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "File voor Schipholtunnel vanaf Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/17df426c-53d3-fc50-25c3-fde31b6d6c6c\">https://hdl.handle.net/21.12102/17df426c-53d3-fc50-25c3-fde31b6d6c6c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_21/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_21/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b4a1455f-de69-53ef-e2cc-159ede5c400d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b4a1455f-de69-53ef-e2cc-159ede5c400d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_21/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "File voor Schipholtunnel vanaf Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2bb258b7-1e57-e032-40a4-68e6b24f880e\">https://hdl.handle.net/21.12102/2bb258b7-1e57-e032-40a4-68e6b24f880e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/85dd61b0-8793-1c9e-ec22-379e8f5183e1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/85dd61b0-8793-1c9e-ec22-379e8f5183e1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "File voor Schipholtunnel vanaf Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2c60dd13-0660-8e69-750a-95f936b6a97a\">https://hdl.handle.net/21.12102/2c60dd13-0660-8e69-750a-95f936b6a97a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/be0e53c4-99ac-3a23-db80-37836dabfa32/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/be0e53c4-99ac-3a23-db80-37836dabfa32",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "File voor Schipholtunnel vanaf Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/57e9d68c-0dca-03db-b7b1-b833b02ca5d8\">https://hdl.handle.net/21.12102/57e9d68c-0dca-03db-b7b1-b833b02ca5d8</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/98970b61-b595-1298-8653-e948de2cbbf3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/98970b61-b595-1298-8653-e948de2cbbf3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "File voor Schipholtunnel vanaf Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/746b3bd9-f367-d4df-2c21-6021163ee7ac\">https://hdl.handle.net/21.12102/746b3bd9-f367-d4df-2c21-6021163ee7ac</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3b8ab3e9-ce6b-383c-79e0-6b59ec6989b6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3b8ab3e9-ce6b-383c-79e0-6b59ec6989b6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "File voor Schipholtunnel vanaf Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/86d981f9-0ea8-dc4b-248b-691927703cf4\">https://hdl.handle.net/21.12102/86d981f9-0ea8-dc4b-248b-691927703cf4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d1f42ef8-13f2-1ab6-7bea-269fd86d9c24/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d1f42ef8-13f2-1ab6-7bea-269fd86d9c24",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "File voor Schipholtunnel vanaf Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9698d28f-56db-278e-1ef5-3339981337c1\">https://hdl.handle.net/21.12102/9698d28f-56db-278e-1ef5-3339981337c1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5fc49ebd-8700-648d-9f51-62ffa098fa08/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5fc49ebd-8700-648d-9f51-62ffa098fa08",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "File voor Schipholtunnel vanaf Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a8f7a169-5adf-0d82-8de2-da22f7295b3b\">https://hdl.handle.net/21.12102/a8f7a169-5adf-0d82-8de2-da22f7295b3b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0fa6ec50-6372-2d11-01e9-1f6e45c5fa21/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0fa6ec50-6372-2d11-01e9-1f6e45c5fa21",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "File voor Schipholtunnel vanaf Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d672f125-77d7-6b3c-0683-972a2baff472\">https://hdl.handle.net/21.12102/d672f125-77d7-6b3c-0683-972a2baff472</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/48b70896-cac7-0417-a2c9-23ba6c6ea0d3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/48b70896-cac7-0417-a2c9-23ba6c6ea0d3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_22/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "File voor Schipholtunnel vanaf Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ddf2a2e9-3f20-4405-e222-2283856f78d7\">https://hdl.handle.net/21.12102/ddf2a2e9-3f20-4405-e222-2283856f78d7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_22/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_22/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2d005efd-b815-73d0-16be-38cde3b04e58/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2d005efd-b815-73d0-16be-38cde3b04e58",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_22/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "File voor Schipholtunnel vanaf Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/eb673d23-a89e-9d81-d4bd-84b6c4d6bb72\">https://hdl.handle.net/21.12102/eb673d23-a89e-9d81-d4bd-84b6c4d6bb72</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f75126c1-f89d-4230-b11c-1c4d9756d14f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f75126c1-f89d-4230-b11c-1c4d9756d14f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "File voor Schipholtunnel vanaf Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ffae7cfd-127d-21e1-e3c0-510f3898be57\">https://hdl.handle.net/21.12102/ffae7cfd-127d-21e1-e3c0-510f3898be57</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/91be1538-bfa6-6e80-0ca8-93c98d15f4fb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/91be1538-bfa6-6e80-0ca8-93c98d15f4fb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6ef8dedb-0840-e644-40dc-7472db842da8/NL-HlmNHA_1478_24990K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

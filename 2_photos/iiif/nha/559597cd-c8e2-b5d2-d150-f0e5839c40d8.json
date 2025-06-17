@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/559597cd-c8e2-b5d2-d150-f0e5839c40d8.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Toos Overdoos, vuurvreetster, Amsterdam (1985-08-01)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Toos Overdoos, vuurvreetster, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1985-08-01"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Personen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/559597cd-c8e2-b5d2-d150-f0e5839c40d8/NL-HlmNHA_1478_25376K00_21/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Toos Overdoos, vuurvreetster, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b63cffd6-9963-b948-900c-b9818a363f36\">https://hdl.handle.net/21.12102/b63cffd6-9963-b948-900c-b9818a363f36</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/559597cd-c8e2-b5d2-d150-f0e5839c40d8/NL-HlmNHA_1478_25376K00_21/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/559597cd-c8e2-b5d2-d150-f0e5839c40d8/NL-HlmNHA_1478_25376K00_21/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5ce04d9b-01f5-3c8b-a1a5-40d3f471b71f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5ce04d9b-01f5-3c8b-a1a5-40d3f471b71f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/559597cd-c8e2-b5d2-d150-f0e5839c40d8/NL-HlmNHA_1478_25376K00_21/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/559597cd-c8e2-b5d2-d150-f0e5839c40d8/NL-HlmNHA_1478_25376K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Toos Overdoos, vuurvreetster, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ccedaea2-c9c9-e43d-9fde-2a7223942536\">https://hdl.handle.net/21.12102/ccedaea2-c9c9-e43d-9fde-2a7223942536</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/559597cd-c8e2-b5d2-d150-f0e5839c40d8/NL-HlmNHA_1478_25376K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/559597cd-c8e2-b5d2-d150-f0e5839c40d8/NL-HlmNHA_1478_25376K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e089a0b3-d775-0b8d-04f0-8caf32f9b0e3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e089a0b3-d775-0b8d-04f0-8caf32f9b0e3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/559597cd-c8e2-b5d2-d150-f0e5839c40d8/NL-HlmNHA_1478_25376K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/559597cd-c8e2-b5d2-d150-f0e5839c40d8/NL-HlmNHA_1478_25376K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Toos Overdoos, vuurvreetster, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d310dee8-b3d5-c292-62ba-2fb5b9024d5a\">https://hdl.handle.net/21.12102/d310dee8-b3d5-c292-62ba-2fb5b9024d5a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/559597cd-c8e2-b5d2-d150-f0e5839c40d8/NL-HlmNHA_1478_25376K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/559597cd-c8e2-b5d2-d150-f0e5839c40d8/NL-HlmNHA_1478_25376K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3266f0d7-317f-6e6b-c262-983a7ec7411e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3266f0d7-317f-6e6b-c262-983a7ec7411e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/559597cd-c8e2-b5d2-d150-f0e5839c40d8/NL-HlmNHA_1478_25376K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/f395d5c1-faa6-4215-73f6-a94398699ea4.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Rattenvanger Rob van Amsterdam (1988-08-10)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Rattenvanger Rob van Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1988-08-10"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Dieren, Personen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/28543"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f395d5c1-faa6-4215-73f6-a94398699ea4/NL-HlmNHA_1478_29416K01_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rattenvanger Rob van Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/028698a4-e94a-f8c7-d8d8-ce2feeebc7a2\">https://hdl.handle.net/21.12102/028698a4-e94a-f8c7-d8d8-ce2feeebc7a2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f395d5c1-faa6-4215-73f6-a94398699ea4/NL-HlmNHA_1478_29416K01_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f395d5c1-faa6-4215-73f6-a94398699ea4/NL-HlmNHA_1478_29416K01_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/491f7925-c9a7-727b-7053-ed3cb3ce5d37/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/491f7925-c9a7-727b-7053-ed3cb3ce5d37",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f395d5c1-faa6-4215-73f6-a94398699ea4/NL-HlmNHA_1478_29416K01_12/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f395d5c1-faa6-4215-73f6-a94398699ea4/NL-HlmNHA_1478_29416K01_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rattenvanger Rob van Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5278b439-a745-1cb2-74e3-7ac05f24fdbf\">https://hdl.handle.net/21.12102/5278b439-a745-1cb2-74e3-7ac05f24fdbf</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f395d5c1-faa6-4215-73f6-a94398699ea4/NL-HlmNHA_1478_29416K01_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f395d5c1-faa6-4215-73f6-a94398699ea4/NL-HlmNHA_1478_29416K01_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5b21a62b-847c-e5e2-bbf5-ffa0a9cc04aa/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5b21a62b-847c-e5e2-bbf5-ffa0a9cc04aa",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f395d5c1-faa6-4215-73f6-a94398699ea4/NL-HlmNHA_1478_29416K01_11/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f395d5c1-faa6-4215-73f6-a94398699ea4/NL-HlmNHA_1478_29416K01_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rattenvanger Rob van Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/69751ee2-5ce0-ac95-9074-c711acc9b152\">https://hdl.handle.net/21.12102/69751ee2-5ce0-ac95-9074-c711acc9b152</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f395d5c1-faa6-4215-73f6-a94398699ea4/NL-HlmNHA_1478_29416K01_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f395d5c1-faa6-4215-73f6-a94398699ea4/NL-HlmNHA_1478_29416K01_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/11740700-16a6-738d-4497-aed4fb7b947c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/11740700-16a6-738d-4497-aed4fb7b947c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f395d5c1-faa6-4215-73f6-a94398699ea4/NL-HlmNHA_1478_29416K01_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f395d5c1-faa6-4215-73f6-a94398699ea4/NL-HlmNHA_1478_29416K01_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rattenvanger Rob van Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6ae031da-c1b8-fbaa-c155-27043dea8ff2\">https://hdl.handle.net/21.12102/6ae031da-c1b8-fbaa-c155-27043dea8ff2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f395d5c1-faa6-4215-73f6-a94398699ea4/NL-HlmNHA_1478_29416K01_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f395d5c1-faa6-4215-73f6-a94398699ea4/NL-HlmNHA_1478_29416K01_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a23fd909-d2bc-7f79-cdb7-cef89405e77e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a23fd909-d2bc-7f79-cdb7-cef89405e77e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f395d5c1-faa6-4215-73f6-a94398699ea4/NL-HlmNHA_1478_29416K01_08/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f395d5c1-faa6-4215-73f6-a94398699ea4/NL-HlmNHA_1478_29416K01_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rattenvanger Rob van Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c9471eeb-c994-910f-43df-f13e7b0917bf\">https://hdl.handle.net/21.12102/c9471eeb-c994-910f-43df-f13e7b0917bf</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f395d5c1-faa6-4215-73f6-a94398699ea4/NL-HlmNHA_1478_29416K01_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f395d5c1-faa6-4215-73f6-a94398699ea4/NL-HlmNHA_1478_29416K01_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3b0df089-f0da-cd8f-bb88-1de077e6536a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3b0df089-f0da-cd8f-bb88-1de077e6536a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f395d5c1-faa6-4215-73f6-a94398699ea4/NL-HlmNHA_1478_29416K01_09/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f395d5c1-faa6-4215-73f6-a94398699ea4/NL-HlmNHA_1478_29416K01_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rattenvanger Rob van Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e7f6b3f9-8510-fd3d-b4c6-4db9bd293587\">https://hdl.handle.net/21.12102/e7f6b3f9-8510-fd3d-b4c6-4db9bd293587</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f395d5c1-faa6-4215-73f6-a94398699ea4/NL-HlmNHA_1478_29416K01_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f395d5c1-faa6-4215-73f6-a94398699ea4/NL-HlmNHA_1478_29416K01_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5034a3bd-db53-5aae-fa88-07463ed88d7c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5034a3bd-db53-5aae-fa88-07463ed88d7c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f395d5c1-faa6-4215-73f6-a94398699ea4/NL-HlmNHA_1478_29416K01_10/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

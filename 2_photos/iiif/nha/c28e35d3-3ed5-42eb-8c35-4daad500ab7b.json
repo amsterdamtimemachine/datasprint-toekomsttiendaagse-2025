@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/c28e35d3-3ed5-42eb-8c35-4daad500ab7b.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Inzaaien akker, Zwanenburg (2001-05-14)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Inzaaien akker, Zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2001-05-14"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c28e35d3-3ed5-42eb-8c35-4daad500ab7b/NL-HlmNHA_1478_49361K00_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Inzaaien akker, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1374cc13-78f7-018e-8c55-43465688cdda\">https://hdl.handle.net/21.12102/1374cc13-78f7-018e-8c55-43465688cdda</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c28e35d3-3ed5-42eb-8c35-4daad500ab7b/NL-HlmNHA_1478_49361K00_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c28e35d3-3ed5-42eb-8c35-4daad500ab7b/NL-HlmNHA_1478_49361K00_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a07f642f-a71a-3925-1c56-3104b48488e6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a07f642f-a71a-3925-1c56-3104b48488e6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c28e35d3-3ed5-42eb-8c35-4daad500ab7b/NL-HlmNHA_1478_49361K00_29/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c28e35d3-3ed5-42eb-8c35-4daad500ab7b/NL-HlmNHA_1478_49361K00_25/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Inzaaien akker, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3681ee32-8df0-487a-ce89-620a38e45d83\">https://hdl.handle.net/21.12102/3681ee32-8df0-487a-ce89-620a38e45d83</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c28e35d3-3ed5-42eb-8c35-4daad500ab7b/NL-HlmNHA_1478_49361K00_25/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c28e35d3-3ed5-42eb-8c35-4daad500ab7b/NL-HlmNHA_1478_49361K00_25/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a7b3ca6c-6e4b-a47e-a092-614f710adbde/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a7b3ca6c-6e4b-a47e-a092-614f710adbde",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c28e35d3-3ed5-42eb-8c35-4daad500ab7b/NL-HlmNHA_1478_49361K00_25/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c28e35d3-3ed5-42eb-8c35-4daad500ab7b/NL-HlmNHA_1478_49361K00_26/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Inzaaien akker, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6bc382a7-fada-9453-16cf-eed9d778d08d\">https://hdl.handle.net/21.12102/6bc382a7-fada-9453-16cf-eed9d778d08d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c28e35d3-3ed5-42eb-8c35-4daad500ab7b/NL-HlmNHA_1478_49361K00_26/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c28e35d3-3ed5-42eb-8c35-4daad500ab7b/NL-HlmNHA_1478_49361K00_26/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/83346185-af96-53e0-c460-70f2fae6c0a6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/83346185-af96-53e0-c460-70f2fae6c0a6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c28e35d3-3ed5-42eb-8c35-4daad500ab7b/NL-HlmNHA_1478_49361K00_26/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c28e35d3-3ed5-42eb-8c35-4daad500ab7b/NL-HlmNHA_1478_49361K00_27/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Inzaaien akker, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/804b41ae-bbaa-ba1c-e726-174be3aba5ba\">https://hdl.handle.net/21.12102/804b41ae-bbaa-ba1c-e726-174be3aba5ba</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c28e35d3-3ed5-42eb-8c35-4daad500ab7b/NL-HlmNHA_1478_49361K00_27/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c28e35d3-3ed5-42eb-8c35-4daad500ab7b/NL-HlmNHA_1478_49361K00_27/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/39d327d9-25fd-ff28-1892-12d9202c231f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/39d327d9-25fd-ff28-1892-12d9202c231f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c28e35d3-3ed5-42eb-8c35-4daad500ab7b/NL-HlmNHA_1478_49361K00_27/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c28e35d3-3ed5-42eb-8c35-4daad500ab7b/NL-HlmNHA_1478_49361K00_28/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Inzaaien akker, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ba5d5175-d447-08ed-9c35-235b23ed6230\">https://hdl.handle.net/21.12102/ba5d5175-d447-08ed-9c35-235b23ed6230</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c28e35d3-3ed5-42eb-8c35-4daad500ab7b/NL-HlmNHA_1478_49361K00_28/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c28e35d3-3ed5-42eb-8c35-4daad500ab7b/NL-HlmNHA_1478_49361K00_28/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0a9825c6-f6d9-8222-7044-96125bc28e56/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0a9825c6-f6d9-8222-7044-96125bc28e56",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c28e35d3-3ed5-42eb-8c35-4daad500ab7b/NL-HlmNHA_1478_49361K00_28/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c28e35d3-3ed5-42eb-8c35-4daad500ab7b/NL-HlmNHA_1478_49361K00_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Inzaaien akker, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c6f69a16-581b-a16c-0e5f-bcbe34ebe05f\">https://hdl.handle.net/21.12102/c6f69a16-581b-a16c-0e5f-bcbe34ebe05f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c28e35d3-3ed5-42eb-8c35-4daad500ab7b/NL-HlmNHA_1478_49361K00_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c28e35d3-3ed5-42eb-8c35-4daad500ab7b/NL-HlmNHA_1478_49361K00_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3437f84d-2711-4f17-ab08-f2a4499f1aa9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3437f84d-2711-4f17-ab08-f2a4499f1aa9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c28e35d3-3ed5-42eb-8c35-4daad500ab7b/NL-HlmNHA_1478_49361K00_30/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

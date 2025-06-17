@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/ace2eb84-f2c9-0308-543b-bb4e9a31ecae.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Yma S\u00famac Amsterdam (1954-04-19)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Yma S\u00famac Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1954-04-19"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Zang en zangkoren"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ace2eb84-f2c9-0308-543b-bb4e9a31ecae/NL-HlmNHA_1478_10312B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Yma S\u00famac Amsterdam"
+        ]
+      },
+      "height": 2815,
+      "width": 2216,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/67448217-e9d4-5119-c6c5-2b56eff47b0e\">https://hdl.handle.net/21.12102/67448217-e9d4-5119-c6c5-2b56eff47b0e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ace2eb84-f2c9-0308-543b-bb4e9a31ecae/NL-HlmNHA_1478_10312B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ace2eb84-f2c9-0308-543b-bb4e9a31ecae/NL-HlmNHA_1478_10312B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/18c83e8c-a953-0636-a7ea-4f5bf1036487/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2815,
+                "width": 2216,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/18c83e8c-a953-0636-a7ea-4f5bf1036487",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ace2eb84-f2c9-0308-543b-bb4e9a31ecae/NL-HlmNHA_1478_10312B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

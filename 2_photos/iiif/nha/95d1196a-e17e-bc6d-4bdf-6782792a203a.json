@@ -1,0 +1,732 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/95d1196a-e17e-bc6d-4bdf-6782792a203a.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Portret Bram Volkers galerie Asselijn Amsterdam (1979-08-16)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Portret Bram Volkers galerie Asselijn Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1979-08-16"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Galerie"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Bram Volkers galerie Asselijn Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/163ffead-5378-96d3-99fd-6c0276bc7a69\">https://hdl.handle.net/21.12102/163ffead-5378-96d3-99fd-6c0276bc7a69</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/72e011d8-bbfc-a98d-662a-13db03b856f0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/72e011d8-bbfc-a98d-662a-13db03b856f0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Bram Volkers galerie Asselijn Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3132a563-8eb7-e85e-043b-72f3584aee26\">https://hdl.handle.net/21.12102/3132a563-8eb7-e85e-043b-72f3584aee26</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fe4f1bd0-c331-3750-b6d0-6ce47b044bed/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fe4f1bd0-c331-3750-b6d0-6ce47b044bed",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Bram Volkers galerie Asselijn Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3c7ecc4a-400f-2646-2bfe-7dbf46c8186d\">https://hdl.handle.net/21.12102/3c7ecc4a-400f-2646-2bfe-7dbf46c8186d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e445752a-5c31-021a-4459-02994f45082c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e445752a-5c31-021a-4459-02994f45082c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Bram Volkers galerie Asselijn Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/41101861-ed3f-07c5-a5c1-fbe99481049c\">https://hdl.handle.net/21.12102/41101861-ed3f-07c5-a5c1-fbe99481049c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7af7e397-cdbe-a14e-f999-96a2f433571c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7af7e397-cdbe-a14e-f999-96a2f433571c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_21/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Bram Volkers galerie Asselijn Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/66599a76-00a7-87a8-83c2-fc6a7d0a51be\">https://hdl.handle.net/21.12102/66599a76-00a7-87a8-83c2-fc6a7d0a51be</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_21/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_21/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/66d48965-ff2c-50bf-4345-ace353f16a24/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/66d48965-ff2c-50bf-4345-ace353f16a24",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_21/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Bram Volkers galerie Asselijn Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/806d2e75-92d0-8551-eb70-b3896d7228e1\">https://hdl.handle.net/21.12102/806d2e75-92d0-8551-eb70-b3896d7228e1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b11f5249-bfc3-5998-6590-d2e20da08397/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b11f5249-bfc3-5998-6590-d2e20da08397",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Bram Volkers galerie Asselijn Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/820b90cf-6a89-6c74-614d-5c9ee1d85f87\">https://hdl.handle.net/21.12102/820b90cf-6a89-6c74-614d-5c9ee1d85f87</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6430e0d2-33a9-cb84-b76c-894ebccdd6d1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6430e0d2-33a9-cb84-b76c-894ebccdd6d1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Bram Volkers galerie Asselijn Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8473772b-6255-66cf-cce1-bb64c2ee43c8\">https://hdl.handle.net/21.12102/8473772b-6255-66cf-cce1-bb64c2ee43c8</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b4fdc4ac-44e7-7b1f-9b12-311c557b3ebf/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b4fdc4ac-44e7-7b1f-9b12-311c557b3ebf",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_10/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Bram Volkers galerie Asselijn Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a72b1346-d03f-4212-7ea1-ef65ad2e3836\">https://hdl.handle.net/21.12102/a72b1346-d03f-4212-7ea1-ef65ad2e3836</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2fac2dae-3142-def9-1f9c-53f1f9566197/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2fac2dae-3142-def9-1f9c-53f1f9566197",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Bram Volkers galerie Asselijn Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c2594ad2-1d64-672c-77da-d08c346325c4\">https://hdl.handle.net/21.12102/c2594ad2-1d64-672c-77da-d08c346325c4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/28addfc8-4127-2498-fec2-55783128a723/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/28addfc8-4127-2498-fec2-55783128a723",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_12/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Bram Volkers galerie Asselijn Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ece1d20e-302e-5c2b-a122-bcedfcab65ca\">https://hdl.handle.net/21.12102/ece1d20e-302e-5c2b-a122-bcedfcab65ca</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/03a8b3e7-f13d-3150-c206-e388089bd0c3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/03a8b3e7-f13d-3150-c206-e388089bd0c3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Bram Volkers galerie Asselijn Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/fda9b458-c283-e46d-36bf-926531b12893\">https://hdl.handle.net/21.12102/fda9b458-c283-e46d-36bf-926531b12893</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d8bed6cb-39ff-af66-701e-7147c6dd947f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d8bed6cb-39ff-af66-701e-7147c6dd947f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/95d1196a-e17e-bc6d-4bdf-6782792a203a/NL-HlmNHA_1478_18297K00_11/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

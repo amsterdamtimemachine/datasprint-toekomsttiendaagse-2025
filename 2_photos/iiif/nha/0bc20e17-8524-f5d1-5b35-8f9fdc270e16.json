@@ -1,0 +1,732 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/0bc20e17-8524-f5d1-5b35-8f9fdc270e16.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Heineken Roeivierkamp Amsterdam (2003-03-16)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Heineken Roeivierkamp Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2003-03-16"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Heineken Roeivierkamp Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0c9cf06e-799e-4512-7353-252f50f7107c\">https://hdl.handle.net/21.12102/0c9cf06e-799e-4512-7353-252f50f7107c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/72e700b7-7f63-e6b9-a415-be794fd5d7eb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/72e700b7-7f63-e6b9-a415-be794fd5d7eb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Heineken Roeivierkamp Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1f8c73de-fd3d-2570-8620-13e9ff4c126b\">https://hdl.handle.net/21.12102/1f8c73de-fd3d-2570-8620-13e9ff4c126b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fa8ca506-e713-b448-bf3e-5612a34f4358/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fa8ca506-e713-b448-bf3e-5612a34f4358",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Heineken Roeivierkamp Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/309b6654-3a50-2a48-f274-3d122ff2d991\">https://hdl.handle.net/21.12102/309b6654-3a50-2a48-f274-3d122ff2d991</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/630c39b7-8931-0def-58e3-f06ffc3d722a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/630c39b7-8931-0def-58e3-f06ffc3d722a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Heineken Roeivierkamp Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/35c8f631-6fff-4d50-f6b0-fc9cc5b305a9\">https://hdl.handle.net/21.12102/35c8f631-6fff-4d50-f6b0-fc9cc5b305a9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/502b201a-ce71-8a7a-e046-9239bbc08baa/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/502b201a-ce71-8a7a-e046-9239bbc08baa",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_22/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Heineken Roeivierkamp Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3c4122a8-ed54-c949-d00b-ed3985f6193e\">https://hdl.handle.net/21.12102/3c4122a8-ed54-c949-d00b-ed3985f6193e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_22/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_22/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/30db2dd7-abf3-e291-c4bb-fd3a495c6c13/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/30db2dd7-abf3-e291-c4bb-fd3a495c6c13",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_22/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Heineken Roeivierkamp Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/40313f9b-3c9e-c1f3-c7d9-8f22f908af09\">https://hdl.handle.net/21.12102/40313f9b-3c9e-c1f3-c7d9-8f22f908af09</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/99454e5f-8727-581a-1d13-6cd6baf7e25c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/99454e5f-8727-581a-1d13-6cd6baf7e25c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Heineken Roeivierkamp Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/603768c0-9cca-53c7-02c8-c967aa42a598\">https://hdl.handle.net/21.12102/603768c0-9cca-53c7-02c8-c967aa42a598</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/870c5f22-bd63-80f1-2346-d2ed4b92f845/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/870c5f22-bd63-80f1-2346-d2ed4b92f845",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Heineken Roeivierkamp Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/abc16e34-f894-ff6f-bae6-503906b1efed\">https://hdl.handle.net/21.12102/abc16e34-f894-ff6f-bae6-503906b1efed</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/64e215b6-867b-2753-8647-6977abed93e3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/64e215b6-867b-2753-8647-6977abed93e3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_21/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Heineken Roeivierkamp Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/cb930538-df35-84e8-ec52-6f0dd3cb7d81\">https://hdl.handle.net/21.12102/cb930538-df35-84e8-ec52-6f0dd3cb7d81</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_21/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_21/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c18ea302-971d-a2c8-7ee8-6f0112e59269/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c18ea302-971d-a2c8-7ee8-6f0112e59269",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_21/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Heineken Roeivierkamp Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ed6dc363-e7c1-a6bb-1cae-5e609987f0f9\">https://hdl.handle.net/21.12102/ed6dc363-e7c1-a6bb-1cae-5e609987f0f9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9a4c8c9d-dfac-8392-cfd0-2592ed970e16/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9a4c8c9d-dfac-8392-cfd0-2592ed970e16",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Heineken Roeivierkamp Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f3c7f7f9-0bd1-d49c-f294-9f76825c22f9\">https://hdl.handle.net/21.12102/f3c7f7f9-0bd1-d49c-f294-9f76825c22f9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8f3d29f6-53b9-ae0f-73e0-35898ebb8add/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8f3d29f6-53b9-ae0f-73e0-35898ebb8add",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Heineken Roeivierkamp Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f77fe90c-7d0d-fdd5-209b-1762c03967c8\">https://hdl.handle.net/21.12102/f77fe90c-7d0d-fdd5-209b-1762c03967c8</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0572a2e4-cd46-9f02-ed6c-7ba1c5d915d8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0572a2e4-cd46-9f02-ed6c-7ba1c5d915d8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0bc20e17-8524-f5d1-5b35-8f9fdc270e16/NL-HlmNHA_1478_50340K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

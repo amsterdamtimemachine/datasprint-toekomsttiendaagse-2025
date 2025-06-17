@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/a81b3521-0172-d0f7-8291-1335bdd14530.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Henk de Goede, Lijnden (1992-02-20)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Henk de Goede, Lijnden"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1992-02-20"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q1981949\">Lijnden</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7597,
+            52.3522
+          ]
+        },
+        "properties": {
+          "title": "Lijnden",
+          "url": "http://www.wikidata.org/entity/Q1981949"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a81b3521-0172-d0f7-8291-1335bdd14530/NL-HlmNHA_1478_35880K01_41/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Henk de Goede, Lijnden"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/26888a1b-3c64-11fa-31a9-e0276587fb27\">https://hdl.handle.net/21.12102/26888a1b-3c64-11fa-31a9-e0276587fb27</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a81b3521-0172-d0f7-8291-1335bdd14530/NL-HlmNHA_1478_35880K01_41/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a81b3521-0172-d0f7-8291-1335bdd14530/NL-HlmNHA_1478_35880K01_41/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/90e4685e-21f0-bf7b-5579-b6c37b927078/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/90e4685e-21f0-bf7b-5579-b6c37b927078",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a81b3521-0172-d0f7-8291-1335bdd14530/NL-HlmNHA_1478_35880K01_41/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a81b3521-0172-d0f7-8291-1335bdd14530/NL-HlmNHA_1478_35880K01_42/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Henk de Goede, Lijnden"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e4c06f68-5fa4-d144-8f87-4b9705af134b\">https://hdl.handle.net/21.12102/e4c06f68-5fa4-d144-8f87-4b9705af134b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a81b3521-0172-d0f7-8291-1335bdd14530/NL-HlmNHA_1478_35880K01_42/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a81b3521-0172-d0f7-8291-1335bdd14530/NL-HlmNHA_1478_35880K01_42/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0c575218-9351-a531-cd37-ce06064ab3da/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0c575218-9351-a531-cd37-ce06064ab3da",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a81b3521-0172-d0f7-8291-1335bdd14530/NL-HlmNHA_1478_35880K01_42/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a81b3521-0172-d0f7-8291-1335bdd14530/NL-HlmNHA_1478_35880K01_40/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Henk de Goede, Lijnden"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/eb859c02-53d8-2d8c-cfa3-09a4f78213e4\">https://hdl.handle.net/21.12102/eb859c02-53d8-2d8c-cfa3-09a4f78213e4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a81b3521-0172-d0f7-8291-1335bdd14530/NL-HlmNHA_1478_35880K01_40/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a81b3521-0172-d0f7-8291-1335bdd14530/NL-HlmNHA_1478_35880K01_40/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3face8ba-5964-fea8-bbc3-54efa4785931/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3face8ba-5964-fea8-bbc3-54efa4785931",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a81b3521-0172-d0f7-8291-1335bdd14530/NL-HlmNHA_1478_35880K01_40/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

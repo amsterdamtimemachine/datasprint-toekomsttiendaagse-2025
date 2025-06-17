@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/a805a5c3-d55b-a025-d7ac-1da8292ea89c.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Hr. Kreutzen, grote krant, Badhoevedorp (1998-04-16)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Hr. Kreutzen, grote krant, Badhoevedorp"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1998-04-16"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q568337\">Badhoevedorp</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7803,
+            52.3381
+          ]
+        },
+        "properties": {
+          "title": "Badhoevedorp",
+          "url": "http://www.wikidata.org/entity/Q568337"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a805a5c3-d55b-a025-d7ac-1da8292ea89c/NL-HlmNHA_1478_45433K00_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hr. Kreutzen, grote krant, Badhoevedorp"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9a91b1d2-c25d-d660-9b88-a13f193070c6\">https://hdl.handle.net/21.12102/9a91b1d2-c25d-d660-9b88-a13f193070c6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a805a5c3-d55b-a025-d7ac-1da8292ea89c/NL-HlmNHA_1478_45433K00_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a805a5c3-d55b-a025-d7ac-1da8292ea89c/NL-HlmNHA_1478_45433K00_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/aa1dc7fd-bb33-908e-7bfe-453627a29826/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/aa1dc7fd-bb33-908e-7bfe-453627a29826",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a805a5c3-d55b-a025-d7ac-1da8292ea89c/NL-HlmNHA_1478_45433K00_29/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a805a5c3-d55b-a025-d7ac-1da8292ea89c/NL-HlmNHA_1478_45433K00_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hr. Kreutzen, grote krant, Badhoevedorp"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/dd37f0b6-700a-6c05-85ae-b41bbc836a3b\">https://hdl.handle.net/21.12102/dd37f0b6-700a-6c05-85ae-b41bbc836a3b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a805a5c3-d55b-a025-d7ac-1da8292ea89c/NL-HlmNHA_1478_45433K00_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a805a5c3-d55b-a025-d7ac-1da8292ea89c/NL-HlmNHA_1478_45433K00_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/bff2cca2-37b9-e1ed-620f-8ed09b5c080f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/bff2cca2-37b9-e1ed-620f-8ed09b5c080f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a805a5c3-d55b-a025-d7ac-1da8292ea89c/NL-HlmNHA_1478_45433K00_30/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a805a5c3-d55b-a025-d7ac-1da8292ea89c/NL-HlmNHA_1478_45433K00_28/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hr. Kreutzen, grote krant, Badhoevedorp"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e22c5ecc-5283-546a-d7f5-acdc0edb6c1f\">https://hdl.handle.net/21.12102/e22c5ecc-5283-546a-d7f5-acdc0edb6c1f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a805a5c3-d55b-a025-d7ac-1da8292ea89c/NL-HlmNHA_1478_45433K00_28/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a805a5c3-d55b-a025-d7ac-1da8292ea89c/NL-HlmNHA_1478_45433K00_28/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8cb20787-6fe9-a53a-8fe0-625331f38458/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8cb20787-6fe9-a53a-8fe0-625331f38458",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a805a5c3-d55b-a025-d7ac-1da8292ea89c/NL-HlmNHA_1478_45433K00_28/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

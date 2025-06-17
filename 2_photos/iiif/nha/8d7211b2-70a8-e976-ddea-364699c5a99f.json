@@ -1,0 +1,467 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/8d7211b2-70a8-e976-ddea-364699c5a99f.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Hr. Elzeman, Radio NH, Amsterdam (1999-01-15)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Hr. Elzeman, Radio NH, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1999-01-15"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8d7211b2-70a8-e976-ddea-364699c5a99f/NL-HlmNHA_1478_46471K00_22/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hr. Elzeman, Radio NH, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/169b1864-f609-616d-9b61-f0cddcbc5766\">https://hdl.handle.net/21.12102/169b1864-f609-616d-9b61-f0cddcbc5766</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8d7211b2-70a8-e976-ddea-364699c5a99f/NL-HlmNHA_1478_46471K00_22/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8d7211b2-70a8-e976-ddea-364699c5a99f/NL-HlmNHA_1478_46471K00_22/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2f4f2e7d-d220-451b-5a65-d05aa56227c5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2f4f2e7d-d220-451b-5a65-d05aa56227c5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8d7211b2-70a8-e976-ddea-364699c5a99f/NL-HlmNHA_1478_46471K00_22/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8d7211b2-70a8-e976-ddea-364699c5a99f/NL-HlmNHA_1478_46471K00_21/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hr. Elzeman, Radio NH, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/17bbce93-cc73-e1cb-0d36-4176f279b1a8\">https://hdl.handle.net/21.12102/17bbce93-cc73-e1cb-0d36-4176f279b1a8</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8d7211b2-70a8-e976-ddea-364699c5a99f/NL-HlmNHA_1478_46471K00_21/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8d7211b2-70a8-e976-ddea-364699c5a99f/NL-HlmNHA_1478_46471K00_21/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/cfebe88f-1edd-907c-05e1-85bcab62dad0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/cfebe88f-1edd-907c-05e1-85bcab62dad0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8d7211b2-70a8-e976-ddea-364699c5a99f/NL-HlmNHA_1478_46471K00_21/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8d7211b2-70a8-e976-ddea-364699c5a99f/NL-HlmNHA_1478_46471K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hr. Elzeman, Radio NH, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3471a0c3-112e-6c80-0755-4efbe89aecb4\">https://hdl.handle.net/21.12102/3471a0c3-112e-6c80-0755-4efbe89aecb4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8d7211b2-70a8-e976-ddea-364699c5a99f/NL-HlmNHA_1478_46471K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8d7211b2-70a8-e976-ddea-364699c5a99f/NL-HlmNHA_1478_46471K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b3828f4e-dc45-f944-141c-0f35f018e82d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b3828f4e-dc45-f944-141c-0f35f018e82d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8d7211b2-70a8-e976-ddea-364699c5a99f/NL-HlmNHA_1478_46471K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8d7211b2-70a8-e976-ddea-364699c5a99f/NL-HlmNHA_1478_46471K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hr. Elzeman, Radio NH, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/644ac511-9034-972c-7c1c-5bedc282c814\">https://hdl.handle.net/21.12102/644ac511-9034-972c-7c1c-5bedc282c814</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8d7211b2-70a8-e976-ddea-364699c5a99f/NL-HlmNHA_1478_46471K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8d7211b2-70a8-e976-ddea-364699c5a99f/NL-HlmNHA_1478_46471K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9071306c-e696-beae-3e45-d8a98b5f3fbd/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9071306c-e696-beae-3e45-d8a98b5f3fbd",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8d7211b2-70a8-e976-ddea-364699c5a99f/NL-HlmNHA_1478_46471K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8d7211b2-70a8-e976-ddea-364699c5a99f/NL-HlmNHA_1478_46471K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hr. Elzeman, Radio NH, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/98d18968-8c17-ac16-7742-f0bca6615fcb\">https://hdl.handle.net/21.12102/98d18968-8c17-ac16-7742-f0bca6615fcb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8d7211b2-70a8-e976-ddea-364699c5a99f/NL-HlmNHA_1478_46471K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8d7211b2-70a8-e976-ddea-364699c5a99f/NL-HlmNHA_1478_46471K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/63c49067-7b73-76cc-06f8-6d2bc73b0ff8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/63c49067-7b73-76cc-06f8-6d2bc73b0ff8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8d7211b2-70a8-e976-ddea-364699c5a99f/NL-HlmNHA_1478_46471K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8d7211b2-70a8-e976-ddea-364699c5a99f/NL-HlmNHA_1478_46471K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hr. Elzeman, Radio NH, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/edcc3e6a-53eb-c1a0-2ee2-fd89ed345c11\">https://hdl.handle.net/21.12102/edcc3e6a-53eb-c1a0-2ee2-fd89ed345c11</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8d7211b2-70a8-e976-ddea-364699c5a99f/NL-HlmNHA_1478_46471K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8d7211b2-70a8-e976-ddea-364699c5a99f/NL-HlmNHA_1478_46471K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7a32db9e-c1e1-dd73-6325-b9bdd1383ec7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7a32db9e-c1e1-dd73-6325-b9bdd1383ec7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8d7211b2-70a8-e976-ddea-364699c5a99f/NL-HlmNHA_1478_46471K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8d7211b2-70a8-e976-ddea-364699c5a99f/NL-HlmNHA_1478_46471K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hr. Elzeman, Radio NH, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f0616a71-930c-7994-0afb-8755f6c3d7fd\">https://hdl.handle.net/21.12102/f0616a71-930c-7994-0afb-8755f6c3d7fd</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8d7211b2-70a8-e976-ddea-364699c5a99f/NL-HlmNHA_1478_46471K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8d7211b2-70a8-e976-ddea-364699c5a99f/NL-HlmNHA_1478_46471K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/37fc083a-417d-8e65-a1e0-6f327003a10e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/37fc083a-417d-8e65-a1e0-6f327003a10e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8d7211b2-70a8-e976-ddea-364699c5a99f/NL-HlmNHA_1478_46471K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

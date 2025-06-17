@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/7be6a4e8-8ec6-8535-21da-3f45c791dac3.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Melktankwagen bij Badhoevedorp (1955-02)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Melktankwagen bij Badhoevedorp"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1955-02"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q568337\">Badhoevedorp</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Ongelukken, botsingen, ongevallen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7803,
+            52.3381
+          ]
+        },
+        "properties": {
+          "title": "Badhoevedorp",
+          "url": "http://www.wikidata.org/entity/Q568337"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7be6a4e8-8ec6-8535-21da-3f45c791dac3/NL-HlmNHA_1478_11410B01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Melktankwagen bij Badhoevedorp"
+        ]
+      },
+      "height": 2252,
+      "width": 2839,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/618c45c2-380f-4317-77ec-7e43bf566fae\">https://hdl.handle.net/21.12102/618c45c2-380f-4317-77ec-7e43bf566fae</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7be6a4e8-8ec6-8535-21da-3f45c791dac3/NL-HlmNHA_1478_11410B01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7be6a4e8-8ec6-8535-21da-3f45c791dac3/NL-HlmNHA_1478_11410B01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d239ac62-3be9-4b97-4de9-56ca28390fc2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2252,
+                "width": 2839,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d239ac62-3be9-4b97-4de9-56ca28390fc2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7be6a4e8-8ec6-8535-21da-3f45c791dac3/NL-HlmNHA_1478_11410B01_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7be6a4e8-8ec6-8535-21da-3f45c791dac3/NL-HlmNHA_1478_11410B02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Melktankwagen bij Badhoevedorp"
+        ]
+      },
+      "height": 2231,
+      "width": 2838,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c4a3b7a3-3319-1f4c-b861-da97d3ee03cd\">https://hdl.handle.net/21.12102/c4a3b7a3-3319-1f4c-b861-da97d3ee03cd</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7be6a4e8-8ec6-8535-21da-3f45c791dac3/NL-HlmNHA_1478_11410B02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7be6a4e8-8ec6-8535-21da-3f45c791dac3/NL-HlmNHA_1478_11410B02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/96685ad3-1158-ab3f-cc82-63cae7a3e441/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2231,
+                "width": 2838,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/96685ad3-1158-ab3f-cc82-63cae7a3e441",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7be6a4e8-8ec6-8535-21da-3f45c791dac3/NL-HlmNHA_1478_11410B02_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/b0fb0fb0-9013-d91e-8c9c-776752aee45a.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "NAP schaal, Amsterdam [Normaal Amsterdams Peil] (1998-07-07)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "NAP schaal, Amsterdam [Normaal Amsterdams Peil]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1998-07-07"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b0fb0fb0-9013-d91e-8c9c-776752aee45a/NL-HlmNHA_1478_45745K00_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "NAP schaal, Amsterdam [Normaal Amsterdams Peil]"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5f31894f-4c56-bdd6-123c-fd9666dc44d6\">https://hdl.handle.net/21.12102/5f31894f-4c56-bdd6-123c-fd9666dc44d6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b0fb0fb0-9013-d91e-8c9c-776752aee45a/NL-HlmNHA_1478_45745K00_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b0fb0fb0-9013-d91e-8c9c-776752aee45a/NL-HlmNHA_1478_45745K00_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f96b0c49-f172-06c8-e7a6-9fa8a98f2fa8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f96b0c49-f172-06c8-e7a6-9fa8a98f2fa8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b0fb0fb0-9013-d91e-8c9c-776752aee45a/NL-HlmNHA_1478_45745K00_29/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b0fb0fb0-9013-d91e-8c9c-776752aee45a/NL-HlmNHA_1478_45745K00_28/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "NAP schaal, Amsterdam [Normaal Amsterdams Peil]"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/83829ea1-39ed-0b1e-8c7a-17cb5ec71b4c\">https://hdl.handle.net/21.12102/83829ea1-39ed-0b1e-8c7a-17cb5ec71b4c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b0fb0fb0-9013-d91e-8c9c-776752aee45a/NL-HlmNHA_1478_45745K00_28/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b0fb0fb0-9013-d91e-8c9c-776752aee45a/NL-HlmNHA_1478_45745K00_28/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/49321a8c-6d46-408e-196f-2118b3a8b2bc/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/49321a8c-6d46-408e-196f-2118b3a8b2bc",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b0fb0fb0-9013-d91e-8c9c-776752aee45a/NL-HlmNHA_1478_45745K00_28/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b0fb0fb0-9013-d91e-8c9c-776752aee45a/NL-HlmNHA_1478_45745K00_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "NAP schaal, Amsterdam [Normaal Amsterdams Peil]"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b2eeacbc-b6b6-ef27-d29b-c0b5ffcfbe95\">https://hdl.handle.net/21.12102/b2eeacbc-b6b6-ef27-d29b-c0b5ffcfbe95</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b0fb0fb0-9013-d91e-8c9c-776752aee45a/NL-HlmNHA_1478_45745K00_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b0fb0fb0-9013-d91e-8c9c-776752aee45a/NL-HlmNHA_1478_45745K00_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6e4ad7b8-c487-5dd3-a823-ae7641bdb387/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6e4ad7b8-c487-5dd3-a823-ae7641bdb387",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b0fb0fb0-9013-d91e-8c9c-776752aee45a/NL-HlmNHA_1478_45745K00_30/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

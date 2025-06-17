@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/7f363e4c-adf1-7546-d312-416ebe37c522.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Echtpaar met 2 kanaries in kooien, bij de kachel en AVRO bode op tafel, mogelijk Amsterdam (1960-03)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Echtpaar met 2 kanaries in kooien, bij de kachel en AVRO bode op tafel, mogelijk Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1960-03"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7f363e4c-adf1-7546-d312-416ebe37c522/NL-HlmNHA_1478_17659B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Echtpaar met 2 kanaries in kooien, bij de kachel en AVRO bode op tafel, mogelijk Amsterdam"
+        ]
+      },
+      "height": 2323,
+      "width": 2970,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a1b41399-3de1-06a2-a051-b380bdbc4ad0\">https://hdl.handle.net/21.12102/a1b41399-3de1-06a2-a051-b380bdbc4ad0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7f363e4c-adf1-7546-d312-416ebe37c522/NL-HlmNHA_1478_17659B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7f363e4c-adf1-7546-d312-416ebe37c522/NL-HlmNHA_1478_17659B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b4ccbe35-acd1-51bd-5fc9-aff88689d201/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2323,
+                "width": 2970,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b4ccbe35-acd1-51bd-5fc9-aff88689d201",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7f363e4c-adf1-7546-d312-416ebe37c522/NL-HlmNHA_1478_17659B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

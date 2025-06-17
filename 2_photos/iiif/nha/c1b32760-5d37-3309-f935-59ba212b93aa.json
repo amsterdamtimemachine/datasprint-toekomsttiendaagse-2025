@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/c1b32760-5d37-3309-f935-59ba212b93aa.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Verzetsmonument, zwanenburg (1988-10-04)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Verzetsmonument, zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1988-10-04"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Monumenten"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/27753"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1b32760-5d37-3309-f935-59ba212b93aa/NL-HlmNHA_1478_29617K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Verzetsmonument, zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/21a5f2b2-0c8b-43af-b6b6-3d447916e868\">https://hdl.handle.net/21.12102/21a5f2b2-0c8b-43af-b6b6-3d447916e868</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1b32760-5d37-3309-f935-59ba212b93aa/NL-HlmNHA_1478_29617K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1b32760-5d37-3309-f935-59ba212b93aa/NL-HlmNHA_1478_29617K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/30afab42-7ccb-c70b-8a35-647503592e1e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/30afab42-7ccb-c70b-8a35-647503592e1e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1b32760-5d37-3309-f935-59ba212b93aa/NL-HlmNHA_1478_29617K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1b32760-5d37-3309-f935-59ba212b93aa/NL-HlmNHA_1478_29617K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Verzetsmonument, zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4e5b7393-5755-fb30-543c-58f399eb3405\">https://hdl.handle.net/21.12102/4e5b7393-5755-fb30-543c-58f399eb3405</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1b32760-5d37-3309-f935-59ba212b93aa/NL-HlmNHA_1478_29617K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1b32760-5d37-3309-f935-59ba212b93aa/NL-HlmNHA_1478_29617K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0c4d7094-83c4-1424-21c7-d91bbad6c059/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0c4d7094-83c4-1424-21c7-d91bbad6c059",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1b32760-5d37-3309-f935-59ba212b93aa/NL-HlmNHA_1478_29617K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1b32760-5d37-3309-f935-59ba212b93aa/NL-HlmNHA_1478_29617K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Verzetsmonument, zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9749821e-ffd5-2ff8-fb3a-bc5c4a69eb47\">https://hdl.handle.net/21.12102/9749821e-ffd5-2ff8-fb3a-bc5c4a69eb47</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1b32760-5d37-3309-f935-59ba212b93aa/NL-HlmNHA_1478_29617K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1b32760-5d37-3309-f935-59ba212b93aa/NL-HlmNHA_1478_29617K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e4b43ec6-46b6-b2c6-f2fa-0a51befe470c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e4b43ec6-46b6-b2c6-f2fa-0a51befe470c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1b32760-5d37-3309-f935-59ba212b93aa/NL-HlmNHA_1478_29617K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1b32760-5d37-3309-f935-59ba212b93aa/NL-HlmNHA_1478_29617K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Verzetsmonument, zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9d78b2f6-6a05-ec23-37c5-568d8265cef7\">https://hdl.handle.net/21.12102/9d78b2f6-6a05-ec23-37c5-568d8265cef7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1b32760-5d37-3309-f935-59ba212b93aa/NL-HlmNHA_1478_29617K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1b32760-5d37-3309-f935-59ba212b93aa/NL-HlmNHA_1478_29617K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a12015ad-130f-9384-abb9-7d00f261325b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a12015ad-130f-9384-abb9-7d00f261325b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1b32760-5d37-3309-f935-59ba212b93aa/NL-HlmNHA_1478_29617K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1b32760-5d37-3309-f935-59ba212b93aa/NL-HlmNHA_1478_29617K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Verzetsmonument, zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/aee95d09-4022-c064-705a-eb3173dd7c27\">https://hdl.handle.net/21.12102/aee95d09-4022-c064-705a-eb3173dd7c27</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1b32760-5d37-3309-f935-59ba212b93aa/NL-HlmNHA_1478_29617K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1b32760-5d37-3309-f935-59ba212b93aa/NL-HlmNHA_1478_29617K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/03e043fa-9cde-b8ea-53ef-031a648dbaef/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/03e043fa-9cde-b8ea-53ef-031a648dbaef",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1b32760-5d37-3309-f935-59ba212b93aa/NL-HlmNHA_1478_29617K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1b32760-5d37-3309-f935-59ba212b93aa/NL-HlmNHA_1478_29617K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Verzetsmonument, zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e3e14335-af9c-05c1-fb55-26672fc141ee\">https://hdl.handle.net/21.12102/e3e14335-af9c-05c1-fb55-26672fc141ee</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1b32760-5d37-3309-f935-59ba212b93aa/NL-HlmNHA_1478_29617K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1b32760-5d37-3309-f935-59ba212b93aa/NL-HlmNHA_1478_29617K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0896a873-06d2-432c-0ca0-5b91047f7cf2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0896a873-06d2-432c-0ca0-5b91047f7cf2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1b32760-5d37-3309-f935-59ba212b93aa/NL-HlmNHA_1478_29617K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

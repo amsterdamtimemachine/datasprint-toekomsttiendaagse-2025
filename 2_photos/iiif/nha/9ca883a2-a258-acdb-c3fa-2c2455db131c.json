@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/9ca883a2-a258-acdb-c3fa-2c2455db131c.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Reportage wijk Nieuwendam, Amsterdam-Noord (bekladde muur 'god schiep geen vreugde in deze schepping') (1979-12-14)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Reportage wijk Nieuwendam, Amsterdam-Noord (bekladde muur 'god schiep geen vreugde in deze schepping')"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1979-12-14"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9ca883a2-a258-acdb-c3fa-2c2455db131c/NL-HlmNHA_1478_18770K00_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Reportage wijk Nieuwendam, Amsterdam-Noord (bekladde muur 'god schiep geen vreugde in deze schepping')"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8c0cef9d-44f1-10db-86b5-2be6aca58d68\">https://hdl.handle.net/21.12102/8c0cef9d-44f1-10db-86b5-2be6aca58d68</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9ca883a2-a258-acdb-c3fa-2c2455db131c/NL-HlmNHA_1478_18770K00_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9ca883a2-a258-acdb-c3fa-2c2455db131c/NL-HlmNHA_1478_18770K00_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fdcda608-3fcb-d273-8aa4-c992845f015a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fdcda608-3fcb-d273-8aa4-c992845f015a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9ca883a2-a258-acdb-c3fa-2c2455db131c/NL-HlmNHA_1478_18770K00_29/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9ca883a2-a258-acdb-c3fa-2c2455db131c/NL-HlmNHA_1478_18770K00_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Reportage wijk Nieuwendam, Amsterdam-Noord (bekladde muur 'god schiep geen vreugde in deze schepping')"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/bb6b910b-27b9-f9e5-e868-7563b5d5a87d\">https://hdl.handle.net/21.12102/bb6b910b-27b9-f9e5-e868-7563b5d5a87d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9ca883a2-a258-acdb-c3fa-2c2455db131c/NL-HlmNHA_1478_18770K00_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9ca883a2-a258-acdb-c3fa-2c2455db131c/NL-HlmNHA_1478_18770K00_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9355295e-3371-9745-b28f-2ec42f8bb852/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9355295e-3371-9745-b28f-2ec42f8bb852",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9ca883a2-a258-acdb-c3fa-2c2455db131c/NL-HlmNHA_1478_18770K00_30/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

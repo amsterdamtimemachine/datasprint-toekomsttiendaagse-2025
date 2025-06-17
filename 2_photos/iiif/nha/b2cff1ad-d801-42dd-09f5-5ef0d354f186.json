@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/b2cff1ad-d801-42dd-09f5-5ef0d354f186.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Mevrouw Filippo, Zwanenburg (1997-12-09)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Mevrouw Filippo, Zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1997-12-09"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2cff1ad-d801-42dd-09f5-5ef0d354f186/NL-HlmNHA_1478_45025K00_27/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Mevrouw Filippo, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/23880c30-88af-67c6-7970-cc0175cca2fe\">https://hdl.handle.net/21.12102/23880c30-88af-67c6-7970-cc0175cca2fe</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2cff1ad-d801-42dd-09f5-5ef0d354f186/NL-HlmNHA_1478_45025K00_27/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2cff1ad-d801-42dd-09f5-5ef0d354f186/NL-HlmNHA_1478_45025K00_27/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b15d4857-dbc1-64e7-7502-7fc53b1d2274/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b15d4857-dbc1-64e7-7502-7fc53b1d2274",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2cff1ad-d801-42dd-09f5-5ef0d354f186/NL-HlmNHA_1478_45025K00_27/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2cff1ad-d801-42dd-09f5-5ef0d354f186/NL-HlmNHA_1478_45025K00_26/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Mevrouw Filippo, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/323c6c9a-0581-603e-16ca-482bc8a661d5\">https://hdl.handle.net/21.12102/323c6c9a-0581-603e-16ca-482bc8a661d5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2cff1ad-d801-42dd-09f5-5ef0d354f186/NL-HlmNHA_1478_45025K00_26/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2cff1ad-d801-42dd-09f5-5ef0d354f186/NL-HlmNHA_1478_45025K00_26/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4106746a-f046-5395-91e9-52fee662e2ec/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4106746a-f046-5395-91e9-52fee662e2ec",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2cff1ad-d801-42dd-09f5-5ef0d354f186/NL-HlmNHA_1478_45025K00_26/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2cff1ad-d801-42dd-09f5-5ef0d354f186/NL-HlmNHA_1478_45025K00_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Mevrouw Filippo, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/57977dd3-6874-2cb9-1217-174738e1d541\">https://hdl.handle.net/21.12102/57977dd3-6874-2cb9-1217-174738e1d541</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2cff1ad-d801-42dd-09f5-5ef0d354f186/NL-HlmNHA_1478_45025K00_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2cff1ad-d801-42dd-09f5-5ef0d354f186/NL-HlmNHA_1478_45025K00_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7723eefc-a3bd-0322-e2c9-d106ad7d7aa1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7723eefc-a3bd-0322-e2c9-d106ad7d7aa1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2cff1ad-d801-42dd-09f5-5ef0d354f186/NL-HlmNHA_1478_45025K00_29/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2cff1ad-d801-42dd-09f5-5ef0d354f186/NL-HlmNHA_1478_45025K00_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Mevrouw Filippo, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/773c12bb-9148-f077-f208-5341b7d45972\">https://hdl.handle.net/21.12102/773c12bb-9148-f077-f208-5341b7d45972</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2cff1ad-d801-42dd-09f5-5ef0d354f186/NL-HlmNHA_1478_45025K00_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2cff1ad-d801-42dd-09f5-5ef0d354f186/NL-HlmNHA_1478_45025K00_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b436e1b4-57b5-7f15-79e7-10db0f1c4af9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b436e1b4-57b5-7f15-79e7-10db0f1c4af9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2cff1ad-d801-42dd-09f5-5ef0d354f186/NL-HlmNHA_1478_45025K00_30/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2cff1ad-d801-42dd-09f5-5ef0d354f186/NL-HlmNHA_1478_45025K00_28/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Mevrouw Filippo, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8058f764-7af1-84a0-8163-4d151ca3e8f1\">https://hdl.handle.net/21.12102/8058f764-7af1-84a0-8163-4d151ca3e8f1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2cff1ad-d801-42dd-09f5-5ef0d354f186/NL-HlmNHA_1478_45025K00_28/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2cff1ad-d801-42dd-09f5-5ef0d354f186/NL-HlmNHA_1478_45025K00_28/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f771a94c-b197-dd62-6a86-9fa464cbe02e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f771a94c-b197-dd62-6a86-9fa464cbe02e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2cff1ad-d801-42dd-09f5-5ef0d354f186/NL-HlmNHA_1478_45025K00_28/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2cff1ad-d801-42dd-09f5-5ef0d354f186/NL-HlmNHA_1478_45025K00_25/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Mevrouw Filippo, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f0e7863e-7143-68ae-bbe8-1eb26897e1a5\">https://hdl.handle.net/21.12102/f0e7863e-7143-68ae-bbe8-1eb26897e1a5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2cff1ad-d801-42dd-09f5-5ef0d354f186/NL-HlmNHA_1478_45025K00_25/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2cff1ad-d801-42dd-09f5-5ef0d354f186/NL-HlmNHA_1478_45025K00_25/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f76a66d9-17ce-3532-02b3-c0b40ba296e0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f76a66d9-17ce-3532-02b3-c0b40ba296e0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2cff1ad-d801-42dd-09f5-5ef0d354f186/NL-HlmNHA_1478_45025K00_25/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/8977d86b-c1ce-841e-d7f3-9d3dd1cf3955.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "President A. Sch\u00e4rf van Oostenrijk legt een krans bij het Nationaal Monument op de Dam op de eerste dag van zijn staatsbezoek aan Nederland. (1961-05-16)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "President A. Sch\u00e4rf van Oostenrijk legt een krans bij het Nationaal Monument op de Dam op de eerste dag van zijn staatsbezoek aan Nederland."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1961-05-16"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q839050\">Dam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.892778,
+            52.373056
+          ]
+        },
+        "properties": {
+          "title": "Dam",
+          "url": "http://www.wikidata.org/entity/Q839050"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8977d86b-c1ce-841e-d7f3-9d3dd1cf3955/NL-HlmNHA_1478_NN024K00_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "President A. Sch\u00e4rf van Oostenrijk legt een krans bij het Nationaal Monument op de Dam op de eerste dag van zijn staatsbezoek aan Nederland."
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/dcb58abb-e200-a00a-33d0-0a9ac14d7d3f\">https://hdl.handle.net/21.12102/dcb58abb-e200-a00a-33d0-0a9ac14d7d3f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8977d86b-c1ce-841e-d7f3-9d3dd1cf3955/NL-HlmNHA_1478_NN024K00_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8977d86b-c1ce-841e-d7f3-9d3dd1cf3955/NL-HlmNHA_1478_NN024K00_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4aaad5fc-24e0-6906-ff6b-7014286863a6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4aaad5fc-24e0-6906-ff6b-7014286863a6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8977d86b-c1ce-841e-d7f3-9d3dd1cf3955/NL-HlmNHA_1478_NN024K00_10/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

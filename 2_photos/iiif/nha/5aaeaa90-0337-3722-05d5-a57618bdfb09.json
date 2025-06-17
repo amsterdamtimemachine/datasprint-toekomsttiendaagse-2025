@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/5aaeaa90-0337-3722-05d5-a57618bdfb09.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Groot onderhoud landingslichten Zwanenburg (1988-09-03)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Groot onderhoud landingslichten Zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1988-09-03"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Schiphol"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5aaeaa90-0337-3722-05d5-a57618bdfb09/NL-HlmNHA_1478_29508K00_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Groot onderhoud landingslichten Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2ad748ec-141c-1844-2304-a698ca516481\">https://hdl.handle.net/21.12102/2ad748ec-141c-1844-2304-a698ca516481</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5aaeaa90-0337-3722-05d5-a57618bdfb09/NL-HlmNHA_1478_29508K00_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5aaeaa90-0337-3722-05d5-a57618bdfb09/NL-HlmNHA_1478_29508K00_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/11cc3d6d-f4cf-327d-b861-7f249528d852/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/11cc3d6d-f4cf-327d-b861-7f249528d852",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5aaeaa90-0337-3722-05d5-a57618bdfb09/NL-HlmNHA_1478_29508K00_10/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5aaeaa90-0337-3722-05d5-a57618bdfb09/NL-HlmNHA_1478_29508K00_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Groot onderhoud landingslichten Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/31dbb0da-e2c8-c516-7097-72aaad205a7a\">https://hdl.handle.net/21.12102/31dbb0da-e2c8-c516-7097-72aaad205a7a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5aaeaa90-0337-3722-05d5-a57618bdfb09/NL-HlmNHA_1478_29508K00_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5aaeaa90-0337-3722-05d5-a57618bdfb09/NL-HlmNHA_1478_29508K00_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e2639759-3620-6baf-5aa8-25b26eae5a7a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e2639759-3620-6baf-5aa8-25b26eae5a7a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5aaeaa90-0337-3722-05d5-a57618bdfb09/NL-HlmNHA_1478_29508K00_08/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5aaeaa90-0337-3722-05d5-a57618bdfb09/NL-HlmNHA_1478_29508K00_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Groot onderhoud landingslichten Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7d0a891b-c6d3-7194-5f1e-fa04af7b1e51\">https://hdl.handle.net/21.12102/7d0a891b-c6d3-7194-5f1e-fa04af7b1e51</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5aaeaa90-0337-3722-05d5-a57618bdfb09/NL-HlmNHA_1478_29508K00_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5aaeaa90-0337-3722-05d5-a57618bdfb09/NL-HlmNHA_1478_29508K00_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/cd4a6119-e494-2243-eed4-171d10b7251d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/cd4a6119-e494-2243-eed4-171d10b7251d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5aaeaa90-0337-3722-05d5-a57618bdfb09/NL-HlmNHA_1478_29508K00_11/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5aaeaa90-0337-3722-05d5-a57618bdfb09/NL-HlmNHA_1478_29508K00_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Groot onderhoud landingslichten Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/af71ee22-017a-e7c1-82d2-ee0481f2e166\">https://hdl.handle.net/21.12102/af71ee22-017a-e7c1-82d2-ee0481f2e166</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5aaeaa90-0337-3722-05d5-a57618bdfb09/NL-HlmNHA_1478_29508K00_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5aaeaa90-0337-3722-05d5-a57618bdfb09/NL-HlmNHA_1478_29508K00_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d0067760-1a8e-fc15-7579-a02c1a94a2db/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d0067760-1a8e-fc15-7579-a02c1a94a2db",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5aaeaa90-0337-3722-05d5-a57618bdfb09/NL-HlmNHA_1478_29508K00_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5aaeaa90-0337-3722-05d5-a57618bdfb09/NL-HlmNHA_1478_29508K00_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Groot onderhoud landingslichten Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/fccabca8-ca22-527c-d88b-627805021405\">https://hdl.handle.net/21.12102/fccabca8-ca22-527c-d88b-627805021405</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5aaeaa90-0337-3722-05d5-a57618bdfb09/NL-HlmNHA_1478_29508K00_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5aaeaa90-0337-3722-05d5-a57618bdfb09/NL-HlmNHA_1478_29508K00_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a22f50c9-eadb-b041-e017-f62d27ce956d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a22f50c9-eadb-b041-e017-f62d27ce956d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5aaeaa90-0337-3722-05d5-a57618bdfb09/NL-HlmNHA_1478_29508K00_09/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

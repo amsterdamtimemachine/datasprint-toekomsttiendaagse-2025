@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/26e1fe56-9496-990b-288e-193b4dc831f0.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "J.G.M. Alders, minister van VROM (Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer), op bezoek bij GE Plastics in Amsterdam. De minister zit op de eerste rij als eerste van rechts. (1992-11-15)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "J.G.M. Alders, minister van VROM (Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer), op bezoek bij GE Plastics in Amsterdam. De minister zit op de eerste rij als eerste van rechts."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1992-11-15"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/26e1fe56-9496-990b-288e-193b4dc831f0/NL-HlmNHA_1478_37326K00_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "J.G.M. Alders, minister van VROM (Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer), op bezoek bij GE Plastics in Amsterdam. De minister zit op de eerste rij als eerste van rechts."
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0c21c553-3a59-862e-fe67-1d56490f0e9f\">https://hdl.handle.net/21.12102/0c21c553-3a59-862e-fe67-1d56490f0e9f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/26e1fe56-9496-990b-288e-193b4dc831f0/NL-HlmNHA_1478_37326K00_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/26e1fe56-9496-990b-288e-193b4dc831f0/NL-HlmNHA_1478_37326K00_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2fc3db5b-c578-0c63-b312-c69d76be349b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2fc3db5b-c578-0c63-b312-c69d76be349b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/26e1fe56-9496-990b-288e-193b4dc831f0/NL-HlmNHA_1478_37326K00_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/26e1fe56-9496-990b-288e-193b4dc831f0/NL-HlmNHA_1478_37326K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "J.G.M. Alders, minister van VROM (Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer), op bezoek bij GE Plastics in Amsterdam. De minister zit op de eerste rij als eerste van rechts."
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/de987471-1c41-9294-e1d3-deee649bf6f3\">https://hdl.handle.net/21.12102/de987471-1c41-9294-e1d3-deee649bf6f3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/26e1fe56-9496-990b-288e-193b4dc831f0/NL-HlmNHA_1478_37326K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/26e1fe56-9496-990b-288e-193b4dc831f0/NL-HlmNHA_1478_37326K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d2ba96ca-5d4e-5e7a-d724-d4f28d532910/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d2ba96ca-5d4e-5e7a-d724-d4f28d532910",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/26e1fe56-9496-990b-288e-193b4dc831f0/NL-HlmNHA_1478_37326K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

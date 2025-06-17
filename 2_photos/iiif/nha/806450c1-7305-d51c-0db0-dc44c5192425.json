@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/806450c1-7305-d51c-0db0-dc44c5192425.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Schilderijen tentoonstelling bibliotheek Zwanenburg (1991-08-06)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Schilderijen tentoonstelling bibliotheek Zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1991-08-06"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/806450c1-7305-d51c-0db0-dc44c5192425/NL-HlmNHA_1478_34822K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schilderijen tentoonstelling bibliotheek Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5396b9ea-3920-8cad-231a-bf3011bf817a\">https://hdl.handle.net/21.12102/5396b9ea-3920-8cad-231a-bf3011bf817a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/806450c1-7305-d51c-0db0-dc44c5192425/NL-HlmNHA_1478_34822K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/806450c1-7305-d51c-0db0-dc44c5192425/NL-HlmNHA_1478_34822K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c7b4c7ff-0bfa-8b7d-dd4a-325b9ec052af/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c7b4c7ff-0bfa-8b7d-dd4a-325b9ec052af",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/806450c1-7305-d51c-0db0-dc44c5192425/NL-HlmNHA_1478_34822K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/806450c1-7305-d51c-0db0-dc44c5192425/NL-HlmNHA_1478_34822K00_22/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schilderijen tentoonstelling bibliotheek Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8dc5f930-7679-367a-3447-68cdf22e5e22\">https://hdl.handle.net/21.12102/8dc5f930-7679-367a-3447-68cdf22e5e22</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/806450c1-7305-d51c-0db0-dc44c5192425/NL-HlmNHA_1478_34822K00_22/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/806450c1-7305-d51c-0db0-dc44c5192425/NL-HlmNHA_1478_34822K00_22/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/bc155485-49d1-615d-716d-d391563848b4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/bc155485-49d1-615d-716d-d391563848b4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/806450c1-7305-d51c-0db0-dc44c5192425/NL-HlmNHA_1478_34822K00_22/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/806450c1-7305-d51c-0db0-dc44c5192425/NL-HlmNHA_1478_34822K00_21/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schilderijen tentoonstelling bibliotheek Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b7465279-42cb-9253-719e-6929d5330e84\">https://hdl.handle.net/21.12102/b7465279-42cb-9253-719e-6929d5330e84</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/806450c1-7305-d51c-0db0-dc44c5192425/NL-HlmNHA_1478_34822K00_21/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/806450c1-7305-d51c-0db0-dc44c5192425/NL-HlmNHA_1478_34822K00_21/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/89b483aa-2ebe-82cc-5c65-0e191b761886/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/89b483aa-2ebe-82cc-5c65-0e191b761886",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/806450c1-7305-d51c-0db0-dc44c5192425/NL-HlmNHA_1478_34822K00_21/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/806450c1-7305-d51c-0db0-dc44c5192425/NL-HlmNHA_1478_34822K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schilderijen tentoonstelling bibliotheek Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d3e5dc2e-d57a-7cb6-67ce-7d0596e7a643\">https://hdl.handle.net/21.12102/d3e5dc2e-d57a-7cb6-67ce-7d0596e7a643</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/806450c1-7305-d51c-0db0-dc44c5192425/NL-HlmNHA_1478_34822K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/806450c1-7305-d51c-0db0-dc44c5192425/NL-HlmNHA_1478_34822K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/de231aba-02ca-4760-c3f5-4a0db9cf8b45/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/de231aba-02ca-4760-c3f5-4a0db9cf8b45",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/806450c1-7305-d51c-0db0-dc44c5192425/NL-HlmNHA_1478_34822K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/806450c1-7305-d51c-0db0-dc44c5192425/NL-HlmNHA_1478_34822K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schilderijen tentoonstelling bibliotheek Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d90c761e-41e1-e178-b50a-15046a8bee0d\">https://hdl.handle.net/21.12102/d90c761e-41e1-e178-b50a-15046a8bee0d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/806450c1-7305-d51c-0db0-dc44c5192425/NL-HlmNHA_1478_34822K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/806450c1-7305-d51c-0db0-dc44c5192425/NL-HlmNHA_1478_34822K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/82d5a092-ef3d-f92b-e4fd-e8403f35f550/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/82d5a092-ef3d-f92b-e4fd-e8403f35f550",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/806450c1-7305-d51c-0db0-dc44c5192425/NL-HlmNHA_1478_34822K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/806450c1-7305-d51c-0db0-dc44c5192425/NL-HlmNHA_1478_34822K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schilderijen tentoonstelling bibliotheek Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e3a03b65-f12b-d55a-965c-3bde5565dbd7\">https://hdl.handle.net/21.12102/e3a03b65-f12b-d55a-965c-3bde5565dbd7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/806450c1-7305-d51c-0db0-dc44c5192425/NL-HlmNHA_1478_34822K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/806450c1-7305-d51c-0db0-dc44c5192425/NL-HlmNHA_1478_34822K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3031d1ce-824e-fa1f-4d22-a6d7eedb64b1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3031d1ce-824e-fa1f-4d22-a6d7eedb64b1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/806450c1-7305-d51c-0db0-dc44c5192425/NL-HlmNHA_1478_34822K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/11622f0a-5ae1-5c1e-a1fc-03e37f2ef5e0.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Willy Lohmann, cartoonist, H'weg (1995-02-02)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Willy Lohmann, cartoonist, H'weg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1995-02-02"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2367253\">Halfweg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.755,
+            52.3828
+          ]
+        },
+        "properties": {
+          "title": "Halfweg",
+          "url": "http://www.wikidata.org/entity/Q2367253"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/11622f0a-5ae1-5c1e-a1fc-03e37f2ef5e0/NL-HlmNHA_1478_40818K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Willy Lohmann, cartoonist, H'weg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/01ae2c84-c807-2338-3b87-a157173eedb7\">https://hdl.handle.net/21.12102/01ae2c84-c807-2338-3b87-a157173eedb7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/11622f0a-5ae1-5c1e-a1fc-03e37f2ef5e0/NL-HlmNHA_1478_40818K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/11622f0a-5ae1-5c1e-a1fc-03e37f2ef5e0/NL-HlmNHA_1478_40818K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/bbb421f5-1298-2869-ecfd-b0bfd8d739e2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/bbb421f5-1298-2869-ecfd-b0bfd8d739e2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/11622f0a-5ae1-5c1e-a1fc-03e37f2ef5e0/NL-HlmNHA_1478_40818K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/11622f0a-5ae1-5c1e-a1fc-03e37f2ef5e0/NL-HlmNHA_1478_40818K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Willy Lohmann, cartoonist, H'weg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/15a72d1b-d49f-c6d9-8588-56f8c27ea03c\">https://hdl.handle.net/21.12102/15a72d1b-d49f-c6d9-8588-56f8c27ea03c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/11622f0a-5ae1-5c1e-a1fc-03e37f2ef5e0/NL-HlmNHA_1478_40818K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/11622f0a-5ae1-5c1e-a1fc-03e37f2ef5e0/NL-HlmNHA_1478_40818K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ff591f7a-862f-5c21-161c-960e40e5a601/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ff591f7a-862f-5c21-161c-960e40e5a601",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/11622f0a-5ae1-5c1e-a1fc-03e37f2ef5e0/NL-HlmNHA_1478_40818K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/11622f0a-5ae1-5c1e-a1fc-03e37f2ef5e0/NL-HlmNHA_1478_40818K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Willy Lohmann, cartoonist, H'weg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/30c0f453-3a60-dc65-f432-a78288a0d0f2\">https://hdl.handle.net/21.12102/30c0f453-3a60-dc65-f432-a78288a0d0f2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/11622f0a-5ae1-5c1e-a1fc-03e37f2ef5e0/NL-HlmNHA_1478_40818K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/11622f0a-5ae1-5c1e-a1fc-03e37f2ef5e0/NL-HlmNHA_1478_40818K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/82576d65-12da-0c42-ae21-80a28c3c3aa1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/82576d65-12da-0c42-ae21-80a28c3c3aa1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/11622f0a-5ae1-5c1e-a1fc-03e37f2ef5e0/NL-HlmNHA_1478_40818K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/11622f0a-5ae1-5c1e-a1fc-03e37f2ef5e0/NL-HlmNHA_1478_40818K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Willy Lohmann, cartoonist, H'weg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9ba7c72a-8169-4f6c-821c-a6256ad623bf\">https://hdl.handle.net/21.12102/9ba7c72a-8169-4f6c-821c-a6256ad623bf</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/11622f0a-5ae1-5c1e-a1fc-03e37f2ef5e0/NL-HlmNHA_1478_40818K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/11622f0a-5ae1-5c1e-a1fc-03e37f2ef5e0/NL-HlmNHA_1478_40818K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7943b6c6-296c-915d-d36f-8fe68b0a18f7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7943b6c6-296c-915d-d36f-8fe68b0a18f7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/11622f0a-5ae1-5c1e-a1fc-03e37f2ef5e0/NL-HlmNHA_1478_40818K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/11622f0a-5ae1-5c1e-a1fc-03e37f2ef5e0/NL-HlmNHA_1478_40818K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Willy Lohmann, cartoonist, H'weg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/dfba0bf0-6145-87ab-fc19-93d7ccffe25a\">https://hdl.handle.net/21.12102/dfba0bf0-6145-87ab-fc19-93d7ccffe25a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/11622f0a-5ae1-5c1e-a1fc-03e37f2ef5e0/NL-HlmNHA_1478_40818K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/11622f0a-5ae1-5c1e-a1fc-03e37f2ef5e0/NL-HlmNHA_1478_40818K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6872c3c4-7578-a171-ec96-94738093ee67/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6872c3c4-7578-a171-ec96-94738093ee67",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/11622f0a-5ae1-5c1e-a1fc-03e37f2ef5e0/NL-HlmNHA_1478_40818K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/11622f0a-5ae1-5c1e-a1fc-03e37f2ef5e0/NL-HlmNHA_1478_40818K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Willy Lohmann, cartoonist, H'weg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f45d040a-96cb-4429-5b13-b97e56927f93\">https://hdl.handle.net/21.12102/f45d040a-96cb-4429-5b13-b97e56927f93</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/11622f0a-5ae1-5c1e-a1fc-03e37f2ef5e0/NL-HlmNHA_1478_40818K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/11622f0a-5ae1-5c1e-a1fc-03e37f2ef5e0/NL-HlmNHA_1478_40818K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/14b9744e-3c1c-3123-9750-70988be695f1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/14b9744e-3c1c-3123-9750-70988be695f1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/11622f0a-5ae1-5c1e-a1fc-03e37f2ef5e0/NL-HlmNHA_1478_40818K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

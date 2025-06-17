@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/d1be8b92-f243-1e4b-146e-3dd3e417c253.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "H. Batter, BCC (1990-10-16)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "H. Batter, BCC"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1990-10-16"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q33421878\">Amstelveen</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.858056,
+            52.301944
+          ]
+        },
+        "properties": {
+          "title": "Amstelveen",
+          "url": "http://www.wikidata.org/entity/Q33421878"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d1be8b92-f243-1e4b-146e-3dd3e417c253/NL-HlmNHA_1478_33158K00_27/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "H. Batter, BCC"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/07221007-7eea-3c45-bcd1-0a3f6aa9ae79\">https://hdl.handle.net/21.12102/07221007-7eea-3c45-bcd1-0a3f6aa9ae79</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d1be8b92-f243-1e4b-146e-3dd3e417c253/NL-HlmNHA_1478_33158K00_27/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d1be8b92-f243-1e4b-146e-3dd3e417c253/NL-HlmNHA_1478_33158K00_27/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6a55f417-495d-5162-ea65-aa58f5e2ec28/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6a55f417-495d-5162-ea65-aa58f5e2ec28",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d1be8b92-f243-1e4b-146e-3dd3e417c253/NL-HlmNHA_1478_33158K00_27/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d1be8b92-f243-1e4b-146e-3dd3e417c253/NL-HlmNHA_1478_33158K00_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "H. Batter, BCC"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/28410b80-16d5-471f-fdae-8fe620a81e08\">https://hdl.handle.net/21.12102/28410b80-16d5-471f-fdae-8fe620a81e08</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d1be8b92-f243-1e4b-146e-3dd3e417c253/NL-HlmNHA_1478_33158K00_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d1be8b92-f243-1e4b-146e-3dd3e417c253/NL-HlmNHA_1478_33158K00_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c20bff7b-2b5b-8a59-4bbf-195c9a1c6af8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c20bff7b-2b5b-8a59-4bbf-195c9a1c6af8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d1be8b92-f243-1e4b-146e-3dd3e417c253/NL-HlmNHA_1478_33158K00_29/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d1be8b92-f243-1e4b-146e-3dd3e417c253/NL-HlmNHA_1478_33158K00_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "H. Batter, BCC"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/658a33f5-f4ae-0aaa-e7d1-a7f47331bec9\">https://hdl.handle.net/21.12102/658a33f5-f4ae-0aaa-e7d1-a7f47331bec9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d1be8b92-f243-1e4b-146e-3dd3e417c253/NL-HlmNHA_1478_33158K00_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d1be8b92-f243-1e4b-146e-3dd3e417c253/NL-HlmNHA_1478_33158K00_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5e0794bd-6b57-c485-98b9-19687a75d1a3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5e0794bd-6b57-c485-98b9-19687a75d1a3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d1be8b92-f243-1e4b-146e-3dd3e417c253/NL-HlmNHA_1478_33158K00_30/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d1be8b92-f243-1e4b-146e-3dd3e417c253/NL-HlmNHA_1478_33158K00_28/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "H. Batter, BCC"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e0c36599-4913-944f-001c-5179f78e7f24\">https://hdl.handle.net/21.12102/e0c36599-4913-944f-001c-5179f78e7f24</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d1be8b92-f243-1e4b-146e-3dd3e417c253/NL-HlmNHA_1478_33158K00_28/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d1be8b92-f243-1e4b-146e-3dd3e417c253/NL-HlmNHA_1478_33158K00_28/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/151423c5-3fdd-e59f-f5ad-e798189bd909/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/151423c5-3fdd-e59f-f5ad-e798189bd909",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d1be8b92-f243-1e4b-146e-3dd3e417c253/NL-HlmNHA_1478_33158K00_28/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/f13beed5-9dbd-1998-d27b-0d3422621b5d.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Uitreiking Verzets kruizen Amsterdam (mej. Meerendonk) (1953-01-23)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Uitreiking Verzets kruizen Amsterdam (mej. Meerendonk)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1953-01-23"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "United foto's"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f13beed5-9dbd-1998-d27b-0d3422621b5d/NL-HlmNHA_1478_08490B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Uitreiking Verzets kruizen Amsterdam (mej. Meerendonk)"
+        ]
+      },
+      "height": 2190,
+      "width": 2807,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ad30657b-36f0-b2f5-5f8e-f32230b7d71b\">https://hdl.handle.net/21.12102/ad30657b-36f0-b2f5-5f8e-f32230b7d71b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f13beed5-9dbd-1998-d27b-0d3422621b5d/NL-HlmNHA_1478_08490B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f13beed5-9dbd-1998-d27b-0d3422621b5d/NL-HlmNHA_1478_08490B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5071c0dc-4d14-0c05-9aca-597701d4b46d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2190,
+                "width": 2807,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5071c0dc-4d14-0c05-9aca-597701d4b46d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f13beed5-9dbd-1998-d27b-0d3422621b5d/NL-HlmNHA_1478_08490B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

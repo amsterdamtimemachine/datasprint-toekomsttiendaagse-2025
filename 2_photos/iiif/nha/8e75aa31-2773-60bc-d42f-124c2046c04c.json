@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/8e75aa31-2773-60bc-d42f-124c2046c04c.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Vertrek Nederlandse schaatsenrijders naar Hamar, Amsterdam C.S. (1952-12-28)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Vertrek Nederlandse schaatsenrijders naar Hamar, Amsterdam C.S."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1952-12-28"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2095205\">Stationsplein</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Schaatsen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/28710"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.899167,
+            52.378056
+          ]
+        },
+        "properties": {
+          "title": "Stationsplein",
+          "url": "http://www.wikidata.org/entity/Q2095205"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8e75aa31-2773-60bc-d42f-124c2046c04c/NL-HlmNHA_1478_07457B0I_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vertrek Nederlandse schaatsenrijders naar Hamar, Amsterdam C.S."
+        ]
+      },
+      "height": 2190,
+      "width": 2839,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/88845bae-a97c-1f05-ea0a-e961058f2e05\">https://hdl.handle.net/21.12102/88845bae-a97c-1f05-ea0a-e961058f2e05</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8e75aa31-2773-60bc-d42f-124c2046c04c/NL-HlmNHA_1478_07457B0I_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8e75aa31-2773-60bc-d42f-124c2046c04c/NL-HlmNHA_1478_07457B0I_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/84bcae97-d165-8428-9d57-91fe6b9efc98/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2190,
+                "width": 2839,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/84bcae97-d165-8428-9d57-91fe6b9efc98",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8e75aa31-2773-60bc-d42f-124c2046c04c/NL-HlmNHA_1478_07457B0I_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

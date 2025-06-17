@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/2f630d12-004d-d0d8-2411-da9043a42de4.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Voetbalwedstrijd Belgi\u00eb - Nederland in het Olympisch Stadion te Amsterdam. (1959)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Voetbalwedstrijd Belgi\u00eb - Nederland in het Olympisch Stadion te Amsterdam."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1959"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2f630d12-004d-d0d8-2411-da9043a42de4/NL-HlmNHA_1478_16742B01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Voetbalwedstrijd Belgi\u00eb - Nederland in het Olympisch Stadion te Amsterdam."
+        ]
+      },
+      "height": 2265,
+      "width": 2953,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/79656bc7-9ebf-8c02-c6e2-1cae386b3a01\">https://hdl.handle.net/21.12102/79656bc7-9ebf-8c02-c6e2-1cae386b3a01</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2f630d12-004d-d0d8-2411-da9043a42de4/NL-HlmNHA_1478_16742B01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2f630d12-004d-d0d8-2411-da9043a42de4/NL-HlmNHA_1478_16742B01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/db93eaf1-f3be-8f27-126a-c2043c142278/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2265,
+                "width": 2953,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/db93eaf1-f3be-8f27-126a-c2043c142278",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2f630d12-004d-d0d8-2411-da9043a42de4/NL-HlmNHA_1478_16742B01_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2f630d12-004d-d0d8-2411-da9043a42de4/NL-HlmNHA_1478_16742B02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Voetbalwedstrijd Belgi\u00eb - Nederland in het Olympisch Stadion te Amsterdam."
+        ]
+      },
+      "height": 2238,
+      "width": 2857,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b455ec60-3456-08c4-1cc2-356c6041c8b9\">https://hdl.handle.net/21.12102/b455ec60-3456-08c4-1cc2-356c6041c8b9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2f630d12-004d-d0d8-2411-da9043a42de4/NL-HlmNHA_1478_16742B02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2f630d12-004d-d0d8-2411-da9043a42de4/NL-HlmNHA_1478_16742B02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a191e112-e2c2-dbd7-5bef-c8630cc5b048/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2238,
+                "width": 2857,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a191e112-e2c2-dbd7-5bef-c8630cc5b048",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2f630d12-004d-d0d8-2411-da9043a42de4/NL-HlmNHA_1478_16742B02_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

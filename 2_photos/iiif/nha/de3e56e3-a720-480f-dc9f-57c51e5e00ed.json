@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/de3e56e3-a720-480f-dc9f-57c51e5e00ed.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Groep mannen stapt aan boord van vliegtuig via landingstrap (1959)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Groep mannen stapt aan boord van vliegtuig via landingstrap"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1959"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/de3e56e3-a720-480f-dc9f-57c51e5e00ed/NL-HlmNHA_1478_17575B02b_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Groep mannen stapt aan boord van vliegtuig via landingstrap"
+        ]
+      },
+      "height": 1314,
+      "width": 1355,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/767f6e89-6bab-fd48-9877-1dcabea51f80\">https://hdl.handle.net/21.12102/767f6e89-6bab-fd48-9877-1dcabea51f80</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/de3e56e3-a720-480f-dc9f-57c51e5e00ed/NL-HlmNHA_1478_17575B02b_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/de3e56e3-a720-480f-dc9f-57c51e5e00ed/NL-HlmNHA_1478_17575B02b_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ab12b5e4-862b-b2d4-8590-cfd450746870/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1314,
+                "width": 1355,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ab12b5e4-862b-b2d4-8590-cfd450746870",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/de3e56e3-a720-480f-dc9f-57c51e5e00ed/NL-HlmNHA_1478_17575B02b_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

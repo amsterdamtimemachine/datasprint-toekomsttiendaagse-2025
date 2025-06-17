@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/f73813f2-19f4-fa86-cabb-c7afa85b6933.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Blinkert kampioen in Amsterdam (1986-05-06)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Blinkert kampioen in Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1986-05-06"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Handbal"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/25834"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f73813f2-19f4-fa86-cabb-c7afa85b6933/NL-HlmNHA_1478_26297K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Blinkert kampioen in Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0d2e342c-8da8-80ce-5678-5b56436ba24f\">https://hdl.handle.net/21.12102/0d2e342c-8da8-80ce-5678-5b56436ba24f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f73813f2-19f4-fa86-cabb-c7afa85b6933/NL-HlmNHA_1478_26297K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f73813f2-19f4-fa86-cabb-c7afa85b6933/NL-HlmNHA_1478_26297K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/94a56fb7-3316-1bd2-bd3a-e6a5427c3e50/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/94a56fb7-3316-1bd2-bd3a-e6a5427c3e50",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f73813f2-19f4-fa86-cabb-c7afa85b6933/NL-HlmNHA_1478_26297K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f73813f2-19f4-fa86-cabb-c7afa85b6933/NL-HlmNHA_1478_26297K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Blinkert kampioen in Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/25dbf9f0-8c0b-26de-f517-973e0e4c0189\">https://hdl.handle.net/21.12102/25dbf9f0-8c0b-26de-f517-973e0e4c0189</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f73813f2-19f4-fa86-cabb-c7afa85b6933/NL-HlmNHA_1478_26297K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f73813f2-19f4-fa86-cabb-c7afa85b6933/NL-HlmNHA_1478_26297K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c2988a93-dfa9-6eed-50c0-6c481aedbbd7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c2988a93-dfa9-6eed-50c0-6c481aedbbd7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f73813f2-19f4-fa86-cabb-c7afa85b6933/NL-HlmNHA_1478_26297K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f73813f2-19f4-fa86-cabb-c7afa85b6933/NL-HlmNHA_1478_26297K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Blinkert kampioen in Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/959eb2a3-512d-8123-d3f2-cdf72947efef\">https://hdl.handle.net/21.12102/959eb2a3-512d-8123-d3f2-cdf72947efef</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f73813f2-19f4-fa86-cabb-c7afa85b6933/NL-HlmNHA_1478_26297K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f73813f2-19f4-fa86-cabb-c7afa85b6933/NL-HlmNHA_1478_26297K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d7099362-9561-9e5e-c9a0-01297ec1acdf/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d7099362-9561-9e5e-c9a0-01297ec1acdf",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f73813f2-19f4-fa86-cabb-c7afa85b6933/NL-HlmNHA_1478_26297K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f73813f2-19f4-fa86-cabb-c7afa85b6933/NL-HlmNHA_1478_26297K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Blinkert kampioen in Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9f9cac9a-dce1-d512-008c-fe1234cefa12\">https://hdl.handle.net/21.12102/9f9cac9a-dce1-d512-008c-fe1234cefa12</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f73813f2-19f4-fa86-cabb-c7afa85b6933/NL-HlmNHA_1478_26297K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f73813f2-19f4-fa86-cabb-c7afa85b6933/NL-HlmNHA_1478_26297K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6d4a47bd-f96b-d0d4-9c9b-92ea22e7f33e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6d4a47bd-f96b-d0d4-9c9b-92ea22e7f33e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f73813f2-19f4-fa86-cabb-c7afa85b6933/NL-HlmNHA_1478_26297K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f73813f2-19f4-fa86-cabb-c7afa85b6933/NL-HlmNHA_1478_26297K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Blinkert kampioen in Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/dad6a290-105d-ae4c-f2bc-2913c167ce19\">https://hdl.handle.net/21.12102/dad6a290-105d-ae4c-f2bc-2913c167ce19</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f73813f2-19f4-fa86-cabb-c7afa85b6933/NL-HlmNHA_1478_26297K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f73813f2-19f4-fa86-cabb-c7afa85b6933/NL-HlmNHA_1478_26297K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c10e3c0b-5b69-a47c-dfe6-a16833c76555/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c10e3c0b-5b69-a47c-dfe6-a16833c76555",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f73813f2-19f4-fa86-cabb-c7afa85b6933/NL-HlmNHA_1478_26297K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

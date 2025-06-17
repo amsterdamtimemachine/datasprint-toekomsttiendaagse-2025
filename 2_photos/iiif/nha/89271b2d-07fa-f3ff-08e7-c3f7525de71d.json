@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/89271b2d-07fa-f3ff-08e7-c3f7525de71d.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Kinderen op de beursvloer, Amsterdam (2000-03-28)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Kinderen op de beursvloer, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2000-03-28"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/89271b2d-07fa-f3ff-08e7-c3f7525de71d/NL-HlmNHA_1478_48017K00_31/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kinderen op de beursvloer, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1df179b7-7bae-7e01-0e28-ae8c22ddd1fd\">https://hdl.handle.net/21.12102/1df179b7-7bae-7e01-0e28-ae8c22ddd1fd</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/89271b2d-07fa-f3ff-08e7-c3f7525de71d/NL-HlmNHA_1478_48017K00_31/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/89271b2d-07fa-f3ff-08e7-c3f7525de71d/NL-HlmNHA_1478_48017K00_31/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/916297a9-b4e0-228b-0349-b487f6c721c6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/916297a9-b4e0-228b-0349-b487f6c721c6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/89271b2d-07fa-f3ff-08e7-c3f7525de71d/NL-HlmNHA_1478_48017K00_31/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/89271b2d-07fa-f3ff-08e7-c3f7525de71d/NL-HlmNHA_1478_48017K00_36/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kinderen op de beursvloer, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/727fe8fd-79c3-9c7b-11de-ed7a87fa74cf\">https://hdl.handle.net/21.12102/727fe8fd-79c3-9c7b-11de-ed7a87fa74cf</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/89271b2d-07fa-f3ff-08e7-c3f7525de71d/NL-HlmNHA_1478_48017K00_36/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/89271b2d-07fa-f3ff-08e7-c3f7525de71d/NL-HlmNHA_1478_48017K00_36/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4c5df2e7-9492-96b4-97f0-4246d2624dbb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4c5df2e7-9492-96b4-97f0-4246d2624dbb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/89271b2d-07fa-f3ff-08e7-c3f7525de71d/NL-HlmNHA_1478_48017K00_36/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/89271b2d-07fa-f3ff-08e7-c3f7525de71d/NL-HlmNHA_1478_48017K00_32/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kinderen op de beursvloer, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a6a9a80c-7b09-0f6c-ddef-4b45e1e22901\">https://hdl.handle.net/21.12102/a6a9a80c-7b09-0f6c-ddef-4b45e1e22901</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/89271b2d-07fa-f3ff-08e7-c3f7525de71d/NL-HlmNHA_1478_48017K00_32/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/89271b2d-07fa-f3ff-08e7-c3f7525de71d/NL-HlmNHA_1478_48017K00_32/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/be16fba2-af28-897c-ffeb-85337867f3de/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/be16fba2-af28-897c-ffeb-85337867f3de",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/89271b2d-07fa-f3ff-08e7-c3f7525de71d/NL-HlmNHA_1478_48017K00_32/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/89271b2d-07fa-f3ff-08e7-c3f7525de71d/NL-HlmNHA_1478_48017K00_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kinderen op de beursvloer, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c75ca580-3d38-a046-b24d-fec1fd0558e9\">https://hdl.handle.net/21.12102/c75ca580-3d38-a046-b24d-fec1fd0558e9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/89271b2d-07fa-f3ff-08e7-c3f7525de71d/NL-HlmNHA_1478_48017K00_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/89271b2d-07fa-f3ff-08e7-c3f7525de71d/NL-HlmNHA_1478_48017K00_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a24b9288-faa0-d501-fd49-83570cd63db7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a24b9288-faa0-d501-fd49-83570cd63db7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/89271b2d-07fa-f3ff-08e7-c3f7525de71d/NL-HlmNHA_1478_48017K00_35/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/89271b2d-07fa-f3ff-08e7-c3f7525de71d/NL-HlmNHA_1478_48017K00_33/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kinderen op de beursvloer, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/cc4fbfba-f375-5181-d77b-803daeeacebe\">https://hdl.handle.net/21.12102/cc4fbfba-f375-5181-d77b-803daeeacebe</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/89271b2d-07fa-f3ff-08e7-c3f7525de71d/NL-HlmNHA_1478_48017K00_33/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/89271b2d-07fa-f3ff-08e7-c3f7525de71d/NL-HlmNHA_1478_48017K00_33/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d227ba06-2461-e555-7afb-eea11c4708c4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d227ba06-2461-e555-7afb-eea11c4708c4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/89271b2d-07fa-f3ff-08e7-c3f7525de71d/NL-HlmNHA_1478_48017K00_33/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/89271b2d-07fa-f3ff-08e7-c3f7525de71d/NL-HlmNHA_1478_48017K00_34/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kinderen op de beursvloer, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d3a03936-d56b-c322-3061-93dd27ad3acc\">https://hdl.handle.net/21.12102/d3a03936-d56b-c322-3061-93dd27ad3acc</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/89271b2d-07fa-f3ff-08e7-c3f7525de71d/NL-HlmNHA_1478_48017K00_34/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/89271b2d-07fa-f3ff-08e7-c3f7525de71d/NL-HlmNHA_1478_48017K00_34/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/29e99b83-2601-56f0-8c1d-c22ceb2d7d76/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/29e99b83-2601-56f0-8c1d-c22ceb2d7d76",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/89271b2d-07fa-f3ff-08e7-c3f7525de71d/NL-HlmNHA_1478_48017K00_34/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

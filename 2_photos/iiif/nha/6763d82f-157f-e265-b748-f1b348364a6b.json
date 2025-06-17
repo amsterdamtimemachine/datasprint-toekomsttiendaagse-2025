@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/6763d82f-157f-e265-b748-f1b348364a6b.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Werkzaamheden aan Haarlemmmerweg, Amsterdam (1958)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Werkzaamheden aan Haarlemmmerweg, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1958"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2213806\">Haarlemmerweg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.8675,
+            52.385
+          ]
+        },
+        "properties": {
+          "title": "Haarlemmerweg",
+          "url": "http://www.wikidata.org/entity/Q2213806"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6763d82f-157f-e265-b748-f1b348364a6b/NL-HlmNHA_1478_18515B04b_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Werkzaamheden aan Haarlemmmerweg, Amsterdam"
+        ]
+      },
+      "height": 1252,
+      "width": 1333,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3c00a97d-2052-fafa-78ee-980e9a80263c\">https://hdl.handle.net/21.12102/3c00a97d-2052-fafa-78ee-980e9a80263c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6763d82f-157f-e265-b748-f1b348364a6b/NL-HlmNHA_1478_18515B04b_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6763d82f-157f-e265-b748-f1b348364a6b/NL-HlmNHA_1478_18515B04b_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f4306099-ba5d-8855-3f97-79870d7b22f0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1252,
+                "width": 1333,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f4306099-ba5d-8855-3f97-79870d7b22f0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6763d82f-157f-e265-b748-f1b348364a6b/NL-HlmNHA_1478_18515B04b_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

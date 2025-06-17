@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/f3357af9-8aa5-61e7-1014-c8cc298e3960.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Ringvaart Schiphol-O (1980-11-03)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Ringvaart Schiphol-O"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1980-11-03"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Haarlemmermeer"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3357af9-8aa5-61e7-1014-c8cc298e3960/NL-HlmNHA_1478_20016K00_37/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ringvaart Schiphol-O"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/82d2d912-7137-dd92-d0b7-2bbe70ccfd0c\">https://hdl.handle.net/21.12102/82d2d912-7137-dd92-d0b7-2bbe70ccfd0c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3357af9-8aa5-61e7-1014-c8cc298e3960/NL-HlmNHA_1478_20016K00_37/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3357af9-8aa5-61e7-1014-c8cc298e3960/NL-HlmNHA_1478_20016K00_37/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4060b1a4-004a-fd29-90de-8011af08c344/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4060b1a4-004a-fd29-90de-8011af08c344",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3357af9-8aa5-61e7-1014-c8cc298e3960/NL-HlmNHA_1478_20016K00_37/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3357af9-8aa5-61e7-1014-c8cc298e3960/NL-HlmNHA_1478_20016K00_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ringvaart Schiphol-O"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c663bb9a-1f7a-2f32-453c-219712552865\">https://hdl.handle.net/21.12102/c663bb9a-1f7a-2f32-453c-219712552865</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3357af9-8aa5-61e7-1014-c8cc298e3960/NL-HlmNHA_1478_20016K00_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3357af9-8aa5-61e7-1014-c8cc298e3960/NL-HlmNHA_1478_20016K00_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ccd18d01-8682-e5e2-85c8-c66e2bc82173/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ccd18d01-8682-e5e2-85c8-c66e2bc82173",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3357af9-8aa5-61e7-1014-c8cc298e3960/NL-HlmNHA_1478_20016K00_35/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3357af9-8aa5-61e7-1014-c8cc298e3960/NL-HlmNHA_1478_20016K00_38/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ringvaart Schiphol-O"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c99bfd23-b064-e281-bbbf-2dc6fbc597ce\">https://hdl.handle.net/21.12102/c99bfd23-b064-e281-bbbf-2dc6fbc597ce</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3357af9-8aa5-61e7-1014-c8cc298e3960/NL-HlmNHA_1478_20016K00_38/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3357af9-8aa5-61e7-1014-c8cc298e3960/NL-HlmNHA_1478_20016K00_38/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b5b0d1c6-9277-65fd-e2e6-476eba910f2d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b5b0d1c6-9277-65fd-e2e6-476eba910f2d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3357af9-8aa5-61e7-1014-c8cc298e3960/NL-HlmNHA_1478_20016K00_38/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3357af9-8aa5-61e7-1014-c8cc298e3960/NL-HlmNHA_1478_20016K00_36/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ringvaart Schiphol-O"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/cf2ad9e5-e0b8-b5c4-6d6f-501f998d6073\">https://hdl.handle.net/21.12102/cf2ad9e5-e0b8-b5c4-6d6f-501f998d6073</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3357af9-8aa5-61e7-1014-c8cc298e3960/NL-HlmNHA_1478_20016K00_36/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3357af9-8aa5-61e7-1014-c8cc298e3960/NL-HlmNHA_1478_20016K00_36/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/cf15f68a-d26f-16e5-5562-3abb3122a86e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/cf15f68a-d26f-16e5-5562-3abb3122a86e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3357af9-8aa5-61e7-1014-c8cc298e3960/NL-HlmNHA_1478_20016K00_36/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3357af9-8aa5-61e7-1014-c8cc298e3960/NL-HlmNHA_1478_20016K00_40/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ringvaart Schiphol-O"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e9d56755-c2e6-2775-73e4-7da5f718e609\">https://hdl.handle.net/21.12102/e9d56755-c2e6-2775-73e4-7da5f718e609</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3357af9-8aa5-61e7-1014-c8cc298e3960/NL-HlmNHA_1478_20016K00_40/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3357af9-8aa5-61e7-1014-c8cc298e3960/NL-HlmNHA_1478_20016K00_40/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0db1c060-1203-83b5-36dd-4e8bb67381dc/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0db1c060-1203-83b5-36dd-4e8bb67381dc",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3357af9-8aa5-61e7-1014-c8cc298e3960/NL-HlmNHA_1478_20016K00_40/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3357af9-8aa5-61e7-1014-c8cc298e3960/NL-HlmNHA_1478_20016K00_39/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ringvaart Schiphol-O"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ef1bab49-7e80-ddd2-f48a-77e1026b7982\">https://hdl.handle.net/21.12102/ef1bab49-7e80-ddd2-f48a-77e1026b7982</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3357af9-8aa5-61e7-1014-c8cc298e3960/NL-HlmNHA_1478_20016K00_39/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3357af9-8aa5-61e7-1014-c8cc298e3960/NL-HlmNHA_1478_20016K00_39/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a5916d03-3ec1-0853-f207-384ff013a4f7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a5916d03-3ec1-0853-f207-384ff013a4f7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3357af9-8aa5-61e7-1014-c8cc298e3960/NL-HlmNHA_1478_20016K00_39/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

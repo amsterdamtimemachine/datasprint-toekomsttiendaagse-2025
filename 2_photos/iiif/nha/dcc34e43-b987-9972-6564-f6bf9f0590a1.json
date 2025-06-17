@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/dcc34e43-b987-9972-6564-f6bf9f0590a1.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Sneeuwpoppen Zwanenburg (1985-01-16)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Sneeuwpoppen Zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1985-01-16"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Sneeuw"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/28117"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcc34e43-b987-9972-6564-f6bf9f0590a1/NL-HlmNHA_1478_24812K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Sneeuwpoppen Zwanenburg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0a5bb2ba-07af-e683-2b97-43274dd04bb6\">https://hdl.handle.net/21.12102/0a5bb2ba-07af-e683-2b97-43274dd04bb6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcc34e43-b987-9972-6564-f6bf9f0590a1/NL-HlmNHA_1478_24812K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcc34e43-b987-9972-6564-f6bf9f0590a1/NL-HlmNHA_1478_24812K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4e13dabb-1de8-e86d-736e-791af097fd4d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4e13dabb-1de8-e86d-736e-791af097fd4d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcc34e43-b987-9972-6564-f6bf9f0590a1/NL-HlmNHA_1478_24812K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcc34e43-b987-9972-6564-f6bf9f0590a1/NL-HlmNHA_1478_24812K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Sneeuwpoppen Zwanenburg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6b7648ab-ec68-6dd4-6151-233376121348\">https://hdl.handle.net/21.12102/6b7648ab-ec68-6dd4-6151-233376121348</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcc34e43-b987-9972-6564-f6bf9f0590a1/NL-HlmNHA_1478_24812K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcc34e43-b987-9972-6564-f6bf9f0590a1/NL-HlmNHA_1478_24812K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/64d0f3f1-e1e2-1844-0d53-5eb037159d3e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/64d0f3f1-e1e2-1844-0d53-5eb037159d3e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcc34e43-b987-9972-6564-f6bf9f0590a1/NL-HlmNHA_1478_24812K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcc34e43-b987-9972-6564-f6bf9f0590a1/NL-HlmNHA_1478_24812K00_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Sneeuwpoppen Zwanenburg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/861f07bd-6551-b149-666e-0a89035e18f4\">https://hdl.handle.net/21.12102/861f07bd-6551-b149-666e-0a89035e18f4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcc34e43-b987-9972-6564-f6bf9f0590a1/NL-HlmNHA_1478_24812K00_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcc34e43-b987-9972-6564-f6bf9f0590a1/NL-HlmNHA_1478_24812K00_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d1c54695-2baf-2819-1279-9f3b50349a7d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d1c54695-2baf-2819-1279-9f3b50349a7d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcc34e43-b987-9972-6564-f6bf9f0590a1/NL-HlmNHA_1478_24812K00_08/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcc34e43-b987-9972-6564-f6bf9f0590a1/NL-HlmNHA_1478_24812K00_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Sneeuwpoppen Zwanenburg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ef745cfe-445f-08b3-bf9f-4408dd36a673\">https://hdl.handle.net/21.12102/ef745cfe-445f-08b3-bf9f-4408dd36a673</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcc34e43-b987-9972-6564-f6bf9f0590a1/NL-HlmNHA_1478_24812K00_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcc34e43-b987-9972-6564-f6bf9f0590a1/NL-HlmNHA_1478_24812K00_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7fa5986c-2689-7a3a-1321-04e769b38202/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7fa5986c-2689-7a3a-1321-04e769b38202",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dcc34e43-b987-9972-6564-f6bf9f0590a1/NL-HlmNHA_1478_24812K00_07/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

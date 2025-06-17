@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/dc585494-891a-399b-ea0d-cf4ca0c657c4.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Opening nieuwbouw raadhuis Halfweg (1993-07-09)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Opening nieuwbouw raadhuis Halfweg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1993-07-09"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2367253\">Halfweg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.755,
+            52.3828
+          ]
+        },
+        "properties": {
+          "title": "Halfweg",
+          "url": "http://www.wikidata.org/entity/Q2367253"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dc585494-891a-399b-ea0d-cf4ca0c657c4/NL-HlmNHA_1478_38352K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Opening nieuwbouw raadhuis Halfweg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/08713f0b-1339-976e-7cc0-d26f635c8538\">https://hdl.handle.net/21.12102/08713f0b-1339-976e-7cc0-d26f635c8538</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dc585494-891a-399b-ea0d-cf4ca0c657c4/NL-HlmNHA_1478_38352K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dc585494-891a-399b-ea0d-cf4ca0c657c4/NL-HlmNHA_1478_38352K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/dd5f9ac4-cc4f-245c-b2f0-3dce61341040/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/dd5f9ac4-cc4f-245c-b2f0-3dce61341040",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dc585494-891a-399b-ea0d-cf4ca0c657c4/NL-HlmNHA_1478_38352K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dc585494-891a-399b-ea0d-cf4ca0c657c4/NL-HlmNHA_1478_38352K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Opening nieuwbouw raadhuis Halfweg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7b5eb626-06b9-8077-46a4-a9f0c57f2c36\">https://hdl.handle.net/21.12102/7b5eb626-06b9-8077-46a4-a9f0c57f2c36</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dc585494-891a-399b-ea0d-cf4ca0c657c4/NL-HlmNHA_1478_38352K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dc585494-891a-399b-ea0d-cf4ca0c657c4/NL-HlmNHA_1478_38352K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d1f6dc73-6b5a-cf2e-70f3-094071293613/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d1f6dc73-6b5a-cf2e-70f3-094071293613",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dc585494-891a-399b-ea0d-cf4ca0c657c4/NL-HlmNHA_1478_38352K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dc585494-891a-399b-ea0d-cf4ca0c657c4/NL-HlmNHA_1478_38352K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Opening nieuwbouw raadhuis Halfweg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b11cfe48-eed9-542a-8e2f-274815131d43\">https://hdl.handle.net/21.12102/b11cfe48-eed9-542a-8e2f-274815131d43</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dc585494-891a-399b-ea0d-cf4ca0c657c4/NL-HlmNHA_1478_38352K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dc585494-891a-399b-ea0d-cf4ca0c657c4/NL-HlmNHA_1478_38352K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8beaa9ac-fdb0-ed3b-4e5e-50647282d34c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8beaa9ac-fdb0-ed3b-4e5e-50647282d34c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dc585494-891a-399b-ea0d-cf4ca0c657c4/NL-HlmNHA_1478_38352K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dc585494-891a-399b-ea0d-cf4ca0c657c4/NL-HlmNHA_1478_38352K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Opening nieuwbouw raadhuis Halfweg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/dee80a9d-bd91-91f4-efaa-e1fa103837ee\">https://hdl.handle.net/21.12102/dee80a9d-bd91-91f4-efaa-e1fa103837ee</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dc585494-891a-399b-ea0d-cf4ca0c657c4/NL-HlmNHA_1478_38352K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dc585494-891a-399b-ea0d-cf4ca0c657c4/NL-HlmNHA_1478_38352K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/82f4b46d-0620-289f-db3f-5c58688a7ef9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/82f4b46d-0620-289f-db3f-5c58688a7ef9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dc585494-891a-399b-ea0d-cf4ca0c657c4/NL-HlmNHA_1478_38352K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dc585494-891a-399b-ea0d-cf4ca0c657c4/NL-HlmNHA_1478_38352K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Opening nieuwbouw raadhuis Halfweg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f7120627-b406-c9d1-e12a-db5ca850f7ef\">https://hdl.handle.net/21.12102/f7120627-b406-c9d1-e12a-db5ca850f7ef</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dc585494-891a-399b-ea0d-cf4ca0c657c4/NL-HlmNHA_1478_38352K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dc585494-891a-399b-ea0d-cf4ca0c657c4/NL-HlmNHA_1478_38352K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9d00c6a6-3e5f-ffb9-cfca-3037bf0898db/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9d00c6a6-3e5f-ffb9-cfca-3037bf0898db",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dc585494-891a-399b-ea0d-cf4ca0c657c4/NL-HlmNHA_1478_38352K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

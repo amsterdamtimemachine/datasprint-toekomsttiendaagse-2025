@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/12e2c5b8-418a-bd28-09a7-71f09f95cda7.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Prijsuitreiking kleurwedstrijd Zwanenburg (1988-07-20)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Prijsuitreiking kleurwedstrijd Zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1988-07-20"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Prijsuitreiking"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/27146"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e2c5b8-418a-bd28-09a7-71f09f95cda7/NL-HlmNHA_1478_29353K00_27/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Prijsuitreiking kleurwedstrijd Zwanenburg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/459d1599-2490-f3f5-48df-aea8663098f4\">https://hdl.handle.net/21.12102/459d1599-2490-f3f5-48df-aea8663098f4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e2c5b8-418a-bd28-09a7-71f09f95cda7/NL-HlmNHA_1478_29353K00_27/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e2c5b8-418a-bd28-09a7-71f09f95cda7/NL-HlmNHA_1478_29353K00_27/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a4e5158e-85b5-f7c1-478f-717ba8fb90aa/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a4e5158e-85b5-f7c1-478f-717ba8fb90aa",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e2c5b8-418a-bd28-09a7-71f09f95cda7/NL-HlmNHA_1478_29353K00_27/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e2c5b8-418a-bd28-09a7-71f09f95cda7/NL-HlmNHA_1478_29353K00_26/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Prijsuitreiking kleurwedstrijd Zwanenburg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/61081b20-42b1-93c7-f6d2-dee31191e4f2\">https://hdl.handle.net/21.12102/61081b20-42b1-93c7-f6d2-dee31191e4f2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e2c5b8-418a-bd28-09a7-71f09f95cda7/NL-HlmNHA_1478_29353K00_26/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e2c5b8-418a-bd28-09a7-71f09f95cda7/NL-HlmNHA_1478_29353K00_26/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/274c4347-671d-537b-82ed-7a5dad1d74c5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/274c4347-671d-537b-82ed-7a5dad1d74c5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e2c5b8-418a-bd28-09a7-71f09f95cda7/NL-HlmNHA_1478_29353K00_26/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e2c5b8-418a-bd28-09a7-71f09f95cda7/NL-HlmNHA_1478_29353K00_25/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Prijsuitreiking kleurwedstrijd Zwanenburg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7ebeede7-fa39-dedf-6057-f8c349523077\">https://hdl.handle.net/21.12102/7ebeede7-fa39-dedf-6057-f8c349523077</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e2c5b8-418a-bd28-09a7-71f09f95cda7/NL-HlmNHA_1478_29353K00_25/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e2c5b8-418a-bd28-09a7-71f09f95cda7/NL-HlmNHA_1478_29353K00_25/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/aecb1c93-26db-f50e-0aa5-16f69acd32db/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/aecb1c93-26db-f50e-0aa5-16f69acd32db",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e2c5b8-418a-bd28-09a7-71f09f95cda7/NL-HlmNHA_1478_29353K00_25/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

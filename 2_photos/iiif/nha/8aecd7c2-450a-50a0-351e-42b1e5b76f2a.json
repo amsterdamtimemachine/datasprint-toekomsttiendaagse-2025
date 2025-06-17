@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/8aecd7c2-450a-50a0-351e-42b1e5b76f2a.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Malek Usta, Amsterdam (2000-09-21)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Malek Usta, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2000-09-21"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8aecd7c2-450a-50a0-351e-42b1e5b76f2a/NL-HlmNHA_1478_48620K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Malek Usta, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2368aa69-8652-d6b4-8f64-85b0bacb7eeb\">https://hdl.handle.net/21.12102/2368aa69-8652-d6b4-8f64-85b0bacb7eeb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8aecd7c2-450a-50a0-351e-42b1e5b76f2a/NL-HlmNHA_1478_48620K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8aecd7c2-450a-50a0-351e-42b1e5b76f2a/NL-HlmNHA_1478_48620K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/dc0f42b4-358b-1470-2940-8e899595a0f0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/dc0f42b4-358b-1470-2940-8e899595a0f0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8aecd7c2-450a-50a0-351e-42b1e5b76f2a/NL-HlmNHA_1478_48620K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8aecd7c2-450a-50a0-351e-42b1e5b76f2a/NL-HlmNHA_1478_48620K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Malek Usta, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2e2fd29a-34d6-82de-0473-59f9acedb12c\">https://hdl.handle.net/21.12102/2e2fd29a-34d6-82de-0473-59f9acedb12c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8aecd7c2-450a-50a0-351e-42b1e5b76f2a/NL-HlmNHA_1478_48620K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8aecd7c2-450a-50a0-351e-42b1e5b76f2a/NL-HlmNHA_1478_48620K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9d613ba7-9790-bfac-a189-355c15e4fde6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9d613ba7-9790-bfac-a189-355c15e4fde6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8aecd7c2-450a-50a0-351e-42b1e5b76f2a/NL-HlmNHA_1478_48620K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8aecd7c2-450a-50a0-351e-42b1e5b76f2a/NL-HlmNHA_1478_48620K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Malek Usta, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3054eb2f-d62c-4294-988a-62a3196f9a69\">https://hdl.handle.net/21.12102/3054eb2f-d62c-4294-988a-62a3196f9a69</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8aecd7c2-450a-50a0-351e-42b1e5b76f2a/NL-HlmNHA_1478_48620K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8aecd7c2-450a-50a0-351e-42b1e5b76f2a/NL-HlmNHA_1478_48620K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1b6c2327-9ddb-4a4c-34c1-0eaad746f983/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1b6c2327-9ddb-4a4c-34c1-0eaad746f983",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8aecd7c2-450a-50a0-351e-42b1e5b76f2a/NL-HlmNHA_1478_48620K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8aecd7c2-450a-50a0-351e-42b1e5b76f2a/NL-HlmNHA_1478_48620K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Malek Usta, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/345055f1-f699-5f45-3e5f-03d3aba2d943\">https://hdl.handle.net/21.12102/345055f1-f699-5f45-3e5f-03d3aba2d943</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8aecd7c2-450a-50a0-351e-42b1e5b76f2a/NL-HlmNHA_1478_48620K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8aecd7c2-450a-50a0-351e-42b1e5b76f2a/NL-HlmNHA_1478_48620K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7b63e52a-2388-5dcb-b31f-e5421fa71b96/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7b63e52a-2388-5dcb-b31f-e5421fa71b96",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8aecd7c2-450a-50a0-351e-42b1e5b76f2a/NL-HlmNHA_1478_48620K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8aecd7c2-450a-50a0-351e-42b1e5b76f2a/NL-HlmNHA_1478_48620K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Malek Usta, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/db44cf91-cba4-601f-a35a-96dcc8565dc7\">https://hdl.handle.net/21.12102/db44cf91-cba4-601f-a35a-96dcc8565dc7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8aecd7c2-450a-50a0-351e-42b1e5b76f2a/NL-HlmNHA_1478_48620K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8aecd7c2-450a-50a0-351e-42b1e5b76f2a/NL-HlmNHA_1478_48620K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/18dc1266-e58a-8948-247e-6cb12596c44b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/18dc1266-e58a-8948-247e-6cb12596c44b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8aecd7c2-450a-50a0-351e-42b1e5b76f2a/NL-HlmNHA_1478_48620K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8aecd7c2-450a-50a0-351e-42b1e5b76f2a/NL-HlmNHA_1478_48620K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Malek Usta, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f3b18737-afe5-6baf-5edc-aa6f22e152c8\">https://hdl.handle.net/21.12102/f3b18737-afe5-6baf-5edc-aa6f22e152c8</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8aecd7c2-450a-50a0-351e-42b1e5b76f2a/NL-HlmNHA_1478_48620K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8aecd7c2-450a-50a0-351e-42b1e5b76f2a/NL-HlmNHA_1478_48620K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e83688ae-fa1f-97eb-7c22-56571eea52de/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e83688ae-fa1f-97eb-7c22-56571eea52de",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8aecd7c2-450a-50a0-351e-42b1e5b76f2a/NL-HlmNHA_1478_48620K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

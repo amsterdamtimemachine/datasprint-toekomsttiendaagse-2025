@@ -1,0 +1,467 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/1658b794-8fdf-ca05-c596-9c6cc14e2bcc.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Dirk Vaandering Zwanenburg (2002-09-10)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Dirk Vaandering Zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2002-09-10"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1658b794-8fdf-ca05-c596-9c6cc14e2bcc/NL-HlmNHA_1478_50887K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dirk Vaandering Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1c7e1706-3632-3639-2e22-1521e4860fcf\">https://hdl.handle.net/21.12102/1c7e1706-3632-3639-2e22-1521e4860fcf</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1658b794-8fdf-ca05-c596-9c6cc14e2bcc/NL-HlmNHA_1478_50887K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1658b794-8fdf-ca05-c596-9c6cc14e2bcc/NL-HlmNHA_1478_50887K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/856b67ff-f0de-171b-316b-f01d5fcf6db0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/856b67ff-f0de-171b-316b-f01d5fcf6db0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1658b794-8fdf-ca05-c596-9c6cc14e2bcc/NL-HlmNHA_1478_50887K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1658b794-8fdf-ca05-c596-9c6cc14e2bcc/NL-HlmNHA_1478_50887K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dirk Vaandering Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/32582075-6d6b-ce5f-d969-e11368e0c0b8\">https://hdl.handle.net/21.12102/32582075-6d6b-ce5f-d969-e11368e0c0b8</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1658b794-8fdf-ca05-c596-9c6cc14e2bcc/NL-HlmNHA_1478_50887K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1658b794-8fdf-ca05-c596-9c6cc14e2bcc/NL-HlmNHA_1478_50887K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a53ab047-de49-0b57-1777-304231584314/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a53ab047-de49-0b57-1777-304231584314",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1658b794-8fdf-ca05-c596-9c6cc14e2bcc/NL-HlmNHA_1478_50887K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1658b794-8fdf-ca05-c596-9c6cc14e2bcc/NL-HlmNHA_1478_50887K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dirk Vaandering Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6c2aee7e-4bbc-f01e-f4ab-2460dce76a1d\">https://hdl.handle.net/21.12102/6c2aee7e-4bbc-f01e-f4ab-2460dce76a1d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1658b794-8fdf-ca05-c596-9c6cc14e2bcc/NL-HlmNHA_1478_50887K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1658b794-8fdf-ca05-c596-9c6cc14e2bcc/NL-HlmNHA_1478_50887K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/cd5737a6-740e-2b60-01fe-1141e1e9267b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/cd5737a6-740e-2b60-01fe-1141e1e9267b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1658b794-8fdf-ca05-c596-9c6cc14e2bcc/NL-HlmNHA_1478_50887K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1658b794-8fdf-ca05-c596-9c6cc14e2bcc/NL-HlmNHA_1478_50887K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dirk Vaandering Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6d1f5991-b856-b461-26bb-b44aed7838e0\">https://hdl.handle.net/21.12102/6d1f5991-b856-b461-26bb-b44aed7838e0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1658b794-8fdf-ca05-c596-9c6cc14e2bcc/NL-HlmNHA_1478_50887K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1658b794-8fdf-ca05-c596-9c6cc14e2bcc/NL-HlmNHA_1478_50887K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1f57e0e1-2e52-e97a-798a-00816b8e4011/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1f57e0e1-2e52-e97a-798a-00816b8e4011",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1658b794-8fdf-ca05-c596-9c6cc14e2bcc/NL-HlmNHA_1478_50887K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1658b794-8fdf-ca05-c596-9c6cc14e2bcc/NL-HlmNHA_1478_50887K00_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dirk Vaandering Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6ed06cae-e0da-f6de-aba1-c44998211c7e\">https://hdl.handle.net/21.12102/6ed06cae-e0da-f6de-aba1-c44998211c7e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1658b794-8fdf-ca05-c596-9c6cc14e2bcc/NL-HlmNHA_1478_50887K00_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1658b794-8fdf-ca05-c596-9c6cc14e2bcc/NL-HlmNHA_1478_50887K00_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/24318c59-7c08-4554-3f70-b91f0c08e66f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/24318c59-7c08-4554-3f70-b91f0c08e66f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1658b794-8fdf-ca05-c596-9c6cc14e2bcc/NL-HlmNHA_1478_50887K00_12/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1658b794-8fdf-ca05-c596-9c6cc14e2bcc/NL-HlmNHA_1478_50887K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dirk Vaandering Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/815671e4-2c97-0a53-ccf2-c3d4996fe808\">https://hdl.handle.net/21.12102/815671e4-2c97-0a53-ccf2-c3d4996fe808</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1658b794-8fdf-ca05-c596-9c6cc14e2bcc/NL-HlmNHA_1478_50887K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1658b794-8fdf-ca05-c596-9c6cc14e2bcc/NL-HlmNHA_1478_50887K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8c939e34-28ae-9206-4455-9d1d126eec54/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8c939e34-28ae-9206-4455-9d1d126eec54",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1658b794-8fdf-ca05-c596-9c6cc14e2bcc/NL-HlmNHA_1478_50887K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1658b794-8fdf-ca05-c596-9c6cc14e2bcc/NL-HlmNHA_1478_50887K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dirk Vaandering Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ac4f9314-80cb-68e4-6905-7fb104c03679\">https://hdl.handle.net/21.12102/ac4f9314-80cb-68e4-6905-7fb104c03679</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1658b794-8fdf-ca05-c596-9c6cc14e2bcc/NL-HlmNHA_1478_50887K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1658b794-8fdf-ca05-c596-9c6cc14e2bcc/NL-HlmNHA_1478_50887K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/759d6d1c-b729-7f61-ae3f-a4a480ae737a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/759d6d1c-b729-7f61-ae3f-a4a480ae737a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1658b794-8fdf-ca05-c596-9c6cc14e2bcc/NL-HlmNHA_1478_50887K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

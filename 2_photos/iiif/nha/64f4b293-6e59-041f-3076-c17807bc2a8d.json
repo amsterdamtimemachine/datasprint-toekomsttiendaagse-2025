@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/64f4b293-6e59-041f-3076-c17807bc2a8d.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Banketbakkerij Landman op de Nieuwendijk 142 te Amsterdam. Emigratie, RAU. (1951-02-06)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Banketbakkerij Landman op de Nieuwendijk 142 te Amsterdam. Emigratie, RAU."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1951-02-06"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2574143\">Nieuwendijk</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.895331,
+            52.375914
+          ]
+        },
+        "properties": {
+          "title": "Nieuwendijk",
+          "url": "http://www.wikidata.org/entity/Q2574143"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/64f4b293-6e59-041f-3076-c17807bc2a8d/NL-HlmNHA_1478_05516G00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Banketbakkerij Landman op de Nieuwendijk 142 te Amsterdam. Emigratie, RAU."
+        ]
+      },
+      "height": 1442,
+      "width": 1993,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/84c8c746-ce71-612c-0a28-8722b8e20fb0\">https://hdl.handle.net/21.12102/84c8c746-ce71-612c-0a28-8722b8e20fb0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/64f4b293-6e59-041f-3076-c17807bc2a8d/NL-HlmNHA_1478_05516G00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/64f4b293-6e59-041f-3076-c17807bc2a8d/NL-HlmNHA_1478_05516G00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/72de5ed6-90cf-86b9-bf50-cbd046a3a8e2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1442,
+                "width": 1993,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/72de5ed6-90cf-86b9-bf50-cbd046a3a8e2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/64f4b293-6e59-041f-3076-c17807bc2a8d/NL-HlmNHA_1478_05516G00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

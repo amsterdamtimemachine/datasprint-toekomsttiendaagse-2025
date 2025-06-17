@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/acc74f48-8638-02dc-0505-72cf1815b227.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Iepen op Weesperplein, A'dam (1978-01-02)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Iepen op Weesperplein, A'dam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1978-01-02"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2006251\">Weesperplein</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Bomen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/27962"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.907778,
+            52.361667
+          ]
+        },
+        "properties": {
+          "title": "Weesperplein",
+          "url": "http://www.wikidata.org/entity/Q2006251"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/acc74f48-8638-02dc-0505-72cf1815b227/NL-HlmNHA_1478_16312K01_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Iepen op Weesperplein, A'dam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2d874550-9a03-b2c3-c3ce-9983e9c41a7d\">https://hdl.handle.net/21.12102/2d874550-9a03-b2c3-c3ce-9983e9c41a7d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/acc74f48-8638-02dc-0505-72cf1815b227/NL-HlmNHA_1478_16312K01_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/acc74f48-8638-02dc-0505-72cf1815b227/NL-HlmNHA_1478_16312K01_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/293b27b2-71d7-cea1-735a-8e58a301bb3d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/293b27b2-71d7-cea1-735a-8e58a301bb3d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/acc74f48-8638-02dc-0505-72cf1815b227/NL-HlmNHA_1478_16312K01_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/acc74f48-8638-02dc-0505-72cf1815b227/NL-HlmNHA_1478_16312K01_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Iepen op Weesperplein, A'dam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/75d3fa38-663d-ce4b-9fcf-72a0693b57fd\">https://hdl.handle.net/21.12102/75d3fa38-663d-ce4b-9fcf-72a0693b57fd</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/acc74f48-8638-02dc-0505-72cf1815b227/NL-HlmNHA_1478_16312K01_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/acc74f48-8638-02dc-0505-72cf1815b227/NL-HlmNHA_1478_16312K01_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/52c9aed8-b651-8cf4-f57c-8de8e767e39e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/52c9aed8-b651-8cf4-f57c-8de8e767e39e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/acc74f48-8638-02dc-0505-72cf1815b227/NL-HlmNHA_1478_16312K01_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/acc74f48-8638-02dc-0505-72cf1815b227/NL-HlmNHA_1478_16312K01_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Iepen op Weesperplein, A'dam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e2d4bb54-2d08-0241-4fa4-2ff7f5d503b1\">https://hdl.handle.net/21.12102/e2d4bb54-2d08-0241-4fa4-2ff7f5d503b1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/acc74f48-8638-02dc-0505-72cf1815b227/NL-HlmNHA_1478_16312K01_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/acc74f48-8638-02dc-0505-72cf1815b227/NL-HlmNHA_1478_16312K01_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a520ce6b-289e-0246-7d3b-ca32118b7d0f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a520ce6b-289e-0246-7d3b-ca32118b7d0f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/acc74f48-8638-02dc-0505-72cf1815b227/NL-HlmNHA_1478_16312K01_09/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/acc74f48-8638-02dc-0505-72cf1815b227/NL-HlmNHA_1478_16312K01_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Iepen op Weesperplein, A'dam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f091b87a-c689-d60a-4df4-8bbe468c2477\">https://hdl.handle.net/21.12102/f091b87a-c689-d60a-4df4-8bbe468c2477</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/acc74f48-8638-02dc-0505-72cf1815b227/NL-HlmNHA_1478_16312K01_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/acc74f48-8638-02dc-0505-72cf1815b227/NL-HlmNHA_1478_16312K01_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0c432a83-7903-8030-d7dc-e40dab9a1705/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0c432a83-7903-8030-d7dc-e40dab9a1705",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/acc74f48-8638-02dc-0505-72cf1815b227/NL-HlmNHA_1478_16312K01_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/acc74f48-8638-02dc-0505-72cf1815b227/NL-HlmNHA_1478_16312K01_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Iepen op Weesperplein, A'dam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f7ef23c0-2247-6106-0297-0188c290f166\">https://hdl.handle.net/21.12102/f7ef23c0-2247-6106-0297-0188c290f166</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/acc74f48-8638-02dc-0505-72cf1815b227/NL-HlmNHA_1478_16312K01_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/acc74f48-8638-02dc-0505-72cf1815b227/NL-HlmNHA_1478_16312K01_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/23b120b7-3d61-66e5-6237-8e19354c1066/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/23b120b7-3d61-66e5-6237-8e19354c1066",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/acc74f48-8638-02dc-0505-72cf1815b227/NL-HlmNHA_1478_16312K01_08/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

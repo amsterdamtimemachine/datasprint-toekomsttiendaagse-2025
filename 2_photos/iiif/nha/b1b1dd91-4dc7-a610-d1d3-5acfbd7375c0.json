@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/b1b1dd91-4dc7-a610-d1d3-5acfbd7375c0.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Regisseur Karel Alphenaar, Amsterdam (1998-09-11)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Regisseur Karel Alphenaar, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1998-09-11"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b1b1dd91-4dc7-a610-d1d3-5acfbd7375c0/NL-HlmNHA_1478_46004K00_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Regisseur Karel Alphenaar, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/26a1095c-22c1-ba9d-a5c9-fe683c3e6d67\">https://hdl.handle.net/21.12102/26a1095c-22c1-ba9d-a5c9-fe683c3e6d67</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b1b1dd91-4dc7-a610-d1d3-5acfbd7375c0/NL-HlmNHA_1478_46004K00_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b1b1dd91-4dc7-a610-d1d3-5acfbd7375c0/NL-HlmNHA_1478_46004K00_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/afcb3e1f-0995-7362-38c4-e6c392ad5de3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/afcb3e1f-0995-7362-38c4-e6c392ad5de3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b1b1dd91-4dc7-a610-d1d3-5acfbd7375c0/NL-HlmNHA_1478_46004K00_29/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b1b1dd91-4dc7-a610-d1d3-5acfbd7375c0/NL-HlmNHA_1478_46004K00_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Regisseur Karel Alphenaar, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5a1bef1f-ad3f-a50a-1335-a9fc4be6fa67\">https://hdl.handle.net/21.12102/5a1bef1f-ad3f-a50a-1335-a9fc4be6fa67</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b1b1dd91-4dc7-a610-d1d3-5acfbd7375c0/NL-HlmNHA_1478_46004K00_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b1b1dd91-4dc7-a610-d1d3-5acfbd7375c0/NL-HlmNHA_1478_46004K00_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/509c28dd-c70d-e8a9-0d6f-ec37cb29c960/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/509c28dd-c70d-e8a9-0d6f-ec37cb29c960",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b1b1dd91-4dc7-a610-d1d3-5acfbd7375c0/NL-HlmNHA_1478_46004K00_30/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b1b1dd91-4dc7-a610-d1d3-5acfbd7375c0/NL-HlmNHA_1478_46004K00_27/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Regisseur Karel Alphenaar, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/82d11cc9-8302-d33b-0f9f-c1323f149d20\">https://hdl.handle.net/21.12102/82d11cc9-8302-d33b-0f9f-c1323f149d20</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b1b1dd91-4dc7-a610-d1d3-5acfbd7375c0/NL-HlmNHA_1478_46004K00_27/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b1b1dd91-4dc7-a610-d1d3-5acfbd7375c0/NL-HlmNHA_1478_46004K00_27/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/770f99c4-91dd-3042-09e4-9687ffb94a56/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/770f99c4-91dd-3042-09e4-9687ffb94a56",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b1b1dd91-4dc7-a610-d1d3-5acfbd7375c0/NL-HlmNHA_1478_46004K00_27/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b1b1dd91-4dc7-a610-d1d3-5acfbd7375c0/NL-HlmNHA_1478_46004K00_28/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Regisseur Karel Alphenaar, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/dbe46682-c866-3a30-b7e2-3166fde23fe6\">https://hdl.handle.net/21.12102/dbe46682-c866-3a30-b7e2-3166fde23fe6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b1b1dd91-4dc7-a610-d1d3-5acfbd7375c0/NL-HlmNHA_1478_46004K00_28/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b1b1dd91-4dc7-a610-d1d3-5acfbd7375c0/NL-HlmNHA_1478_46004K00_28/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c0745d88-eba0-6b1a-486c-f39557a46b80/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c0745d88-eba0-6b1a-486c-f39557a46b80",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b1b1dd91-4dc7-a610-d1d3-5acfbd7375c0/NL-HlmNHA_1478_46004K00_28/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

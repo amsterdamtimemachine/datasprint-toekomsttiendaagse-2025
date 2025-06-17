@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/7a01e691-c5ac-a82c-2dc7-63c81b3855fa.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Luchtfoto's Amsterdam, Amerikahaven (1976-05-17)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Luchtfoto's Amsterdam, Amerikahaven"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1976-05-17"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a01e691-c5ac-a82c-2dc7-63c81b3855fa/NL-HlmNHA_1478_00293L00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Luchtfoto's Amsterdam, Amerikahaven"
+        ]
+      },
+      "height": 2306,
+      "width": 3077,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/addcd1bb-38e0-8b43-09cf-e6ee975ca3b5\">https://hdl.handle.net/21.12102/addcd1bb-38e0-8b43-09cf-e6ee975ca3b5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a01e691-c5ac-a82c-2dc7-63c81b3855fa/NL-HlmNHA_1478_00293L00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a01e691-c5ac-a82c-2dc7-63c81b3855fa/NL-HlmNHA_1478_00293L00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c54aeab7-9a7f-d11c-d774-006fec773673/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2306,
+                "width": 3077,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c54aeab7-9a7f-d11c-d774-006fec773673",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a01e691-c5ac-a82c-2dc7-63c81b3855fa/NL-HlmNHA_1478_00293L00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

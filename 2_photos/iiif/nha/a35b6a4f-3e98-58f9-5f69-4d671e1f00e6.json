@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/a35b6a4f-3e98-58f9-5f69-4d671e1f00e6.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "St. Anna kindertehuis in voormalig Xaveriusklooster. Het pand is gesloopt in 1983. (1980-05-06)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "St. Anna kindertehuis in voormalig Xaveriusklooster. Het pand is gesloopt in 1983."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1980-05-06"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q19011404\">Dokter Baumannplein</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.751306,
+            52.384083
+          ]
+        },
+        "properties": {
+          "title": "Dokter Baumannplein",
+          "url": "http://www.wikidata.org/entity/Q19011404"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a35b6a4f-3e98-58f9-5f69-4d671e1f00e6/NL-HlmNHA_1478_19302K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "St. Anna kindertehuis in voormalig Xaveriusklooster. Het pand is gesloopt in 1983."
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/392caba9-7863-4547-9c2e-f58e4e8a1949\">https://hdl.handle.net/21.12102/392caba9-7863-4547-9c2e-f58e4e8a1949</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a35b6a4f-3e98-58f9-5f69-4d671e1f00e6/NL-HlmNHA_1478_19302K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a35b6a4f-3e98-58f9-5f69-4d671e1f00e6/NL-HlmNHA_1478_19302K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1f7d8dd1-1b80-99ad-c0aa-5019fe73d31e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1f7d8dd1-1b80-99ad-c0aa-5019fe73d31e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a35b6a4f-3e98-58f9-5f69-4d671e1f00e6/NL-HlmNHA_1478_19302K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a35b6a4f-3e98-58f9-5f69-4d671e1f00e6/NL-HlmNHA_1478_19302K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "St. Anna kindertehuis in voormalig Xaveriusklooster. Het pand is gesloopt in 1983."
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5b987406-116f-6158-d38e-f5d160b869e3\">https://hdl.handle.net/21.12102/5b987406-116f-6158-d38e-f5d160b869e3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a35b6a4f-3e98-58f9-5f69-4d671e1f00e6/NL-HlmNHA_1478_19302K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a35b6a4f-3e98-58f9-5f69-4d671e1f00e6/NL-HlmNHA_1478_19302K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c8958614-13bf-39ad-55fe-6c040c14564e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c8958614-13bf-39ad-55fe-6c040c14564e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a35b6a4f-3e98-58f9-5f69-4d671e1f00e6/NL-HlmNHA_1478_19302K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a35b6a4f-3e98-58f9-5f69-4d671e1f00e6/NL-HlmNHA_1478_19302K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "St. Anna kindertehuis in voormalig Xaveriusklooster. Het pand is gesloopt in 1983."
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/89038873-5aea-0c36-fd24-5f4ffeada276\">https://hdl.handle.net/21.12102/89038873-5aea-0c36-fd24-5f4ffeada276</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a35b6a4f-3e98-58f9-5f69-4d671e1f00e6/NL-HlmNHA_1478_19302K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a35b6a4f-3e98-58f9-5f69-4d671e1f00e6/NL-HlmNHA_1478_19302K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ab98a34e-780d-052c-e058-d9369dff65d4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ab98a34e-780d-052c-e058-d9369dff65d4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a35b6a4f-3e98-58f9-5f69-4d671e1f00e6/NL-HlmNHA_1478_19302K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

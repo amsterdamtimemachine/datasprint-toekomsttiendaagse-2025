@@ -1,0 +1,679 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/7d7a506e-060d-2413-a2ed-81c3e60f38c6.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Tentoonstelling Sissy, A'dam (1998-06-16)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Tentoonstelling Sissy, A'dam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1998-06-16"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_34/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tentoonstelling Sissy, A'dam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1025858f-00f6-75e1-e333-4aa08fa39cc1\">https://hdl.handle.net/21.12102/1025858f-00f6-75e1-e333-4aa08fa39cc1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_34/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_34/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/38a60298-5057-fac6-5ecb-080ceabd1339/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/38a60298-5057-fac6-5ecb-080ceabd1339",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_34/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_31/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tentoonstelling Sissy, A'dam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1fd59a1b-bf36-42ae-c01c-27bdf7c78624\">https://hdl.handle.net/21.12102/1fd59a1b-bf36-42ae-c01c-27bdf7c78624</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_31/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_31/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/cdcbca4d-2387-65ed-cc19-dec2d6fd6c5c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/cdcbca4d-2387-65ed-cc19-dec2d6fd6c5c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_31/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_36/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tentoonstelling Sissy, A'dam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/20f985c4-c33e-7bac-0c96-a3acc96686c0\">https://hdl.handle.net/21.12102/20f985c4-c33e-7bac-0c96-a3acc96686c0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_36/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_36/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e4f81f7f-48ed-76bf-7de1-1dbd4080431a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e4f81f7f-48ed-76bf-7de1-1dbd4080431a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_36/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_39/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tentoonstelling Sissy, A'dam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/44c1e81f-3cb3-38a8-4aaa-997feeb39b93\">https://hdl.handle.net/21.12102/44c1e81f-3cb3-38a8-4aaa-997feeb39b93</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_39/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_39/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7f6768cc-22c4-4587-fe71-cbaf92621af6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7f6768cc-22c4-4587-fe71-cbaf92621af6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_39/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_37/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tentoonstelling Sissy, A'dam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5155c5b9-7276-f734-66f4-76306238b34c\">https://hdl.handle.net/21.12102/5155c5b9-7276-f734-66f4-76306238b34c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_37/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_37/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4dc74f20-e38f-fc53-5ca1-54b5f9768f12/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4dc74f20-e38f-fc53-5ca1-54b5f9768f12",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_37/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tentoonstelling Sissy, A'dam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/58ba4f7d-9805-23e2-cce6-a1aec496a51b\">https://hdl.handle.net/21.12102/58ba4f7d-9805-23e2-cce6-a1aec496a51b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/77eef19c-df83-1cff-9081-df4bda3982fd/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/77eef19c-df83-1cff-9081-df4bda3982fd",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_35/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_33/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tentoonstelling Sissy, A'dam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/71dd3fec-3542-c041-eac8-b5cab365fa2c\">https://hdl.handle.net/21.12102/71dd3fec-3542-c041-eac8-b5cab365fa2c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_33/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_33/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f08601cf-c47f-dac8-3dc2-e4401fca6358/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f08601cf-c47f-dac8-3dc2-e4401fca6358",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_33/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_38/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tentoonstelling Sissy, A'dam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9c9bfe7e-93c0-db2b-c787-4f6b4c4859a1\">https://hdl.handle.net/21.12102/9c9bfe7e-93c0-db2b-c787-4f6b4c4859a1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_38/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_38/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/126fed78-6b4a-bd68-a037-4f6a531febd5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/126fed78-6b4a-bd68-a037-4f6a531febd5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_38/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_40/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tentoonstelling Sissy, A'dam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ba2f18e3-a4bb-7701-a8e0-142d638c0490\">https://hdl.handle.net/21.12102/ba2f18e3-a4bb-7701-a8e0-142d638c0490</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_40/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_40/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0bfb6d80-9502-786b-363e-53086960202c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0bfb6d80-9502-786b-363e-53086960202c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_40/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_32/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tentoonstelling Sissy, A'dam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c60fed3f-a2a6-a3b7-e3d9-263048572db4\">https://hdl.handle.net/21.12102/c60fed3f-a2a6-a3b7-e3d9-263048572db4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_32/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_32/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f2cdec2c-4a3f-ecd9-ac15-af041c075d02/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f2cdec2c-4a3f-ecd9-ac15-af041c075d02",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_32/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_41/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tentoonstelling Sissy, A'dam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d3fa1ea3-aba3-650f-f812-67970057e9b5\">https://hdl.handle.net/21.12102/d3fa1ea3-aba3-650f-f812-67970057e9b5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_41/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_41/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/919b3b6b-ddd6-b7f2-df9e-15cb3cb4f8b1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/919b3b6b-ddd6-b7f2-df9e-15cb3cb4f8b1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7d7a506e-060d-2413-a2ed-81c3e60f38c6/NL-HlmNHA_1478_45670K00_41/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

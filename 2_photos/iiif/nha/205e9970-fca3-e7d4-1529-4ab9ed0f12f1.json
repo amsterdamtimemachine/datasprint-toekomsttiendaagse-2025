@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/205e9970-fca3-e7d4-1529-4ab9ed0f12f1.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Herbouw clubhuis Zwanenburg (1999-10-28)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Herbouw clubhuis Zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1999-10-28"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/205e9970-fca3-e7d4-1529-4ab9ed0f12f1/NL-HlmNHA_1478_47556K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Herbouw clubhuis Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2dcd547c-9302-e527-eda9-8ae6e4aa7941\">https://hdl.handle.net/21.12102/2dcd547c-9302-e527-eda9-8ae6e4aa7941</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/205e9970-fca3-e7d4-1529-4ab9ed0f12f1/NL-HlmNHA_1478_47556K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/205e9970-fca3-e7d4-1529-4ab9ed0f12f1/NL-HlmNHA_1478_47556K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a466b3cc-6106-f208-9405-caf7b0e97226/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a466b3cc-6106-f208-9405-caf7b0e97226",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/205e9970-fca3-e7d4-1529-4ab9ed0f12f1/NL-HlmNHA_1478_47556K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/205e9970-fca3-e7d4-1529-4ab9ed0f12f1/NL-HlmNHA_1478_47556K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Herbouw clubhuis Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/50045f65-00c7-e351-5c5f-ede7ca453db0\">https://hdl.handle.net/21.12102/50045f65-00c7-e351-5c5f-ede7ca453db0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/205e9970-fca3-e7d4-1529-4ab9ed0f12f1/NL-HlmNHA_1478_47556K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/205e9970-fca3-e7d4-1529-4ab9ed0f12f1/NL-HlmNHA_1478_47556K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1bd63a48-3406-34ff-4ed5-e6cdd2bb4736/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1bd63a48-3406-34ff-4ed5-e6cdd2bb4736",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/205e9970-fca3-e7d4-1529-4ab9ed0f12f1/NL-HlmNHA_1478_47556K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/205e9970-fca3-e7d4-1529-4ab9ed0f12f1/NL-HlmNHA_1478_47556K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Herbouw clubhuis Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7c03a8d5-5c91-3b6a-5461-e6cb5c33c56c\">https://hdl.handle.net/21.12102/7c03a8d5-5c91-3b6a-5461-e6cb5c33c56c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/205e9970-fca3-e7d4-1529-4ab9ed0f12f1/NL-HlmNHA_1478_47556K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/205e9970-fca3-e7d4-1529-4ab9ed0f12f1/NL-HlmNHA_1478_47556K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f064859f-b38d-bcf4-4d62-883dcdb225d8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f064859f-b38d-bcf4-4d62-883dcdb225d8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/205e9970-fca3-e7d4-1529-4ab9ed0f12f1/NL-HlmNHA_1478_47556K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/205e9970-fca3-e7d4-1529-4ab9ed0f12f1/NL-HlmNHA_1478_47556K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Herbouw clubhuis Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d11c05ed-9494-f53c-316c-97fa56b752ca\">https://hdl.handle.net/21.12102/d11c05ed-9494-f53c-316c-97fa56b752ca</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/205e9970-fca3-e7d4-1529-4ab9ed0f12f1/NL-HlmNHA_1478_47556K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/205e9970-fca3-e7d4-1529-4ab9ed0f12f1/NL-HlmNHA_1478_47556K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/879e0a87-f43f-1d97-a67c-07e859880dc4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/879e0a87-f43f-1d97-a67c-07e859880dc4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/205e9970-fca3-e7d4-1529-4ab9ed0f12f1/NL-HlmNHA_1478_47556K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/205e9970-fca3-e7d4-1529-4ab9ed0f12f1/NL-HlmNHA_1478_47556K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Herbouw clubhuis Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d144df9e-a380-6de8-fd8b-d5cc4e82e89d\">https://hdl.handle.net/21.12102/d144df9e-a380-6de8-fd8b-d5cc4e82e89d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/205e9970-fca3-e7d4-1529-4ab9ed0f12f1/NL-HlmNHA_1478_47556K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/205e9970-fca3-e7d4-1529-4ab9ed0f12f1/NL-HlmNHA_1478_47556K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7a9cfd7c-ea5c-4570-e68a-0ab475c41263/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7a9cfd7c-ea5c-4570-e68a-0ab475c41263",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/205e9970-fca3-e7d4-1529-4ab9ed0f12f1/NL-HlmNHA_1478_47556K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

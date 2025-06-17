@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/1f0c415f-e9e4-b4ba-039a-00cf8b90726b.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Pianiste Annemiek Jaspers, B'dorp (1990-03-29)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Pianiste Annemiek Jaspers, B'dorp"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1990-03-29"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q568337\">Badhoevedorp</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Muziek"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/28200"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7803,
+            52.3381
+          ]
+        },
+        "properties": {
+          "title": "Badhoevedorp",
+          "url": "http://www.wikidata.org/entity/Q568337"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1f0c415f-e9e4-b4ba-039a-00cf8b90726b/NL-HlmNHA_1478_32143K00_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Pianiste Annemiek Jaspers, B'dorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2ff60ea8-ad11-22dd-878c-08afeed04145\">https://hdl.handle.net/21.12102/2ff60ea8-ad11-22dd-878c-08afeed04145</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1f0c415f-e9e4-b4ba-039a-00cf8b90726b/NL-HlmNHA_1478_32143K00_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1f0c415f-e9e4-b4ba-039a-00cf8b90726b/NL-HlmNHA_1478_32143K00_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b2162db9-f75a-016a-ff45-609c65b14835/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b2162db9-f75a-016a-ff45-609c65b14835",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1f0c415f-e9e4-b4ba-039a-00cf8b90726b/NL-HlmNHA_1478_32143K00_11/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1f0c415f-e9e4-b4ba-039a-00cf8b90726b/NL-HlmNHA_1478_32143K00_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Pianiste Annemiek Jaspers, B'dorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/48466d2a-6b27-b38f-4bed-f5fdb40c44f1\">https://hdl.handle.net/21.12102/48466d2a-6b27-b38f-4bed-f5fdb40c44f1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1f0c415f-e9e4-b4ba-039a-00cf8b90726b/NL-HlmNHA_1478_32143K00_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1f0c415f-e9e4-b4ba-039a-00cf8b90726b/NL-HlmNHA_1478_32143K00_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/cc3e0554-f88d-fafb-8458-a99c9e7f91f5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/cc3e0554-f88d-fafb-8458-a99c9e7f91f5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1f0c415f-e9e4-b4ba-039a-00cf8b90726b/NL-HlmNHA_1478_32143K00_09/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1f0c415f-e9e4-b4ba-039a-00cf8b90726b/NL-HlmNHA_1478_32143K00_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Pianiste Annemiek Jaspers, B'dorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5e1d3086-2f42-1f83-ed1f-3e26c66386b4\">https://hdl.handle.net/21.12102/5e1d3086-2f42-1f83-ed1f-3e26c66386b4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1f0c415f-e9e4-b4ba-039a-00cf8b90726b/NL-HlmNHA_1478_32143K00_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1f0c415f-e9e4-b4ba-039a-00cf8b90726b/NL-HlmNHA_1478_32143K00_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6d8b47b0-7754-bf55-643e-6201f589317b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6d8b47b0-7754-bf55-643e-6201f589317b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1f0c415f-e9e4-b4ba-039a-00cf8b90726b/NL-HlmNHA_1478_32143K00_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1f0c415f-e9e4-b4ba-039a-00cf8b90726b/NL-HlmNHA_1478_32143K00_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Pianiste Annemiek Jaspers, B'dorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/93b3443c-1d5d-854c-c3a8-9d19e2c89cc4\">https://hdl.handle.net/21.12102/93b3443c-1d5d-854c-c3a8-9d19e2c89cc4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1f0c415f-e9e4-b4ba-039a-00cf8b90726b/NL-HlmNHA_1478_32143K00_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1f0c415f-e9e4-b4ba-039a-00cf8b90726b/NL-HlmNHA_1478_32143K00_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ceb8734b-dfa0-256c-741a-f6c6a486e98f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ceb8734b-dfa0-256c-741a-f6c6a486e98f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1f0c415f-e9e4-b4ba-039a-00cf8b90726b/NL-HlmNHA_1478_32143K00_10/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1f0c415f-e9e4-b4ba-039a-00cf8b90726b/NL-HlmNHA_1478_32143K00_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Pianiste Annemiek Jaspers, B'dorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d649ba4f-fda9-c643-a5b8-db9e883e1725\">https://hdl.handle.net/21.12102/d649ba4f-fda9-c643-a5b8-db9e883e1725</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1f0c415f-e9e4-b4ba-039a-00cf8b90726b/NL-HlmNHA_1478_32143K00_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1f0c415f-e9e4-b4ba-039a-00cf8b90726b/NL-HlmNHA_1478_32143K00_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d4cdefa8-6469-eadb-a148-1dd665ec4cdd/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d4cdefa8-6469-eadb-a148-1dd665ec4cdd",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1f0c415f-e9e4-b4ba-039a-00cf8b90726b/NL-HlmNHA_1478_32143K00_12/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1f0c415f-e9e4-b4ba-039a-00cf8b90726b/NL-HlmNHA_1478_32143K00_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Pianiste Annemiek Jaspers, B'dorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/eb11d6a4-029c-eb52-8393-a4d395497a15\">https://hdl.handle.net/21.12102/eb11d6a4-029c-eb52-8393-a4d395497a15</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1f0c415f-e9e4-b4ba-039a-00cf8b90726b/NL-HlmNHA_1478_32143K00_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1f0c415f-e9e4-b4ba-039a-00cf8b90726b/NL-HlmNHA_1478_32143K00_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5645a287-05ca-3021-a5b9-ade7274706c3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5645a287-05ca-3021-a5b9-ade7274706c3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1f0c415f-e9e4-b4ba-039a-00cf8b90726b/NL-HlmNHA_1478_32143K00_08/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

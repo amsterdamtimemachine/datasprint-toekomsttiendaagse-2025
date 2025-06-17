@@ -1,0 +1,679 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/be1bcfce-e699-38d1-aa2c-542a73f2060c.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Aankomst rozenvrouw, Schiphol (2000-12-15)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Aankomst rozenvrouw, Schiphol"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2000-12-15"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Aankomst rozenvrouw, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/078c025b-0d42-3feb-973a-025359e3fe15\">https://hdl.handle.net/21.12102/078c025b-0d42-3feb-973a-025359e3fe15</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a6c06588-d792-17c4-b2f6-34610ce789d6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a6c06588-d792-17c4-b2f6-34610ce789d6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Aankomst rozenvrouw, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1eee587a-7b33-89dc-80af-827114aef047\">https://hdl.handle.net/21.12102/1eee587a-7b33-89dc-80af-827114aef047</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/efc8bf86-f6bb-41a5-7503-0880c569cb41/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/efc8bf86-f6bb-41a5-7503-0880c569cb41",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Aankomst rozenvrouw, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/40748260-e7c3-3fa3-a86c-53d50cf133f5\">https://hdl.handle.net/21.12102/40748260-e7c3-3fa3-a86c-53d50cf133f5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/af044da9-409b-70ce-d2db-b54b1a7f8ccf/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/af044da9-409b-70ce-d2db-b54b1a7f8ccf",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Aankomst rozenvrouw, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/488ec157-0889-14d3-c8a2-e99485d510a6\">https://hdl.handle.net/21.12102/488ec157-0889-14d3-c8a2-e99485d510a6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/171d4578-a19e-bb21-151c-983e3e6620c2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/171d4578-a19e-bb21-151c-983e3e6620c2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Aankomst rozenvrouw, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/624afe0f-c0e0-344c-90ab-78adad3c84d3\">https://hdl.handle.net/21.12102/624afe0f-c0e0-344c-90ab-78adad3c84d3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f38b6bc4-7b9e-68b6-cdda-83f81ab38023/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f38b6bc4-7b9e-68b6-cdda-83f81ab38023",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Aankomst rozenvrouw, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/63986619-b684-f0aa-4067-da39aa9f4dd8\">https://hdl.handle.net/21.12102/63986619-b684-f0aa-4067-da39aa9f4dd8</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1a24832b-3643-2af3-30f8-471292377999/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1a24832b-3643-2af3-30f8-471292377999",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Aankomst rozenvrouw, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7a746371-c633-496f-e87d-2af0b2afcc7c\">https://hdl.handle.net/21.12102/7a746371-c633-496f-e87d-2af0b2afcc7c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ea8a9c40-f7b7-64ff-d185-9af211272174/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ea8a9c40-f7b7-64ff-d185-9af211272174",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_22/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Aankomst rozenvrouw, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c5557773-69e2-fd5c-03f3-21cd6abf6f01\">https://hdl.handle.net/21.12102/c5557773-69e2-fd5c-03f3-21cd6abf6f01</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_22/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_22/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/da51ee90-4e75-3fc9-0cdd-308cd8842204/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/da51ee90-4e75-3fc9-0cdd-308cd8842204",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_22/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Aankomst rozenvrouw, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d687f00c-5023-ab5a-c3e6-ac13d09104e7\">https://hdl.handle.net/21.12102/d687f00c-5023-ab5a-c3e6-ac13d09104e7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/90b76229-aaf7-5afa-2bd7-f138a3826dcf/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/90b76229-aaf7-5afa-2bd7-f138a3826dcf",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_21/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Aankomst rozenvrouw, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f4fc0f15-9579-db8e-e33e-35e7d90c151b\">https://hdl.handle.net/21.12102/f4fc0f15-9579-db8e-e33e-35e7d90c151b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_21/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_21/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f640d138-4a2d-f7e4-f861-3c240b2931c2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f640d138-4a2d-f7e4-f861-3c240b2931c2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_21/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Aankomst rozenvrouw, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f5ecabf9-e855-96e8-f675-b3ebe5e3308a\">https://hdl.handle.net/21.12102/f5ecabf9-e855-96e8-f675-b3ebe5e3308a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8195c04b-834b-c95b-495f-21ae4b114649/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8195c04b-834b-c95b-495f-21ae4b114649",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/be1bcfce-e699-38d1-aa2c-542a73f2060c/NL-HlmNHA_1478_48891K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

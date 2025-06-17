@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/e52f3467-5de2-5391-c72d-889ebbd42f76.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Man in magazijn Tevako, Zwanenburg (1999-04-21)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Man in magazijn Tevako, Zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1999-04-21"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e52f3467-5de2-5391-c72d-889ebbd42f76/NL-HlmNHA_1478_46834K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Man in magazijn Tevako, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2e2abbe3-4a52-8b58-8b35-99ea32c1e44f\">https://hdl.handle.net/21.12102/2e2abbe3-4a52-8b58-8b35-99ea32c1e44f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e52f3467-5de2-5391-c72d-889ebbd42f76/NL-HlmNHA_1478_46834K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e52f3467-5de2-5391-c72d-889ebbd42f76/NL-HlmNHA_1478_46834K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6a6830dc-0453-3cd0-6ed1-ead160a407b5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6a6830dc-0453-3cd0-6ed1-ead160a407b5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e52f3467-5de2-5391-c72d-889ebbd42f76/NL-HlmNHA_1478_46834K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e52f3467-5de2-5391-c72d-889ebbd42f76/NL-HlmNHA_1478_46834K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Man in magazijn Tevako, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/32896ded-edb6-a41e-16e7-cfaa7a7d5c76\">https://hdl.handle.net/21.12102/32896ded-edb6-a41e-16e7-cfaa7a7d5c76</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e52f3467-5de2-5391-c72d-889ebbd42f76/NL-HlmNHA_1478_46834K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e52f3467-5de2-5391-c72d-889ebbd42f76/NL-HlmNHA_1478_46834K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/555e40b2-ed9a-e694-d709-9348e3b457bb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/555e40b2-ed9a-e694-d709-9348e3b457bb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e52f3467-5de2-5391-c72d-889ebbd42f76/NL-HlmNHA_1478_46834K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e52f3467-5de2-5391-c72d-889ebbd42f76/NL-HlmNHA_1478_46834K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Man in magazijn Tevako, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4382aef3-4178-f62c-46d7-9a036c0bfd6c\">https://hdl.handle.net/21.12102/4382aef3-4178-f62c-46d7-9a036c0bfd6c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e52f3467-5de2-5391-c72d-889ebbd42f76/NL-HlmNHA_1478_46834K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e52f3467-5de2-5391-c72d-889ebbd42f76/NL-HlmNHA_1478_46834K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c0511690-972e-413c-7539-e17f9d1ac386/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c0511690-972e-413c-7539-e17f9d1ac386",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e52f3467-5de2-5391-c72d-889ebbd42f76/NL-HlmNHA_1478_46834K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e52f3467-5de2-5391-c72d-889ebbd42f76/NL-HlmNHA_1478_46834K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Man in magazijn Tevako, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/749203e2-0bda-923a-01c6-6ac3fb8ed26e\">https://hdl.handle.net/21.12102/749203e2-0bda-923a-01c6-6ac3fb8ed26e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e52f3467-5de2-5391-c72d-889ebbd42f76/NL-HlmNHA_1478_46834K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e52f3467-5de2-5391-c72d-889ebbd42f76/NL-HlmNHA_1478_46834K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/276c60ed-08e2-8e26-7084-29e799cfbed7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/276c60ed-08e2-8e26-7084-29e799cfbed7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e52f3467-5de2-5391-c72d-889ebbd42f76/NL-HlmNHA_1478_46834K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e52f3467-5de2-5391-c72d-889ebbd42f76/NL-HlmNHA_1478_46834K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Man in magazijn Tevako, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e7e7c24f-d02a-6207-32c4-7f5c66d859a8\">https://hdl.handle.net/21.12102/e7e7c24f-d02a-6207-32c4-7f5c66d859a8</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e52f3467-5de2-5391-c72d-889ebbd42f76/NL-HlmNHA_1478_46834K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e52f3467-5de2-5391-c72d-889ebbd42f76/NL-HlmNHA_1478_46834K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6540058a-6dd7-54f0-9a57-a2ee5354076b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6540058a-6dd7-54f0-9a57-a2ee5354076b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e52f3467-5de2-5391-c72d-889ebbd42f76/NL-HlmNHA_1478_46834K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e52f3467-5de2-5391-c72d-889ebbd42f76/NL-HlmNHA_1478_46834K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Man in magazijn Tevako, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ffe91ca1-477a-66ca-4f53-d0f98a3b8f81\">https://hdl.handle.net/21.12102/ffe91ca1-477a-66ca-4f53-d0f98a3b8f81</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e52f3467-5de2-5391-c72d-889ebbd42f76/NL-HlmNHA_1478_46834K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e52f3467-5de2-5391-c72d-889ebbd42f76/NL-HlmNHA_1478_46834K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c652bc7c-4d94-2e0a-27f7-807cdd8c023f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c652bc7c-4d94-2e0a-27f7-807cdd8c023f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e52f3467-5de2-5391-c72d-889ebbd42f76/NL-HlmNHA_1478_46834K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/48f1a207-220f-4e7c-5daf-d965918d5568.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Michael Bijkerk i.v.m. verzekering, Amsterdam (1996-06-20)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Michael Bijkerk i.v.m. verzekering, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1996-06-20"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48f1a207-220f-4e7c-5daf-d965918d5568/NL-HlmNHA_1478_42922K00_31/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Michael Bijkerk i.v.m. verzekering, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2808df99-2358-c00a-5b52-1aa17002645a\">https://hdl.handle.net/21.12102/2808df99-2358-c00a-5b52-1aa17002645a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48f1a207-220f-4e7c-5daf-d965918d5568/NL-HlmNHA_1478_42922K00_31/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48f1a207-220f-4e7c-5daf-d965918d5568/NL-HlmNHA_1478_42922K00_31/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b8a21cc1-b405-98b1-ff9a-edad79ce7cd0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b8a21cc1-b405-98b1-ff9a-edad79ce7cd0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48f1a207-220f-4e7c-5daf-d965918d5568/NL-HlmNHA_1478_42922K00_31/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48f1a207-220f-4e7c-5daf-d965918d5568/NL-HlmNHA_1478_42922K00_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Michael Bijkerk i.v.m. verzekering, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3e77c718-8878-4eab-5981-739a52dc00cc\">https://hdl.handle.net/21.12102/3e77c718-8878-4eab-5981-739a52dc00cc</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48f1a207-220f-4e7c-5daf-d965918d5568/NL-HlmNHA_1478_42922K00_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48f1a207-220f-4e7c-5daf-d965918d5568/NL-HlmNHA_1478_42922K00_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fd351442-a75e-0442-6413-7f94d9d5f4e0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fd351442-a75e-0442-6413-7f94d9d5f4e0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48f1a207-220f-4e7c-5daf-d965918d5568/NL-HlmNHA_1478_42922K00_29/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48f1a207-220f-4e7c-5daf-d965918d5568/NL-HlmNHA_1478_42922K00_26/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Michael Bijkerk i.v.m. verzekering, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/53d24d10-83ee-6456-43a2-b63f7e78a3cd\">https://hdl.handle.net/21.12102/53d24d10-83ee-6456-43a2-b63f7e78a3cd</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48f1a207-220f-4e7c-5daf-d965918d5568/NL-HlmNHA_1478_42922K00_26/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48f1a207-220f-4e7c-5daf-d965918d5568/NL-HlmNHA_1478_42922K00_26/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f4edfd0a-e08e-f291-86cd-9a4cc99c18ca/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f4edfd0a-e08e-f291-86cd-9a4cc99c18ca",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48f1a207-220f-4e7c-5daf-d965918d5568/NL-HlmNHA_1478_42922K00_26/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48f1a207-220f-4e7c-5daf-d965918d5568/NL-HlmNHA_1478_42922K00_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Michael Bijkerk i.v.m. verzekering, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/57feeff0-3ecc-ff9d-0c8d-a1335debf48d\">https://hdl.handle.net/21.12102/57feeff0-3ecc-ff9d-0c8d-a1335debf48d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48f1a207-220f-4e7c-5daf-d965918d5568/NL-HlmNHA_1478_42922K00_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48f1a207-220f-4e7c-5daf-d965918d5568/NL-HlmNHA_1478_42922K00_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c32052e2-555c-f524-6881-54df26294cb3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c32052e2-555c-f524-6881-54df26294cb3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48f1a207-220f-4e7c-5daf-d965918d5568/NL-HlmNHA_1478_42922K00_30/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48f1a207-220f-4e7c-5daf-d965918d5568/NL-HlmNHA_1478_42922K00_27/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Michael Bijkerk i.v.m. verzekering, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/70db9775-d550-dec5-5d0e-280b31607ec9\">https://hdl.handle.net/21.12102/70db9775-d550-dec5-5d0e-280b31607ec9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48f1a207-220f-4e7c-5daf-d965918d5568/NL-HlmNHA_1478_42922K00_27/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48f1a207-220f-4e7c-5daf-d965918d5568/NL-HlmNHA_1478_42922K00_27/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/783da972-901a-7278-3b11-f93b984ae3fc/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/783da972-901a-7278-3b11-f93b984ae3fc",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48f1a207-220f-4e7c-5daf-d965918d5568/NL-HlmNHA_1478_42922K00_27/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48f1a207-220f-4e7c-5daf-d965918d5568/NL-HlmNHA_1478_42922K00_28/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Michael Bijkerk i.v.m. verzekering, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d229bfde-8ca7-29d1-699e-c8487fc3f05f\">https://hdl.handle.net/21.12102/d229bfde-8ca7-29d1-699e-c8487fc3f05f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48f1a207-220f-4e7c-5daf-d965918d5568/NL-HlmNHA_1478_42922K00_28/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48f1a207-220f-4e7c-5daf-d965918d5568/NL-HlmNHA_1478_42922K00_28/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e9871f5e-05e8-1b26-579d-8cf8e0f3cf38/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e9871f5e-05e8-1b26-579d-8cf8e0f3cf38",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48f1a207-220f-4e7c-5daf-d965918d5568/NL-HlmNHA_1478_42922K00_28/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

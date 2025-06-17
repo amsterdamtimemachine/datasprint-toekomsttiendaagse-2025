@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/e248d721-8573-d5a3-cf86-4b8849c69d38.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Femke Kleist bij Joosten Amsterdam (1996-01-15)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Femke Kleist bij Joosten Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1996-01-15"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e248d721-8573-d5a3-cf86-4b8849c69d38/NL-HlmNHA_1478_42279K00_22/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Femke Kleist bij Joosten Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/848d8431-ad38-162c-6c61-25fc40634029\">https://hdl.handle.net/21.12102/848d8431-ad38-162c-6c61-25fc40634029</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e248d721-8573-d5a3-cf86-4b8849c69d38/NL-HlmNHA_1478_42279K00_22/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e248d721-8573-d5a3-cf86-4b8849c69d38/NL-HlmNHA_1478_42279K00_22/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1ebd82cb-917c-1698-0ebc-8c8b4525666b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1ebd82cb-917c-1698-0ebc-8c8b4525666b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e248d721-8573-d5a3-cf86-4b8849c69d38/NL-HlmNHA_1478_42279K00_22/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e248d721-8573-d5a3-cf86-4b8849c69d38/NL-HlmNHA_1478_42279K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Femke Kleist bij Joosten Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9c128095-dbcf-5f1e-b0c7-803d1bbc03c9\">https://hdl.handle.net/21.12102/9c128095-dbcf-5f1e-b0c7-803d1bbc03c9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e248d721-8573-d5a3-cf86-4b8849c69d38/NL-HlmNHA_1478_42279K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e248d721-8573-d5a3-cf86-4b8849c69d38/NL-HlmNHA_1478_42279K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2bb2192b-a401-547d-3af7-7254c8ab124f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2bb2192b-a401-547d-3af7-7254c8ab124f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e248d721-8573-d5a3-cf86-4b8849c69d38/NL-HlmNHA_1478_42279K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e248d721-8573-d5a3-cf86-4b8849c69d38/NL-HlmNHA_1478_42279K00_21/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Femke Kleist bij Joosten Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9fd579b3-c34b-5578-36da-0547fb25c503\">https://hdl.handle.net/21.12102/9fd579b3-c34b-5578-36da-0547fb25c503</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e248d721-8573-d5a3-cf86-4b8849c69d38/NL-HlmNHA_1478_42279K00_21/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e248d721-8573-d5a3-cf86-4b8849c69d38/NL-HlmNHA_1478_42279K00_21/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/da6a900f-72a3-8a29-afec-4db5dc38fad6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/da6a900f-72a3-8a29-afec-4db5dc38fad6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e248d721-8573-d5a3-cf86-4b8849c69d38/NL-HlmNHA_1478_42279K00_21/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e248d721-8573-d5a3-cf86-4b8849c69d38/NL-HlmNHA_1478_42279K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Femke Kleist bij Joosten Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a23000c7-b79a-3e8d-0de9-e1a5f54f9f62\">https://hdl.handle.net/21.12102/a23000c7-b79a-3e8d-0de9-e1a5f54f9f62</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e248d721-8573-d5a3-cf86-4b8849c69d38/NL-HlmNHA_1478_42279K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e248d721-8573-d5a3-cf86-4b8849c69d38/NL-HlmNHA_1478_42279K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d3134dcf-3492-5d02-0731-6cceec24bb59/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d3134dcf-3492-5d02-0731-6cceec24bb59",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e248d721-8573-d5a3-cf86-4b8849c69d38/NL-HlmNHA_1478_42279K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e248d721-8573-d5a3-cf86-4b8849c69d38/NL-HlmNHA_1478_42279K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Femke Kleist bij Joosten Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/bdc76ed4-1b06-8311-d959-597868559764\">https://hdl.handle.net/21.12102/bdc76ed4-1b06-8311-d959-597868559764</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e248d721-8573-d5a3-cf86-4b8849c69d38/NL-HlmNHA_1478_42279K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e248d721-8573-d5a3-cf86-4b8849c69d38/NL-HlmNHA_1478_42279K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c1980bc4-4be3-47e0-30ba-e44c3d9150f4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c1980bc4-4be3-47e0-30ba-e44c3d9150f4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e248d721-8573-d5a3-cf86-4b8849c69d38/NL-HlmNHA_1478_42279K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e248d721-8573-d5a3-cf86-4b8849c69d38/NL-HlmNHA_1478_42279K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Femke Kleist bij Joosten Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/fb483c6b-132a-9b1a-89de-068b6c4281a2\">https://hdl.handle.net/21.12102/fb483c6b-132a-9b1a-89de-068b6c4281a2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e248d721-8573-d5a3-cf86-4b8849c69d38/NL-HlmNHA_1478_42279K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e248d721-8573-d5a3-cf86-4b8849c69d38/NL-HlmNHA_1478_42279K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/acfdb213-95f9-f87e-c788-6f5331b04e0e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/acfdb213-95f9-f87e-c788-6f5331b04e0e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e248d721-8573-d5a3-cf86-4b8849c69d38/NL-HlmNHA_1478_42279K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

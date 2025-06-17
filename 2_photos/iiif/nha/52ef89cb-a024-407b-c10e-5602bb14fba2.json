@@ -1,0 +1,732 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/52ef89cb-a024-407b-c10e-5602bb14fba2.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Rikkert Faneijte, Amsterdam (Honkbal) (1997-03-27)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Rikkert Faneijte, Amsterdam (Honkbal)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1997-03-27"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rikkert Faneijte, Amsterdam (Honkbal)"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/05363a60-f436-5f1a-ea31-27d9841f79d0\">https://hdl.handle.net/21.12102/05363a60-f436-5f1a-ea31-27d9841f79d0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/442faff0-012c-7d88-87b6-b2a10422e19c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/442faff0-012c-7d88-87b6-b2a10422e19c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_30/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rikkert Faneijte, Amsterdam (Honkbal)"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2488f1e1-9abf-4e1a-8740-4f46448f4e19\">https://hdl.handle.net/21.12102/2488f1e1-9abf-4e1a-8740-4f46448f4e19</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a493915e-8cb9-585b-51f3-21f1d85638fd/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a493915e-8cb9-585b-51f3-21f1d85638fd",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rikkert Faneijte, Amsterdam (Honkbal)"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2f3fa700-a078-b26d-b00d-1a54c1e9d56a\">https://hdl.handle.net/21.12102/2f3fa700-a078-b26d-b00d-1a54c1e9d56a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a2bcd951-5e92-85ca-e925-0870c34ebe59/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a2bcd951-5e92-85ca-e925-0870c34ebe59",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_27/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rikkert Faneijte, Amsterdam (Honkbal)"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4c52357e-3255-d70d-fe9e-a3209e57afba\">https://hdl.handle.net/21.12102/4c52357e-3255-d70d-fe9e-a3209e57afba</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_27/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_27/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/aa962b69-a498-b56b-2a23-515d3e131d39/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/aa962b69-a498-b56b-2a23-515d3e131d39",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_27/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rikkert Faneijte, Amsterdam (Honkbal)"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6c784cf8-e646-c246-f76e-6cbb1fde5c28\">https://hdl.handle.net/21.12102/6c784cf8-e646-c246-f76e-6cbb1fde5c28</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5acbaf60-f27a-3d02-451c-6e0c851fcef0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5acbaf60-f27a-3d02-451c-6e0c851fcef0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_29/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_26/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rikkert Faneijte, Amsterdam (Honkbal)"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/809eb31b-aeab-1adc-3528-2ccfb6e1b21d\">https://hdl.handle.net/21.12102/809eb31b-aeab-1adc-3528-2ccfb6e1b21d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_26/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_26/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/671798cf-0110-2793-4391-44d4e5ca1a2c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/671798cf-0110-2793-4391-44d4e5ca1a2c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_26/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_21/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rikkert Faneijte, Amsterdam (Honkbal)"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/93aa1a58-87f8-79e4-2932-487fc45c1795\">https://hdl.handle.net/21.12102/93aa1a58-87f8-79e4-2932-487fc45c1795</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_21/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_21/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c67818d4-0d82-03ec-a210-29339abae9b7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c67818d4-0d82-03ec-a210-29339abae9b7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_21/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rikkert Faneijte, Amsterdam (Honkbal)"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9cc96e1a-a475-4aeb-c0f4-5a82a4ad98bb\">https://hdl.handle.net/21.12102/9cc96e1a-a475-4aeb-c0f4-5a82a4ad98bb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a4120fa1-6682-a4f9-e8ba-fd1c195ec355/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a4120fa1-6682-a4f9-e8ba-fd1c195ec355",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rikkert Faneijte, Amsterdam (Honkbal)"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9f734d7d-6eb7-7ed9-f482-19dd49c7030a\">https://hdl.handle.net/21.12102/9f734d7d-6eb7-7ed9-f482-19dd49c7030a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8485f889-cbcb-f317-b317-14bbdbbb14f5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8485f889-cbcb-f317-b317-14bbdbbb14f5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_25/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rikkert Faneijte, Amsterdam (Honkbal)"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a39ff574-8526-b1a2-c488-b6d73c414c17\">https://hdl.handle.net/21.12102/a39ff574-8526-b1a2-c488-b6d73c414c17</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_25/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_25/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/67045338-f238-3fd4-6922-30289cdd4dc6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/67045338-f238-3fd4-6922-30289cdd4dc6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_25/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_22/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rikkert Faneijte, Amsterdam (Honkbal)"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/cfe44f39-7a6b-97b4-4cf7-10f5aae01394\">https://hdl.handle.net/21.12102/cfe44f39-7a6b-97b4-4cf7-10f5aae01394</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_22/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_22/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ee389814-060b-d22c-231c-a1d6853d39d8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ee389814-060b-d22c-231c-a1d6853d39d8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_22/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_28/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rikkert Faneijte, Amsterdam (Honkbal)"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ee9bf6a4-4083-23c3-7c8e-a77e645b2cf2\">https://hdl.handle.net/21.12102/ee9bf6a4-4083-23c3-7c8e-a77e645b2cf2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_28/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_28/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1f815058-1dc3-33af-f88a-249c4e1e08b9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1f815058-1dc3-33af-f88a-249c4e1e08b9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/52ef89cb-a024-407b-c10e-5602bb14fba2/NL-HlmNHA_1478_44041K00_28/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

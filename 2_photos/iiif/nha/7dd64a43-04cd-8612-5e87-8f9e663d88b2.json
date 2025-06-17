@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/7dd64a43-04cd-8612-5e87-8f9e663d88b2.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "De Ommekeer Speelgoed (2002-11-20)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "De Ommekeer Speelgoed"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2002-11-20"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q568337\">Badhoevedorp</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7803,
+            52.3381
+          ]
+        },
+        "properties": {
+          "title": "Badhoevedorp",
+          "url": "http://www.wikidata.org/entity/Q568337"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7dd64a43-04cd-8612-5e87-8f9e663d88b2/NL-HlmNHA_1478_51080K00_32/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De Ommekeer Speelgoed"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/10812a7c-5b38-c9d8-dcaa-8f7700b38577\">https://hdl.handle.net/21.12102/10812a7c-5b38-c9d8-dcaa-8f7700b38577</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7dd64a43-04cd-8612-5e87-8f9e663d88b2/NL-HlmNHA_1478_51080K00_32/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7dd64a43-04cd-8612-5e87-8f9e663d88b2/NL-HlmNHA_1478_51080K00_32/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/43c0fb51-8fb4-2940-9849-f294d8d3477b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/43c0fb51-8fb4-2940-9849-f294d8d3477b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7dd64a43-04cd-8612-5e87-8f9e663d88b2/NL-HlmNHA_1478_51080K00_32/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7dd64a43-04cd-8612-5e87-8f9e663d88b2/NL-HlmNHA_1478_51080K00_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De Ommekeer Speelgoed"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/693d4df5-dfbb-8f2f-dfb1-fd3c0c09e717\">https://hdl.handle.net/21.12102/693d4df5-dfbb-8f2f-dfb1-fd3c0c09e717</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7dd64a43-04cd-8612-5e87-8f9e663d88b2/NL-HlmNHA_1478_51080K00_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7dd64a43-04cd-8612-5e87-8f9e663d88b2/NL-HlmNHA_1478_51080K00_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3fdb4cf5-2785-56df-c36d-c1767014a9b7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3fdb4cf5-2785-56df-c36d-c1767014a9b7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7dd64a43-04cd-8612-5e87-8f9e663d88b2/NL-HlmNHA_1478_51080K00_29/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7dd64a43-04cd-8612-5e87-8f9e663d88b2/NL-HlmNHA_1478_51080K00_31/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De Ommekeer Speelgoed"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7f22b165-6aed-ee4a-dbfa-0a89ba78506c\">https://hdl.handle.net/21.12102/7f22b165-6aed-ee4a-dbfa-0a89ba78506c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7dd64a43-04cd-8612-5e87-8f9e663d88b2/NL-HlmNHA_1478_51080K00_31/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7dd64a43-04cd-8612-5e87-8f9e663d88b2/NL-HlmNHA_1478_51080K00_31/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/196cb49c-05aa-089e-861c-8b2509cbd961/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/196cb49c-05aa-089e-861c-8b2509cbd961",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7dd64a43-04cd-8612-5e87-8f9e663d88b2/NL-HlmNHA_1478_51080K00_31/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7dd64a43-04cd-8612-5e87-8f9e663d88b2/NL-HlmNHA_1478_51080K00_33/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De Ommekeer Speelgoed"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/89aa2454-1393-89d1-7c49-aaf9122c1ed1\">https://hdl.handle.net/21.12102/89aa2454-1393-89d1-7c49-aaf9122c1ed1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7dd64a43-04cd-8612-5e87-8f9e663d88b2/NL-HlmNHA_1478_51080K00_33/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7dd64a43-04cd-8612-5e87-8f9e663d88b2/NL-HlmNHA_1478_51080K00_33/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/51ed47e6-5869-f188-3467-1e9243788e23/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/51ed47e6-5869-f188-3467-1e9243788e23",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7dd64a43-04cd-8612-5e87-8f9e663d88b2/NL-HlmNHA_1478_51080K00_33/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7dd64a43-04cd-8612-5e87-8f9e663d88b2/NL-HlmNHA_1478_51080K00_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De Ommekeer Speelgoed"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ff7c3665-348f-2b75-026b-946511040ca3\">https://hdl.handle.net/21.12102/ff7c3665-348f-2b75-026b-946511040ca3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7dd64a43-04cd-8612-5e87-8f9e663d88b2/NL-HlmNHA_1478_51080K00_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7dd64a43-04cd-8612-5e87-8f9e663d88b2/NL-HlmNHA_1478_51080K00_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8e062d91-6988-1153-0d2d-5abf84d111f8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8e062d91-6988-1153-0d2d-5abf84d111f8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7dd64a43-04cd-8612-5e87-8f9e663d88b2/NL-HlmNHA_1478_51080K00_30/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

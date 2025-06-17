@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/af711f70-c47a-d342-57e2-dca29d7b7510.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Bezoek Deens Koninklijk Paar (Rijksmuseum) (1954-04-26)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Bezoek Deens Koninklijk Paar (Rijksmuseum)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1954-04-26"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Koninklijke ontvangsten en Koninklijke bezoeken, United foto's"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af711f70-c47a-d342-57e2-dca29d7b7510/NL-HlmNHA_1478_10356B02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bezoek Deens Koninklijk Paar (Rijksmuseum)"
+        ]
+      },
+      "height": 2227,
+      "width": 2805,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8934c1ae-dac5-78da-b42b-6c91c7869e4e\">https://hdl.handle.net/21.12102/8934c1ae-dac5-78da-b42b-6c91c7869e4e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af711f70-c47a-d342-57e2-dca29d7b7510/NL-HlmNHA_1478_10356B02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af711f70-c47a-d342-57e2-dca29d7b7510/NL-HlmNHA_1478_10356B02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b45d0509-258f-d703-1e89-843811a550eb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2227,
+                "width": 2805,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b45d0509-258f-d703-1e89-843811a550eb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af711f70-c47a-d342-57e2-dca29d7b7510/NL-HlmNHA_1478_10356B02_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af711f70-c47a-d342-57e2-dca29d7b7510/NL-HlmNHA_1478_10356B03_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bezoek Deens Koninklijk Paar (Rijksmuseum)"
+        ]
+      },
+      "height": 2206,
+      "width": 2794,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c8d02c24-7f03-7920-0212-d4318ebeeb4f\">https://hdl.handle.net/21.12102/c8d02c24-7f03-7920-0212-d4318ebeeb4f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af711f70-c47a-d342-57e2-dca29d7b7510/NL-HlmNHA_1478_10356B03_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af711f70-c47a-d342-57e2-dca29d7b7510/NL-HlmNHA_1478_10356B03_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ab96bf52-5e9a-5876-5339-c09584124fe2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2206,
+                "width": 2794,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ab96bf52-5e9a-5876-5339-c09584124fe2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af711f70-c47a-d342-57e2-dca29d7b7510/NL-HlmNHA_1478_10356B03_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af711f70-c47a-d342-57e2-dca29d7b7510/NL-HlmNHA_1478_10356B01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bezoek Deens Koninklijk Paar (Rijksmuseum)"
+        ]
+      },
+      "height": 2196,
+      "width": 2784,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/da02ee7b-5f4a-551f-0bcc-a38f157371d0\">https://hdl.handle.net/21.12102/da02ee7b-5f4a-551f-0bcc-a38f157371d0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af711f70-c47a-d342-57e2-dca29d7b7510/NL-HlmNHA_1478_10356B01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af711f70-c47a-d342-57e2-dca29d7b7510/NL-HlmNHA_1478_10356B01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a175d429-c233-07dd-af28-aba995e20b4c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2196,
+                "width": 2784,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a175d429-c233-07dd-af28-aba995e20b4c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af711f70-c47a-d342-57e2-dca29d7b7510/NL-HlmNHA_1478_10356B01_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

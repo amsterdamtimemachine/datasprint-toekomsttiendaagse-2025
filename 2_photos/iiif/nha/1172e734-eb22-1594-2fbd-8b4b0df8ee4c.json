@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/1172e734-eb22-1594-2fbd-8b4b0df8ee4c.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Interland voetbalwedstrijd Nederland - Bulgarije in het Olympisch Stadion te Amsterdam. Teamfoto Nederland (1960-04-03)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Interland voetbalwedstrijd Nederland - Bulgarije in het Olympisch Stadion te Amsterdam. Teamfoto Nederland"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1960-04-03"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1172e734-eb22-1594-2fbd-8b4b0df8ee4c/NL-HlmNHA_1478_17728B13a_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interland voetbalwedstrijd Nederland - Bulgarije in het Olympisch Stadion te Amsterdam. Teamfoto Nederland"
+        ]
+      },
+      "height": 1379,
+      "width": 1380,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c3f95b16-8090-2d42-b65f-6b3df7c20fb1\">https://hdl.handle.net/21.12102/c3f95b16-8090-2d42-b65f-6b3df7c20fb1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1172e734-eb22-1594-2fbd-8b4b0df8ee4c/NL-HlmNHA_1478_17728B13a_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1172e734-eb22-1594-2fbd-8b4b0df8ee4c/NL-HlmNHA_1478_17728B13a_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5b2e48ca-61a6-651a-7579-59f697426707/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1379,
+                "width": 1380,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5b2e48ca-61a6-651a-7579-59f697426707",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1172e734-eb22-1594-2fbd-8b4b0df8ee4c/NL-HlmNHA_1478_17728B13a_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

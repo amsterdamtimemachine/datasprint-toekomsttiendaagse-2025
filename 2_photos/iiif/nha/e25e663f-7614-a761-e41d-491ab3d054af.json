@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/e25e663f-7614-a761-e41d-491ab3d054af.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Ext. Caf\u00e9 1900, Amsterdam (1984-04-27)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Ext. Caf\u00e9 1900, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1984-04-27"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Cafe"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/28517"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e25e663f-7614-a761-e41d-491ab3d054af/NL-HlmNHA_1478_24076K00_22/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ext. Caf\u00e9 1900, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/47ab40b2-cc11-e654-9dc4-9241b59b24dd\">https://hdl.handle.net/21.12102/47ab40b2-cc11-e654-9dc4-9241b59b24dd</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e25e663f-7614-a761-e41d-491ab3d054af/NL-HlmNHA_1478_24076K00_22/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e25e663f-7614-a761-e41d-491ab3d054af/NL-HlmNHA_1478_24076K00_22/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/df47b311-b683-520b-ef40-6b741576a21e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/df47b311-b683-520b-ef40-6b741576a21e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e25e663f-7614-a761-e41d-491ab3d054af/NL-HlmNHA_1478_24076K00_22/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e25e663f-7614-a761-e41d-491ab3d054af/NL-HlmNHA_1478_24076K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ext. Caf\u00e9 1900, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5458017d-6891-dbfd-9206-9a3fc032425b\">https://hdl.handle.net/21.12102/5458017d-6891-dbfd-9206-9a3fc032425b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e25e663f-7614-a761-e41d-491ab3d054af/NL-HlmNHA_1478_24076K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e25e663f-7614-a761-e41d-491ab3d054af/NL-HlmNHA_1478_24076K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/dfb34be9-db2c-57b2-e628-0db07f9c91f0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/dfb34be9-db2c-57b2-e628-0db07f9c91f0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e25e663f-7614-a761-e41d-491ab3d054af/NL-HlmNHA_1478_24076K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e25e663f-7614-a761-e41d-491ab3d054af/NL-HlmNHA_1478_24076K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ext. Caf\u00e9 1900, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9dbf8dbe-dd2b-31fb-60c6-460a264ccbfa\">https://hdl.handle.net/21.12102/9dbf8dbe-dd2b-31fb-60c6-460a264ccbfa</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e25e663f-7614-a761-e41d-491ab3d054af/NL-HlmNHA_1478_24076K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e25e663f-7614-a761-e41d-491ab3d054af/NL-HlmNHA_1478_24076K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/defd1ae5-405a-8fb7-b610-2e3a53085117/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/defd1ae5-405a-8fb7-b610-2e3a53085117",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e25e663f-7614-a761-e41d-491ab3d054af/NL-HlmNHA_1478_24076K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e25e663f-7614-a761-e41d-491ab3d054af/NL-HlmNHA_1478_24076K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ext. Caf\u00e9 1900, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a12d9f98-71b6-332f-1d7e-4afece3dca0a\">https://hdl.handle.net/21.12102/a12d9f98-71b6-332f-1d7e-4afece3dca0a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e25e663f-7614-a761-e41d-491ab3d054af/NL-HlmNHA_1478_24076K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e25e663f-7614-a761-e41d-491ab3d054af/NL-HlmNHA_1478_24076K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/af1a70b2-2bf0-b6ef-a72f-153810f91449/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/af1a70b2-2bf0-b6ef-a72f-153810f91449",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e25e663f-7614-a761-e41d-491ab3d054af/NL-HlmNHA_1478_24076K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e25e663f-7614-a761-e41d-491ab3d054af/NL-HlmNHA_1478_24076K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ext. Caf\u00e9 1900, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/bf82fe28-5490-e4a8-ee66-f391a5166e57\">https://hdl.handle.net/21.12102/bf82fe28-5490-e4a8-ee66-f391a5166e57</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e25e663f-7614-a761-e41d-491ab3d054af/NL-HlmNHA_1478_24076K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e25e663f-7614-a761-e41d-491ab3d054af/NL-HlmNHA_1478_24076K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a2bfe232-768e-d051-380c-908951283d89/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a2bfe232-768e-d051-380c-908951283d89",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e25e663f-7614-a761-e41d-491ab3d054af/NL-HlmNHA_1478_24076K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e25e663f-7614-a761-e41d-491ab3d054af/NL-HlmNHA_1478_24076K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ext. Caf\u00e9 1900, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ff6cdc89-b80f-5029-e3d0-3f5cfc079fcf\">https://hdl.handle.net/21.12102/ff6cdc89-b80f-5029-e3d0-3f5cfc079fcf</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e25e663f-7614-a761-e41d-491ab3d054af/NL-HlmNHA_1478_24076K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e25e663f-7614-a761-e41d-491ab3d054af/NL-HlmNHA_1478_24076K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/eba848e7-ce1e-ae1a-4fe1-93e630cb1eb8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/eba848e7-ce1e-ae1a-4fe1-93e630cb1eb8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e25e663f-7614-a761-e41d-491ab3d054af/NL-HlmNHA_1478_24076K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

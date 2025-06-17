@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/12e83e03-94b9-2b58-f404-734f9c0f0021.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Pastoor de Wit, Zwanenburg (1985-07-30)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Pastoor de Wit, Zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1985-07-30"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Rooms Katholieke Kerk"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/67894"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e83e03-94b9-2b58-f404-734f9c0f0021/NL-HlmNHA_1478_25370K01_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Pastoor de Wit, Zwanenburg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3147f8b4-2db3-b7fd-2010-11763d8c9dc7\">https://hdl.handle.net/21.12102/3147f8b4-2db3-b7fd-2010-11763d8c9dc7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e83e03-94b9-2b58-f404-734f9c0f0021/NL-HlmNHA_1478_25370K01_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e83e03-94b9-2b58-f404-734f9c0f0021/NL-HlmNHA_1478_25370K01_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/26766f8b-92f5-5236-2ee6-089f55082f13/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/26766f8b-92f5-5236-2ee6-089f55082f13",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e83e03-94b9-2b58-f404-734f9c0f0021/NL-HlmNHA_1478_25370K01_12/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e83e03-94b9-2b58-f404-734f9c0f0021/NL-HlmNHA_1478_25370K01_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Pastoor de Wit, Zwanenburg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4e3cd584-ea30-ec15-eb2a-f6f559cffd25\">https://hdl.handle.net/21.12102/4e3cd584-ea30-ec15-eb2a-f6f559cffd25</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e83e03-94b9-2b58-f404-734f9c0f0021/NL-HlmNHA_1478_25370K01_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e83e03-94b9-2b58-f404-734f9c0f0021/NL-HlmNHA_1478_25370K01_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/61a04030-1a12-1d78-7efb-1fa669e10d16/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/61a04030-1a12-1d78-7efb-1fa669e10d16",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e83e03-94b9-2b58-f404-734f9c0f0021/NL-HlmNHA_1478_25370K01_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e83e03-94b9-2b58-f404-734f9c0f0021/NL-HlmNHA_1478_25370K01_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Pastoor de Wit, Zwanenburg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/98115897-b057-ad7f-78ef-70bc4557a3b1\">https://hdl.handle.net/21.12102/98115897-b057-ad7f-78ef-70bc4557a3b1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e83e03-94b9-2b58-f404-734f9c0f0021/NL-HlmNHA_1478_25370K01_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e83e03-94b9-2b58-f404-734f9c0f0021/NL-HlmNHA_1478_25370K01_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/cead8881-eabc-0d63-ab91-d3f4e8b4512d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/cead8881-eabc-0d63-ab91-d3f4e8b4512d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e83e03-94b9-2b58-f404-734f9c0f0021/NL-HlmNHA_1478_25370K01_10/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e83e03-94b9-2b58-f404-734f9c0f0021/NL-HlmNHA_1478_25370K01_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Pastoor de Wit, Zwanenburg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b9ac7b2c-156c-f1ba-2a19-aba228729f1b\">https://hdl.handle.net/21.12102/b9ac7b2c-156c-f1ba-2a19-aba228729f1b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e83e03-94b9-2b58-f404-734f9c0f0021/NL-HlmNHA_1478_25370K01_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e83e03-94b9-2b58-f404-734f9c0f0021/NL-HlmNHA_1478_25370K01_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/729a6016-22cc-9775-8b7e-e4805cb8820e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/729a6016-22cc-9775-8b7e-e4805cb8820e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e83e03-94b9-2b58-f404-734f9c0f0021/NL-HlmNHA_1478_25370K01_09/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e83e03-94b9-2b58-f404-734f9c0f0021/NL-HlmNHA_1478_25370K01_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Pastoor de Wit, Zwanenburg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d11104f7-8567-f574-e83e-be2b03a49d27\">https://hdl.handle.net/21.12102/d11104f7-8567-f574-e83e-be2b03a49d27</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e83e03-94b9-2b58-f404-734f9c0f0021/NL-HlmNHA_1478_25370K01_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e83e03-94b9-2b58-f404-734f9c0f0021/NL-HlmNHA_1478_25370K01_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/485b5a5f-eaec-8bc1-f1f9-934b13d84104/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/485b5a5f-eaec-8bc1-f1f9-934b13d84104",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e83e03-94b9-2b58-f404-734f9c0f0021/NL-HlmNHA_1478_25370K01_08/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e83e03-94b9-2b58-f404-734f9c0f0021/NL-HlmNHA_1478_25370K01_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Pastoor de Wit, Zwanenburg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ed508152-6a63-10f0-eb1b-92de5221cc44\">https://hdl.handle.net/21.12102/ed508152-6a63-10f0-eb1b-92de5221cc44</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e83e03-94b9-2b58-f404-734f9c0f0021/NL-HlmNHA_1478_25370K01_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e83e03-94b9-2b58-f404-734f9c0f0021/NL-HlmNHA_1478_25370K01_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/bfe3278a-a27a-06c4-37a3-bbdccf20334c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/bfe3278a-a27a-06c4-37a3-bbdccf20334c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/12e83e03-94b9-2b58-f404-734f9c0f0021/NL-HlmNHA_1478_25370K01_11/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

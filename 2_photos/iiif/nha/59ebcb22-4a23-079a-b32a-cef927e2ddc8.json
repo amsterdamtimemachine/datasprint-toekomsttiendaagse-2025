@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/59ebcb22-4a23-079a-b32a-cef927e2ddc8.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Bloemencorso in vol Olympisch Stadion (1953-04)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Bloemencorso in vol Olympisch Stadion"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1953-04"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59ebcb22-4a23-079a-b32a-cef927e2ddc8/NL-HlmNHA_1478_00911A00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bloemencorso in vol Olympisch Stadion"
+        ]
+      },
+      "height": 2614,
+      "width": 2614,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/edfe3e2c-0b01-75cc-aeb2-f9faa10984c2\">https://hdl.handle.net/21.12102/edfe3e2c-0b01-75cc-aeb2-f9faa10984c2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59ebcb22-4a23-079a-b32a-cef927e2ddc8/NL-HlmNHA_1478_00911A00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59ebcb22-4a23-079a-b32a-cef927e2ddc8/NL-HlmNHA_1478_00911A00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c8c2e403-56f7-fc0f-9fb1-3901242add9c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2614,
+                "width": 2614,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c8c2e403-56f7-fc0f-9fb1-3901242add9c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59ebcb22-4a23-079a-b32a-cef927e2ddc8/NL-HlmNHA_1478_00911A00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

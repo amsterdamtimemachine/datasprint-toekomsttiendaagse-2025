@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/b5b811bb-d16b-fe1b-8a8b-a43b42203c6b.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Voetbalwedstrijd (1960)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Voetbalwedstrijd"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1960"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q19393276\">Olympisch Stadion</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.854,
+            52.3435
+          ]
+        },
+        "properties": {
+          "title": "Olympisch Stadion",
+          "url": "http://www.wikidata.org/entity/Q19393276"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b5b811bb-d16b-fe1b-8a8b-a43b42203c6b/NL-HlmNHA_1478_17922B09a_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Voetbalwedstrijd"
+        ]
+      },
+      "height": 1352,
+      "width": 1394,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/007b0832-e3cb-971c-f52b-f173ceb3e3b7\">https://hdl.handle.net/21.12102/007b0832-e3cb-971c-f52b-f173ceb3e3b7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b5b811bb-d16b-fe1b-8a8b-a43b42203c6b/NL-HlmNHA_1478_17922B09a_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b5b811bb-d16b-fe1b-8a8b-a43b42203c6b/NL-HlmNHA_1478_17922B09a_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/644d4a82-dfdd-7917-8c72-f4e468fb4861/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1352,
+                "width": 1394,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/644d4a82-dfdd-7917-8c72-f4e468fb4861",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b5b811bb-d16b-fe1b-8a8b-a43b42203c6b/NL-HlmNHA_1478_17922B09a_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

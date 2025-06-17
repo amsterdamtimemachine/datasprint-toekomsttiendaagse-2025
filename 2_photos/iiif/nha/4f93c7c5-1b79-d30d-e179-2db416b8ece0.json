@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/4f93c7c5-1b79-d30d-e179-2db416b8ece0.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "De heer Henk Rebel (links) en Jan Uithol Crash Research in Aviation Society Holland (CRASH) ivm blindgangers rond Schiphol (1990-08-29)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "De heer Henk Rebel (links) en Jan Uithol Crash Research in Aviation Society Holland (CRASH) ivm blindgangers rond Schiphol"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1990-08-29"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q19355347\">Nieuwemeerdijk</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7888,
+            52.3421
+          ]
+        },
+        "properties": {
+          "title": "Nieuwemeerdijk",
+          "url": "http://www.wikidata.org/entity/Q19355347"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4f93c7c5-1b79-d30d-e179-2db416b8ece0/NL-HlmNHA_1478_32889K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer Henk Rebel (links) en Jan Uithol Crash Research in Aviation Society Holland (CRASH) ivm blindgangers rond Schiphol"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/45163ca3-f3d9-3ac6-1396-b570126d2ba9\">https://hdl.handle.net/21.12102/45163ca3-f3d9-3ac6-1396-b570126d2ba9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4f93c7c5-1b79-d30d-e179-2db416b8ece0/NL-HlmNHA_1478_32889K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4f93c7c5-1b79-d30d-e179-2db416b8ece0/NL-HlmNHA_1478_32889K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e07bc341-8975-5c5b-a687-6b2c699ebcbc/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e07bc341-8975-5c5b-a687-6b2c699ebcbc",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4f93c7c5-1b79-d30d-e179-2db416b8ece0/NL-HlmNHA_1478_32889K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4f93c7c5-1b79-d30d-e179-2db416b8ece0/NL-HlmNHA_1478_32889K00_21/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer Henk Rebel (links) en Jan Uithol Crash Research in Aviation Society Holland (CRASH) ivm blindgangers rond Schiphol"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/80c03c92-468d-cadb-726c-fa76df0af30c\">https://hdl.handle.net/21.12102/80c03c92-468d-cadb-726c-fa76df0af30c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4f93c7c5-1b79-d30d-e179-2db416b8ece0/NL-HlmNHA_1478_32889K00_21/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4f93c7c5-1b79-d30d-e179-2db416b8ece0/NL-HlmNHA_1478_32889K00_21/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9d9864e1-99b3-ff8c-b980-61d1033d0895/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9d9864e1-99b3-ff8c-b980-61d1033d0895",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4f93c7c5-1b79-d30d-e179-2db416b8ece0/NL-HlmNHA_1478_32889K00_21/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4f93c7c5-1b79-d30d-e179-2db416b8ece0/NL-HlmNHA_1478_32889K00_22/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer Henk Rebel (links) en Jan Uithol Crash Research in Aviation Society Holland (CRASH) ivm blindgangers rond Schiphol"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a647ce14-441d-7cf5-1fb9-1ff232da9e17\">https://hdl.handle.net/21.12102/a647ce14-441d-7cf5-1fb9-1ff232da9e17</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4f93c7c5-1b79-d30d-e179-2db416b8ece0/NL-HlmNHA_1478_32889K00_22/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4f93c7c5-1b79-d30d-e179-2db416b8ece0/NL-HlmNHA_1478_32889K00_22/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/37a3217a-e1df-f4dc-9970-e1adbe799c6d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/37a3217a-e1df-f4dc-9970-e1adbe799c6d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4f93c7c5-1b79-d30d-e179-2db416b8ece0/NL-HlmNHA_1478_32889K00_22/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4f93c7c5-1b79-d30d-e179-2db416b8ece0/NL-HlmNHA_1478_32889K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer Henk Rebel (links) en Jan Uithol Crash Research in Aviation Society Holland (CRASH) ivm blindgangers rond Schiphol"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f09fb6e5-aea6-a924-3be3-ac845f7a7c94\">https://hdl.handle.net/21.12102/f09fb6e5-aea6-a924-3be3-ac845f7a7c94</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4f93c7c5-1b79-d30d-e179-2db416b8ece0/NL-HlmNHA_1478_32889K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4f93c7c5-1b79-d30d-e179-2db416b8ece0/NL-HlmNHA_1478_32889K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9f18739c-4ed2-0abf-6096-83ec14cd5d49/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9f18739c-4ed2-0abf-6096-83ec14cd5d49",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/4f93c7c5-1b79-d30d-e179-2db416b8ece0/NL-HlmNHA_1478_32889K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

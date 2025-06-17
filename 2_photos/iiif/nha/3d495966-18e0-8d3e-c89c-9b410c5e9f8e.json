@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/3d495966-18e0-8d3e-c89c-9b410c5e9f8e.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Fam. Landman Nieuwendijk Amsterdam - Olympiaplein (1951-02-06)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Fam. Landman Nieuwendijk Amsterdam - Olympiaplein"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1951-02-06"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2574143\">Nieuwendijk</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Emigratie, RAU"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/25616"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.895331,
+            52.375914
+          ]
+        },
+        "properties": {
+          "title": "Nieuwendijk",
+          "url": "http://www.wikidata.org/entity/Q2574143"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3d495966-18e0-8d3e-c89c-9b410c5e9f8e/NL-HlmNHA_1478_05522G00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Fam. Landman Nieuwendijk Amsterdam - Olympiaplein"
+        ]
+      },
+      "height": 1340,
+      "width": 1968,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0db81a6c-2567-3a29-b748-b5088c9bed24\">https://hdl.handle.net/21.12102/0db81a6c-2567-3a29-b748-b5088c9bed24</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3d495966-18e0-8d3e-c89c-9b410c5e9f8e/NL-HlmNHA_1478_05522G00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3d495966-18e0-8d3e-c89c-9b410c5e9f8e/NL-HlmNHA_1478_05522G00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/620e0089-7321-c258-a3f5-0d8198494c5d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1340,
+                "width": 1968,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/620e0089-7321-c258-a3f5-0d8198494c5d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3d495966-18e0-8d3e-c89c-9b410c5e9f8e/NL-HlmNHA_1478_05522G00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

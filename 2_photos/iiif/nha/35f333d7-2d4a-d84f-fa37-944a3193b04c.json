@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/35f333d7-2d4a-d84f-fa37-944a3193b04c.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Intocht van Sinterklaas in Amsterdam, Damrak. St. Nicolaas. (1960-11-19)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Intocht van Sinterklaas in Amsterdam, Damrak. St. Nicolaas."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1960-11-19"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q901461\">Damrak</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.897113,
+            52.376071
+          ]
+        },
+        "properties": {
+          "title": "Damrak",
+          "url": "http://www.wikidata.org/entity/Q901461"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/35f333d7-2d4a-d84f-fa37-944a3193b04c/NL-HlmNHA_1478_00066K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Intocht van Sinterklaas in Amsterdam, Damrak. St. Nicolaas."
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6028569b-0795-54cb-28a6-e3104c053169\">https://hdl.handle.net/21.12102/6028569b-0795-54cb-28a6-e3104c053169</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/35f333d7-2d4a-d84f-fa37-944a3193b04c/NL-HlmNHA_1478_00066K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/35f333d7-2d4a-d84f-fa37-944a3193b04c/NL-HlmNHA_1478_00066K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/858de947-5f8d-e787-bdfb-607ae8d1b9b6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/858de947-5f8d-e787-bdfb-607ae8d1b9b6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/35f333d7-2d4a-d84f-fa37-944a3193b04c/NL-HlmNHA_1478_00066K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/35f333d7-2d4a-d84f-fa37-944a3193b04c/NL-HlmNHA_1478_00066K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Intocht van Sinterklaas in Amsterdam, Damrak. St. Nicolaas."
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/72dc9ccb-b81b-6f23-c2c5-17eb51735098\">https://hdl.handle.net/21.12102/72dc9ccb-b81b-6f23-c2c5-17eb51735098</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/35f333d7-2d4a-d84f-fa37-944a3193b04c/NL-HlmNHA_1478_00066K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/35f333d7-2d4a-d84f-fa37-944a3193b04c/NL-HlmNHA_1478_00066K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d06b0cff-c968-bdf8-cfdd-49e8503a28d7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d06b0cff-c968-bdf8-cfdd-49e8503a28d7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/35f333d7-2d4a-d84f-fa37-944a3193b04c/NL-HlmNHA_1478_00066K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/35f333d7-2d4a-d84f-fa37-944a3193b04c/NL-HlmNHA_1478_00066K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Intocht van Sinterklaas in Amsterdam, Damrak. St. Nicolaas."
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d3dcfc3a-78bb-36ad-20b2-1e9a76ff2973\">https://hdl.handle.net/21.12102/d3dcfc3a-78bb-36ad-20b2-1e9a76ff2973</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/35f333d7-2d4a-d84f-fa37-944a3193b04c/NL-HlmNHA_1478_00066K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/35f333d7-2d4a-d84f-fa37-944a3193b04c/NL-HlmNHA_1478_00066K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/552cb64c-07d5-d919-ae6f-4d41658fdcae/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/552cb64c-07d5-d919-ae6f-4d41658fdcae",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/35f333d7-2d4a-d84f-fa37-944a3193b04c/NL-HlmNHA_1478_00066K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/35f333d7-2d4a-d84f-fa37-944a3193b04c/NL-HlmNHA_1478_00066K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Intocht van Sinterklaas in Amsterdam, Damrak. St. Nicolaas."
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e262e2f4-b726-61df-f151-8e5a4558c102\">https://hdl.handle.net/21.12102/e262e2f4-b726-61df-f151-8e5a4558c102</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/35f333d7-2d4a-d84f-fa37-944a3193b04c/NL-HlmNHA_1478_00066K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/35f333d7-2d4a-d84f-fa37-944a3193b04c/NL-HlmNHA_1478_00066K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/58ce53ae-25bf-e9d9-723d-e87f2df0f41f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/58ce53ae-25bf-e9d9-723d-e87f2df0f41f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/35f333d7-2d4a-d84f-fa37-944a3193b04c/NL-HlmNHA_1478_00066K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

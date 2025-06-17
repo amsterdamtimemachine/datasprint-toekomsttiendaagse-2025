@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/6af4d9eb-f4e5-d072-0e05-8f412dff3463.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Hans van Houten, overvallen, Badhoevedorp (2000-02-10)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Hans van Houten, overvallen, Badhoevedorp"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2000-02-10"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q568337\">Badhoevedorp</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7803,
+            52.3381
+          ]
+        },
+        "properties": {
+          "title": "Badhoevedorp",
+          "url": "http://www.wikidata.org/entity/Q568337"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6af4d9eb-f4e5-d072-0e05-8f412dff3463/NL-HlmNHA_1478_47878K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hans van Houten, overvallen, Badhoevedorp"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/41e9584c-3c66-a222-946b-6e847432223b\">https://hdl.handle.net/21.12102/41e9584c-3c66-a222-946b-6e847432223b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6af4d9eb-f4e5-d072-0e05-8f412dff3463/NL-HlmNHA_1478_47878K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6af4d9eb-f4e5-d072-0e05-8f412dff3463/NL-HlmNHA_1478_47878K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d46d10e0-93c3-0cee-b16b-36f0b8b12112/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d46d10e0-93c3-0cee-b16b-36f0b8b12112",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6af4d9eb-f4e5-d072-0e05-8f412dff3463/NL-HlmNHA_1478_47878K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6af4d9eb-f4e5-d072-0e05-8f412dff3463/NL-HlmNHA_1478_47878K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hans van Houten, overvallen, Badhoevedorp"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7b458880-011b-d666-9c42-f9c4956759fd\">https://hdl.handle.net/21.12102/7b458880-011b-d666-9c42-f9c4956759fd</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6af4d9eb-f4e5-d072-0e05-8f412dff3463/NL-HlmNHA_1478_47878K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6af4d9eb-f4e5-d072-0e05-8f412dff3463/NL-HlmNHA_1478_47878K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fa192092-3b44-d2ff-b138-c6094c41f16f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fa192092-3b44-d2ff-b138-c6094c41f16f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6af4d9eb-f4e5-d072-0e05-8f412dff3463/NL-HlmNHA_1478_47878K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6af4d9eb-f4e5-d072-0e05-8f412dff3463/NL-HlmNHA_1478_47878K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hans van Houten, overvallen, Badhoevedorp"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8708fb7e-2263-b1b7-5436-d571407b8d98\">https://hdl.handle.net/21.12102/8708fb7e-2263-b1b7-5436-d571407b8d98</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6af4d9eb-f4e5-d072-0e05-8f412dff3463/NL-HlmNHA_1478_47878K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6af4d9eb-f4e5-d072-0e05-8f412dff3463/NL-HlmNHA_1478_47878K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1559b211-596d-8dc5-1d56-764f7f8960c5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1559b211-596d-8dc5-1d56-764f7f8960c5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6af4d9eb-f4e5-d072-0e05-8f412dff3463/NL-HlmNHA_1478_47878K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6af4d9eb-f4e5-d072-0e05-8f412dff3463/NL-HlmNHA_1478_47878K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hans van Houten, overvallen, Badhoevedorp"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b4f77d96-4a69-38d8-4cf5-ba0fe912b866\">https://hdl.handle.net/21.12102/b4f77d96-4a69-38d8-4cf5-ba0fe912b866</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6af4d9eb-f4e5-d072-0e05-8f412dff3463/NL-HlmNHA_1478_47878K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6af4d9eb-f4e5-d072-0e05-8f412dff3463/NL-HlmNHA_1478_47878K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1623cb9e-2fbc-a564-cafe-345ab1d61d87/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1623cb9e-2fbc-a564-cafe-345ab1d61d87",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6af4d9eb-f4e5-d072-0e05-8f412dff3463/NL-HlmNHA_1478_47878K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6af4d9eb-f4e5-d072-0e05-8f412dff3463/NL-HlmNHA_1478_47878K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hans van Houten, overvallen, Badhoevedorp"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f55c2867-4db1-7d97-f2f0-7488073f1adc\">https://hdl.handle.net/21.12102/f55c2867-4db1-7d97-f2f0-7488073f1adc</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6af4d9eb-f4e5-d072-0e05-8f412dff3463/NL-HlmNHA_1478_47878K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6af4d9eb-f4e5-d072-0e05-8f412dff3463/NL-HlmNHA_1478_47878K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ed6d3031-b26c-ac39-9b05-3baa03df7627/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ed6d3031-b26c-ac39-9b05-3baa03df7627",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6af4d9eb-f4e5-d072-0e05-8f412dff3463/NL-HlmNHA_1478_47878K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

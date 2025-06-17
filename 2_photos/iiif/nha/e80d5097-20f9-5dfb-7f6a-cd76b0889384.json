@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/e80d5097-20f9-5dfb-7f6a-cd76b0889384.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Brand in caravan, Zwanenburg (1997-08-31)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Brand in caravan, Zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1997-08-31"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e80d5097-20f9-5dfb-7f6a-cd76b0889384/NL-HlmNHA_1478_44578K00_27/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Brand in caravan, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0d9d371a-b020-05c4-5edd-08769fa6e6be\">https://hdl.handle.net/21.12102/0d9d371a-b020-05c4-5edd-08769fa6e6be</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e80d5097-20f9-5dfb-7f6a-cd76b0889384/NL-HlmNHA_1478_44578K00_27/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e80d5097-20f9-5dfb-7f6a-cd76b0889384/NL-HlmNHA_1478_44578K00_27/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3c5456ae-307c-3a7b-c557-c3ea534fbe9c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3c5456ae-307c-3a7b-c557-c3ea534fbe9c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e80d5097-20f9-5dfb-7f6a-cd76b0889384/NL-HlmNHA_1478_44578K00_27/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e80d5097-20f9-5dfb-7f6a-cd76b0889384/NL-HlmNHA_1478_44578K00_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Brand in caravan, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b5b945cc-8650-b098-02ab-d4eb12493625\">https://hdl.handle.net/21.12102/b5b945cc-8650-b098-02ab-d4eb12493625</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e80d5097-20f9-5dfb-7f6a-cd76b0889384/NL-HlmNHA_1478_44578K00_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e80d5097-20f9-5dfb-7f6a-cd76b0889384/NL-HlmNHA_1478_44578K00_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9a232d74-fa07-1c77-eafc-51a8c16731fb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9a232d74-fa07-1c77-eafc-51a8c16731fb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e80d5097-20f9-5dfb-7f6a-cd76b0889384/NL-HlmNHA_1478_44578K00_29/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e80d5097-20f9-5dfb-7f6a-cd76b0889384/NL-HlmNHA_1478_44578K00_28/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Brand in caravan, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c00dd699-bd57-7334-1d9b-d4d6863b0ecf\">https://hdl.handle.net/21.12102/c00dd699-bd57-7334-1d9b-d4d6863b0ecf</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e80d5097-20f9-5dfb-7f6a-cd76b0889384/NL-HlmNHA_1478_44578K00_28/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e80d5097-20f9-5dfb-7f6a-cd76b0889384/NL-HlmNHA_1478_44578K00_28/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e74a3474-65e6-8159-5ac2-b9df0c224d8d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e74a3474-65e6-8159-5ac2-b9df0c224d8d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e80d5097-20f9-5dfb-7f6a-cd76b0889384/NL-HlmNHA_1478_44578K00_28/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e80d5097-20f9-5dfb-7f6a-cd76b0889384/NL-HlmNHA_1478_44578K00_25/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Brand in caravan, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c6ce9707-25de-2efd-8df7-41470054784b\">https://hdl.handle.net/21.12102/c6ce9707-25de-2efd-8df7-41470054784b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e80d5097-20f9-5dfb-7f6a-cd76b0889384/NL-HlmNHA_1478_44578K00_25/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e80d5097-20f9-5dfb-7f6a-cd76b0889384/NL-HlmNHA_1478_44578K00_25/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/68ab15d4-fb30-e4a4-1b11-8ae0b5332400/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/68ab15d4-fb30-e4a4-1b11-8ae0b5332400",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e80d5097-20f9-5dfb-7f6a-cd76b0889384/NL-HlmNHA_1478_44578K00_25/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e80d5097-20f9-5dfb-7f6a-cd76b0889384/NL-HlmNHA_1478_44578K00_26/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Brand in caravan, Zwanenburg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/daff553d-da94-56a5-0046-c47f73692c4d\">https://hdl.handle.net/21.12102/daff553d-da94-56a5-0046-c47f73692c4d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e80d5097-20f9-5dfb-7f6a-cd76b0889384/NL-HlmNHA_1478_44578K00_26/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e80d5097-20f9-5dfb-7f6a-cd76b0889384/NL-HlmNHA_1478_44578K00_26/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/069c155d-6685-5bd6-85ef-ca84d0e05fd7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/069c155d-6685-5bd6-85ef-ca84d0e05fd7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e80d5097-20f9-5dfb-7f6a-cd76b0889384/NL-HlmNHA_1478_44578K00_26/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

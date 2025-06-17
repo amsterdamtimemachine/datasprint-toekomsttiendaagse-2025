@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/de4b6d70-0aa8-fa23-3406-98793df659a0.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Tentoonstelling 'Veiliger wonen' in het Veiligheidsinstituut, over gevaren in huis: de gasfles (1966)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Tentoonstelling 'Veiliger wonen' in het Veiligheidsinstituut, over gevaren in huis: de gasfles"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1966"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/de4b6d70-0aa8-fa23-3406-98793df659a0/NL-HlmNHA_1478_53178K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tentoonstelling 'Veiliger wonen' in het Veiligheidsinstituut, over gevaren in huis: de gasfles"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4b8bed0d-9527-0535-796c-a586e6fb2b4b\">https://hdl.handle.net/21.12102/4b8bed0d-9527-0535-796c-a586e6fb2b4b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/de4b6d70-0aa8-fa23-3406-98793df659a0/NL-HlmNHA_1478_53178K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/de4b6d70-0aa8-fa23-3406-98793df659a0/NL-HlmNHA_1478_53178K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/906f086b-6f9d-aad3-062b-87c8e01fc644/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/906f086b-6f9d-aad3-062b-87c8e01fc644",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/de4b6d70-0aa8-fa23-3406-98793df659a0/NL-HlmNHA_1478_53178K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/de4b6d70-0aa8-fa23-3406-98793df659a0/NL-HlmNHA_1478_53178K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tentoonstelling 'Veiliger wonen' in het Veiligheidsinstituut, over gevaren in huis: de gasfles"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/907a2e3d-4830-6afa-c13e-2fe7e136b2ab\">https://hdl.handle.net/21.12102/907a2e3d-4830-6afa-c13e-2fe7e136b2ab</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/de4b6d70-0aa8-fa23-3406-98793df659a0/NL-HlmNHA_1478_53178K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/de4b6d70-0aa8-fa23-3406-98793df659a0/NL-HlmNHA_1478_53178K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0cb805de-22e6-bd88-05fe-a809f82fce65/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0cb805de-22e6-bd88-05fe-a809f82fce65",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/de4b6d70-0aa8-fa23-3406-98793df659a0/NL-HlmNHA_1478_53178K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/de4b6d70-0aa8-fa23-3406-98793df659a0/NL-HlmNHA_1478_53178K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tentoonstelling 'Veiliger wonen' in het Veiligheidsinstituut, over gevaren in huis: de gasfles"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d44efd89-fda4-a184-5350-5bb892407c8c\">https://hdl.handle.net/21.12102/d44efd89-fda4-a184-5350-5bb892407c8c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/de4b6d70-0aa8-fa23-3406-98793df659a0/NL-HlmNHA_1478_53178K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/de4b6d70-0aa8-fa23-3406-98793df659a0/NL-HlmNHA_1478_53178K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/89b37cbc-fcda-c81f-0590-e9b178424520/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/89b37cbc-fcda-c81f-0590-e9b178424520",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/de4b6d70-0aa8-fa23-3406-98793df659a0/NL-HlmNHA_1478_53178K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,679 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/2bd5091e-23cb-b2c0-5759-47f5b0e620fe.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Toneel muziek groep Playmetz in Vondelpark (1987-07-12)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Toneel muziek groep Playmetz in Vondelpark"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1987-07-12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Muziek, Toneel"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/28200, http://data.beeldengeluid.nl/gtaa/26944"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Toneel muziek groep Playmetz in Vondelpark"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3232d030-e281-1b36-fd3e-18ba1958a5cc\">https://hdl.handle.net/21.12102/3232d030-e281-1b36-fd3e-18ba1958a5cc</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/99c0726a-8cf9-8086-fc61-545c65ac0158/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/99c0726a-8cf9-8086-fc61-545c65ac0158",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_30/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_27/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Toneel muziek groep Playmetz in Vondelpark"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/32c8049a-92a2-e3f9-90f1-c6a775248742\">https://hdl.handle.net/21.12102/32c8049a-92a2-e3f9-90f1-c6a775248742</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_27/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_27/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/98189831-d233-2a35-4f40-bfbcadf5afcb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/98189831-d233-2a35-4f40-bfbcadf5afcb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_27/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_33/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Toneel muziek groep Playmetz in Vondelpark"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4f4fb43f-015a-b42c-dc57-1773897b2e6a\">https://hdl.handle.net/21.12102/4f4fb43f-015a-b42c-dc57-1773897b2e6a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_33/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_33/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/706477d5-57e8-659a-750a-df27314a8ae7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/706477d5-57e8-659a-750a-df27314a8ae7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_33/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_32/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Toneel muziek groep Playmetz in Vondelpark"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5c9177a9-50ba-14ba-f2a9-8af08149af03\">https://hdl.handle.net/21.12102/5c9177a9-50ba-14ba-f2a9-8af08149af03</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_32/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_32/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/32bc9e62-43ed-038f-0d0b-156ae5e6eaff/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/32bc9e62-43ed-038f-0d0b-156ae5e6eaff",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_32/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_25/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Toneel muziek groep Playmetz in Vondelpark"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/660d5acc-717d-f4d4-ebac-f96148bc9c92\">https://hdl.handle.net/21.12102/660d5acc-717d-f4d4-ebac-f96148bc9c92</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_25/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_25/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7f7c5078-19fc-2484-1007-9ff9d0ac823b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7f7c5078-19fc-2484-1007-9ff9d0ac823b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_25/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_26/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Toneel muziek groep Playmetz in Vondelpark"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6aa48388-8a8c-df08-b8df-d441fb282625\">https://hdl.handle.net/21.12102/6aa48388-8a8c-df08-b8df-d441fb282625</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_26/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_26/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/76fe273c-decb-38e9-175d-2dbc28099a7b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/76fe273c-decb-38e9-175d-2dbc28099a7b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_26/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Toneel muziek groep Playmetz in Vondelpark"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8b4b6d4c-b10c-0b7e-7da7-0d04d9018d52\">https://hdl.handle.net/21.12102/8b4b6d4c-b10c-0b7e-7da7-0d04d9018d52</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/34305fbe-dc9a-9f3e-fd62-852c09d7895e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/34305fbe-dc9a-9f3e-fd62-852c09d7895e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_29/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_28/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Toneel muziek groep Playmetz in Vondelpark"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b9e01592-907e-b48a-f61d-b693fb825417\">https://hdl.handle.net/21.12102/b9e01592-907e-b48a-f61d-b693fb825417</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_28/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_28/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8cf97969-6bc6-c9c3-4126-10dfff2e83c7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8cf97969-6bc6-c9c3-4126-10dfff2e83c7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_28/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Toneel muziek groep Playmetz in Vondelpark"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/be02a198-298a-7b7b-4a8c-0b47cca296ff\">https://hdl.handle.net/21.12102/be02a198-298a-7b7b-4a8c-0b47cca296ff</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/415a6512-08e4-8c82-22b3-773e58e70cc5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/415a6512-08e4-8c82-22b3-773e58e70cc5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_31/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Toneel muziek groep Playmetz in Vondelpark"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c7e19bd7-f661-0ac8-0376-49c20dc93eec\">https://hdl.handle.net/21.12102/c7e19bd7-f661-0ac8-0376-49c20dc93eec</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_31/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_31/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7c0cff2f-8ca0-d629-ed77-a04cd026b455/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7c0cff2f-8ca0-d629-ed77-a04cd026b455",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_31/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Toneel muziek groep Playmetz in Vondelpark"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d26d6bfe-3ce6-fa4c-ff75-efc4f3ba94dc\">https://hdl.handle.net/21.12102/d26d6bfe-3ce6-fa4c-ff75-efc4f3ba94dc</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f2a1a347-a7de-2573-0fb0-ffdddaedebee/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f2a1a347-a7de-2573-0fb0-ffdddaedebee",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2bd5091e-23cb-b2c0-5759-47f5b0e620fe/NL-HlmNHA_1478_27872K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

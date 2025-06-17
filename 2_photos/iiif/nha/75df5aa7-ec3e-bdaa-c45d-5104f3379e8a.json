@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/75df5aa7-ec3e-bdaa-c45d-5104f3379e8a.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Maquette NRP Amsterdam (1963-07-09)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Maquette NRP Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1963-07-09"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Tebhin Ned. Raff. Petroleum"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/75df5aa7-ec3e-bdaa-c45d-5104f3379e8a/NL-HlmNHA_1478_19562B01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Maquette NRP Amsterdam"
+        ]
+      },
+      "height": 2183,
+      "width": 2839,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8cb15d5d-02b7-9362-595b-e5e94ed4fbbd\">https://hdl.handle.net/21.12102/8cb15d5d-02b7-9362-595b-e5e94ed4fbbd</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/75df5aa7-ec3e-bdaa-c45d-5104f3379e8a/NL-HlmNHA_1478_19562B01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/75df5aa7-ec3e-bdaa-c45d-5104f3379e8a/NL-HlmNHA_1478_19562B01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/33214a79-f60c-0e07-8dca-5555b1b74cf0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2183,
+                "width": 2839,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/33214a79-f60c-0e07-8dca-5555b1b74cf0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/75df5aa7-ec3e-bdaa-c45d-5104f3379e8a/NL-HlmNHA_1478_19562B01_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/75df5aa7-ec3e-bdaa-c45d-5104f3379e8a/NL-HlmNHA_1478_19562B02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Maquette NRP Amsterdam"
+        ]
+      },
+      "height": 2114,
+      "width": 2833,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/eed91ffc-8e91-fdeb-654c-5b32b544d90e\">https://hdl.handle.net/21.12102/eed91ffc-8e91-fdeb-654c-5b32b544d90e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/75df5aa7-ec3e-bdaa-c45d-5104f3379e8a/NL-HlmNHA_1478_19562B02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/75df5aa7-ec3e-bdaa-c45d-5104f3379e8a/NL-HlmNHA_1478_19562B02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7dae6568-4b65-971f-4e15-194cb791277e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2114,
+                "width": 2833,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7dae6568-4b65-971f-4e15-194cb791277e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/75df5aa7-ec3e-bdaa-c45d-5104f3379e8a/NL-HlmNHA_1478_19562B02_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/8a8b2350-eb6b-0ca4-27bb-f73d449cfbff.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Willeke d'Estelle talentenjacht Amsterdam (1989-02-01)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Willeke d'Estelle talentenjacht Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1989-02-01"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Optreden, Zingen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a8b2350-eb6b-0ca4-27bb-f73d449cfbff/NL-HlmNHA_1478_30126K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Willeke d'Estelle talentenjacht Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1c807cec-5884-a40f-3808-3b62d6d37533\">https://hdl.handle.net/21.12102/1c807cec-5884-a40f-3808-3b62d6d37533</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a8b2350-eb6b-0ca4-27bb-f73d449cfbff/NL-HlmNHA_1478_30126K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a8b2350-eb6b-0ca4-27bb-f73d449cfbff/NL-HlmNHA_1478_30126K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b35e381a-57b0-ae7a-4619-1fa96fa933ad/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b35e381a-57b0-ae7a-4619-1fa96fa933ad",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a8b2350-eb6b-0ca4-27bb-f73d449cfbff/NL-HlmNHA_1478_30126K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a8b2350-eb6b-0ca4-27bb-f73d449cfbff/NL-HlmNHA_1478_30126K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Willeke d'Estelle talentenjacht Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3e27721c-4d3a-ef76-2b7a-e8639361c008\">https://hdl.handle.net/21.12102/3e27721c-4d3a-ef76-2b7a-e8639361c008</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a8b2350-eb6b-0ca4-27bb-f73d449cfbff/NL-HlmNHA_1478_30126K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a8b2350-eb6b-0ca4-27bb-f73d449cfbff/NL-HlmNHA_1478_30126K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/73334003-d93f-cb15-2e1f-94dbea33e54e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/73334003-d93f-cb15-2e1f-94dbea33e54e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a8b2350-eb6b-0ca4-27bb-f73d449cfbff/NL-HlmNHA_1478_30126K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a8b2350-eb6b-0ca4-27bb-f73d449cfbff/NL-HlmNHA_1478_30126K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Willeke d'Estelle talentenjacht Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/cec39ac1-f58b-fd4c-72d2-b52e0ecb409d\">https://hdl.handle.net/21.12102/cec39ac1-f58b-fd4c-72d2-b52e0ecb409d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a8b2350-eb6b-0ca4-27bb-f73d449cfbff/NL-HlmNHA_1478_30126K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a8b2350-eb6b-0ca4-27bb-f73d449cfbff/NL-HlmNHA_1478_30126K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/829b2d3c-eca2-55bf-3844-79188d0bb1be/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/829b2d3c-eca2-55bf-3844-79188d0bb1be",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8a8b2350-eb6b-0ca4-27bb-f73d449cfbff/NL-HlmNHA_1478_30126K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/b8af6602-3085-c8dd-0de0-3ccc776c8cca.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Horecava Amsterdam, Friet van Piet (1994-01-13)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Horecava Amsterdam, Friet van Piet"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1994-01-13"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8af6602-3085-c8dd-0de0-3ccc776c8cca/NL-HlmNHA_1478_39121K00_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Horecava Amsterdam, Friet van Piet"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0fba57b5-5b49-0144-9721-f7516de3d87a\">https://hdl.handle.net/21.12102/0fba57b5-5b49-0144-9721-f7516de3d87a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8af6602-3085-c8dd-0de0-3ccc776c8cca/NL-HlmNHA_1478_39121K00_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8af6602-3085-c8dd-0de0-3ccc776c8cca/NL-HlmNHA_1478_39121K00_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/910cdd81-4e59-831a-15ce-5167addb51c9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/910cdd81-4e59-831a-15ce-5167addb51c9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8af6602-3085-c8dd-0de0-3ccc776c8cca/NL-HlmNHA_1478_39121K00_10/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8af6602-3085-c8dd-0de0-3ccc776c8cca/NL-HlmNHA_1478_39121K00_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Horecava Amsterdam, Friet van Piet"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/114ff788-765d-76c2-a931-a0c1aefcbe87\">https://hdl.handle.net/21.12102/114ff788-765d-76c2-a931-a0c1aefcbe87</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8af6602-3085-c8dd-0de0-3ccc776c8cca/NL-HlmNHA_1478_39121K00_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8af6602-3085-c8dd-0de0-3ccc776c8cca/NL-HlmNHA_1478_39121K00_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c2ab7f2b-f1c3-a6ee-669d-f0c30db114d4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c2ab7f2b-f1c3-a6ee-669d-f0c30db114d4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8af6602-3085-c8dd-0de0-3ccc776c8cca/NL-HlmNHA_1478_39121K00_09/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8af6602-3085-c8dd-0de0-3ccc776c8cca/NL-HlmNHA_1478_39121K00_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Horecava Amsterdam, Friet van Piet"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1f57ae93-809b-759c-06f4-bf86e9baebbd\">https://hdl.handle.net/21.12102/1f57ae93-809b-759c-06f4-bf86e9baebbd</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8af6602-3085-c8dd-0de0-3ccc776c8cca/NL-HlmNHA_1478_39121K00_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8af6602-3085-c8dd-0de0-3ccc776c8cca/NL-HlmNHA_1478_39121K00_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3338c21f-db06-a094-6b94-5704aa80590b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3338c21f-db06-a094-6b94-5704aa80590b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8af6602-3085-c8dd-0de0-3ccc776c8cca/NL-HlmNHA_1478_39121K00_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8af6602-3085-c8dd-0de0-3ccc776c8cca/NL-HlmNHA_1478_39121K00_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Horecava Amsterdam, Friet van Piet"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/611be6f5-a0fc-3349-3726-be4e58331e47\">https://hdl.handle.net/21.12102/611be6f5-a0fc-3349-3726-be4e58331e47</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8af6602-3085-c8dd-0de0-3ccc776c8cca/NL-HlmNHA_1478_39121K00_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8af6602-3085-c8dd-0de0-3ccc776c8cca/NL-HlmNHA_1478_39121K00_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c9c75105-f823-b804-5806-9accfc686470/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c9c75105-f823-b804-5806-9accfc686470",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8af6602-3085-c8dd-0de0-3ccc776c8cca/NL-HlmNHA_1478_39121K00_08/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8af6602-3085-c8dd-0de0-3ccc776c8cca/NL-HlmNHA_1478_39121K00_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Horecava Amsterdam, Friet van Piet"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d1f78b09-c0c2-47ca-7ce8-cb3e4fa86c17\">https://hdl.handle.net/21.12102/d1f78b09-c0c2-47ca-7ce8-cb3e4fa86c17</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8af6602-3085-c8dd-0de0-3ccc776c8cca/NL-HlmNHA_1478_39121K00_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8af6602-3085-c8dd-0de0-3ccc776c8cca/NL-HlmNHA_1478_39121K00_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3920ccb1-8eff-bbbc-233b-5d000c2fa22b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3920ccb1-8eff-bbbc-233b-5d000c2fa22b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8af6602-3085-c8dd-0de0-3ccc776c8cca/NL-HlmNHA_1478_39121K00_11/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8af6602-3085-c8dd-0de0-3ccc776c8cca/NL-HlmNHA_1478_39121K00_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Horecava Amsterdam, Friet van Piet"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d790b15e-1bcd-ca5a-e1aa-27a7255564ae\">https://hdl.handle.net/21.12102/d790b15e-1bcd-ca5a-e1aa-27a7255564ae</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8af6602-3085-c8dd-0de0-3ccc776c8cca/NL-HlmNHA_1478_39121K00_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8af6602-3085-c8dd-0de0-3ccc776c8cca/NL-HlmNHA_1478_39121K00_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8cc150e9-9051-562c-3474-d5903b69ebee/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8cc150e9-9051-562c-3474-d5903b69ebee",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8af6602-3085-c8dd-0de0-3ccc776c8cca/NL-HlmNHA_1478_39121K00_12/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

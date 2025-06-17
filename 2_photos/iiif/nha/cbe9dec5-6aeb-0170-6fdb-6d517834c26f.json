@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/cbe9dec5-6aeb-0170-6fdb-6d517834c26f.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "School v. Vrije Expressie Sted. Museum A'dam (1954-01-10)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "School v. Vrije Expressie Sted. Museum A'dam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1954-01-10"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Onderwijs, Scholen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/28032, http://data.beeldengeluid.nl/gtaa/27733"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cbe9dec5-6aeb-0170-6fdb-6d517834c26f/NL-HlmNHA_1478_09872B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "School v. Vrije Expressie Sted. Museum A'dam"
+        ]
+      },
+      "height": 2118,
+      "width": 2705,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6d1764bc-046e-857a-34a2-67b4271d3d85\">https://hdl.handle.net/21.12102/6d1764bc-046e-857a-34a2-67b4271d3d85</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cbe9dec5-6aeb-0170-6fdb-6d517834c26f/NL-HlmNHA_1478_09872B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cbe9dec5-6aeb-0170-6fdb-6d517834c26f/NL-HlmNHA_1478_09872B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ad5491df-264c-9388-5d5f-5067444fb86c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2118,
+                "width": 2705,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ad5491df-264c-9388-5d5f-5067444fb86c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cbe9dec5-6aeb-0170-6fdb-6d517834c26f/NL-HlmNHA_1478_09872B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

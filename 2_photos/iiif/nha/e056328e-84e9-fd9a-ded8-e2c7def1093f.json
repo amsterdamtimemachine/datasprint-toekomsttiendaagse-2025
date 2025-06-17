@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/e056328e-84e9-fd9a-ded8-e2c7def1093f.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Kerk, de Kolenkit (1977)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Kerk, de Kolenkit"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1977"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e056328e-84e9-fd9a-ded8-e2c7def1093f/NL-HlmNHA_1478_16239K01_32/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kerk, de Kolenkit"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/112dad60-3dbc-a485-e4cc-9e61b2810d0b\">https://hdl.handle.net/21.12102/112dad60-3dbc-a485-e4cc-9e61b2810d0b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e056328e-84e9-fd9a-ded8-e2c7def1093f/NL-HlmNHA_1478_16239K01_32/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e056328e-84e9-fd9a-ded8-e2c7def1093f/NL-HlmNHA_1478_16239K01_32/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e59b075a-fa04-3954-fea7-8acb95a5d2d3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e59b075a-fa04-3954-fea7-8acb95a5d2d3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e056328e-84e9-fd9a-ded8-e2c7def1093f/NL-HlmNHA_1478_16239K01_32/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e056328e-84e9-fd9a-ded8-e2c7def1093f/NL-HlmNHA_1478_16239K01_31/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kerk, de Kolenkit"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5f0f4b7c-99d1-93d6-ef71-e95777b5d03e\">https://hdl.handle.net/21.12102/5f0f4b7c-99d1-93d6-ef71-e95777b5d03e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e056328e-84e9-fd9a-ded8-e2c7def1093f/NL-HlmNHA_1478_16239K01_31/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e056328e-84e9-fd9a-ded8-e2c7def1093f/NL-HlmNHA_1478_16239K01_31/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/defe424c-532f-5a62-699e-3d38a35b57c0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/defe424c-532f-5a62-699e-3d38a35b57c0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e056328e-84e9-fd9a-ded8-e2c7def1093f/NL-HlmNHA_1478_16239K01_31/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e056328e-84e9-fd9a-ded8-e2c7def1093f/NL-HlmNHA_1478_16239K01_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kerk, de Kolenkit"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/da1ba04b-c485-61f7-265f-339f8e6f46e1\">https://hdl.handle.net/21.12102/da1ba04b-c485-61f7-265f-339f8e6f46e1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e056328e-84e9-fd9a-ded8-e2c7def1093f/NL-HlmNHA_1478_16239K01_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e056328e-84e9-fd9a-ded8-e2c7def1093f/NL-HlmNHA_1478_16239K01_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/497fb8d7-b3cd-0277-fe51-53a2e10e5053/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/497fb8d7-b3cd-0277-fe51-53a2e10e5053",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e056328e-84e9-fd9a-ded8-e2c7def1093f/NL-HlmNHA_1478_16239K01_30/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

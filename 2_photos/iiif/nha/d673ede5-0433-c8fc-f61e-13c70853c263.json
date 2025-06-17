@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/d673ede5-0433-c8fc-f61e-13c70853c263.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Jacob Sietsema, Amstelveen (1999-08-30)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Jacob Sietsema, Amstelveen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1999-08-30"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q33421878\">Amstelveen</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.858056,
+            52.301944
+          ]
+        },
+        "properties": {
+          "title": "Amstelveen",
+          "url": "http://www.wikidata.org/entity/Q33421878"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d673ede5-0433-c8fc-f61e-13c70853c263/NL-HlmNHA_1478_47329K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Jacob Sietsema, Amstelveen"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0a963e5e-e475-686d-f910-a079d748f9f5\">https://hdl.handle.net/21.12102/0a963e5e-e475-686d-f910-a079d748f9f5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d673ede5-0433-c8fc-f61e-13c70853c263/NL-HlmNHA_1478_47329K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d673ede5-0433-c8fc-f61e-13c70853c263/NL-HlmNHA_1478_47329K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f18817f2-8075-c909-d592-4f62bc3f9e17/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f18817f2-8075-c909-d592-4f62bc3f9e17",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d673ede5-0433-c8fc-f61e-13c70853c263/NL-HlmNHA_1478_47329K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d673ede5-0433-c8fc-f61e-13c70853c263/NL-HlmNHA_1478_47329K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Jacob Sietsema, Amstelveen"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1b0d11cf-5eba-9038-cdd7-aaee4f6f98f0\">https://hdl.handle.net/21.12102/1b0d11cf-5eba-9038-cdd7-aaee4f6f98f0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d673ede5-0433-c8fc-f61e-13c70853c263/NL-HlmNHA_1478_47329K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d673ede5-0433-c8fc-f61e-13c70853c263/NL-HlmNHA_1478_47329K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1102b252-df2e-46fc-b49f-75c5ca4ff454/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1102b252-df2e-46fc-b49f-75c5ca4ff454",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d673ede5-0433-c8fc-f61e-13c70853c263/NL-HlmNHA_1478_47329K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d673ede5-0433-c8fc-f61e-13c70853c263/NL-HlmNHA_1478_47329K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Jacob Sietsema, Amstelveen"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7025757a-e1d2-36ea-bce6-0e1701ed7db9\">https://hdl.handle.net/21.12102/7025757a-e1d2-36ea-bce6-0e1701ed7db9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d673ede5-0433-c8fc-f61e-13c70853c263/NL-HlmNHA_1478_47329K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d673ede5-0433-c8fc-f61e-13c70853c263/NL-HlmNHA_1478_47329K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a4df03d4-e671-a1f6-186f-2fbda0452f34/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a4df03d4-e671-a1f6-186f-2fbda0452f34",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d673ede5-0433-c8fc-f61e-13c70853c263/NL-HlmNHA_1478_47329K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d673ede5-0433-c8fc-f61e-13c70853c263/NL-HlmNHA_1478_47329K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Jacob Sietsema, Amstelveen"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7d792584-133d-aa13-0db6-1789a92464ca\">https://hdl.handle.net/21.12102/7d792584-133d-aa13-0db6-1789a92464ca</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d673ede5-0433-c8fc-f61e-13c70853c263/NL-HlmNHA_1478_47329K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d673ede5-0433-c8fc-f61e-13c70853c263/NL-HlmNHA_1478_47329K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5ba1c2a0-3f39-9575-5e0c-592126c27186/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5ba1c2a0-3f39-9575-5e0c-592126c27186",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d673ede5-0433-c8fc-f61e-13c70853c263/NL-HlmNHA_1478_47329K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d673ede5-0433-c8fc-f61e-13c70853c263/NL-HlmNHA_1478_47329K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Jacob Sietsema, Amstelveen"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c6428adf-862e-f565-ff77-85e68a6bec61\">https://hdl.handle.net/21.12102/c6428adf-862e-f565-ff77-85e68a6bec61</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d673ede5-0433-c8fc-f61e-13c70853c263/NL-HlmNHA_1478_47329K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d673ede5-0433-c8fc-f61e-13c70853c263/NL-HlmNHA_1478_47329K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2dfee30c-3055-e4ff-2f39-2e76bde4190f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2dfee30c-3055-e4ff-2f39-2e76bde4190f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d673ede5-0433-c8fc-f61e-13c70853c263/NL-HlmNHA_1478_47329K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d673ede5-0433-c8fc-f61e-13c70853c263/NL-HlmNHA_1478_47329K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Jacob Sietsema, Amstelveen"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c683696d-7db8-ebef-aa4f-96b75a339094\">https://hdl.handle.net/21.12102/c683696d-7db8-ebef-aa4f-96b75a339094</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d673ede5-0433-c8fc-f61e-13c70853c263/NL-HlmNHA_1478_47329K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d673ede5-0433-c8fc-f61e-13c70853c263/NL-HlmNHA_1478_47329K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3ffd9397-2949-6408-c1cc-23aee82f35e8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3ffd9397-2949-6408-c1cc-23aee82f35e8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d673ede5-0433-c8fc-f61e-13c70853c263/NL-HlmNHA_1478_47329K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

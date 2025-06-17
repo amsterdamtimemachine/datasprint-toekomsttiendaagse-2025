@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/56a80708-4c6c-ea26-c92b-a987f6d1b53d.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Schilderij Haarlemmermeer op Schiphol (1991-08-12)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Schilderij Haarlemmermeer op Schiphol"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1991-08-12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/56a80708-4c6c-ea26-c92b-a987f6d1b53d/NL-HlmNHA_1478_34852K00_34/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schilderij Haarlemmermeer op Schiphol"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6ce9d6df-300e-94f5-f51d-db1ef501c50a\">https://hdl.handle.net/21.12102/6ce9d6df-300e-94f5-f51d-db1ef501c50a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/56a80708-4c6c-ea26-c92b-a987f6d1b53d/NL-HlmNHA_1478_34852K00_34/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/56a80708-4c6c-ea26-c92b-a987f6d1b53d/NL-HlmNHA_1478_34852K00_34/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/000f5c11-645c-0b5c-f0c7-c33bfeae953e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/000f5c11-645c-0b5c-f0c7-c33bfeae953e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/56a80708-4c6c-ea26-c92b-a987f6d1b53d/NL-HlmNHA_1478_34852K00_34/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/56a80708-4c6c-ea26-c92b-a987f6d1b53d/NL-HlmNHA_1478_34852K00_36/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schilderij Haarlemmermeer op Schiphol"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7792ad9f-8f10-d5e9-efc1-6005bb07a0e2\">https://hdl.handle.net/21.12102/7792ad9f-8f10-d5e9-efc1-6005bb07a0e2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/56a80708-4c6c-ea26-c92b-a987f6d1b53d/NL-HlmNHA_1478_34852K00_36/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/56a80708-4c6c-ea26-c92b-a987f6d1b53d/NL-HlmNHA_1478_34852K00_36/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0ef7779a-7eb9-7f38-28eb-8f7f26104ef5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0ef7779a-7eb9-7f38-28eb-8f7f26104ef5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/56a80708-4c6c-ea26-c92b-a987f6d1b53d/NL-HlmNHA_1478_34852K00_36/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/56a80708-4c6c-ea26-c92b-a987f6d1b53d/NL-HlmNHA_1478_34852K00_33/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schilderij Haarlemmermeer op Schiphol"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7f1f2aa9-4b4b-5556-e843-7e2fe3bf9fe7\">https://hdl.handle.net/21.12102/7f1f2aa9-4b4b-5556-e843-7e2fe3bf9fe7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/56a80708-4c6c-ea26-c92b-a987f6d1b53d/NL-HlmNHA_1478_34852K00_33/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/56a80708-4c6c-ea26-c92b-a987f6d1b53d/NL-HlmNHA_1478_34852K00_33/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/cba717eb-0b01-91dd-e021-5c00c49ee1c4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/cba717eb-0b01-91dd-e021-5c00c49ee1c4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/56a80708-4c6c-ea26-c92b-a987f6d1b53d/NL-HlmNHA_1478_34852K00_33/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/56a80708-4c6c-ea26-c92b-a987f6d1b53d/NL-HlmNHA_1478_34852K00_32/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schilderij Haarlemmermeer op Schiphol"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b1a403d8-c202-56e8-6aaf-9869f1861a93\">https://hdl.handle.net/21.12102/b1a403d8-c202-56e8-6aaf-9869f1861a93</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/56a80708-4c6c-ea26-c92b-a987f6d1b53d/NL-HlmNHA_1478_34852K00_32/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/56a80708-4c6c-ea26-c92b-a987f6d1b53d/NL-HlmNHA_1478_34852K00_32/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/da2640e9-9b16-1350-b2b6-eb7b0257c09e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/da2640e9-9b16-1350-b2b6-eb7b0257c09e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/56a80708-4c6c-ea26-c92b-a987f6d1b53d/NL-HlmNHA_1478_34852K00_32/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/56a80708-4c6c-ea26-c92b-a987f6d1b53d/NL-HlmNHA_1478_34852K00_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schilderij Haarlemmermeer op Schiphol"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f18842d2-4177-80a2-9be9-34d510b80b72\">https://hdl.handle.net/21.12102/f18842d2-4177-80a2-9be9-34d510b80b72</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/56a80708-4c6c-ea26-c92b-a987f6d1b53d/NL-HlmNHA_1478_34852K00_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/56a80708-4c6c-ea26-c92b-a987f6d1b53d/NL-HlmNHA_1478_34852K00_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6b6d8c29-8ca0-4cd3-580f-8efe6fa7c41c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6b6d8c29-8ca0-4cd3-580f-8efe6fa7c41c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/56a80708-4c6c-ea26-c92b-a987f6d1b53d/NL-HlmNHA_1478_34852K00_35/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

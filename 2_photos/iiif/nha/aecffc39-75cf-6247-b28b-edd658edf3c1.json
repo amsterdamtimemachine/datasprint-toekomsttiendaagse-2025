@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/aecffc39-75cf-6247-b28b-edd658edf3c1.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Schiphol info, bus Zwanenburg (1994-04-12)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Schiphol info, bus Zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1994-04-12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aecffc39-75cf-6247-b28b-edd658edf3c1/NL-HlmNHA_1478_39536K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schiphol info, bus Zwanenburg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1069e016-c5e3-9cc3-e267-1ea6154f319b\">https://hdl.handle.net/21.12102/1069e016-c5e3-9cc3-e267-1ea6154f319b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aecffc39-75cf-6247-b28b-edd658edf3c1/NL-HlmNHA_1478_39536K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aecffc39-75cf-6247-b28b-edd658edf3c1/NL-HlmNHA_1478_39536K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b74b0135-f6f7-5f2d-7492-a3c45014716d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b74b0135-f6f7-5f2d-7492-a3c45014716d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aecffc39-75cf-6247-b28b-edd658edf3c1/NL-HlmNHA_1478_39536K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aecffc39-75cf-6247-b28b-edd658edf3c1/NL-HlmNHA_1478_39536K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schiphol info, bus Zwanenburg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/89971093-0e06-6a48-8d84-ed679e97a10e\">https://hdl.handle.net/21.12102/89971093-0e06-6a48-8d84-ed679e97a10e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aecffc39-75cf-6247-b28b-edd658edf3c1/NL-HlmNHA_1478_39536K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aecffc39-75cf-6247-b28b-edd658edf3c1/NL-HlmNHA_1478_39536K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/897c5888-fe0b-553e-fad3-622406214f8d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/897c5888-fe0b-553e-fad3-622406214f8d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aecffc39-75cf-6247-b28b-edd658edf3c1/NL-HlmNHA_1478_39536K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aecffc39-75cf-6247-b28b-edd658edf3c1/NL-HlmNHA_1478_39536K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schiphol info, bus Zwanenburg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8f9b69b3-7670-00b5-bf6e-c3888228a3f5\">https://hdl.handle.net/21.12102/8f9b69b3-7670-00b5-bf6e-c3888228a3f5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aecffc39-75cf-6247-b28b-edd658edf3c1/NL-HlmNHA_1478_39536K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aecffc39-75cf-6247-b28b-edd658edf3c1/NL-HlmNHA_1478_39536K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/61f9fba3-2abb-8cda-92a1-f48171a2c0a1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/61f9fba3-2abb-8cda-92a1-f48171a2c0a1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aecffc39-75cf-6247-b28b-edd658edf3c1/NL-HlmNHA_1478_39536K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aecffc39-75cf-6247-b28b-edd658edf3c1/NL-HlmNHA_1478_39536K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schiphol info, bus Zwanenburg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c4e9c52a-97dd-e47b-6d39-e75f1ea96ff7\">https://hdl.handle.net/21.12102/c4e9c52a-97dd-e47b-6d39-e75f1ea96ff7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aecffc39-75cf-6247-b28b-edd658edf3c1/NL-HlmNHA_1478_39536K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aecffc39-75cf-6247-b28b-edd658edf3c1/NL-HlmNHA_1478_39536K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0b040be0-a6d5-f2ea-a98b-2887eb0f4f6c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0b040be0-a6d5-f2ea-a98b-2887eb0f4f6c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aecffc39-75cf-6247-b28b-edd658edf3c1/NL-HlmNHA_1478_39536K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aecffc39-75cf-6247-b28b-edd658edf3c1/NL-HlmNHA_1478_39536K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schiphol info, bus Zwanenburg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d7b7db64-26bd-5da0-6c02-59008aa49184\">https://hdl.handle.net/21.12102/d7b7db64-26bd-5da0-6c02-59008aa49184</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aecffc39-75cf-6247-b28b-edd658edf3c1/NL-HlmNHA_1478_39536K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aecffc39-75cf-6247-b28b-edd658edf3c1/NL-HlmNHA_1478_39536K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4440b9d8-f9f5-4405-c2e6-ac136f4b0a66/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4440b9d8-f9f5-4405-c2e6-ac136f4b0a66",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aecffc39-75cf-6247-b28b-edd658edf3c1/NL-HlmNHA_1478_39536K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aecffc39-75cf-6247-b28b-edd658edf3c1/NL-HlmNHA_1478_39536K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schiphol info, bus Zwanenburg"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f7ef808e-44d9-c3b6-fefd-da0600550cd9\">https://hdl.handle.net/21.12102/f7ef808e-44d9-c3b6-fefd-da0600550cd9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aecffc39-75cf-6247-b28b-edd658edf3c1/NL-HlmNHA_1478_39536K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aecffc39-75cf-6247-b28b-edd658edf3c1/NL-HlmNHA_1478_39536K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/897af92c-0484-7e40-f2dd-1cdce09b4c98/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/897af92c-0484-7e40-f2dd-1cdce09b4c98",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aecffc39-75cf-6247-b28b-edd658edf3c1/NL-HlmNHA_1478_39536K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

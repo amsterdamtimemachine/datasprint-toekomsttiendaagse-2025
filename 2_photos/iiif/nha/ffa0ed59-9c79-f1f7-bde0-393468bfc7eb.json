@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/ffa0ed59-9c79-f1f7-bde0-393468bfc7eb.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Herdenkingsplechtigheid Nw.kerk te A'dam (1951-11-09)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Herdenkingsplechtigheid Nw.kerk te A'dam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1951-11-09"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q839050\">Dam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Herdenkingen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/28238"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.892778,
+            52.373056
+          ]
+        },
+        "properties": {
+          "title": "Dam",
+          "url": "http://www.wikidata.org/entity/Q839050"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ffa0ed59-9c79-f1f7-bde0-393468bfc7eb/NL-HlmNHA_1478_06731B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Herdenkingsplechtigheid Nw.kerk te A'dam"
+        ]
+      },
+      "height": 2242,
+      "width": 2930,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b0c1eaf8-6bd7-e115-d6ba-d1aaee9dbf82\">https://hdl.handle.net/21.12102/b0c1eaf8-6bd7-e115-d6ba-d1aaee9dbf82</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ffa0ed59-9c79-f1f7-bde0-393468bfc7eb/NL-HlmNHA_1478_06731B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ffa0ed59-9c79-f1f7-bde0-393468bfc7eb/NL-HlmNHA_1478_06731B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d642ea76-59ed-20ee-5419-9065149f3cba/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2242,
+                "width": 2930,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d642ea76-59ed-20ee-5419-9065149f3cba",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ffa0ed59-9c79-f1f7-bde0-393468bfc7eb/NL-HlmNHA_1478_06731B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

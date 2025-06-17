@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/907b474a-65be-6a47-e049-1e6525670ae0.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Boer werkend op akker, Badhoevedorp (1990-05-30)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Boer werkend op akker, Badhoevedorp"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1990-05-30"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q568337\">Badhoevedorp</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7803,
+            52.3381
+          ]
+        },
+        "properties": {
+          "title": "Badhoevedorp",
+          "url": "http://www.wikidata.org/entity/Q568337"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/907b474a-65be-6a47-e049-1e6525670ae0/NL-HlmNHA_1478_32461K00_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Boer werkend op akker, Badhoevedorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/058328a0-b9bc-35b0-3058-4bd9dbf87e4c\">https://hdl.handle.net/21.12102/058328a0-b9bc-35b0-3058-4bd9dbf87e4c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/907b474a-65be-6a47-e049-1e6525670ae0/NL-HlmNHA_1478_32461K00_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/907b474a-65be-6a47-e049-1e6525670ae0/NL-HlmNHA_1478_32461K00_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/75017b9d-3634-6a41-ab07-298958bd0d40/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/75017b9d-3634-6a41-ab07-298958bd0d40",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/907b474a-65be-6a47-e049-1e6525670ae0/NL-HlmNHA_1478_32461K00_35/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/907b474a-65be-6a47-e049-1e6525670ae0/NL-HlmNHA_1478_32461K00_32/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Boer werkend op akker, Badhoevedorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7d33e996-621d-93bf-4b70-2cfd9f2f06cf\">https://hdl.handle.net/21.12102/7d33e996-621d-93bf-4b70-2cfd9f2f06cf</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/907b474a-65be-6a47-e049-1e6525670ae0/NL-HlmNHA_1478_32461K00_32/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/907b474a-65be-6a47-e049-1e6525670ae0/NL-HlmNHA_1478_32461K00_32/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/58f2c856-bd41-7e19-15f5-ffe411a6cfae/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/58f2c856-bd41-7e19-15f5-ffe411a6cfae",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/907b474a-65be-6a47-e049-1e6525670ae0/NL-HlmNHA_1478_32461K00_32/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/907b474a-65be-6a47-e049-1e6525670ae0/NL-HlmNHA_1478_32461K00_34/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Boer werkend op akker, Badhoevedorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9955eb15-ed96-abab-3acb-79bcdfb4a10a\">https://hdl.handle.net/21.12102/9955eb15-ed96-abab-3acb-79bcdfb4a10a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/907b474a-65be-6a47-e049-1e6525670ae0/NL-HlmNHA_1478_32461K00_34/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/907b474a-65be-6a47-e049-1e6525670ae0/NL-HlmNHA_1478_32461K00_34/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/cf873852-406b-7a30-d398-902e1a37a512/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/cf873852-406b-7a30-d398-902e1a37a512",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/907b474a-65be-6a47-e049-1e6525670ae0/NL-HlmNHA_1478_32461K00_34/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/907b474a-65be-6a47-e049-1e6525670ae0/NL-HlmNHA_1478_32461K00_33/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Boer werkend op akker, Badhoevedorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d44cf258-2835-ee89-8075-92f13cfa4699\">https://hdl.handle.net/21.12102/d44cf258-2835-ee89-8075-92f13cfa4699</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/907b474a-65be-6a47-e049-1e6525670ae0/NL-HlmNHA_1478_32461K00_33/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/907b474a-65be-6a47-e049-1e6525670ae0/NL-HlmNHA_1478_32461K00_33/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f8d75b7a-e693-15f7-c73f-4099165c6448/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f8d75b7a-e693-15f7-c73f-4099165c6448",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/907b474a-65be-6a47-e049-1e6525670ae0/NL-HlmNHA_1478_32461K00_33/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/907b474a-65be-6a47-e049-1e6525670ae0/NL-HlmNHA_1478_32461K00_31/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Boer werkend op akker, Badhoevedorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ddd5ccf0-326b-baff-1f06-3ea607c4f3de\">https://hdl.handle.net/21.12102/ddd5ccf0-326b-baff-1f06-3ea607c4f3de</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/907b474a-65be-6a47-e049-1e6525670ae0/NL-HlmNHA_1478_32461K00_31/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/907b474a-65be-6a47-e049-1e6525670ae0/NL-HlmNHA_1478_32461K00_31/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f1b81a10-824b-bae4-264c-716cbdfefb99/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f1b81a10-824b-bae4-264c-716cbdfefb99",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/907b474a-65be-6a47-e049-1e6525670ae0/NL-HlmNHA_1478_32461K00_31/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/907b474a-65be-6a47-e049-1e6525670ae0/NL-HlmNHA_1478_32461K00_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Boer werkend op akker, Badhoevedorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/df234fdf-07fb-f14d-d859-3815c490c565\">https://hdl.handle.net/21.12102/df234fdf-07fb-f14d-d859-3815c490c565</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/907b474a-65be-6a47-e049-1e6525670ae0/NL-HlmNHA_1478_32461K00_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/907b474a-65be-6a47-e049-1e6525670ae0/NL-HlmNHA_1478_32461K00_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fd060e2c-c070-1f1b-e70f-0b64194fa2c6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fd060e2c-c070-1f1b-e70f-0b64194fa2c6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/907b474a-65be-6a47-e049-1e6525670ae0/NL-HlmNHA_1478_32461K00_30/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

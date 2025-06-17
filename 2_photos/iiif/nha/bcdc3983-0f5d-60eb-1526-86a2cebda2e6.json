@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/bcdc3983-0f5d-60eb-1526-86a2cebda2e6.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Cameramensen rond 'Kever' ('ivm actie Glaasje op, laat je rijden') (1967-11)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Cameramensen rond 'Kever' ('ivm actie Glaasje op, laat je rijden')"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1967-11"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bcdc3983-0f5d-60eb-1526-86a2cebda2e6/NL-HlmNHA_1478_02415A00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Cameramensen rond 'Kever' ('ivm actie Glaasje op, laat je rijden')"
+        ]
+      },
+      "height": 2488,
+      "width": 2488,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/35a3c463-2e1a-4c8e-757e-8c238ef48f07\">https://hdl.handle.net/21.12102/35a3c463-2e1a-4c8e-757e-8c238ef48f07</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bcdc3983-0f5d-60eb-1526-86a2cebda2e6/NL-HlmNHA_1478_02415A00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bcdc3983-0f5d-60eb-1526-86a2cebda2e6/NL-HlmNHA_1478_02415A00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/aa433924-d5f8-a9c9-853d-9b43d1dbab9f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2488,
+                "width": 2488,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/aa433924-d5f8-a9c9-853d-9b43d1dbab9f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/bcdc3983-0f5d-60eb-1526-86a2cebda2e6/NL-HlmNHA_1478_02415A00_05/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

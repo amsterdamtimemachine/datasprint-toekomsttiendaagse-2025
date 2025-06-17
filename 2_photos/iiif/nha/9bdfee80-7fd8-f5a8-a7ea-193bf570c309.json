@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/9bdfee80-7fd8-f5a8-a7ea-193bf570c309.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Boerderij Schipholweg (1990-08-07)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Boerderij Schipholweg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1990-08-07"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q568337\">Badhoevedorp</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7803,
+            52.3381
+          ]
+        },
+        "properties": {
+          "title": "Badhoevedorp",
+          "url": "http://www.wikidata.org/entity/Q568337"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9bdfee80-7fd8-f5a8-a7ea-193bf570c309/NL-HlmNHA_1478_32770K01_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Boerderij Schipholweg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/296d5cf6-cace-8602-4a74-11df0142c695\">https://hdl.handle.net/21.12102/296d5cf6-cace-8602-4a74-11df0142c695</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9bdfee80-7fd8-f5a8-a7ea-193bf570c309/NL-HlmNHA_1478_32770K01_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9bdfee80-7fd8-f5a8-a7ea-193bf570c309/NL-HlmNHA_1478_32770K01_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5ae63170-1d99-960c-e7f0-e2afeb0493dc/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5ae63170-1d99-960c-e7f0-e2afeb0493dc",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9bdfee80-7fd8-f5a8-a7ea-193bf570c309/NL-HlmNHA_1478_32770K01_19/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9bdfee80-7fd8-f5a8-a7ea-193bf570c309/NL-HlmNHA_1478_32770K01_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Boerderij Schipholweg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/37e13757-8f22-24a6-ddea-e75a4f0f7ba0\">https://hdl.handle.net/21.12102/37e13757-8f22-24a6-ddea-e75a4f0f7ba0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9bdfee80-7fd8-f5a8-a7ea-193bf570c309/NL-HlmNHA_1478_32770K01_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9bdfee80-7fd8-f5a8-a7ea-193bf570c309/NL-HlmNHA_1478_32770K01_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1ed7dc86-457d-5a64-e733-f84a6f0788e9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1ed7dc86-457d-5a64-e733-f84a6f0788e9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9bdfee80-7fd8-f5a8-a7ea-193bf570c309/NL-HlmNHA_1478_32770K01_23/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9bdfee80-7fd8-f5a8-a7ea-193bf570c309/NL-HlmNHA_1478_32770K01_22/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Boerderij Schipholweg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8691a1ab-85c0-4f54-164b-c1645c0faa59\">https://hdl.handle.net/21.12102/8691a1ab-85c0-4f54-164b-c1645c0faa59</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9bdfee80-7fd8-f5a8-a7ea-193bf570c309/NL-HlmNHA_1478_32770K01_22/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9bdfee80-7fd8-f5a8-a7ea-193bf570c309/NL-HlmNHA_1478_32770K01_22/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ba4189a7-7607-dbbc-6642-1206e24cd89e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ba4189a7-7607-dbbc-6642-1206e24cd89e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9bdfee80-7fd8-f5a8-a7ea-193bf570c309/NL-HlmNHA_1478_32770K01_22/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9bdfee80-7fd8-f5a8-a7ea-193bf570c309/NL-HlmNHA_1478_32770K01_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Boerderij Schipholweg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/be03a5b8-2fdd-6c02-ca2e-27e3cd873d3f\">https://hdl.handle.net/21.12102/be03a5b8-2fdd-6c02-ca2e-27e3cd873d3f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9bdfee80-7fd8-f5a8-a7ea-193bf570c309/NL-HlmNHA_1478_32770K01_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9bdfee80-7fd8-f5a8-a7ea-193bf570c309/NL-HlmNHA_1478_32770K01_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9edf4692-3125-513b-0922-40da991a65f1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9edf4692-3125-513b-0922-40da991a65f1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9bdfee80-7fd8-f5a8-a7ea-193bf570c309/NL-HlmNHA_1478_32770K01_24/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9bdfee80-7fd8-f5a8-a7ea-193bf570c309/NL-HlmNHA_1478_32770K01_21/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Boerderij Schipholweg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d55cac85-5a1f-41c1-bc5e-3f65718423b4\">https://hdl.handle.net/21.12102/d55cac85-5a1f-41c1-bc5e-3f65718423b4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9bdfee80-7fd8-f5a8-a7ea-193bf570c309/NL-HlmNHA_1478_32770K01_21/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9bdfee80-7fd8-f5a8-a7ea-193bf570c309/NL-HlmNHA_1478_32770K01_21/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/17bbd20d-aeed-1def-171e-cb48641b9ad1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/17bbd20d-aeed-1def-171e-cb48641b9ad1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9bdfee80-7fd8-f5a8-a7ea-193bf570c309/NL-HlmNHA_1478_32770K01_21/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9bdfee80-7fd8-f5a8-a7ea-193bf570c309/NL-HlmNHA_1478_32770K01_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Boerderij Schipholweg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e4a3f6dd-33ca-f530-92c8-300a609e4a8d\">https://hdl.handle.net/21.12102/e4a3f6dd-33ca-f530-92c8-300a609e4a8d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9bdfee80-7fd8-f5a8-a7ea-193bf570c309/NL-HlmNHA_1478_32770K01_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9bdfee80-7fd8-f5a8-a7ea-193bf570c309/NL-HlmNHA_1478_32770K01_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/85ac39ff-294b-1d4c-8289-d2d25a215212/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/85ac39ff-294b-1d4c-8289-d2d25a215212",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9bdfee80-7fd8-f5a8-a7ea-193bf570c309/NL-HlmNHA_1478_32770K01_20/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

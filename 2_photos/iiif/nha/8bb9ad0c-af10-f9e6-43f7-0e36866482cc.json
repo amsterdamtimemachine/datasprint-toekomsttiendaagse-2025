@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/8bb9ad0c-af10-f9e6-43f7-0e36866482cc.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Schepen in haven Amsterdam (1982-11-24)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Schepen in haven Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1982-11-24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Schepen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/28142"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8bb9ad0c-af10-f9e6-43f7-0e36866482cc/NL-HlmNHA_1478_22561K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schepen in haven Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5c5ad48c-42ae-6440-a67f-f0f5a712dd4d\">https://hdl.handle.net/21.12102/5c5ad48c-42ae-6440-a67f-f0f5a712dd4d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8bb9ad0c-af10-f9e6-43f7-0e36866482cc/NL-HlmNHA_1478_22561K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8bb9ad0c-af10-f9e6-43f7-0e36866482cc/NL-HlmNHA_1478_22561K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/bc093c7f-9267-e600-d17a-ee722bc72339/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/bc093c7f-9267-e600-d17a-ee722bc72339",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8bb9ad0c-af10-f9e6-43f7-0e36866482cc/NL-HlmNHA_1478_22561K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8bb9ad0c-af10-f9e6-43f7-0e36866482cc/NL-HlmNHA_1478_22561K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schepen in haven Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/bc69c51a-a0d0-228f-90c9-519b390805c2\">https://hdl.handle.net/21.12102/bc69c51a-a0d0-228f-90c9-519b390805c2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8bb9ad0c-af10-f9e6-43f7-0e36866482cc/NL-HlmNHA_1478_22561K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8bb9ad0c-af10-f9e6-43f7-0e36866482cc/NL-HlmNHA_1478_22561K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fa84f0ef-4093-1d9c-8c07-b0ccbb0bc4e7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fa84f0ef-4093-1d9c-8c07-b0ccbb0bc4e7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8bb9ad0c-af10-f9e6-43f7-0e36866482cc/NL-HlmNHA_1478_22561K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8bb9ad0c-af10-f9e6-43f7-0e36866482cc/NL-HlmNHA_1478_22561K00_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schepen in haven Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c7e88ee7-095a-3213-5758-964a32303c33\">https://hdl.handle.net/21.12102/c7e88ee7-095a-3213-5758-964a32303c33</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8bb9ad0c-af10-f9e6-43f7-0e36866482cc/NL-HlmNHA_1478_22561K00_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8bb9ad0c-af10-f9e6-43f7-0e36866482cc/NL-HlmNHA_1478_22561K00_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4068e152-3a4a-aeb1-ba47-848b9cf36454/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4068e152-3a4a-aeb1-ba47-848b9cf36454",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8bb9ad0c-af10-f9e6-43f7-0e36866482cc/NL-HlmNHA_1478_22561K00_11/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8bb9ad0c-af10-f9e6-43f7-0e36866482cc/NL-HlmNHA_1478_22561K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Schepen in haven Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/dd023a30-62a8-6f7d-9510-c71815aa5554\">https://hdl.handle.net/21.12102/dd023a30-62a8-6f7d-9510-c71815aa5554</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8bb9ad0c-af10-f9e6-43f7-0e36866482cc/NL-HlmNHA_1478_22561K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8bb9ad0c-af10-f9e6-43f7-0e36866482cc/NL-HlmNHA_1478_22561K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/74ccc014-127e-9dda-cc4a-ad16755a523a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/74ccc014-127e-9dda-cc4a-ad16755a523a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8bb9ad0c-af10-f9e6-43f7-0e36866482cc/NL-HlmNHA_1478_22561K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

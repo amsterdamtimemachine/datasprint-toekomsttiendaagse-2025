@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/d5699ed5-800c-47b9-0696-f9f60279de17.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Dhr. Beerthuis - Riagg Amsterdam (1991-03-26)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Dhr. Beerthuis - Riagg Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1991-03-26"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5699ed5-800c-47b9-0696-f9f60279de17/NL-HlmNHA_1478_34024K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dhr. Beerthuis - Riagg Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3753c220-6a06-1f56-23a3-35f86f5e5593\">https://hdl.handle.net/21.12102/3753c220-6a06-1f56-23a3-35f86f5e5593</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5699ed5-800c-47b9-0696-f9f60279de17/NL-HlmNHA_1478_34024K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5699ed5-800c-47b9-0696-f9f60279de17/NL-HlmNHA_1478_34024K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6de080f0-98e2-f524-3905-16000e37c9ac/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6de080f0-98e2-f524-3905-16000e37c9ac",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5699ed5-800c-47b9-0696-f9f60279de17/NL-HlmNHA_1478_34024K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5699ed5-800c-47b9-0696-f9f60279de17/NL-HlmNHA_1478_34024K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dhr. Beerthuis - Riagg Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3c96d790-ce33-1eb1-4aa9-ad39f3ecedb5\">https://hdl.handle.net/21.12102/3c96d790-ce33-1eb1-4aa9-ad39f3ecedb5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5699ed5-800c-47b9-0696-f9f60279de17/NL-HlmNHA_1478_34024K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5699ed5-800c-47b9-0696-f9f60279de17/NL-HlmNHA_1478_34024K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fdf7d6d1-ebe1-fcaa-9b9e-85af79546a30/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fdf7d6d1-ebe1-fcaa-9b9e-85af79546a30",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5699ed5-800c-47b9-0696-f9f60279de17/NL-HlmNHA_1478_34024K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5699ed5-800c-47b9-0696-f9f60279de17/NL-HlmNHA_1478_34024K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dhr. Beerthuis - Riagg Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5ca47814-e6d8-67d5-fb84-bf2075359d5a\">https://hdl.handle.net/21.12102/5ca47814-e6d8-67d5-fb84-bf2075359d5a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5699ed5-800c-47b9-0696-f9f60279de17/NL-HlmNHA_1478_34024K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5699ed5-800c-47b9-0696-f9f60279de17/NL-HlmNHA_1478_34024K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9302bab9-adaa-6806-ac97-01253232ca96/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9302bab9-adaa-6806-ac97-01253232ca96",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5699ed5-800c-47b9-0696-f9f60279de17/NL-HlmNHA_1478_34024K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5699ed5-800c-47b9-0696-f9f60279de17/NL-HlmNHA_1478_34024K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dhr. Beerthuis - Riagg Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7013621a-d8e9-a8d8-e595-a0bda82938ce\">https://hdl.handle.net/21.12102/7013621a-d8e9-a8d8-e595-a0bda82938ce</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5699ed5-800c-47b9-0696-f9f60279de17/NL-HlmNHA_1478_34024K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5699ed5-800c-47b9-0696-f9f60279de17/NL-HlmNHA_1478_34024K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/322225dd-2599-a6b5-6a90-e905d92e6c03/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/322225dd-2599-a6b5-6a90-e905d92e6c03",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5699ed5-800c-47b9-0696-f9f60279de17/NL-HlmNHA_1478_34024K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5699ed5-800c-47b9-0696-f9f60279de17/NL-HlmNHA_1478_34024K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dhr. Beerthuis - Riagg Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/71a471bd-c046-9e66-6331-209540944378\">https://hdl.handle.net/21.12102/71a471bd-c046-9e66-6331-209540944378</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5699ed5-800c-47b9-0696-f9f60279de17/NL-HlmNHA_1478_34024K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5699ed5-800c-47b9-0696-f9f60279de17/NL-HlmNHA_1478_34024K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e8a7316d-c6b1-111d-f4b1-d5324e396dc9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e8a7316d-c6b1-111d-f4b1-d5324e396dc9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5699ed5-800c-47b9-0696-f9f60279de17/NL-HlmNHA_1478_34024K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5699ed5-800c-47b9-0696-f9f60279de17/NL-HlmNHA_1478_34024K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dhr. Beerthuis - Riagg Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/76a357c8-9f3a-312e-526c-50cfd103df30\">https://hdl.handle.net/21.12102/76a357c8-9f3a-312e-526c-50cfd103df30</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5699ed5-800c-47b9-0696-f9f60279de17/NL-HlmNHA_1478_34024K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5699ed5-800c-47b9-0696-f9f60279de17/NL-HlmNHA_1478_34024K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/cdc513f2-06cc-41de-dc12-7384fb6615fb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/cdc513f2-06cc-41de-dc12-7384fb6615fb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5699ed5-800c-47b9-0696-f9f60279de17/NL-HlmNHA_1478_34024K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

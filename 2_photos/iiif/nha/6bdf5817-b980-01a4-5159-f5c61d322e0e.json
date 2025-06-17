@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/6bdf5817-b980-01a4-5159-f5c61d322e0e.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Albert Cuypmarkt, Amsterdam (verkoop olijven en Turkse producten) (1985-08-02)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Albert Cuypmarkt, Amsterdam (verkoop olijven en Turkse producten)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1985-08-02"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bdf5817-b980-01a4-5159-f5c61d322e0e/NL-HlmNHA_1478_25383K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Albert Cuypmarkt, Amsterdam (verkoop olijven en Turkse producten)"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/45424efb-2aa2-022f-d6c3-089420df2581\">https://hdl.handle.net/21.12102/45424efb-2aa2-022f-d6c3-089420df2581</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bdf5817-b980-01a4-5159-f5c61d322e0e/NL-HlmNHA_1478_25383K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bdf5817-b980-01a4-5159-f5c61d322e0e/NL-HlmNHA_1478_25383K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/da249cf5-fa80-ffd0-d0be-901914f1d070/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/da249cf5-fa80-ffd0-d0be-901914f1d070",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bdf5817-b980-01a4-5159-f5c61d322e0e/NL-HlmNHA_1478_25383K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bdf5817-b980-01a4-5159-f5c61d322e0e/NL-HlmNHA_1478_25383K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Albert Cuypmarkt, Amsterdam (verkoop olijven en Turkse producten)"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/61934f92-fa0a-69e6-8076-0d34d95e70e7\">https://hdl.handle.net/21.12102/61934f92-fa0a-69e6-8076-0d34d95e70e7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bdf5817-b980-01a4-5159-f5c61d322e0e/NL-HlmNHA_1478_25383K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bdf5817-b980-01a4-5159-f5c61d322e0e/NL-HlmNHA_1478_25383K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2e352bd0-9a1d-a3dc-f550-d9d0078b2376/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2e352bd0-9a1d-a3dc-f550-d9d0078b2376",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bdf5817-b980-01a4-5159-f5c61d322e0e/NL-HlmNHA_1478_25383K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bdf5817-b980-01a4-5159-f5c61d322e0e/NL-HlmNHA_1478_25383K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Albert Cuypmarkt, Amsterdam (verkoop olijven en Turkse producten)"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6b61a338-56a7-fd7f-3800-eb774fd76580\">https://hdl.handle.net/21.12102/6b61a338-56a7-fd7f-3800-eb774fd76580</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bdf5817-b980-01a4-5159-f5c61d322e0e/NL-HlmNHA_1478_25383K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bdf5817-b980-01a4-5159-f5c61d322e0e/NL-HlmNHA_1478_25383K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5f07d5ab-2305-985c-967f-0137bf73ee11/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5f07d5ab-2305-985c-967f-0137bf73ee11",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bdf5817-b980-01a4-5159-f5c61d322e0e/NL-HlmNHA_1478_25383K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

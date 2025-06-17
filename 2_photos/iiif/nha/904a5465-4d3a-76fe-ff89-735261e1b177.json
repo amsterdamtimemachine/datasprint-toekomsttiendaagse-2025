@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/904a5465-4d3a-76fe-ff89-735261e1b177.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Maquette brugrestaurant Schiphol (1979-12-18)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Maquette brugrestaurant Schiphol"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1979-12-18"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Maquette"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/904a5465-4d3a-76fe-ff89-735261e1b177/NL-HlmNHA_1478_18786K00_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Maquette brugrestaurant Schiphol"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0c2cd343-307f-1e31-5f02-98477cb254b3\">https://hdl.handle.net/21.12102/0c2cd343-307f-1e31-5f02-98477cb254b3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/904a5465-4d3a-76fe-ff89-735261e1b177/NL-HlmNHA_1478_18786K00_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/904a5465-4d3a-76fe-ff89-735261e1b177/NL-HlmNHA_1478_18786K00_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/eade13ce-5922-a870-89de-41efe53a28be/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/eade13ce-5922-a870-89de-41efe53a28be",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/904a5465-4d3a-76fe-ff89-735261e1b177/NL-HlmNHA_1478_18786K00_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/904a5465-4d3a-76fe-ff89-735261e1b177/NL-HlmNHA_1478_18786K00_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Maquette brugrestaurant Schiphol"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4e203f61-0334-8da6-382a-f20f1e0c145b\">https://hdl.handle.net/21.12102/4e203f61-0334-8da6-382a-f20f1e0c145b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/904a5465-4d3a-76fe-ff89-735261e1b177/NL-HlmNHA_1478_18786K00_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/904a5465-4d3a-76fe-ff89-735261e1b177/NL-HlmNHA_1478_18786K00_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1dc8807b-910a-4f72-feb3-27f8730550a4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1dc8807b-910a-4f72-feb3-27f8730550a4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/904a5465-4d3a-76fe-ff89-735261e1b177/NL-HlmNHA_1478_18786K00_09/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/904a5465-4d3a-76fe-ff89-735261e1b177/NL-HlmNHA_1478_18786K00_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Maquette brugrestaurant Schiphol"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/acb96c5c-1ba7-2139-5385-5e18fb33613a\">https://hdl.handle.net/21.12102/acb96c5c-1ba7-2139-5385-5e18fb33613a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/904a5465-4d3a-76fe-ff89-735261e1b177/NL-HlmNHA_1478_18786K00_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/904a5465-4d3a-76fe-ff89-735261e1b177/NL-HlmNHA_1478_18786K00_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5b8b8b0d-32e7-5f08-a299-836295a49ac9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5b8b8b0d-32e7-5f08-a299-836295a49ac9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/904a5465-4d3a-76fe-ff89-735261e1b177/NL-HlmNHA_1478_18786K00_08/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/904a5465-4d3a-76fe-ff89-735261e1b177/NL-HlmNHA_1478_18786K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Maquette brugrestaurant Schiphol"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/fdba1a78-ddc0-2282-c309-7fe57ff871e0\">https://hdl.handle.net/21.12102/fdba1a78-ddc0-2282-c309-7fe57ff871e0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/904a5465-4d3a-76fe-ff89-735261e1b177/NL-HlmNHA_1478_18786K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/904a5465-4d3a-76fe-ff89-735261e1b177/NL-HlmNHA_1478_18786K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a5d714a1-4cde-f79b-70fc-1d4f4c378815/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a5d714a1-4cde-f79b-70fc-1d4f4c378815",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/904a5465-4d3a-76fe-ff89-735261e1b177/NL-HlmNHA_1478_18786K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

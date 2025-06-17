@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/26006828-3368-d8b6-4e1f-7de299183497.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Nederlands kampioenschap turnen heren 1952 in de Turnhal in Amsterdam: vertegenwoordiging uit Alkmaar. (1952-12-07)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Nederlands kampioenschap turnen heren 1952 in de Turnhal in Amsterdam: vertegenwoordiging uit Alkmaar."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1952-12-07"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q19354971\">Nieuwe Passeerdersstraat</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.879,
+            52.3665
+          ]
+        },
+        "properties": {
+          "title": "Nieuwe Passeerdersstraat",
+          "url": "http://www.wikidata.org/entity/Q19354971"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/26006828-3368-d8b6-4e1f-7de299183497/NL-HlmNHA_1478_00794A01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Nederlands kampioenschap turnen heren 1952 in de Turnhal in Amsterdam: vertegenwoordiging uit Alkmaar."
+        ]
+      },
+      "height": 2606,
+      "width": 2606,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a0c73476-80cf-b5e3-524c-cb6c3e673805\">https://hdl.handle.net/21.12102/a0c73476-80cf-b5e3-524c-cb6c3e673805</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/26006828-3368-d8b6-4e1f-7de299183497/NL-HlmNHA_1478_00794A01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/26006828-3368-d8b6-4e1f-7de299183497/NL-HlmNHA_1478_00794A01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/52045683-9b2d-d339-e986-bf7725df7ea2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2606,
+                "width": 2606,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/52045683-9b2d-d339-e986-bf7725df7ea2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/26006828-3368-d8b6-4e1f-7de299183497/NL-HlmNHA_1478_00794A01_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

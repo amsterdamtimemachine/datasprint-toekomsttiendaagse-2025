@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/fdb82bc0-4436-b232-9af6-9d39bcc81d29.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Grafiek, Jan Cremer, Amstelveen (1999-01-21)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Grafiek, Jan Cremer, Amstelveen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1999-01-21"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q33421878\">Amstelveen</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.858056,
+            52.301944
+          ]
+        },
+        "properties": {
+          "title": "Amstelveen",
+          "url": "http://www.wikidata.org/entity/Q33421878"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fdb82bc0-4436-b232-9af6-9d39bcc81d29/NL-HlmNHA_1478_46491K00_39/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Grafiek, Jan Cremer, Amstelveen"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/28ca01a6-52d3-9dd7-bdfe-0a5ece1a7b54\">https://hdl.handle.net/21.12102/28ca01a6-52d3-9dd7-bdfe-0a5ece1a7b54</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fdb82bc0-4436-b232-9af6-9d39bcc81d29/NL-HlmNHA_1478_46491K00_39/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fdb82bc0-4436-b232-9af6-9d39bcc81d29/NL-HlmNHA_1478_46491K00_39/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/04556824-98de-4559-a317-161c4882631b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/04556824-98de-4559-a317-161c4882631b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fdb82bc0-4436-b232-9af6-9d39bcc81d29/NL-HlmNHA_1478_46491K00_39/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fdb82bc0-4436-b232-9af6-9d39bcc81d29/NL-HlmNHA_1478_46491K00_40/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Grafiek, Jan Cremer, Amstelveen"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6b3af564-a3cc-2097-e65e-936974656d8c\">https://hdl.handle.net/21.12102/6b3af564-a3cc-2097-e65e-936974656d8c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fdb82bc0-4436-b232-9af6-9d39bcc81d29/NL-HlmNHA_1478_46491K00_40/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fdb82bc0-4436-b232-9af6-9d39bcc81d29/NL-HlmNHA_1478_46491K00_40/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/865e540b-9ed1-39ce-e322-86ede3a517b7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/865e540b-9ed1-39ce-e322-86ede3a517b7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fdb82bc0-4436-b232-9af6-9d39bcc81d29/NL-HlmNHA_1478_46491K00_40/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fdb82bc0-4436-b232-9af6-9d39bcc81d29/NL-HlmNHA_1478_46491K00_37/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Grafiek, Jan Cremer, Amstelveen"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6bc5a045-5f89-4da3-6db3-5522d55e38cd\">https://hdl.handle.net/21.12102/6bc5a045-5f89-4da3-6db3-5522d55e38cd</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fdb82bc0-4436-b232-9af6-9d39bcc81d29/NL-HlmNHA_1478_46491K00_37/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fdb82bc0-4436-b232-9af6-9d39bcc81d29/NL-HlmNHA_1478_46491K00_37/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/211159e4-daa8-971d-7db1-518560f5d46f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/211159e4-daa8-971d-7db1-518560f5d46f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fdb82bc0-4436-b232-9af6-9d39bcc81d29/NL-HlmNHA_1478_46491K00_37/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fdb82bc0-4436-b232-9af6-9d39bcc81d29/NL-HlmNHA_1478_46491K00_38/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Grafiek, Jan Cremer, Amstelveen"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8caf4029-a1a7-e6af-b323-310d812826d5\">https://hdl.handle.net/21.12102/8caf4029-a1a7-e6af-b323-310d812826d5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fdb82bc0-4436-b232-9af6-9d39bcc81d29/NL-HlmNHA_1478_46491K00_38/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fdb82bc0-4436-b232-9af6-9d39bcc81d29/NL-HlmNHA_1478_46491K00_38/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4a9f056b-21e1-5419-f79a-efeaca01afac/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4a9f056b-21e1-5419-f79a-efeaca01afac",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fdb82bc0-4436-b232-9af6-9d39bcc81d29/NL-HlmNHA_1478_46491K00_38/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fdb82bc0-4436-b232-9af6-9d39bcc81d29/NL-HlmNHA_1478_46491K00_41/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Grafiek, Jan Cremer, Amstelveen"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b17f204f-f272-4aa3-34bd-274b8093b8b1\">https://hdl.handle.net/21.12102/b17f204f-f272-4aa3-34bd-274b8093b8b1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fdb82bc0-4436-b232-9af6-9d39bcc81d29/NL-HlmNHA_1478_46491K00_41/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fdb82bc0-4436-b232-9af6-9d39bcc81d29/NL-HlmNHA_1478_46491K00_41/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1b8491f5-7a4b-837f-fdf9-6de35b89cd3f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1b8491f5-7a4b-837f-fdf9-6de35b89cd3f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fdb82bc0-4436-b232-9af6-9d39bcc81d29/NL-HlmNHA_1478_46491K00_41/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fdb82bc0-4436-b232-9af6-9d39bcc81d29/NL-HlmNHA_1478_46491K00_36/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Grafiek, Jan Cremer, Amstelveen"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ff67c887-df76-015c-7983-a7d48546b136\">https://hdl.handle.net/21.12102/ff67c887-df76-015c-7983-a7d48546b136</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fdb82bc0-4436-b232-9af6-9d39bcc81d29/NL-HlmNHA_1478_46491K00_36/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fdb82bc0-4436-b232-9af6-9d39bcc81d29/NL-HlmNHA_1478_46491K00_36/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4b826208-2e68-0c3b-2e71-b28b405327b6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4b826208-2e68-0c3b-2e71-b28b405327b6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fdb82bc0-4436-b232-9af6-9d39bcc81d29/NL-HlmNHA_1478_46491K00_36/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

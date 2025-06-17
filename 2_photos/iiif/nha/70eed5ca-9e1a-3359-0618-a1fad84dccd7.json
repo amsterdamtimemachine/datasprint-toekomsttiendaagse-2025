@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/70eed5ca-9e1a-3359-0618-a1fad84dccd7.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Klokken voor juwelier Kan, Amsterdam (1954-11-18)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Klokken voor juwelier Kan, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1954-11-18"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Reclame, Diversen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/26609"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/70eed5ca-9e1a-3359-0618-a1fad84dccd7/NL-HlmNHA_1478_09960G00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Klokken voor juwelier Kan, Amsterdam"
+        ]
+      },
+      "height": 6419,
+      "width": 4640,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/bfa5cb87-d6e7-90bc-8359-4d04c42451ab\">https://hdl.handle.net/21.12102/bfa5cb87-d6e7-90bc-8359-4d04c42451ab</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/70eed5ca-9e1a-3359-0618-a1fad84dccd7/NL-HlmNHA_1478_09960G00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/70eed5ca-9e1a-3359-0618-a1fad84dccd7/NL-HlmNHA_1478_09960G00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/441c0fe6-c85c-d8d9-84d8-be506f3a0be9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 6419,
+                "width": 4640,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/441c0fe6-c85c-d8d9-84d8-be506f3a0be9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/70eed5ca-9e1a-3359-0618-a1fad84dccd7/NL-HlmNHA_1478_09960G00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

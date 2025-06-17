@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/1ab2a57d-25f0-a547-ba99-7c042ebcb44a.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Groepsfoto GE Plastics Amsterdam (1995-04-04)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Groepsfoto GE Plastics Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1995-04-04"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1ab2a57d-25f0-a547-ba99-7c042ebcb44a/NL-HlmNHA_1478_41092K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Groepsfoto GE Plastics Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/385d9d81-5631-2e6d-d04e-0e2e7ed445cd\">https://hdl.handle.net/21.12102/385d9d81-5631-2e6d-d04e-0e2e7ed445cd</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1ab2a57d-25f0-a547-ba99-7c042ebcb44a/NL-HlmNHA_1478_41092K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1ab2a57d-25f0-a547-ba99-7c042ebcb44a/NL-HlmNHA_1478_41092K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3bba8668-ca31-e7f8-23d1-83ea66f43024/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3bba8668-ca31-e7f8-23d1-83ea66f43024",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1ab2a57d-25f0-a547-ba99-7c042ebcb44a/NL-HlmNHA_1478_41092K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1ab2a57d-25f0-a547-ba99-7c042ebcb44a/NL-HlmNHA_1478_41092K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Groepsfoto GE Plastics Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/554c5292-c73d-29a7-282a-693d3785b1a7\">https://hdl.handle.net/21.12102/554c5292-c73d-29a7-282a-693d3785b1a7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1ab2a57d-25f0-a547-ba99-7c042ebcb44a/NL-HlmNHA_1478_41092K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1ab2a57d-25f0-a547-ba99-7c042ebcb44a/NL-HlmNHA_1478_41092K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fd9458c1-25aa-6604-a615-b88563ecbf4c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fd9458c1-25aa-6604-a615-b88563ecbf4c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1ab2a57d-25f0-a547-ba99-7c042ebcb44a/NL-HlmNHA_1478_41092K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1ab2a57d-25f0-a547-ba99-7c042ebcb44a/NL-HlmNHA_1478_41092K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Groepsfoto GE Plastics Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5eac2ed1-3e12-91dc-7e13-ff811494c745\">https://hdl.handle.net/21.12102/5eac2ed1-3e12-91dc-7e13-ff811494c745</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1ab2a57d-25f0-a547-ba99-7c042ebcb44a/NL-HlmNHA_1478_41092K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1ab2a57d-25f0-a547-ba99-7c042ebcb44a/NL-HlmNHA_1478_41092K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/578d1661-1e9f-74b8-4c72-25a51ac52cce/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/578d1661-1e9f-74b8-4c72-25a51ac52cce",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1ab2a57d-25f0-a547-ba99-7c042ebcb44a/NL-HlmNHA_1478_41092K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1ab2a57d-25f0-a547-ba99-7c042ebcb44a/NL-HlmNHA_1478_41092K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Groepsfoto GE Plastics Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a133c3ac-82e1-1808-b87e-3a9b3720b25c\">https://hdl.handle.net/21.12102/a133c3ac-82e1-1808-b87e-3a9b3720b25c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1ab2a57d-25f0-a547-ba99-7c042ebcb44a/NL-HlmNHA_1478_41092K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1ab2a57d-25f0-a547-ba99-7c042ebcb44a/NL-HlmNHA_1478_41092K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1021971a-48fe-5a0b-e120-d8f046abd4c3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1021971a-48fe-5a0b-e120-d8f046abd4c3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1ab2a57d-25f0-a547-ba99-7c042ebcb44a/NL-HlmNHA_1478_41092K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1ab2a57d-25f0-a547-ba99-7c042ebcb44a/NL-HlmNHA_1478_41092K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Groepsfoto GE Plastics Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/dd765379-79ed-c1de-5cba-b6c5bdf7ccf6\">https://hdl.handle.net/21.12102/dd765379-79ed-c1de-5cba-b6c5bdf7ccf6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1ab2a57d-25f0-a547-ba99-7c042ebcb44a/NL-HlmNHA_1478_41092K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1ab2a57d-25f0-a547-ba99-7c042ebcb44a/NL-HlmNHA_1478_41092K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5acb3b08-239f-405a-51a1-38368f700d60/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5acb3b08-239f-405a-51a1-38368f700d60",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1ab2a57d-25f0-a547-ba99-7c042ebcb44a/NL-HlmNHA_1478_41092K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1ab2a57d-25f0-a547-ba99-7c042ebcb44a/NL-HlmNHA_1478_41092K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Groepsfoto GE Plastics Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ea5bbc5b-42ee-73b7-4d89-b7bc0fbffb3e\">https://hdl.handle.net/21.12102/ea5bbc5b-42ee-73b7-4d89-b7bc0fbffb3e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1ab2a57d-25f0-a547-ba99-7c042ebcb44a/NL-HlmNHA_1478_41092K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1ab2a57d-25f0-a547-ba99-7c042ebcb44a/NL-HlmNHA_1478_41092K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fc3c750c-34df-a6de-3fa8-7e39300dff6d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fc3c750c-34df-a6de-3fa8-7e39300dff6d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1ab2a57d-25f0-a547-ba99-7c042ebcb44a/NL-HlmNHA_1478_41092K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

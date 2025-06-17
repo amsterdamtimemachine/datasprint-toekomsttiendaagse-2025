@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/7fcf7a6d-f190-a981-8f82-655bb5f88733.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Dorpshuis in aanbouw, Olmenlaan, Zwanenburg. Zie HD 09-10-1968, pag 9 (1968-10-08)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Dorpshuis in aanbouw, Olmenlaan, Zwanenburg. Zie HD 09-10-1968, pag 9"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1968-10-08"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q19392648\">Olmenlaan</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Bouwen, bouwputten"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7543,
+            52.374
+          ]
+        },
+        "properties": {
+          "title": "Olmenlaan",
+          "url": "http://www.wikidata.org/entity/Q19392648"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7fcf7a6d-f190-a981-8f82-655bb5f88733/NL-HlmNHA_1478_06546K00_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dorpshuis in aanbouw, Olmenlaan, Zwanenburg. Zie HD 09-10-1968, pag 9"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/01e85d1f-0039-e7fd-4931-e3d811e8787e\">https://hdl.handle.net/21.12102/01e85d1f-0039-e7fd-4931-e3d811e8787e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7fcf7a6d-f190-a981-8f82-655bb5f88733/NL-HlmNHA_1478_06546K00_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7fcf7a6d-f190-a981-8f82-655bb5f88733/NL-HlmNHA_1478_06546K00_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ce188a9f-f7fa-db49-9f04-ecc6ea0061f4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ce188a9f-f7fa-db49-9f04-ecc6ea0061f4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7fcf7a6d-f190-a981-8f82-655bb5f88733/NL-HlmNHA_1478_06546K00_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7fcf7a6d-f190-a981-8f82-655bb5f88733/NL-HlmNHA_1478_06546K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dorpshuis in aanbouw, Olmenlaan, Zwanenburg. Zie HD 09-10-1968, pag 9"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2a3bfe55-a1bc-f39f-9ed1-9f436dcf0fbe\">https://hdl.handle.net/21.12102/2a3bfe55-a1bc-f39f-9ed1-9f436dcf0fbe</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7fcf7a6d-f190-a981-8f82-655bb5f88733/NL-HlmNHA_1478_06546K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7fcf7a6d-f190-a981-8f82-655bb5f88733/NL-HlmNHA_1478_06546K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/295a2a67-80d8-03e2-48cd-a1d116489fde/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/295a2a67-80d8-03e2-48cd-a1d116489fde",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7fcf7a6d-f190-a981-8f82-655bb5f88733/NL-HlmNHA_1478_06546K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7fcf7a6d-f190-a981-8f82-655bb5f88733/NL-HlmNHA_1478_06546K00_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dorpshuis in aanbouw, Olmenlaan, Zwanenburg. Zie HD 09-10-1968, pag 9"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2e63d6cf-551d-89d1-294d-df88748c9143\">https://hdl.handle.net/21.12102/2e63d6cf-551d-89d1-294d-df88748c9143</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7fcf7a6d-f190-a981-8f82-655bb5f88733/NL-HlmNHA_1478_06546K00_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7fcf7a6d-f190-a981-8f82-655bb5f88733/NL-HlmNHA_1478_06546K00_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/067be68c-0d79-4f97-446d-23683577e675/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/067be68c-0d79-4f97-446d-23683577e675",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7fcf7a6d-f190-a981-8f82-655bb5f88733/NL-HlmNHA_1478_06546K00_09/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7fcf7a6d-f190-a981-8f82-655bb5f88733/NL-HlmNHA_1478_06546K00_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dorpshuis in aanbouw, Olmenlaan, Zwanenburg. Zie HD 09-10-1968, pag 9"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5811a4cd-6e0c-abd2-5094-4fe5c9256e29\">https://hdl.handle.net/21.12102/5811a4cd-6e0c-abd2-5094-4fe5c9256e29</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7fcf7a6d-f190-a981-8f82-655bb5f88733/NL-HlmNHA_1478_06546K00_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7fcf7a6d-f190-a981-8f82-655bb5f88733/NL-HlmNHA_1478_06546K00_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/97172c45-7849-a9d7-ba09-e8d49b3395fc/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/97172c45-7849-a9d7-ba09-e8d49b3395fc",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7fcf7a6d-f190-a981-8f82-655bb5f88733/NL-HlmNHA_1478_06546K00_10/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7fcf7a6d-f190-a981-8f82-655bb5f88733/NL-HlmNHA_1478_06546K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dorpshuis in aanbouw, Olmenlaan, Zwanenburg. Zie HD 09-10-1968, pag 9"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9ee26be1-b79a-51a0-7461-e036da7efd77\">https://hdl.handle.net/21.12102/9ee26be1-b79a-51a0-7461-e036da7efd77</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7fcf7a6d-f190-a981-8f82-655bb5f88733/NL-HlmNHA_1478_06546K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7fcf7a6d-f190-a981-8f82-655bb5f88733/NL-HlmNHA_1478_06546K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/eb23c7e6-a77d-3b78-05f8-e4a5776be5e4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/eb23c7e6-a77d-3b78-05f8-e4a5776be5e4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7fcf7a6d-f190-a981-8f82-655bb5f88733/NL-HlmNHA_1478_06546K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7fcf7a6d-f190-a981-8f82-655bb5f88733/NL-HlmNHA_1478_06546K00_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dorpshuis in aanbouw, Olmenlaan, Zwanenburg. Zie HD 09-10-1968, pag 9"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/da52dcf6-f9f7-3ac7-4bb6-9794909745f0\">https://hdl.handle.net/21.12102/da52dcf6-f9f7-3ac7-4bb6-9794909745f0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7fcf7a6d-f190-a981-8f82-655bb5f88733/NL-HlmNHA_1478_06546K00_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7fcf7a6d-f190-a981-8f82-655bb5f88733/NL-HlmNHA_1478_06546K00_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/18437624-9407-0d96-c437-4e0e857a6af3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/18437624-9407-0d96-c437-4e0e857a6af3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7fcf7a6d-f190-a981-8f82-655bb5f88733/NL-HlmNHA_1478_06546K00_08/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/3baca4fa-9a6c-49c7-52a6-35b9094d1751.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Exterieur van het raadhuis (1993-03-17)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Exterieur van het raadhuis"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1993-03-17"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2367253\">Halfweg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.755,
+            52.3828
+          ]
+        },
+        "properties": {
+          "title": "Halfweg",
+          "url": "http://www.wikidata.org/entity/Q2367253"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3baca4fa-9a6c-49c7-52a6-35b9094d1751/NL-HlmNHA_1478_37867K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur van het raadhuis"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2a19531c-812f-4936-613c-76db6af179ed\">https://hdl.handle.net/21.12102/2a19531c-812f-4936-613c-76db6af179ed</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3baca4fa-9a6c-49c7-52a6-35b9094d1751/NL-HlmNHA_1478_37867K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3baca4fa-9a6c-49c7-52a6-35b9094d1751/NL-HlmNHA_1478_37867K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/39b62f19-2080-de6f-fe27-6a92251ef693/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/39b62f19-2080-de6f-fe27-6a92251ef693",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3baca4fa-9a6c-49c7-52a6-35b9094d1751/NL-HlmNHA_1478_37867K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3baca4fa-9a6c-49c7-52a6-35b9094d1751/NL-HlmNHA_1478_37867K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur van het raadhuis"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2cf8e71d-9f95-6501-f9b5-99b4a032aa5c\">https://hdl.handle.net/21.12102/2cf8e71d-9f95-6501-f9b5-99b4a032aa5c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3baca4fa-9a6c-49c7-52a6-35b9094d1751/NL-HlmNHA_1478_37867K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3baca4fa-9a6c-49c7-52a6-35b9094d1751/NL-HlmNHA_1478_37867K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/08e18184-5c85-52b3-22e7-e77d76811869/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/08e18184-5c85-52b3-22e7-e77d76811869",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3baca4fa-9a6c-49c7-52a6-35b9094d1751/NL-HlmNHA_1478_37867K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3baca4fa-9a6c-49c7-52a6-35b9094d1751/NL-HlmNHA_1478_37867K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur van het raadhuis"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/55dc3d6b-307e-8972-bd98-a4b8217f427d\">https://hdl.handle.net/21.12102/55dc3d6b-307e-8972-bd98-a4b8217f427d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3baca4fa-9a6c-49c7-52a6-35b9094d1751/NL-HlmNHA_1478_37867K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3baca4fa-9a6c-49c7-52a6-35b9094d1751/NL-HlmNHA_1478_37867K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8e4f000e-8b08-e2f2-4b28-1b9a418c623a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8e4f000e-8b08-e2f2-4b28-1b9a418c623a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3baca4fa-9a6c-49c7-52a6-35b9094d1751/NL-HlmNHA_1478_37867K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3baca4fa-9a6c-49c7-52a6-35b9094d1751/NL-HlmNHA_1478_37867K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur van het raadhuis"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/70733770-7683-124d-b5fd-12ca32f2a314\">https://hdl.handle.net/21.12102/70733770-7683-124d-b5fd-12ca32f2a314</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3baca4fa-9a6c-49c7-52a6-35b9094d1751/NL-HlmNHA_1478_37867K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3baca4fa-9a6c-49c7-52a6-35b9094d1751/NL-HlmNHA_1478_37867K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b3140de3-bb3d-33b3-dd17-7ebd8a80a624/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b3140de3-bb3d-33b3-dd17-7ebd8a80a624",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3baca4fa-9a6c-49c7-52a6-35b9094d1751/NL-HlmNHA_1478_37867K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3baca4fa-9a6c-49c7-52a6-35b9094d1751/NL-HlmNHA_1478_37867K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur van het raadhuis"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7b0abec1-fcfe-d227-50c6-4e005fe2da45\">https://hdl.handle.net/21.12102/7b0abec1-fcfe-d227-50c6-4e005fe2da45</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3baca4fa-9a6c-49c7-52a6-35b9094d1751/NL-HlmNHA_1478_37867K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3baca4fa-9a6c-49c7-52a6-35b9094d1751/NL-HlmNHA_1478_37867K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/cea2a166-ec37-0f43-7396-4a11205822ce/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/cea2a166-ec37-0f43-7396-4a11205822ce",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3baca4fa-9a6c-49c7-52a6-35b9094d1751/NL-HlmNHA_1478_37867K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3baca4fa-9a6c-49c7-52a6-35b9094d1751/NL-HlmNHA_1478_37867K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur van het raadhuis"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/fa3cb8cb-79a6-b655-d798-1e4391864db9\">https://hdl.handle.net/21.12102/fa3cb8cb-79a6-b655-d798-1e4391864db9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3baca4fa-9a6c-49c7-52a6-35b9094d1751/NL-HlmNHA_1478_37867K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3baca4fa-9a6c-49c7-52a6-35b9094d1751/NL-HlmNHA_1478_37867K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/20d65644-ebbe-1878-238d-e24e892d8e5a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/20d65644-ebbe-1878-238d-e24e892d8e5a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3baca4fa-9a6c-49c7-52a6-35b9094d1751/NL-HlmNHA_1478_37867K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

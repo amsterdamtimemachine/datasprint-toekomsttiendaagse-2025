@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/01b8b8eb-94d6-1079-9cd3-6f1ed35419c6.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Dansgroep in Amsterdam (1971-02-17)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Dansgroep in Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1971-02-17"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/01b8b8eb-94d6-1079-9cd3-6f1ed35419c6/NL-HlmNHA_1478_09221K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dansgroep in Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4ede14fd-753e-dec3-6136-3a8d4293c8c1\">https://hdl.handle.net/21.12102/4ede14fd-753e-dec3-6136-3a8d4293c8c1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/01b8b8eb-94d6-1079-9cd3-6f1ed35419c6/NL-HlmNHA_1478_09221K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/01b8b8eb-94d6-1079-9cd3-6f1ed35419c6/NL-HlmNHA_1478_09221K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4a919aca-9d7f-c356-37d2-f47e326f6c53/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4a919aca-9d7f-c356-37d2-f47e326f6c53",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/01b8b8eb-94d6-1079-9cd3-6f1ed35419c6/NL-HlmNHA_1478_09221K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/01b8b8eb-94d6-1079-9cd3-6f1ed35419c6/NL-HlmNHA_1478_09221K00_27/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dansgroep in Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/98190537-b5bb-f214-c25e-8ad2ee46a98b\">https://hdl.handle.net/21.12102/98190537-b5bb-f214-c25e-8ad2ee46a98b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/01b8b8eb-94d6-1079-9cd3-6f1ed35419c6/NL-HlmNHA_1478_09221K00_27/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/01b8b8eb-94d6-1079-9cd3-6f1ed35419c6/NL-HlmNHA_1478_09221K00_27/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b5ab8476-9849-2e05-7744-4162fd3a3e80/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b5ab8476-9849-2e05-7744-4162fd3a3e80",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/01b8b8eb-94d6-1079-9cd3-6f1ed35419c6/NL-HlmNHA_1478_09221K00_27/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/01b8b8eb-94d6-1079-9cd3-6f1ed35419c6/NL-HlmNHA_1478_09221K00_26/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dansgroep in Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a00a3977-2d9f-d306-e262-08200ec3e2f0\">https://hdl.handle.net/21.12102/a00a3977-2d9f-d306-e262-08200ec3e2f0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/01b8b8eb-94d6-1079-9cd3-6f1ed35419c6/NL-HlmNHA_1478_09221K00_26/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/01b8b8eb-94d6-1079-9cd3-6f1ed35419c6/NL-HlmNHA_1478_09221K00_26/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e8786185-6463-87dc-21d9-aebbda7bac08/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e8786185-6463-87dc-21d9-aebbda7bac08",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/01b8b8eb-94d6-1079-9cd3-6f1ed35419c6/NL-HlmNHA_1478_09221K00_26/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/01b8b8eb-94d6-1079-9cd3-6f1ed35419c6/NL-HlmNHA_1478_09221K00_25/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Dansgroep in Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/fca67050-0baf-3678-4efb-ba20f0586226\">https://hdl.handle.net/21.12102/fca67050-0baf-3678-4efb-ba20f0586226</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/01b8b8eb-94d6-1079-9cd3-6f1ed35419c6/NL-HlmNHA_1478_09221K00_25/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/01b8b8eb-94d6-1079-9cd3-6f1ed35419c6/NL-HlmNHA_1478_09221K00_25/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c80f7676-e700-60d5-4d3e-3869de7276f5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c80f7676-e700-60d5-4d3e-3869de7276f5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/01b8b8eb-94d6-1079-9cd3-6f1ed35419c6/NL-HlmNHA_1478_09221K00_25/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

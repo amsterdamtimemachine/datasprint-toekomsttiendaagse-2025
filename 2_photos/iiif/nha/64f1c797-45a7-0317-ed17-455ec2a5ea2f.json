@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/64f1c797-45a7-0317-ed17-455ec2a5ea2f.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Bezoek ambassadeurs bij Fokker (1991-05-14)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Bezoek ambassadeurs bij Fokker"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1991-05-14"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/64f1c797-45a7-0317-ed17-455ec2a5ea2f/NL-HlmNHA_1478_34352K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bezoek ambassadeurs bij Fokker"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0d703378-5033-3527-d382-327865bbfdfe\">https://hdl.handle.net/21.12102/0d703378-5033-3527-d382-327865bbfdfe</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/64f1c797-45a7-0317-ed17-455ec2a5ea2f/NL-HlmNHA_1478_34352K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/64f1c797-45a7-0317-ed17-455ec2a5ea2f/NL-HlmNHA_1478_34352K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3599d880-ac8d-3532-45d4-5154c1b0e5bf/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3599d880-ac8d-3532-45d4-5154c1b0e5bf",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/64f1c797-45a7-0317-ed17-455ec2a5ea2f/NL-HlmNHA_1478_34352K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/64f1c797-45a7-0317-ed17-455ec2a5ea2f/NL-HlmNHA_1478_34352K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bezoek ambassadeurs bij Fokker"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4c30bc54-d6b6-d583-9006-f89992c9c9c9\">https://hdl.handle.net/21.12102/4c30bc54-d6b6-d583-9006-f89992c9c9c9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/64f1c797-45a7-0317-ed17-455ec2a5ea2f/NL-HlmNHA_1478_34352K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/64f1c797-45a7-0317-ed17-455ec2a5ea2f/NL-HlmNHA_1478_34352K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b250c2d8-6b7e-0dcb-b81a-38fd27936255/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b250c2d8-6b7e-0dcb-b81a-38fd27936255",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/64f1c797-45a7-0317-ed17-455ec2a5ea2f/NL-HlmNHA_1478_34352K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/64f1c797-45a7-0317-ed17-455ec2a5ea2f/NL-HlmNHA_1478_34352K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bezoek ambassadeurs bij Fokker"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9a5a3a5e-a030-2016-aa7d-e3433fb7dee3\">https://hdl.handle.net/21.12102/9a5a3a5e-a030-2016-aa7d-e3433fb7dee3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/64f1c797-45a7-0317-ed17-455ec2a5ea2f/NL-HlmNHA_1478_34352K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/64f1c797-45a7-0317-ed17-455ec2a5ea2f/NL-HlmNHA_1478_34352K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fb189342-a020-2f52-18a7-ec9586246e0f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fb189342-a020-2f52-18a7-ec9586246e0f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/64f1c797-45a7-0317-ed17-455ec2a5ea2f/NL-HlmNHA_1478_34352K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/64f1c797-45a7-0317-ed17-455ec2a5ea2f/NL-HlmNHA_1478_34352K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bezoek ambassadeurs bij Fokker"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e78651d2-057e-a213-7fc7-b520dd71a811\">https://hdl.handle.net/21.12102/e78651d2-057e-a213-7fc7-b520dd71a811</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/64f1c797-45a7-0317-ed17-455ec2a5ea2f/NL-HlmNHA_1478_34352K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/64f1c797-45a7-0317-ed17-455ec2a5ea2f/NL-HlmNHA_1478_34352K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/20d8985d-095a-f949-1c71-f32851239380/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/20d8985d-095a-f949-1c71-f32851239380",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/64f1c797-45a7-0317-ed17-455ec2a5ea2f/NL-HlmNHA_1478_34352K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

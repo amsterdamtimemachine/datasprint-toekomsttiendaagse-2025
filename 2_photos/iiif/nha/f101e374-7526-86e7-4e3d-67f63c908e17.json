@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/f101e374-7526-86e7-4e3d-67f63c908e17.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Oplegger voor Arabi\u00eb inladen Amsterdam (1953-03-03)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Oplegger voor Arabi\u00eb inladen Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1953-03-03"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Reproductie luchtfoto fabriek Verheul"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f101e374-7526-86e7-4e3d-67f63c908e17/NL-HlmNHA_1478_08346B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Oplegger voor Arabi\u00eb inladen Amsterdam"
+        ]
+      },
+      "height": 2252,
+      "width": 2801,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2614f2e7-9f6c-64f4-6bce-9a8230360c99\">https://hdl.handle.net/21.12102/2614f2e7-9f6c-64f4-6bce-9a8230360c99</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f101e374-7526-86e7-4e3d-67f63c908e17/NL-HlmNHA_1478_08346B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f101e374-7526-86e7-4e3d-67f63c908e17/NL-HlmNHA_1478_08346B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e97c17fe-d911-8371-25d8-f95d0a186550/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2252,
+                "width": 2801,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e97c17fe-d911-8371-25d8-f95d0a186550",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f101e374-7526-86e7-4e3d-67f63c908e17/NL-HlmNHA_1478_08346B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

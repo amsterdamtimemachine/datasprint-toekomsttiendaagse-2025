@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/3385c046-84af-5abc-2b32-c1d963f9f802.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Gasfornuizen worden afgeleverd bij een pand van de UvA (1960)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Gasfornuizen worden afgeleverd bij een pand van de UvA"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1960"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Oude Turfmarkt 141"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.89306,
+            52.36833
+          ]
+        },
+        "properties": {
+          "title": "Oude Turfmarkt 141",
+          "url": ""
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3385c046-84af-5abc-2b32-c1d963f9f802/NL-HlmNHA_1478_17845B05a_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Gasfornuizen worden afgeleverd bij een pand van de UvA"
+        ]
+      },
+      "height": 1310,
+      "width": 1339,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/06ec73f7-8b66-05d0-0712-a0cb6ca3b8b7\">https://hdl.handle.net/21.12102/06ec73f7-8b66-05d0-0712-a0cb6ca3b8b7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3385c046-84af-5abc-2b32-c1d963f9f802/NL-HlmNHA_1478_17845B05a_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3385c046-84af-5abc-2b32-c1d963f9f802/NL-HlmNHA_1478_17845B05a_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4088a4ab-4a9d-1c0f-2fe1-60508cf252c4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1310,
+                "width": 1339,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4088a4ab-4a9d-1c0f-2fe1-60508cf252c4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3385c046-84af-5abc-2b32-c1d963f9f802/NL-HlmNHA_1478_17845B05a_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,573 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/c4c5c13c-16ca-3719-05de-14989dccf236.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Exterieur gebouw van Justitie in Amsterdam (1996-03-20)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Exterieur gebouw van Justitie in Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1996-03-20"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_40/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur gebouw van Justitie in Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1b81146e-37b4-abf3-f6e2-fc56b055b69f\">https://hdl.handle.net/21.12102/1b81146e-37b4-abf3-f6e2-fc56b055b69f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_40/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_40/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fca70d46-ddf3-f218-cb25-8c052892e5bb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fca70d46-ddf3-f218-cb25-8c052892e5bb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_40/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_39/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur gebouw van Justitie in Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/32e7c6e2-53a8-a09b-6e95-6ba1e74e0ef9\">https://hdl.handle.net/21.12102/32e7c6e2-53a8-a09b-6e95-6ba1e74e0ef9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_39/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_39/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c26da242-266e-da37-2e36-dd37d4da94e5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c26da242-266e-da37-2e36-dd37d4da94e5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_39/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_38/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur gebouw van Justitie in Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/32fa5b9b-d865-e2b3-ebe6-c2826b8c93d2\">https://hdl.handle.net/21.12102/32fa5b9b-d865-e2b3-ebe6-c2826b8c93d2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_38/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_38/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2c217f3d-de5f-c713-df24-b9c900c1f18e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2c217f3d-de5f-c713-df24-b9c900c1f18e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_38/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_42/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur gebouw van Justitie in Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5ec58335-c310-ca74-d5df-900a118a4bf3\">https://hdl.handle.net/21.12102/5ec58335-c310-ca74-d5df-900a118a4bf3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_42/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_42/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2c07c149-19c2-9306-7027-265c19c69f8a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2c07c149-19c2-9306-7027-265c19c69f8a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_42/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_41/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur gebouw van Justitie in Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/85598f75-06e2-1166-3c23-d01f93cbd3a1\">https://hdl.handle.net/21.12102/85598f75-06e2-1166-3c23-d01f93cbd3a1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_41/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_41/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/114568c1-67a2-accb-ecfc-090affa70743/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/114568c1-67a2-accb-ecfc-090affa70743",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_41/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_34/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur gebouw van Justitie in Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/baab4d3f-602b-d4ec-52c7-19aa7edda54e\">https://hdl.handle.net/21.12102/baab4d3f-602b-d4ec-52c7-19aa7edda54e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_34/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_34/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/da7de5e5-5bd3-ef4d-154e-01ffc3728c33/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/da7de5e5-5bd3-ef4d-154e-01ffc3728c33",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_34/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_36/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur gebouw van Justitie in Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d8786ee6-ad47-06ed-bf36-81e329a53169\">https://hdl.handle.net/21.12102/d8786ee6-ad47-06ed-bf36-81e329a53169</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_36/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_36/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e7166cd9-1d43-df13-e2ae-2acfd86d8046/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e7166cd9-1d43-df13-e2ae-2acfd86d8046",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_36/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_37/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur gebouw van Justitie in Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f1716a88-f19e-9319-ac80-bf030741881d\">https://hdl.handle.net/21.12102/f1716a88-f19e-9319-ac80-bf030741881d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_37/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_37/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e546db54-3eb1-4586-ee1e-e4104441d233/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e546db54-3eb1-4586-ee1e-e4104441d233",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_37/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Exterieur gebouw van Justitie in Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f8f22b09-aeb9-8689-f2ee-b93173a0bfcf\">https://hdl.handle.net/21.12102/f8f22b09-aeb9-8689-f2ee-b93173a0bfcf</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/672d6a4f-1e48-3869-dc22-956c02242052/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/672d6a4f-1e48-3869-dc22-956c02242052",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4c5c13c-16ca-3719-05de-14989dccf236/NL-HlmNHA_1478_42528K00_35/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

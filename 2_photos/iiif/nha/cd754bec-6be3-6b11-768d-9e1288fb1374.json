@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/cd754bec-6be3-6b11-768d-9e1288fb1374.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Gemaal Halfweg (1976-06-17)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Gemaal Halfweg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1976-06-17"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2367253\">Halfweg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Luchtfoto's Halfweg en Haarlemmerliede"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.755,
+            52.3828
+          ]
+        },
+        "properties": {
+          "title": "Halfweg",
+          "url": "http://www.wikidata.org/entity/Q2367253"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cd754bec-6be3-6b11-768d-9e1288fb1374/NL-HlmNHA_1478_00298L00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Gemaal Halfweg"
+        ]
+      },
+      "height": 2361,
+      "width": 3036,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e0394bd4-d020-a5a4-64bb-6eed1a9341c6\">https://hdl.handle.net/21.12102/e0394bd4-d020-a5a4-64bb-6eed1a9341c6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cd754bec-6be3-6b11-768d-9e1288fb1374/NL-HlmNHA_1478_00298L00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cd754bec-6be3-6b11-768d-9e1288fb1374/NL-HlmNHA_1478_00298L00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/723a012c-3fab-8334-a91c-15938ef98dda/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2361,
+                "width": 3036,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/723a012c-3fab-8334-a91c-15938ef98dda",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cd754bec-6be3-6b11-768d-9e1288fb1374/NL-HlmNHA_1478_00298L00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

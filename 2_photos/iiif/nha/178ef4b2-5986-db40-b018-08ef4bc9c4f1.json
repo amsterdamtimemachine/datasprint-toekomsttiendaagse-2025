@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/178ef4b2-5986-db40-b018-08ef4bc9c4f1.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Nederlands kampioenschap turnen heren 1952 in de Turnhal in Amsterdam: de latere winnaar Klaas Boot jr. tijdens de vrije oefening. (1952-12-07)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Nederlands kampioenschap turnen heren 1952 in de Turnhal in Amsterdam: de latere winnaar Klaas Boot jr. tijdens de vrije oefening."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1952-12-07"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q19354971\">Nieuwe Passeerdersstraat</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.879,
+            52.3665
+          ]
+        },
+        "properties": {
+          "title": "Nieuwe Passeerdersstraat",
+          "url": "http://www.wikidata.org/entity/Q19354971"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/178ef4b2-5986-db40-b018-08ef4bc9c4f1/NL-HlmNHA_1478_00794A01_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Nederlands kampioenschap turnen heren 1952 in de Turnhal in Amsterdam: de latere winnaar Klaas Boot jr. tijdens de vrije oefening."
+        ]
+      },
+      "height": 2614,
+      "width": 2614,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/14658676-6cdd-cc0b-da32-e21c40a5a326\">https://hdl.handle.net/21.12102/14658676-6cdd-cc0b-da32-e21c40a5a326</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/178ef4b2-5986-db40-b018-08ef4bc9c4f1/NL-HlmNHA_1478_00794A01_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/178ef4b2-5986-db40-b018-08ef4bc9c4f1/NL-HlmNHA_1478_00794A01_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/08d8edcd-d073-c4cd-c78f-0e1d196aa2fb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2614,
+                "width": 2614,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/08d8edcd-d073-c4cd-c78f-0e1d196aa2fb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/178ef4b2-5986-db40-b018-08ef4bc9c4f1/NL-HlmNHA_1478_00794A01_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/178ef4b2-5986-db40-b018-08ef4bc9c4f1/NL-HlmNHA_1478_00794A01_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Nederlands kampioenschap turnen heren 1952 in de Turnhal in Amsterdam: de latere winnaar Klaas Boot jr. tijdens de vrije oefening."
+        ]
+      },
+      "height": 2630,
+      "width": 2630,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9577ccaa-3d75-c8fc-b946-6c6e28e2a51b\">https://hdl.handle.net/21.12102/9577ccaa-3d75-c8fc-b946-6c6e28e2a51b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/178ef4b2-5986-db40-b018-08ef4bc9c4f1/NL-HlmNHA_1478_00794A01_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/178ef4b2-5986-db40-b018-08ef4bc9c4f1/NL-HlmNHA_1478_00794A01_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c627607e-75a0-9c79-ea2b-ba9e9d9564e6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2630,
+                "width": 2630,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c627607e-75a0-9c79-ea2b-ba9e9d9564e6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/178ef4b2-5986-db40-b018-08ef4bc9c4f1/NL-HlmNHA_1478_00794A01_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/178ef4b2-5986-db40-b018-08ef4bc9c4f1/NL-HlmNHA_1478_00794A01_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Nederlands kampioenschap turnen heren 1952 in de Turnhal in Amsterdam: de latere winnaar Klaas Boot jr. tijdens de vrije oefening."
+        ]
+      },
+      "height": 2630,
+      "width": 2630,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e20f77bb-7aaf-34e1-18fc-abc9a386526d\">https://hdl.handle.net/21.12102/e20f77bb-7aaf-34e1-18fc-abc9a386526d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/178ef4b2-5986-db40-b018-08ef4bc9c4f1/NL-HlmNHA_1478_00794A01_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/178ef4b2-5986-db40-b018-08ef4bc9c4f1/NL-HlmNHA_1478_00794A01_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d5775308-1618-8572-5e7a-ac110fac97f3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2630,
+                "width": 2630,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d5775308-1618-8572-5e7a-ac110fac97f3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/178ef4b2-5986-db40-b018-08ef4bc9c4f1/NL-HlmNHA_1478_00794A01_05/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

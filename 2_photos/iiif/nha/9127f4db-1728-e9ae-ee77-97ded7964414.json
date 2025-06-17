@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/9127f4db-1728-e9ae-ee77-97ded7964414.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Prof. dr. H.W. van Os, directeur van het Rijksmuseum Amsterdam plus een mevrouw. (1992-10-22)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Prof. dr. H.W. van Os, directeur van het Rijksmuseum Amsterdam plus een mevrouw."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1992-10-22"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9127f4db-1728-e9ae-ee77-97ded7964414/NL-HlmNHA_1478_37196K00_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Prof. dr. H.W. van Os, directeur van het Rijksmuseum Amsterdam plus een mevrouw."
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/22a31ac6-17ba-e4ee-0198-5b3894c7d985\">https://hdl.handle.net/21.12102/22a31ac6-17ba-e4ee-0198-5b3894c7d985</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9127f4db-1728-e9ae-ee77-97ded7964414/NL-HlmNHA_1478_37196K00_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9127f4db-1728-e9ae-ee77-97ded7964414/NL-HlmNHA_1478_37196K00_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/aa6f68e5-07d6-27b1-49a9-f64a41bae8ab/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/aa6f68e5-07d6-27b1-49a9-f64a41bae8ab",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9127f4db-1728-e9ae-ee77-97ded7964414/NL-HlmNHA_1478_37196K00_29/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9127f4db-1728-e9ae-ee77-97ded7964414/NL-HlmNHA_1478_37196K00_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Prof. dr. H.W. van Os, directeur van het Rijksmuseum Amsterdam plus een mevrouw."
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b3b7ef30-948e-b6d3-2c9b-fb845f6d0992\">https://hdl.handle.net/21.12102/b3b7ef30-948e-b6d3-2c9b-fb845f6d0992</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9127f4db-1728-e9ae-ee77-97ded7964414/NL-HlmNHA_1478_37196K00_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9127f4db-1728-e9ae-ee77-97ded7964414/NL-HlmNHA_1478_37196K00_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a8d247be-883e-a8d5-7207-015f887c7bdb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a8d247be-883e-a8d5-7207-015f887c7bdb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9127f4db-1728-e9ae-ee77-97ded7964414/NL-HlmNHA_1478_37196K00_30/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

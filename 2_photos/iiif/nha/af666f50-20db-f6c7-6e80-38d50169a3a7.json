@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/af666f50-20db-f6c7-6e80-38d50169a3a7.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Wegenwacht Badhoevedorp (2002-12-09)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Wegenwacht Badhoevedorp"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2002-12-09"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q568337\">Badhoevedorp</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7803,
+            52.3381
+          ]
+        },
+        "properties": {
+          "title": "Badhoevedorp",
+          "url": "http://www.wikidata.org/entity/Q568337"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af666f50-20db-f6c7-6e80-38d50169a3a7/NL-HlmNHA_1478_51136K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Wegenwacht Badhoevedorp"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3edd41b0-1cc8-320e-4226-9d51ad948889\">https://hdl.handle.net/21.12102/3edd41b0-1cc8-320e-4226-9d51ad948889</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af666f50-20db-f6c7-6e80-38d50169a3a7/NL-HlmNHA_1478_51136K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af666f50-20db-f6c7-6e80-38d50169a3a7/NL-HlmNHA_1478_51136K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/52742e75-b293-183e-96c0-756a222632d0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/52742e75-b293-183e-96c0-756a222632d0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af666f50-20db-f6c7-6e80-38d50169a3a7/NL-HlmNHA_1478_51136K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af666f50-20db-f6c7-6e80-38d50169a3a7/NL-HlmNHA_1478_51136K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Wegenwacht Badhoevedorp"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/580d62dc-00ae-a3dd-54b6-a9216e2397e4\">https://hdl.handle.net/21.12102/580d62dc-00ae-a3dd-54b6-a9216e2397e4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af666f50-20db-f6c7-6e80-38d50169a3a7/NL-HlmNHA_1478_51136K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af666f50-20db-f6c7-6e80-38d50169a3a7/NL-HlmNHA_1478_51136K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d25bc154-4ad4-4381-1c5f-be7695d439c2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d25bc154-4ad4-4381-1c5f-be7695d439c2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af666f50-20db-f6c7-6e80-38d50169a3a7/NL-HlmNHA_1478_51136K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af666f50-20db-f6c7-6e80-38d50169a3a7/NL-HlmNHA_1478_51136K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Wegenwacht Badhoevedorp"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6ca4fd4b-7145-baf8-1fb9-3f8a5d88b060\">https://hdl.handle.net/21.12102/6ca4fd4b-7145-baf8-1fb9-3f8a5d88b060</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af666f50-20db-f6c7-6e80-38d50169a3a7/NL-HlmNHA_1478_51136K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af666f50-20db-f6c7-6e80-38d50169a3a7/NL-HlmNHA_1478_51136K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f4024f56-d93f-4738-82d9-ad2414811953/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f4024f56-d93f-4738-82d9-ad2414811953",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af666f50-20db-f6c7-6e80-38d50169a3a7/NL-HlmNHA_1478_51136K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af666f50-20db-f6c7-6e80-38d50169a3a7/NL-HlmNHA_1478_51136K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Wegenwacht Badhoevedorp"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8338b68b-2231-7e1b-d1f1-7976665290bb\">https://hdl.handle.net/21.12102/8338b68b-2231-7e1b-d1f1-7976665290bb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af666f50-20db-f6c7-6e80-38d50169a3a7/NL-HlmNHA_1478_51136K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af666f50-20db-f6c7-6e80-38d50169a3a7/NL-HlmNHA_1478_51136K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/85992275-60aa-f2ea-374a-482d8a2e87dc/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/85992275-60aa-f2ea-374a-482d8a2e87dc",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af666f50-20db-f6c7-6e80-38d50169a3a7/NL-HlmNHA_1478_51136K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af666f50-20db-f6c7-6e80-38d50169a3a7/NL-HlmNHA_1478_51136K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Wegenwacht Badhoevedorp"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/dc72ed49-1d02-fae0-f08c-c71d5909bd73\">https://hdl.handle.net/21.12102/dc72ed49-1d02-fae0-f08c-c71d5909bd73</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af666f50-20db-f6c7-6e80-38d50169a3a7/NL-HlmNHA_1478_51136K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af666f50-20db-f6c7-6e80-38d50169a3a7/NL-HlmNHA_1478_51136K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/bcdbc833-d79d-45fb-55b5-8b015e65c061/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/bcdbc833-d79d-45fb-55b5-8b015e65c061",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af666f50-20db-f6c7-6e80-38d50169a3a7/NL-HlmNHA_1478_51136K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af666f50-20db-f6c7-6e80-38d50169a3a7/NL-HlmNHA_1478_51136K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Wegenwacht Badhoevedorp"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e91cd496-129a-20f3-2b72-0818795f76be\">https://hdl.handle.net/21.12102/e91cd496-129a-20f3-2b72-0818795f76be</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af666f50-20db-f6c7-6e80-38d50169a3a7/NL-HlmNHA_1478_51136K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af666f50-20db-f6c7-6e80-38d50169a3a7/NL-HlmNHA_1478_51136K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/bcf86640-ca22-8942-091b-96bf3d2f1435/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/bcf86640-ca22-8942-091b-96bf3d2f1435",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/af666f50-20db-f6c7-6e80-38d50169a3a7/NL-HlmNHA_1478_51136K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

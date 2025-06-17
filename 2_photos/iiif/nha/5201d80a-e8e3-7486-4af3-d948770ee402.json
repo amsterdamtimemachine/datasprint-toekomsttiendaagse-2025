@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/5201d80a-e8e3-7486-4af3-d948770ee402.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Tekst \"Negatief bij A.P. Bram Wieman\" (1955-01-15)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Tekst \"Negatief bij A.P. Bram Wieman\""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1955-01-15"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5201d80a-e8e3-7486-4af3-d948770ee402/NL-HlmNHA_1478_01209A03_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tekst \"Negatief bij A.P. Bram Wieman\""
+        ]
+      },
+      "height": 6049,
+      "width": 4640,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0e5325df-f36d-6256-69c6-c0e99bc00e55\">https://hdl.handle.net/21.12102/0e5325df-f36d-6256-69c6-c0e99bc00e55</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5201d80a-e8e3-7486-4af3-d948770ee402/NL-HlmNHA_1478_01209A03_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5201d80a-e8e3-7486-4af3-d948770ee402/NL-HlmNHA_1478_01209A03_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/30bf680a-b535-cad0-3746-685c198cbb05/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 6049,
+                "width": 4640,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/30bf680a-b535-cad0-3746-685c198cbb05",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5201d80a-e8e3-7486-4af3-d948770ee402/NL-HlmNHA_1478_01209A03_04/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

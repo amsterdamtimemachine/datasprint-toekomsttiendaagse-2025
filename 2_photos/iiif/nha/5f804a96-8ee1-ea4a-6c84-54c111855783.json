@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/5f804a96-8ee1-ea4a-6c84-54c111855783.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Nieuwe rotonde, Basisweg, haven Amsterdam (1995-11-10)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Nieuwe rotonde, Basisweg, haven Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1995-11-10"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q13435999\">Basisweg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.828333,
+            52.391611
+          ]
+        },
+        "properties": {
+          "title": "Basisweg",
+          "url": "http://www.wikidata.org/entity/Q13435999"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f804a96-8ee1-ea4a-6c84-54c111855783/NL-HlmNHA_1478_42009K00_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Nieuwe rotonde, Basisweg, haven Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4b32d38e-4903-f70e-9b84-2c3a69b768ee\">https://hdl.handle.net/21.12102/4b32d38e-4903-f70e-9b84-2c3a69b768ee</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f804a96-8ee1-ea4a-6c84-54c111855783/NL-HlmNHA_1478_42009K00_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f804a96-8ee1-ea4a-6c84-54c111855783/NL-HlmNHA_1478_42009K00_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/81422009-e74f-de60-a864-609d3b339b35/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/81422009-e74f-de60-a864-609d3b339b35",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f804a96-8ee1-ea4a-6c84-54c111855783/NL-HlmNHA_1478_42009K00_35/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f804a96-8ee1-ea4a-6c84-54c111855783/NL-HlmNHA_1478_42009K00_34/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Nieuwe rotonde, Basisweg, haven Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/654c7284-c40e-41c2-da1d-70b5702ab040\">https://hdl.handle.net/21.12102/654c7284-c40e-41c2-da1d-70b5702ab040</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f804a96-8ee1-ea4a-6c84-54c111855783/NL-HlmNHA_1478_42009K00_34/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f804a96-8ee1-ea4a-6c84-54c111855783/NL-HlmNHA_1478_42009K00_34/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/43493f05-ea11-f71a-7869-4f48d02b3752/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/43493f05-ea11-f71a-7869-4f48d02b3752",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f804a96-8ee1-ea4a-6c84-54c111855783/NL-HlmNHA_1478_42009K00_34/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f804a96-8ee1-ea4a-6c84-54c111855783/NL-HlmNHA_1478_42009K00_32/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Nieuwe rotonde, Basisweg, haven Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/71d2fff7-0c50-a10e-fae1-e1d1b99f63ce\">https://hdl.handle.net/21.12102/71d2fff7-0c50-a10e-fae1-e1d1b99f63ce</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f804a96-8ee1-ea4a-6c84-54c111855783/NL-HlmNHA_1478_42009K00_32/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f804a96-8ee1-ea4a-6c84-54c111855783/NL-HlmNHA_1478_42009K00_32/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f5dbdd08-d3d4-5459-b16d-fbb741e86753/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f5dbdd08-d3d4-5459-b16d-fbb741e86753",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f804a96-8ee1-ea4a-6c84-54c111855783/NL-HlmNHA_1478_42009K00_32/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f804a96-8ee1-ea4a-6c84-54c111855783/NL-HlmNHA_1478_42009K00_33/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Nieuwe rotonde, Basisweg, haven Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7de29074-2b9b-8702-9af8-cdc2683bea37\">https://hdl.handle.net/21.12102/7de29074-2b9b-8702-9af8-cdc2683bea37</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f804a96-8ee1-ea4a-6c84-54c111855783/NL-HlmNHA_1478_42009K00_33/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f804a96-8ee1-ea4a-6c84-54c111855783/NL-HlmNHA_1478_42009K00_33/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e2e7dedc-063c-60c5-58b0-549bf6a01c87/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e2e7dedc-063c-60c5-58b0-549bf6a01c87",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f804a96-8ee1-ea4a-6c84-54c111855783/NL-HlmNHA_1478_42009K00_33/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f804a96-8ee1-ea4a-6c84-54c111855783/NL-HlmNHA_1478_42009K00_31/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Nieuwe rotonde, Basisweg, haven Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9b4251b2-8248-eebf-eba1-dc7b113e8892\">https://hdl.handle.net/21.12102/9b4251b2-8248-eebf-eba1-dc7b113e8892</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f804a96-8ee1-ea4a-6c84-54c111855783/NL-HlmNHA_1478_42009K00_31/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f804a96-8ee1-ea4a-6c84-54c111855783/NL-HlmNHA_1478_42009K00_31/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b2ccfa13-25bb-99b0-1eb5-af3f3cb0b1db/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b2ccfa13-25bb-99b0-1eb5-af3f3cb0b1db",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f804a96-8ee1-ea4a-6c84-54c111855783/NL-HlmNHA_1478_42009K00_31/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f804a96-8ee1-ea4a-6c84-54c111855783/NL-HlmNHA_1478_42009K00_36/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Nieuwe rotonde, Basisweg, haven Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a4df0b89-ceab-979d-d1a4-2e1d9a2c7051\">https://hdl.handle.net/21.12102/a4df0b89-ceab-979d-d1a4-2e1d9a2c7051</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f804a96-8ee1-ea4a-6c84-54c111855783/NL-HlmNHA_1478_42009K00_36/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f804a96-8ee1-ea4a-6c84-54c111855783/NL-HlmNHA_1478_42009K00_36/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/148cb587-2a93-e6ec-7e70-c3fd1421bea6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/148cb587-2a93-e6ec-7e70-c3fd1421bea6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f804a96-8ee1-ea4a-6c84-54c111855783/NL-HlmNHA_1478_42009K00_36/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

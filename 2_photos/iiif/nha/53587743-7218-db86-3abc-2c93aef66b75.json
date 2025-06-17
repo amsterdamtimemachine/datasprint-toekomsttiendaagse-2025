@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/53587743-7218-db86-3abc-2c93aef66b75.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Afscheid tram Amsterdam (1957-08-31)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Afscheid tram Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1957-08-31"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Noord Zuid Hollandse Vervoersmaatschappij N.V., NZH, Tram"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/61593, http://data.beeldengeluid.nl/gtaa/27783"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53587743-7218-db86-3abc-2c93aef66b75/NL-HlmNHA_1478_14904B01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Afscheid tram Amsterdam"
+        ]
+      },
+      "height": 2723,
+      "width": 2176,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/710d3f76-4238-8889-395d-16e1505722ba\">https://hdl.handle.net/21.12102/710d3f76-4238-8889-395d-16e1505722ba</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53587743-7218-db86-3abc-2c93aef66b75/NL-HlmNHA_1478_14904B01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53587743-7218-db86-3abc-2c93aef66b75/NL-HlmNHA_1478_14904B01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3847d9a3-be49-e3df-ee07-5d8299385fa3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2723,
+                "width": 2176,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3847d9a3-be49-e3df-ee07-5d8299385fa3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53587743-7218-db86-3abc-2c93aef66b75/NL-HlmNHA_1478_14904B01_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53587743-7218-db86-3abc-2c93aef66b75/NL-HlmNHA_1478_14904B02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Afscheid tram Amsterdam"
+        ]
+      },
+      "height": 2189,
+      "width": 2872,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b259ba85-c838-1f29-5c26-a9d14f82f856\">https://hdl.handle.net/21.12102/b259ba85-c838-1f29-5c26-a9d14f82f856</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53587743-7218-db86-3abc-2c93aef66b75/NL-HlmNHA_1478_14904B02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53587743-7218-db86-3abc-2c93aef66b75/NL-HlmNHA_1478_14904B02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/35d09e1f-0286-f687-7b99-8ae9b0dccfb3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2189,
+                "width": 2872,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/35d09e1f-0286-f687-7b99-8ae9b0dccfb3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/53587743-7218-db86-3abc-2c93aef66b75/NL-HlmNHA_1478_14904B02_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

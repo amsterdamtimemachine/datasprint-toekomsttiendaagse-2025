@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/c1e09898-a36c-1aa4-f36e-a1a8203ba9cd.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Judith groenhout Hertz: Schiphol (1990-02-14)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Judith groenhout Hertz: Schiphol"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1990-02-14"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Schiphol"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1e09898-a36c-1aa4-f36e-a1a8203ba9cd/NL-HlmNHA_1478_31904K00_36/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Judith groenhout Hertz: Schiphol"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/451b68a4-5586-c47c-5221-c4d14412035d\">https://hdl.handle.net/21.12102/451b68a4-5586-c47c-5221-c4d14412035d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1e09898-a36c-1aa4-f36e-a1a8203ba9cd/NL-HlmNHA_1478_31904K00_36/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1e09898-a36c-1aa4-f36e-a1a8203ba9cd/NL-HlmNHA_1478_31904K00_36/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e469cefe-4c75-c41b-a49d-855e2261f669/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e469cefe-4c75-c41b-a49d-855e2261f669",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1e09898-a36c-1aa4-f36e-a1a8203ba9cd/NL-HlmNHA_1478_31904K00_36/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1e09898-a36c-1aa4-f36e-a1a8203ba9cd/NL-HlmNHA_1478_31904K00_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Judith groenhout Hertz: Schiphol"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/752f7425-3ccc-d9a7-6a34-0cfe757e6473\">https://hdl.handle.net/21.12102/752f7425-3ccc-d9a7-6a34-0cfe757e6473</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1e09898-a36c-1aa4-f36e-a1a8203ba9cd/NL-HlmNHA_1478_31904K00_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1e09898-a36c-1aa4-f36e-a1a8203ba9cd/NL-HlmNHA_1478_31904K00_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/899fdc36-4bcf-7604-0a51-14b61b4a34af/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/899fdc36-4bcf-7604-0a51-14b61b4a34af",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1e09898-a36c-1aa4-f36e-a1a8203ba9cd/NL-HlmNHA_1478_31904K00_35/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1e09898-a36c-1aa4-f36e-a1a8203ba9cd/NL-HlmNHA_1478_31904K00_34/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Judith groenhout Hertz: Schiphol"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f2e70d66-fe97-1c1b-6ed0-3497a2780f14\">https://hdl.handle.net/21.12102/f2e70d66-fe97-1c1b-6ed0-3497a2780f14</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1e09898-a36c-1aa4-f36e-a1a8203ba9cd/NL-HlmNHA_1478_31904K00_34/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1e09898-a36c-1aa4-f36e-a1a8203ba9cd/NL-HlmNHA_1478_31904K00_34/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/518db309-6a58-5d12-3a91-330cd76c63a7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/518db309-6a58-5d12-3a91-330cd76c63a7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c1e09898-a36c-1aa4-f36e-a1a8203ba9cd/NL-HlmNHA_1478_31904K00_34/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

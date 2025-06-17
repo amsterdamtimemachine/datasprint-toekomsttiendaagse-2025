@@ -1,0 +1,626 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/2ea520aa-e549-8db1-54dd-0bfafa090222.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Vogeltjes tentoonstelling Zwanenburg (1984-11-17)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Vogeltjes tentoonstelling Zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1984-11-17"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Tentoonstellingen, Vogels"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/27108, http://data.beeldengeluid.nl/gtaa/27822"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_33/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vogeltjes tentoonstelling Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3d55b8df-99b1-d066-1357-dd9f8efbe59b\">https://hdl.handle.net/21.12102/3d55b8df-99b1-d066-1357-dd9f8efbe59b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_33/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_33/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9f4ac43f-c6d5-df4b-c100-664b0aae5afb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9f4ac43f-c6d5-df4b-c100-664b0aae5afb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_33/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_27/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vogeltjes tentoonstelling Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/41e00ce9-dd75-d770-aaf7-62b66b991431\">https://hdl.handle.net/21.12102/41e00ce9-dd75-d770-aaf7-62b66b991431</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_27/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_27/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b336c569-0139-73c2-393e-12e59036207f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b336c569-0139-73c2-393e-12e59036207f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_27/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_32/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vogeltjes tentoonstelling Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4f748363-3386-3e0e-cb8f-7824961b9f41\">https://hdl.handle.net/21.12102/4f748363-3386-3e0e-cb8f-7824961b9f41</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_32/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_32/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b7c7c59a-54f8-9f95-12f2-d7a20f1be98c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b7c7c59a-54f8-9f95-12f2-d7a20f1be98c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_32/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_28/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vogeltjes tentoonstelling Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6dc2f308-0513-c432-7762-ec096c0ea284\">https://hdl.handle.net/21.12102/6dc2f308-0513-c432-7762-ec096c0ea284</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_28/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_28/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6e2d880a-2030-dd10-f2cc-af2955f0b89a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6e2d880a-2030-dd10-f2cc-af2955f0b89a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_28/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_34/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vogeltjes tentoonstelling Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7ac292d4-453c-3d45-b49a-27862ce91d6f\">https://hdl.handle.net/21.12102/7ac292d4-453c-3d45-b49a-27862ce91d6f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_34/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_34/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/84b784ca-fff9-feb9-f771-91904afc6503/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/84b784ca-fff9-feb9-f771-91904afc6503",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_34/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vogeltjes tentoonstelling Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7d170172-19dc-dda7-1fca-9d1f56a7bb09\">https://hdl.handle.net/21.12102/7d170172-19dc-dda7-1fca-9d1f56a7bb09</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/dd8b6a13-5557-6798-e8d4-f7bfc321886f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/dd8b6a13-5557-6798-e8d4-f7bfc321886f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_29/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vogeltjes tentoonstelling Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/98d35137-75b4-e571-240c-0bb326bca83c\">https://hdl.handle.net/21.12102/98d35137-75b4-e571-240c-0bb326bca83c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b16cef21-a615-69a5-62df-074cf0239236/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b16cef21-a615-69a5-62df-074cf0239236",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_30/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_26/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vogeltjes tentoonstelling Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c64988e1-ca9d-25bf-941f-5cde07338bf5\">https://hdl.handle.net/21.12102/c64988e1-ca9d-25bf-941f-5cde07338bf5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_26/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_26/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1d8d2680-d517-24f3-ed8b-b615e6c478d3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1d8d2680-d517-24f3-ed8b-b615e6c478d3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_26/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_31/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vogeltjes tentoonstelling Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f1b5c953-9122-0e31-320e-6363b11a9738\">https://hdl.handle.net/21.12102/f1b5c953-9122-0e31-320e-6363b11a9738</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_31/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_31/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a75984f0-0654-206d-60a9-19b2cca6248e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a75984f0-0654-206d-60a9-19b2cca6248e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_31/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_25/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vogeltjes tentoonstelling Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f4bbd845-19bd-b95e-872a-798eef343789\">https://hdl.handle.net/21.12102/f4bbd845-19bd-b95e-872a-798eef343789</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_25/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_25/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/166558bf-bca3-6da3-3868-bcd42ce15233/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/166558bf-bca3-6da3-3868-bcd42ce15233",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ea520aa-e549-8db1-54dd-0bfafa090222/NL-HlmNHA_1478_24655K00_25/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

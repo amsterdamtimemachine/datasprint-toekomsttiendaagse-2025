@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/d7eacf1f-16b9-025c-49c5-b0c0dd872ddd.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Ext. hotel Zwanenburg (1992-08-27)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Ext. hotel Zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1992-08-27"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d7eacf1f-16b9-025c-49c5-b0c0dd872ddd/NL-HlmNHA_1478_36884K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ext. hotel Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4726bcec-f0c8-14d2-5dc9-e3abdaf50034\">https://hdl.handle.net/21.12102/4726bcec-f0c8-14d2-5dc9-e3abdaf50034</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d7eacf1f-16b9-025c-49c5-b0c0dd872ddd/NL-HlmNHA_1478_36884K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d7eacf1f-16b9-025c-49c5-b0c0dd872ddd/NL-HlmNHA_1478_36884K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d0cf6cea-9043-eb11-da45-a566decb7616/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d0cf6cea-9043-eb11-da45-a566decb7616",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d7eacf1f-16b9-025c-49c5-b0c0dd872ddd/NL-HlmNHA_1478_36884K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d7eacf1f-16b9-025c-49c5-b0c0dd872ddd/NL-HlmNHA_1478_36884K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ext. hotel Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5ecca916-45bf-ee17-cc9f-ae0b327b5e8b\">https://hdl.handle.net/21.12102/5ecca916-45bf-ee17-cc9f-ae0b327b5e8b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d7eacf1f-16b9-025c-49c5-b0c0dd872ddd/NL-HlmNHA_1478_36884K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d7eacf1f-16b9-025c-49c5-b0c0dd872ddd/NL-HlmNHA_1478_36884K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/17070c05-5d4b-a160-61bc-d8f84bf3daae/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/17070c05-5d4b-a160-61bc-d8f84bf3daae",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d7eacf1f-16b9-025c-49c5-b0c0dd872ddd/NL-HlmNHA_1478_36884K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d7eacf1f-16b9-025c-49c5-b0c0dd872ddd/NL-HlmNHA_1478_36884K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ext. hotel Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9260fe37-5777-a537-41f0-37d4e9cb3704\">https://hdl.handle.net/21.12102/9260fe37-5777-a537-41f0-37d4e9cb3704</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d7eacf1f-16b9-025c-49c5-b0c0dd872ddd/NL-HlmNHA_1478_36884K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d7eacf1f-16b9-025c-49c5-b0c0dd872ddd/NL-HlmNHA_1478_36884K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/159c8e5d-bfd5-bece-45ad-d12191ac98a1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/159c8e5d-bfd5-bece-45ad-d12191ac98a1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d7eacf1f-16b9-025c-49c5-b0c0dd872ddd/NL-HlmNHA_1478_36884K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d7eacf1f-16b9-025c-49c5-b0c0dd872ddd/NL-HlmNHA_1478_36884K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ext. hotel Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a99170bd-438e-0ce8-c9ea-69f3b2c6e36e\">https://hdl.handle.net/21.12102/a99170bd-438e-0ce8-c9ea-69f3b2c6e36e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d7eacf1f-16b9-025c-49c5-b0c0dd872ddd/NL-HlmNHA_1478_36884K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d7eacf1f-16b9-025c-49c5-b0c0dd872ddd/NL-HlmNHA_1478_36884K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/dda4e340-f0bf-c645-31a7-b24a65892539/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/dda4e340-f0bf-c645-31a7-b24a65892539",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d7eacf1f-16b9-025c-49c5-b0c0dd872ddd/NL-HlmNHA_1478_36884K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d7eacf1f-16b9-025c-49c5-b0c0dd872ddd/NL-HlmNHA_1478_36884K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ext. hotel Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/bfd5c37f-c20f-4f70-95d9-23773f03a087\">https://hdl.handle.net/21.12102/bfd5c37f-c20f-4f70-95d9-23773f03a087</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d7eacf1f-16b9-025c-49c5-b0c0dd872ddd/NL-HlmNHA_1478_36884K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d7eacf1f-16b9-025c-49c5-b0c0dd872ddd/NL-HlmNHA_1478_36884K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2949eb57-de8d-2b1b-58a3-1ac3947061a6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2949eb57-de8d-2b1b-58a3-1ac3947061a6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d7eacf1f-16b9-025c-49c5-b0c0dd872ddd/NL-HlmNHA_1478_36884K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

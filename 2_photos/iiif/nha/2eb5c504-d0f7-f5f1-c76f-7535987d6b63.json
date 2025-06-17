@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/2eb5c504-d0f7-f5f1-c76f-7535987d6b63.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Overslag kranen Amsterdam (1982-03-02)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Overslag kranen Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1982-03-02"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Kranen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/28295"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2eb5c504-d0f7-f5f1-c76f-7535987d6b63/NL-HlmNHA_1478_21654K00_21/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Overslag kranen Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/28fea8fd-241f-28c2-facd-4960c1409a28\">https://hdl.handle.net/21.12102/28fea8fd-241f-28c2-facd-4960c1409a28</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2eb5c504-d0f7-f5f1-c76f-7535987d6b63/NL-HlmNHA_1478_21654K00_21/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2eb5c504-d0f7-f5f1-c76f-7535987d6b63/NL-HlmNHA_1478_21654K00_21/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4db199fd-ab65-af78-3833-2f3954f113a3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4db199fd-ab65-af78-3833-2f3954f113a3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2eb5c504-d0f7-f5f1-c76f-7535987d6b63/NL-HlmNHA_1478_21654K00_21/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2eb5c504-d0f7-f5f1-c76f-7535987d6b63/NL-HlmNHA_1478_21654K00_22/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Overslag kranen Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2a22da7d-b6b1-1813-747a-18e8445f00fb\">https://hdl.handle.net/21.12102/2a22da7d-b6b1-1813-747a-18e8445f00fb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2eb5c504-d0f7-f5f1-c76f-7535987d6b63/NL-HlmNHA_1478_21654K00_22/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2eb5c504-d0f7-f5f1-c76f-7535987d6b63/NL-HlmNHA_1478_21654K00_22/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/840d7d72-b0c8-0c8c-58f7-df46f94ff1a2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/840d7d72-b0c8-0c8c-58f7-df46f94ff1a2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2eb5c504-d0f7-f5f1-c76f-7535987d6b63/NL-HlmNHA_1478_21654K00_22/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2eb5c504-d0f7-f5f1-c76f-7535987d6b63/NL-HlmNHA_1478_21654K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Overslag kranen Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7dda18b5-d610-0df2-d58b-5dc65bad43aa\">https://hdl.handle.net/21.12102/7dda18b5-d610-0df2-d58b-5dc65bad43aa</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2eb5c504-d0f7-f5f1-c76f-7535987d6b63/NL-HlmNHA_1478_21654K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2eb5c504-d0f7-f5f1-c76f-7535987d6b63/NL-HlmNHA_1478_21654K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4d99923f-23c5-7540-8a5a-ff590cea6568/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4d99923f-23c5-7540-8a5a-ff590cea6568",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2eb5c504-d0f7-f5f1-c76f-7535987d6b63/NL-HlmNHA_1478_21654K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2eb5c504-d0f7-f5f1-c76f-7535987d6b63/NL-HlmNHA_1478_21654K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Overslag kranen Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/aaa3cc3e-6e8c-8b68-0e28-f53a675fe5d7\">https://hdl.handle.net/21.12102/aaa3cc3e-6e8c-8b68-0e28-f53a675fe5d7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2eb5c504-d0f7-f5f1-c76f-7535987d6b63/NL-HlmNHA_1478_21654K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2eb5c504-d0f7-f5f1-c76f-7535987d6b63/NL-HlmNHA_1478_21654K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b780fac8-cb25-a96b-9326-c32f8609c4a5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b780fac8-cb25-a96b-9326-c32f8609c4a5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2eb5c504-d0f7-f5f1-c76f-7535987d6b63/NL-HlmNHA_1478_21654K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2eb5c504-d0f7-f5f1-c76f-7535987d6b63/NL-HlmNHA_1478_21654K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Overslag kranen Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/be2b3030-5f98-2154-8531-8f726075eb0b\">https://hdl.handle.net/21.12102/be2b3030-5f98-2154-8531-8f726075eb0b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2eb5c504-d0f7-f5f1-c76f-7535987d6b63/NL-HlmNHA_1478_21654K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2eb5c504-d0f7-f5f1-c76f-7535987d6b63/NL-HlmNHA_1478_21654K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b33d805a-a26d-ba7e-e878-5fa032bb8ec2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b33d805a-a26d-ba7e-e878-5fa032bb8ec2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2eb5c504-d0f7-f5f1-c76f-7535987d6b63/NL-HlmNHA_1478_21654K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

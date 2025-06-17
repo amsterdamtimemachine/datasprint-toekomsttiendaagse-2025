@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/a11e04b3-2b5a-4c47-8602-b2de9c214da3.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Neelie Smit-Kroes opent tentoonstelling 400 jaar loodswezen door hijsen loodsvlag, Museum 't Kromhout, Amsterdam. (1990-07-26)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Neelie Smit-Kroes opent tentoonstelling 400 jaar loodswezen door hijsen loodsvlag, Museum 't Kromhout, Amsterdam."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1990-07-26"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q7476407\">Hoogte Kadijk</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.91778,
+            52.36861
+          ]
+        },
+        "properties": {
+          "title": "Hoogte Kadijk",
+          "url": "http://www.wikidata.org/entity/Q7476407"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a11e04b3-2b5a-4c47-8602-b2de9c214da3/NL-HlmNHA_1478_32725K00_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Neelie Smit-Kroes opent tentoonstelling 400 jaar loodswezen door hijsen loodsvlag, Museum 't Kromhout, Amsterdam."
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/49909e5f-fc7b-f8d4-3477-b4898732b206\">https://hdl.handle.net/21.12102/49909e5f-fc7b-f8d4-3477-b4898732b206</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a11e04b3-2b5a-4c47-8602-b2de9c214da3/NL-HlmNHA_1478_32725K00_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a11e04b3-2b5a-4c47-8602-b2de9c214da3/NL-HlmNHA_1478_32725K00_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/cbe5abb2-02bd-8732-d2b7-75e18aa3f31b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/cbe5abb2-02bd-8732-d2b7-75e18aa3f31b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a11e04b3-2b5a-4c47-8602-b2de9c214da3/NL-HlmNHA_1478_32725K00_12/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

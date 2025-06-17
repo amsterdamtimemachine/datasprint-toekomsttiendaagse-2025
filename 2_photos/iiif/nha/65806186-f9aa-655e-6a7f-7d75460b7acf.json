@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/65806186-f9aa-655e-6a7f-7d75460b7acf.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Moza\u00efek voor Vroom en Dreesmann, Amsterdam (1953-06)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Moza\u00efek voor Vroom en Dreesmann, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1953-06"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Molkenboer A., Dreef 42 Haarlem"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/65806186-f9aa-655e-6a7f-7d75460b7acf/NL-HlmNHA_1478_08833B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Moza\u00efek voor Vroom en Dreesmann, Amsterdam"
+        ]
+      },
+      "height": 2674,
+      "width": 2094,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8029ca12-c2f0-95b9-0b25-17ae07372740\">https://hdl.handle.net/21.12102/8029ca12-c2f0-95b9-0b25-17ae07372740</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/65806186-f9aa-655e-6a7f-7d75460b7acf/NL-HlmNHA_1478_08833B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/65806186-f9aa-655e-6a7f-7d75460b7acf/NL-HlmNHA_1478_08833B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e6ff4ef1-fb96-64ae-1ef5-522d54de8ea7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2674,
+                "width": 2094,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e6ff4ef1-fb96-64ae-1ef5-522d54de8ea7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/65806186-f9aa-655e-6a7f-7d75460b7acf/NL-HlmNHA_1478_08833B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

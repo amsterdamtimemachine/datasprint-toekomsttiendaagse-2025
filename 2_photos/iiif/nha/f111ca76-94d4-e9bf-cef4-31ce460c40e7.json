@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/f111ca76-94d4-e9bf-cef4-31ce460c40e7.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Luchtfoto's Schiphol (1998-02-17)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Luchtfoto's Schiphol"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1998-02-17"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q1614044\">Schiphol-Rijk</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7567,
+            52.28
+          ]
+        },
+        "properties": {
+          "title": "Schiphol-Rijk",
+          "url": "http://www.wikidata.org/entity/Q1614044"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f111ca76-94d4-e9bf-cef4-31ce460c40e7/NL-HlmNHA_1478_04809AC00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Luchtfoto's Schiphol"
+        ]
+      },
+      "height": 4735,
+      "width": 5940,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2300a66a-dd4f-18d3-30e6-c9331690b03d\">https://hdl.handle.net/21.12102/2300a66a-dd4f-18d3-30e6-c9331690b03d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f111ca76-94d4-e9bf-cef4-31ce460c40e7/NL-HlmNHA_1478_04809AC00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f111ca76-94d4-e9bf-cef4-31ce460c40e7/NL-HlmNHA_1478_04809AC00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/df0834b2-7cb4-1076-5fa7-ab2b5d390424/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4735,
+                "width": 5940,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/df0834b2-7cb4-1076-5fa7-ab2b5d390424",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f111ca76-94d4-e9bf-cef4-31ce460c40e7/NL-HlmNHA_1478_04809AC00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f111ca76-94d4-e9bf-cef4-31ce460c40e7/NL-HlmNHA_1478_04809AC00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Luchtfoto's Schiphol"
+        ]
+      },
+      "height": 4735,
+      "width": 5940,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e0cf8a1e-c26c-ea8b-eab2-70b300334c2f\">https://hdl.handle.net/21.12102/e0cf8a1e-c26c-ea8b-eab2-70b300334c2f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f111ca76-94d4-e9bf-cef4-31ce460c40e7/NL-HlmNHA_1478_04809AC00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f111ca76-94d4-e9bf-cef4-31ce460c40e7/NL-HlmNHA_1478_04809AC00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1694d9e9-fcc8-22cc-6d64-47b7625a5d1c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4735,
+                "width": 5940,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1694d9e9-fcc8-22cc-6d64-47b7625a5d1c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f111ca76-94d4-e9bf-cef4-31ce460c40e7/NL-HlmNHA_1478_04809AC00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f111ca76-94d4-e9bf-cef4-31ce460c40e7/NL-HlmNHA_1478_04809AC00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Luchtfoto's Schiphol"
+        ]
+      },
+      "height": 4735,
+      "width": 5940,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f0e84748-8db2-1d34-ee88-a478dc01e21b\">https://hdl.handle.net/21.12102/f0e84748-8db2-1d34-ee88-a478dc01e21b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f111ca76-94d4-e9bf-cef4-31ce460c40e7/NL-HlmNHA_1478_04809AC00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f111ca76-94d4-e9bf-cef4-31ce460c40e7/NL-HlmNHA_1478_04809AC00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/91626980-1c1d-ca69-3ed1-8bc51bd04334/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4735,
+                "width": 5940,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/91626980-1c1d-ca69-3ed1-8bc51bd04334",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f111ca76-94d4-e9bf-cef4-31ce460c40e7/NL-HlmNHA_1478_04809AC00_03/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

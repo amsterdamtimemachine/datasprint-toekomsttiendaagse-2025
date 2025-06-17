@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/f45b067e-5488-deb1-2111-95cdfd5714a9.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Stoel van Phillipe Starck, Amsterdam (1987-05-19)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Stoel van Phillipe Starck, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1987-05-19"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Meubelen, meubels"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f45b067e-5488-deb1-2111-95cdfd5714a9/NL-HlmNHA_1478_27655K00_38/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Stoel van Phillipe Starck, Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/185da25c-4668-cfc7-3901-de8447f35a82\">https://hdl.handle.net/21.12102/185da25c-4668-cfc7-3901-de8447f35a82</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f45b067e-5488-deb1-2111-95cdfd5714a9/NL-HlmNHA_1478_27655K00_38/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f45b067e-5488-deb1-2111-95cdfd5714a9/NL-HlmNHA_1478_27655K00_38/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a886eeaf-5d0f-5e4c-e17c-f407772409d4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a886eeaf-5d0f-5e4c-e17c-f407772409d4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f45b067e-5488-deb1-2111-95cdfd5714a9/NL-HlmNHA_1478_27655K00_38/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f45b067e-5488-deb1-2111-95cdfd5714a9/NL-HlmNHA_1478_27655K00_34/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Stoel van Phillipe Starck, Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2378141f-b254-1fec-1a0f-8ed9bbb64008\">https://hdl.handle.net/21.12102/2378141f-b254-1fec-1a0f-8ed9bbb64008</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f45b067e-5488-deb1-2111-95cdfd5714a9/NL-HlmNHA_1478_27655K00_34/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f45b067e-5488-deb1-2111-95cdfd5714a9/NL-HlmNHA_1478_27655K00_34/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/391a474b-96c7-bc19-be9b-298ca538d5ae/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/391a474b-96c7-bc19-be9b-298ca538d5ae",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f45b067e-5488-deb1-2111-95cdfd5714a9/NL-HlmNHA_1478_27655K00_34/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f45b067e-5488-deb1-2111-95cdfd5714a9/NL-HlmNHA_1478_27655K00_37/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Stoel van Phillipe Starck, Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2f83034a-b20c-1cb4-e441-1b3996fac7b8\">https://hdl.handle.net/21.12102/2f83034a-b20c-1cb4-e441-1b3996fac7b8</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f45b067e-5488-deb1-2111-95cdfd5714a9/NL-HlmNHA_1478_27655K00_37/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f45b067e-5488-deb1-2111-95cdfd5714a9/NL-HlmNHA_1478_27655K00_37/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ce283b59-2625-9e79-0d88-18a6a9cccc38/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ce283b59-2625-9e79-0d88-18a6a9cccc38",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f45b067e-5488-deb1-2111-95cdfd5714a9/NL-HlmNHA_1478_27655K00_37/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f45b067e-5488-deb1-2111-95cdfd5714a9/NL-HlmNHA_1478_27655K00_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Stoel van Phillipe Starck, Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/cccc9b6a-842d-0302-65d0-9059b1f69b78\">https://hdl.handle.net/21.12102/cccc9b6a-842d-0302-65d0-9059b1f69b78</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f45b067e-5488-deb1-2111-95cdfd5714a9/NL-HlmNHA_1478_27655K00_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f45b067e-5488-deb1-2111-95cdfd5714a9/NL-HlmNHA_1478_27655K00_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c99c9e3c-1af5-0671-4db0-1fb81c05e1c8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c99c9e3c-1af5-0671-4db0-1fb81c05e1c8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f45b067e-5488-deb1-2111-95cdfd5714a9/NL-HlmNHA_1478_27655K00_35/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f45b067e-5488-deb1-2111-95cdfd5714a9/NL-HlmNHA_1478_27655K00_36/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Stoel van Phillipe Starck, Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d6ad86d2-8f7d-bd94-1e93-5be6752a96de\">https://hdl.handle.net/21.12102/d6ad86d2-8f7d-bd94-1e93-5be6752a96de</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f45b067e-5488-deb1-2111-95cdfd5714a9/NL-HlmNHA_1478_27655K00_36/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f45b067e-5488-deb1-2111-95cdfd5714a9/NL-HlmNHA_1478_27655K00_36/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/deed9dfd-a15c-2618-69f7-77d198c38a99/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/deed9dfd-a15c-2618-69f7-77d198c38a99",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f45b067e-5488-deb1-2111-95cdfd5714a9/NL-HlmNHA_1478_27655K00_36/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

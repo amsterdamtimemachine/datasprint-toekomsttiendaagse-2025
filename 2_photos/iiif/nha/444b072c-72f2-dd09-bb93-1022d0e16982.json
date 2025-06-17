@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/444b072c-72f2-dd09-bb93-1022d0e16982.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Luitenant ter zee G.A. Dogget krijgt de Militaire Willemsorde uitgereikt door prins Bernhard in het Paleis op de Dam in Amsterdam. United foto's. (1953-04-29)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Luitenant ter zee G.A. Dogget krijgt de Militaire Willemsorde uitgereikt door prins Bernhard in het Paleis op de Dam in Amsterdam. United foto's."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1953-04-29"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q839050\">Dam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.892778,
+            52.373056
+          ]
+        },
+        "properties": {
+          "title": "Dam",
+          "url": "http://www.wikidata.org/entity/Q839050"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/444b072c-72f2-dd09-bb93-1022d0e16982/NL-HlmNHA_1478_08984B02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Luitenant ter zee G.A. Dogget krijgt de Militaire Willemsorde uitgereikt door prins Bernhard in het Paleis op de Dam in Amsterdam. United foto's."
+        ]
+      },
+      "height": 2151,
+      "width": 2801,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/46ca9b4a-5250-3948-f585-de53c1fa2a44\">https://hdl.handle.net/21.12102/46ca9b4a-5250-3948-f585-de53c1fa2a44</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/444b072c-72f2-dd09-bb93-1022d0e16982/NL-HlmNHA_1478_08984B02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/444b072c-72f2-dd09-bb93-1022d0e16982/NL-HlmNHA_1478_08984B02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/87f09a1e-783f-2588-f833-28a422ac48de/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2151,
+                "width": 2801,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/87f09a1e-783f-2588-f833-28a422ac48de",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/444b072c-72f2-dd09-bb93-1022d0e16982/NL-HlmNHA_1478_08984B02_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

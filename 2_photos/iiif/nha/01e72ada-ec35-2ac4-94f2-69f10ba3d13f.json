@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/01e72ada-ec35-2ac4-94f2-69f10ba3d13f.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Ronde lutherse kerk en Sonnesta hotel (1975-04)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Ronde lutherse kerk en Sonnesta hotel"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1975-04"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q19558418\">Stromarkt</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.8943,
+            52.3784
+          ]
+        },
+        "properties": {
+          "title": "Stromarkt",
+          "url": "http://www.wikidata.org/entity/Q19558418"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/01e72ada-ec35-2ac4-94f2-69f10ba3d13f/NL-HlmNHA_1478_13719K01_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ronde lutherse kerk en Sonnesta hotel"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/183de0c7-65a7-ca9f-6cff-9d9e2acf4642\">https://hdl.handle.net/21.12102/183de0c7-65a7-ca9f-6cff-9d9e2acf4642</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/01e72ada-ec35-2ac4-94f2-69f10ba3d13f/NL-HlmNHA_1478_13719K01_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/01e72ada-ec35-2ac4-94f2-69f10ba3d13f/NL-HlmNHA_1478_13719K01_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/76d1446e-a5a5-7c9a-c6b7-5e02f43517cc/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/76d1446e-a5a5-7c9a-c6b7-5e02f43517cc",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/01e72ada-ec35-2ac4-94f2-69f10ba3d13f/NL-HlmNHA_1478_13719K01_05/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

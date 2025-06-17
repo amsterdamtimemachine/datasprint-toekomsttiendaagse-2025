@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/024ef308-adb9-bdd5-32f0-13a802beb800.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "H.M. de Koningin Juliana en Z.K.H. Prins Bernhard brengen een vijfdaags bezoek aan Amsterdam. Inspectie van de Erewacht voor het Koninklijk Paleis op de Dam. Koninklijke ontvangsten en koninklijke bezoeken. (1956-04-19)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "H.M. de Koningin Juliana en Z.K.H. Prins Bernhard brengen een vijfdaags bezoek aan Amsterdam. Inspectie van de Erewacht voor het Koninklijk Paleis op de Dam. Koninklijke ontvangsten en koninklijke bezoeken."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1956-04-19"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q839050\">Dam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.892778,
+            52.373056
+          ]
+        },
+        "properties": {
+          "title": "Dam",
+          "url": "http://www.wikidata.org/entity/Q839050"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/024ef308-adb9-bdd5-32f0-13a802beb800/NL-HlmNHA_1478_01476A00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "H.M. de Koningin Juliana en Z.K.H. Prins Bernhard brengen een vijfdaags bezoek aan Amsterdam. Inspectie van de Erewacht voor het Koninklijk Paleis op de Dam. Koninklijke ontvangsten en koninklijke bezoeken."
+        ]
+      },
+      "height": 2542,
+      "width": 2542,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1016584b-1fa1-0327-ad21-d9faf27e9070\">https://hdl.handle.net/21.12102/1016584b-1fa1-0327-ad21-d9faf27e9070</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/024ef308-adb9-bdd5-32f0-13a802beb800/NL-HlmNHA_1478_01476A00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/024ef308-adb9-bdd5-32f0-13a802beb800/NL-HlmNHA_1478_01476A00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/17c74be0-24de-5893-767c-5e0a9e1d6e1e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2542,
+                "width": 2542,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/17c74be0-24de-5893-767c-5e0a9e1d6e1e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/024ef308-adb9-bdd5-32f0-13a802beb800/NL-HlmNHA_1478_01476A00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/024ef308-adb9-bdd5-32f0-13a802beb800/NL-HlmNHA_1478_01476A00_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "H.M. de Koningin Juliana en Z.K.H. Prins Bernhard brengen een vijfdaags bezoek aan Amsterdam. Inspectie van de Erewacht voor het Koninklijk Paleis op de Dam. Koninklijke ontvangsten en koninklijke bezoeken."
+        ]
+      },
+      "height": 2550,
+      "width": 2550,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b3633f5f-c56c-2d22-0a79-6d515d2be699\">https://hdl.handle.net/21.12102/b3633f5f-c56c-2d22-0a79-6d515d2be699</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/024ef308-adb9-bdd5-32f0-13a802beb800/NL-HlmNHA_1478_01476A00_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/024ef308-adb9-bdd5-32f0-13a802beb800/NL-HlmNHA_1478_01476A00_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9827e19d-c111-c350-747b-fd61af29a79a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2550,
+                "width": 2550,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9827e19d-c111-c350-747b-fd61af29a79a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/024ef308-adb9-bdd5-32f0-13a802beb800/NL-HlmNHA_1478_01476A00_07/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

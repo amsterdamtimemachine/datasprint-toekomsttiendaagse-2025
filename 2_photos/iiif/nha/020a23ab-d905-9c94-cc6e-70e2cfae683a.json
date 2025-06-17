@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/020a23ab-d905-9c94-cc6e-70e2cfae683a.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Straatnaambord Dellaertlaan, Badhoevedorp (1987-07-20)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Straatnaambord Dellaertlaan, Badhoevedorp"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1987-07-20"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q19014292\">Dellaertlaan</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7915,
+            52.3344
+          ]
+        },
+        "properties": {
+          "title": "Dellaertlaan",
+          "url": "http://www.wikidata.org/entity/Q19014292"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/020a23ab-d905-9c94-cc6e-70e2cfae683a/NL-HlmNHA_1478_27897K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Straatnaambord Dellaertlaan, Badhoevedorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0010a6c9-b2b2-6547-472c-1511278d3b00\">https://hdl.handle.net/21.12102/0010a6c9-b2b2-6547-472c-1511278d3b00</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/020a23ab-d905-9c94-cc6e-70e2cfae683a/NL-HlmNHA_1478_27897K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/020a23ab-d905-9c94-cc6e-70e2cfae683a/NL-HlmNHA_1478_27897K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/292531b9-ca16-943f-b16a-6483f8ba3315/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/292531b9-ca16-943f-b16a-6483f8ba3315",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/020a23ab-d905-9c94-cc6e-70e2cfae683a/NL-HlmNHA_1478_27897K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/020a23ab-d905-9c94-cc6e-70e2cfae683a/NL-HlmNHA_1478_27897K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Straatnaambord Dellaertlaan, Badhoevedorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/010529a3-f5cc-c4d2-3c34-f61f92a16fcb\">https://hdl.handle.net/21.12102/010529a3-f5cc-c4d2-3c34-f61f92a16fcb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/020a23ab-d905-9c94-cc6e-70e2cfae683a/NL-HlmNHA_1478_27897K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/020a23ab-d905-9c94-cc6e-70e2cfae683a/NL-HlmNHA_1478_27897K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/bf8b6506-67c4-6f5d-5e28-fa31bd1f7819/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/bf8b6506-67c4-6f5d-5e28-fa31bd1f7819",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/020a23ab-d905-9c94-cc6e-70e2cfae683a/NL-HlmNHA_1478_27897K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/020a23ab-d905-9c94-cc6e-70e2cfae683a/NL-HlmNHA_1478_27897K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Straatnaambord Dellaertlaan, Badhoevedorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/05d92304-8b37-8a52-b5c9-6cf976c25ea5\">https://hdl.handle.net/21.12102/05d92304-8b37-8a52-b5c9-6cf976c25ea5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/020a23ab-d905-9c94-cc6e-70e2cfae683a/NL-HlmNHA_1478_27897K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/020a23ab-d905-9c94-cc6e-70e2cfae683a/NL-HlmNHA_1478_27897K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/26af81e3-76f6-16c6-62dd-fe8371381b08/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/26af81e3-76f6-16c6-62dd-fe8371381b08",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/020a23ab-d905-9c94-cc6e-70e2cfae683a/NL-HlmNHA_1478_27897K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/020a23ab-d905-9c94-cc6e-70e2cfae683a/NL-HlmNHA_1478_27897K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Straatnaambord Dellaertlaan, Badhoevedorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2f0b8e6b-b3e5-3b56-2f19-b3423c8cc414\">https://hdl.handle.net/21.12102/2f0b8e6b-b3e5-3b56-2f19-b3423c8cc414</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/020a23ab-d905-9c94-cc6e-70e2cfae683a/NL-HlmNHA_1478_27897K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/020a23ab-d905-9c94-cc6e-70e2cfae683a/NL-HlmNHA_1478_27897K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/22e37ea5-a2f5-05de-ec9b-1e700b2bd44a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/22e37ea5-a2f5-05de-ec9b-1e700b2bd44a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/020a23ab-d905-9c94-cc6e-70e2cfae683a/NL-HlmNHA_1478_27897K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/020a23ab-d905-9c94-cc6e-70e2cfae683a/NL-HlmNHA_1478_27897K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Straatnaambord Dellaertlaan, Badhoevedorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/860ac58b-fe57-939c-d196-a5e6c0607bbe\">https://hdl.handle.net/21.12102/860ac58b-fe57-939c-d196-a5e6c0607bbe</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/020a23ab-d905-9c94-cc6e-70e2cfae683a/NL-HlmNHA_1478_27897K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/020a23ab-d905-9c94-cc6e-70e2cfae683a/NL-HlmNHA_1478_27897K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ba679abf-a0b5-831a-91c8-ff23235e8c5a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ba679abf-a0b5-831a-91c8-ff23235e8c5a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/020a23ab-d905-9c94-cc6e-70e2cfae683a/NL-HlmNHA_1478_27897K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

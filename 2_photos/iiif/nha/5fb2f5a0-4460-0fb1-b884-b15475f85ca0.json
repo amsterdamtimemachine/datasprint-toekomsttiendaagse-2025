@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/5fb2f5a0-4460-0fb1-b884-b15475f85ca0.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Kindercircus Badhoevedorp (1986-04-30)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Kindercircus Badhoevedorp"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1986-04-30"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q568337\">Badhoevedorp</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Koninginnedag"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/56901"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7803,
+            52.3381
+          ]
+        },
+        "properties": {
+          "title": "Badhoevedorp",
+          "url": "http://www.wikidata.org/entity/Q568337"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5fb2f5a0-4460-0fb1-b884-b15475f85ca0/NL-HlmNHA_1478_26267K00_41/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kindercircus Badhoevedorp"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/008bd5bf-dea5-dd78-b7fd-f0c6c4f61f87\">https://hdl.handle.net/21.12102/008bd5bf-dea5-dd78-b7fd-f0c6c4f61f87</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5fb2f5a0-4460-0fb1-b884-b15475f85ca0/NL-HlmNHA_1478_26267K00_41/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5fb2f5a0-4460-0fb1-b884-b15475f85ca0/NL-HlmNHA_1478_26267K00_41/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/90e6ddce-c104-0a87-f07c-bb3a561d1c4f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/90e6ddce-c104-0a87-f07c-bb3a561d1c4f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5fb2f5a0-4460-0fb1-b884-b15475f85ca0/NL-HlmNHA_1478_26267K00_41/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5fb2f5a0-4460-0fb1-b884-b15475f85ca0/NL-HlmNHA_1478_26267K00_40/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kindercircus Badhoevedorp"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1047a5d9-1f20-834f-bec7-e5b8fc61ed96\">https://hdl.handle.net/21.12102/1047a5d9-1f20-834f-bec7-e5b8fc61ed96</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5fb2f5a0-4460-0fb1-b884-b15475f85ca0/NL-HlmNHA_1478_26267K00_40/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5fb2f5a0-4460-0fb1-b884-b15475f85ca0/NL-HlmNHA_1478_26267K00_40/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1ff30b89-f255-1eaf-f39a-00dce64e9752/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1ff30b89-f255-1eaf-f39a-00dce64e9752",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5fb2f5a0-4460-0fb1-b884-b15475f85ca0/NL-HlmNHA_1478_26267K00_40/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5fb2f5a0-4460-0fb1-b884-b15475f85ca0/NL-HlmNHA_1478_26267K00_39/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kindercircus Badhoevedorp"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/588a3a49-ea81-e5d5-7eaf-9e7b7037ddca\">https://hdl.handle.net/21.12102/588a3a49-ea81-e5d5-7eaf-9e7b7037ddca</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5fb2f5a0-4460-0fb1-b884-b15475f85ca0/NL-HlmNHA_1478_26267K00_39/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5fb2f5a0-4460-0fb1-b884-b15475f85ca0/NL-HlmNHA_1478_26267K00_39/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ca8c62d4-174e-d059-7701-3a0a71d3e373/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ca8c62d4-174e-d059-7701-3a0a71d3e373",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5fb2f5a0-4460-0fb1-b884-b15475f85ca0/NL-HlmNHA_1478_26267K00_39/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5fb2f5a0-4460-0fb1-b884-b15475f85ca0/NL-HlmNHA_1478_26267K00_37/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kindercircus Badhoevedorp"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d51029a9-ecec-ab5e-8aa0-291aa3d1a714\">https://hdl.handle.net/21.12102/d51029a9-ecec-ab5e-8aa0-291aa3d1a714</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5fb2f5a0-4460-0fb1-b884-b15475f85ca0/NL-HlmNHA_1478_26267K00_37/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5fb2f5a0-4460-0fb1-b884-b15475f85ca0/NL-HlmNHA_1478_26267K00_37/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4edd8cc9-1aaf-3653-0b5c-5a7b21f705ef/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4edd8cc9-1aaf-3653-0b5c-5a7b21f705ef",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5fb2f5a0-4460-0fb1-b884-b15475f85ca0/NL-HlmNHA_1478_26267K00_37/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5fb2f5a0-4460-0fb1-b884-b15475f85ca0/NL-HlmNHA_1478_26267K00_38/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kindercircus Badhoevedorp"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f44bc8fe-9a63-785d-ce4b-1263e0264b22\">https://hdl.handle.net/21.12102/f44bc8fe-9a63-785d-ce4b-1263e0264b22</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5fb2f5a0-4460-0fb1-b884-b15475f85ca0/NL-HlmNHA_1478_26267K00_38/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5fb2f5a0-4460-0fb1-b884-b15475f85ca0/NL-HlmNHA_1478_26267K00_38/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a155ee3d-fb6e-014a-c96a-927e9b632764/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a155ee3d-fb6e-014a-c96a-927e9b632764",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5fb2f5a0-4460-0fb1-b884-b15475f85ca0/NL-HlmNHA_1478_26267K00_38/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

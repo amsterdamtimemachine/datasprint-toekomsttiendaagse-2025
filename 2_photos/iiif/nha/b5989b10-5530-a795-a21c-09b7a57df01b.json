@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/b5989b10-5530-a795-a21c-09b7a57df01b.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Huis Swaenenburg (voormalig gebouw Waterschap, vergaderruimte Dijkgraaf en Hoogheemraden ) (1969-06)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Huis Swaenenburg (voormalig gebouw Waterschap, vergaderruimte Dijkgraaf en Hoogheemraden )"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1969-06"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2367253\">Halfweg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.755,
+            52.3828
+          ]
+        },
+        "properties": {
+          "title": "Halfweg",
+          "url": "http://www.wikidata.org/entity/Q2367253"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b5989b10-5530-a795-a21c-09b7a57df01b/NL-HlmNHA_1478_07271K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Huis Swaenenburg (voormalig gebouw Waterschap, vergaderruimte Dijkgraaf en Hoogheemraden )"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/30419d09-f02e-c07f-cf4d-e1dbb539690b\">https://hdl.handle.net/21.12102/30419d09-f02e-c07f-cf4d-e1dbb539690b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b5989b10-5530-a795-a21c-09b7a57df01b/NL-HlmNHA_1478_07271K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b5989b10-5530-a795-a21c-09b7a57df01b/NL-HlmNHA_1478_07271K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6a3edddb-d1e9-72d7-806a-fc70f6a38d35/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6a3edddb-d1e9-72d7-806a-fc70f6a38d35",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b5989b10-5530-a795-a21c-09b7a57df01b/NL-HlmNHA_1478_07271K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b5989b10-5530-a795-a21c-09b7a57df01b/NL-HlmNHA_1478_07271K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Huis Swaenenburg (voormalig gebouw Waterschap, vergaderruimte Dijkgraaf en Hoogheemraden )"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/bb5b9582-6c94-b638-f56e-b9f74d00dcc0\">https://hdl.handle.net/21.12102/bb5b9582-6c94-b638-f56e-b9f74d00dcc0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b5989b10-5530-a795-a21c-09b7a57df01b/NL-HlmNHA_1478_07271K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b5989b10-5530-a795-a21c-09b7a57df01b/NL-HlmNHA_1478_07271K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/dc89aaf5-a915-f265-f8e0-ff5728af937a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/dc89aaf5-a915-f265-f8e0-ff5728af937a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b5989b10-5530-a795-a21c-09b7a57df01b/NL-HlmNHA_1478_07271K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

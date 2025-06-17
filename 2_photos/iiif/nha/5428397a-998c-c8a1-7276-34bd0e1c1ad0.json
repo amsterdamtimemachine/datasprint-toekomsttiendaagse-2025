@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/5428397a-998c-c8a1-7276-34bd0e1c1ad0.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Atletiekwedstrijd in Olympisch Stadion (1958)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Atletiekwedstrijd in Olympisch Stadion"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1958"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5428397a-998c-c8a1-7276-34bd0e1c1ad0/NL-HlmNHA_1478_15816B04_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Atletiekwedstrijd in Olympisch Stadion"
+        ]
+      },
+      "height": 2295,
+      "width": 2919,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/204f9b4b-9971-0eee-a00e-20b2e34f9ae5\">https://hdl.handle.net/21.12102/204f9b4b-9971-0eee-a00e-20b2e34f9ae5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5428397a-998c-c8a1-7276-34bd0e1c1ad0/NL-HlmNHA_1478_15816B04_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5428397a-998c-c8a1-7276-34bd0e1c1ad0/NL-HlmNHA_1478_15816B04_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3b580cbd-72b5-f5d6-e088-af5e6773be25/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2295,
+                "width": 2919,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3b580cbd-72b5-f5d6-e088-af5e6773be25",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5428397a-998c-c8a1-7276-34bd0e1c1ad0/NL-HlmNHA_1478_15816B04_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5428397a-998c-c8a1-7276-34bd0e1c1ad0/NL-HlmNHA_1478_15816B03_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Atletiekwedstrijd in Olympisch Stadion"
+        ]
+      },
+      "height": 2245,
+      "width": 2910,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/24064745-c8fe-ec05-aa69-4f62d89bd0a7\">https://hdl.handle.net/21.12102/24064745-c8fe-ec05-aa69-4f62d89bd0a7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5428397a-998c-c8a1-7276-34bd0e1c1ad0/NL-HlmNHA_1478_15816B03_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5428397a-998c-c8a1-7276-34bd0e1c1ad0/NL-HlmNHA_1478_15816B03_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3c75fe8a-eead-5ccc-2f0f-7046e7cd9923/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2245,
+                "width": 2910,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3c75fe8a-eead-5ccc-2f0f-7046e7cd9923",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5428397a-998c-c8a1-7276-34bd0e1c1ad0/NL-HlmNHA_1478_15816B03_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5428397a-998c-c8a1-7276-34bd0e1c1ad0/NL-HlmNHA_1478_15816B05_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Atletiekwedstrijd in Olympisch Stadion"
+        ]
+      },
+      "height": 2152,
+      "width": 2960,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/bebf3434-4bd5-5abb-8281-19aa978636ec\">https://hdl.handle.net/21.12102/bebf3434-4bd5-5abb-8281-19aa978636ec</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5428397a-998c-c8a1-7276-34bd0e1c1ad0/NL-HlmNHA_1478_15816B05_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5428397a-998c-c8a1-7276-34bd0e1c1ad0/NL-HlmNHA_1478_15816B05_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2bbad80f-f93c-fd9e-0ed6-71ec36b57ddb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2152,
+                "width": 2960,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2bbad80f-f93c-fd9e-0ed6-71ec36b57ddb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5428397a-998c-c8a1-7276-34bd0e1c1ad0/NL-HlmNHA_1478_15816B05_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5428397a-998c-c8a1-7276-34bd0e1c1ad0/NL-HlmNHA_1478_15816B09_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Atletiekwedstrijd in Olympisch Stadion"
+        ]
+      },
+      "height": 2287,
+      "width": 2918,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c30da383-7630-0d95-09a9-e9af34e4d79d\">https://hdl.handle.net/21.12102/c30da383-7630-0d95-09a9-e9af34e4d79d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5428397a-998c-c8a1-7276-34bd0e1c1ad0/NL-HlmNHA_1478_15816B09_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5428397a-998c-c8a1-7276-34bd0e1c1ad0/NL-HlmNHA_1478_15816B09_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5505df46-8fd6-5a52-a4a1-5009c1dd0661/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2287,
+                "width": 2918,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5505df46-8fd6-5a52-a4a1-5009c1dd0661",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5428397a-998c-c8a1-7276-34bd0e1c1ad0/NL-HlmNHA_1478_15816B09_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5428397a-998c-c8a1-7276-34bd0e1c1ad0/NL-HlmNHA_1478_15816B02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Atletiekwedstrijd in Olympisch Stadion"
+        ]
+      },
+      "height": 2236,
+      "width": 2952,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d3eaa25d-4c3c-2778-7534-4e29e84b2cbc\">https://hdl.handle.net/21.12102/d3eaa25d-4c3c-2778-7534-4e29e84b2cbc</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5428397a-998c-c8a1-7276-34bd0e1c1ad0/NL-HlmNHA_1478_15816B02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5428397a-998c-c8a1-7276-34bd0e1c1ad0/NL-HlmNHA_1478_15816B02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ff73f4b5-fe34-b92d-a0ff-4413d8ccae86/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2236,
+                "width": 2952,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ff73f4b5-fe34-b92d-a0ff-4413d8ccae86",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5428397a-998c-c8a1-7276-34bd0e1c1ad0/NL-HlmNHA_1478_15816B02_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

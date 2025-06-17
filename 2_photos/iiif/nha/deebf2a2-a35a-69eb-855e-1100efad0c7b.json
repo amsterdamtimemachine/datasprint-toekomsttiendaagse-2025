@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/deebf2a2-a35a-69eb-855e-1100efad0c7b.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Op Schiphol zijn de vlaggen halfstok gehangen vanwege de Bijlmerramp waarbij op 04-10-1992 een vliegtuig van El Al op twee flats in de Bijlmermeer in Amsterdam stortte waarbij tientallen mensen omkwamen. (1992-10-05)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Op Schiphol zijn de vlaggen halfstok gehangen vanwege de Bijlmerramp waarbij op 04-10-1992 een vliegtuig van El Al op twee flats in de Bijlmermeer in Amsterdam stortte waarbij tientallen mensen omkwamen."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1992-10-05"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/deebf2a2-a35a-69eb-855e-1100efad0c7b/NL-HlmNHA_1478_37099K01_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Op Schiphol zijn de vlaggen halfstok gehangen vanwege de Bijlmerramp waarbij op 04-10-1992 een vliegtuig van El Al op twee flats in de Bijlmermeer in Amsterdam stortte waarbij tientallen mensen omkwamen."
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/64d2094f-f66a-20f7-1d51-0f476d4aa7db\">https://hdl.handle.net/21.12102/64d2094f-f66a-20f7-1d51-0f476d4aa7db</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/deebf2a2-a35a-69eb-855e-1100efad0c7b/NL-HlmNHA_1478_37099K01_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/deebf2a2-a35a-69eb-855e-1100efad0c7b/NL-HlmNHA_1478_37099K01_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/362fe4d1-5638-75bc-c513-9d64ad6c830e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/362fe4d1-5638-75bc-c513-9d64ad6c830e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/deebf2a2-a35a-69eb-855e-1100efad0c7b/NL-HlmNHA_1478_37099K01_06/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

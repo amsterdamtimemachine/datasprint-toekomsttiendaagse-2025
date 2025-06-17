@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/87b610eb-4cce-d8b0-c8b7-8737c4350633.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "C. Floris autotechnicus Amsterdam (1999-03-16)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "C. Floris autotechnicus Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1999-03-16"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/87b610eb-4cce-d8b0-c8b7-8737c4350633/NL-HlmNHA_1478_46683K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "C. Floris autotechnicus Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/07ea79e9-e5d6-42d4-af3c-fabd6374d132\">https://hdl.handle.net/21.12102/07ea79e9-e5d6-42d4-af3c-fabd6374d132</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/87b610eb-4cce-d8b0-c8b7-8737c4350633/NL-HlmNHA_1478_46683K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/87b610eb-4cce-d8b0-c8b7-8737c4350633/NL-HlmNHA_1478_46683K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e52b3b07-5a24-139d-c6c5-41fd262f8edf/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e52b3b07-5a24-139d-c6c5-41fd262f8edf",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/87b610eb-4cce-d8b0-c8b7-8737c4350633/NL-HlmNHA_1478_46683K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/87b610eb-4cce-d8b0-c8b7-8737c4350633/NL-HlmNHA_1478_46683K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "C. Floris autotechnicus Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/27cb9528-b011-e15a-fc64-8666328ffba1\">https://hdl.handle.net/21.12102/27cb9528-b011-e15a-fc64-8666328ffba1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/87b610eb-4cce-d8b0-c8b7-8737c4350633/NL-HlmNHA_1478_46683K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/87b610eb-4cce-d8b0-c8b7-8737c4350633/NL-HlmNHA_1478_46683K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f30e8b72-8e9d-9b48-c9e4-71b9d70b56c4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f30e8b72-8e9d-9b48-c9e4-71b9d70b56c4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/87b610eb-4cce-d8b0-c8b7-8737c4350633/NL-HlmNHA_1478_46683K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/87b610eb-4cce-d8b0-c8b7-8737c4350633/NL-HlmNHA_1478_46683K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "C. Floris autotechnicus Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5df637e0-6c95-b17a-d140-8b74905a1c81\">https://hdl.handle.net/21.12102/5df637e0-6c95-b17a-d140-8b74905a1c81</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/87b610eb-4cce-d8b0-c8b7-8737c4350633/NL-HlmNHA_1478_46683K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/87b610eb-4cce-d8b0-c8b7-8737c4350633/NL-HlmNHA_1478_46683K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3c149a8d-73f2-e9e2-0811-b75aa6951b41/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3c149a8d-73f2-e9e2-0811-b75aa6951b41",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/87b610eb-4cce-d8b0-c8b7-8737c4350633/NL-HlmNHA_1478_46683K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/87b610eb-4cce-d8b0-c8b7-8737c4350633/NL-HlmNHA_1478_46683K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "C. Floris autotechnicus Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/741a137c-19b2-f0e8-af04-8285933a3e34\">https://hdl.handle.net/21.12102/741a137c-19b2-f0e8-af04-8285933a3e34</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/87b610eb-4cce-d8b0-c8b7-8737c4350633/NL-HlmNHA_1478_46683K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/87b610eb-4cce-d8b0-c8b7-8737c4350633/NL-HlmNHA_1478_46683K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b3254ed7-9108-06c7-57af-eba9a8b25ce5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b3254ed7-9108-06c7-57af-eba9a8b25ce5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/87b610eb-4cce-d8b0-c8b7-8737c4350633/NL-HlmNHA_1478_46683K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/87b610eb-4cce-d8b0-c8b7-8737c4350633/NL-HlmNHA_1478_46683K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "C. Floris autotechnicus Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7b8cfc6c-a188-46f8-806e-fcb032b6487e\">https://hdl.handle.net/21.12102/7b8cfc6c-a188-46f8-806e-fcb032b6487e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/87b610eb-4cce-d8b0-c8b7-8737c4350633/NL-HlmNHA_1478_46683K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/87b610eb-4cce-d8b0-c8b7-8737c4350633/NL-HlmNHA_1478_46683K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0c36391c-6823-39a5-0eef-ce39ccd53041/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0c36391c-6823-39a5-0eef-ce39ccd53041",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/87b610eb-4cce-d8b0-c8b7-8737c4350633/NL-HlmNHA_1478_46683K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/87b610eb-4cce-d8b0-c8b7-8737c4350633/NL-HlmNHA_1478_46683K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "C. Floris autotechnicus Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ad636068-bd32-2ff4-92da-c2cb0f7139a7\">https://hdl.handle.net/21.12102/ad636068-bd32-2ff4-92da-c2cb0f7139a7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/87b610eb-4cce-d8b0-c8b7-8737c4350633/NL-HlmNHA_1478_46683K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/87b610eb-4cce-d8b0-c8b7-8737c4350633/NL-HlmNHA_1478_46683K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ca7a1408-cfc9-8045-f848-9eaa25210e53/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ca7a1408-cfc9-8045-f848-9eaa25210e53",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/87b610eb-4cce-d8b0-c8b7-8737c4350633/NL-HlmNHA_1478_46683K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

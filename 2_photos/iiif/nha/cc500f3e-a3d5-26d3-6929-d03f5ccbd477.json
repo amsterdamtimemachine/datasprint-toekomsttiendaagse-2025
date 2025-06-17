@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/cc500f3e-a3d5-26d3-6929-d03f5ccbd477.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Tentoonstelling over de geschiedenis Schiphol over de Luchthaven Schiphol (1955-07-07)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Tentoonstelling over de geschiedenis Schiphol over de Luchthaven Schiphol"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1955-07-07"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cc500f3e-a3d5-26d3-6929-d03f5ccbd477/NL-HlmNHA_1478_11879B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tentoonstelling over de geschiedenis Schiphol over de Luchthaven Schiphol"
+        ]
+      },
+      "height": 2169,
+      "width": 2898,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b8e9f1c7-e96c-5f4c-b426-4a7c0063f2c3\">https://hdl.handle.net/21.12102/b8e9f1c7-e96c-5f4c-b426-4a7c0063f2c3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cc500f3e-a3d5-26d3-6929-d03f5ccbd477/NL-HlmNHA_1478_11879B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cc500f3e-a3d5-26d3-6929-d03f5ccbd477/NL-HlmNHA_1478_11879B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/cccc5336-95d3-d216-bbcb-ab3072f71a8c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2169,
+                "width": 2898,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/cccc5336-95d3-d216-bbcb-ab3072f71a8c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cc500f3e-a3d5-26d3-6929-d03f5ccbd477/NL-HlmNHA_1478_11879B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

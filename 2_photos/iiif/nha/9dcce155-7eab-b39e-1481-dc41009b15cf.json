@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/9dcce155-7eab-b39e-1481-dc41009b15cf.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Oranjefeest, Schiphol (2000-06-25)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Oranjefeest, Schiphol"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2000-06-25"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dcce155-7eab-b39e-1481-dc41009b15cf/NL-HlmNHA_1478_48320K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Oranjefeest, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/25349d3d-3fdd-84d7-5860-db3912f6fba0\">https://hdl.handle.net/21.12102/25349d3d-3fdd-84d7-5860-db3912f6fba0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dcce155-7eab-b39e-1481-dc41009b15cf/NL-HlmNHA_1478_48320K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dcce155-7eab-b39e-1481-dc41009b15cf/NL-HlmNHA_1478_48320K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6f5c4706-959e-fb67-1b87-4fab67bf0e43/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6f5c4706-959e-fb67-1b87-4fab67bf0e43",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dcce155-7eab-b39e-1481-dc41009b15cf/NL-HlmNHA_1478_48320K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dcce155-7eab-b39e-1481-dc41009b15cf/NL-HlmNHA_1478_48320K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Oranjefeest, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3eaa2ecc-7346-58c0-e92a-60b443a0488b\">https://hdl.handle.net/21.12102/3eaa2ecc-7346-58c0-e92a-60b443a0488b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dcce155-7eab-b39e-1481-dc41009b15cf/NL-HlmNHA_1478_48320K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dcce155-7eab-b39e-1481-dc41009b15cf/NL-HlmNHA_1478_48320K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/bc892aa2-77fc-8fc3-de7f-6a6ba5c2ca82/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/bc892aa2-77fc-8fc3-de7f-6a6ba5c2ca82",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dcce155-7eab-b39e-1481-dc41009b15cf/NL-HlmNHA_1478_48320K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dcce155-7eab-b39e-1481-dc41009b15cf/NL-HlmNHA_1478_48320K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Oranjefeest, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/74d21c24-2ab1-e8a5-7b6b-4034e55e937a\">https://hdl.handle.net/21.12102/74d21c24-2ab1-e8a5-7b6b-4034e55e937a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dcce155-7eab-b39e-1481-dc41009b15cf/NL-HlmNHA_1478_48320K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dcce155-7eab-b39e-1481-dc41009b15cf/NL-HlmNHA_1478_48320K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a8d189f1-4b74-0bed-7d4d-70ab3b85e1a6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a8d189f1-4b74-0bed-7d4d-70ab3b85e1a6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dcce155-7eab-b39e-1481-dc41009b15cf/NL-HlmNHA_1478_48320K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dcce155-7eab-b39e-1481-dc41009b15cf/NL-HlmNHA_1478_48320K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Oranjefeest, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7b1ccd68-69f8-5c8a-968a-a21ed8ea62e9\">https://hdl.handle.net/21.12102/7b1ccd68-69f8-5c8a-968a-a21ed8ea62e9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dcce155-7eab-b39e-1481-dc41009b15cf/NL-HlmNHA_1478_48320K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dcce155-7eab-b39e-1481-dc41009b15cf/NL-HlmNHA_1478_48320K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9754808a-c9b8-46af-6abf-60027deedf3b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9754808a-c9b8-46af-6abf-60027deedf3b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dcce155-7eab-b39e-1481-dc41009b15cf/NL-HlmNHA_1478_48320K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dcce155-7eab-b39e-1481-dc41009b15cf/NL-HlmNHA_1478_48320K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Oranjefeest, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9578abeb-04d2-06ca-1df4-5fe8651aa436\">https://hdl.handle.net/21.12102/9578abeb-04d2-06ca-1df4-5fe8651aa436</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dcce155-7eab-b39e-1481-dc41009b15cf/NL-HlmNHA_1478_48320K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dcce155-7eab-b39e-1481-dc41009b15cf/NL-HlmNHA_1478_48320K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2bfe7783-add3-78bf-90c9-db9dffa0be9e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2bfe7783-add3-78bf-90c9-db9dffa0be9e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dcce155-7eab-b39e-1481-dc41009b15cf/NL-HlmNHA_1478_48320K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dcce155-7eab-b39e-1481-dc41009b15cf/NL-HlmNHA_1478_48320K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Oranjefeest, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/bb82c8f5-53f7-726e-b974-30b4c2bd90a8\">https://hdl.handle.net/21.12102/bb82c8f5-53f7-726e-b974-30b4c2bd90a8</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dcce155-7eab-b39e-1481-dc41009b15cf/NL-HlmNHA_1478_48320K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dcce155-7eab-b39e-1481-dc41009b15cf/NL-HlmNHA_1478_48320K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ab038237-37ec-b028-4461-208e16b9629f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ab038237-37ec-b028-4461-208e16b9629f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dcce155-7eab-b39e-1481-dc41009b15cf/NL-HlmNHA_1478_48320K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

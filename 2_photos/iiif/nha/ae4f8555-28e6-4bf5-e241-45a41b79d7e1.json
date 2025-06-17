@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/ae4f8555-28e6-4bf5-e241-45a41b79d7e1.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Gelede bus op de Westermarkt, Amsterdam. De bus is net geleverd door carosseriefabriek Verheul (1957-03-14)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Gelede bus op de Westermarkt, Amsterdam. De bus is net geleverd door carosseriefabriek Verheul"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1957-03-14"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2512530\">Westermarkt</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.88417,
+            52.37472
+          ]
+        },
+        "properties": {
+          "title": "Westermarkt",
+          "url": "http://www.wikidata.org/entity/Q2512530"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae4f8555-28e6-4bf5-e241-45a41b79d7e1/NL-HlmNHA_1478_13892B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Gelede bus op de Westermarkt, Amsterdam. De bus is net geleverd door carosseriefabriek Verheul"
+        ]
+      },
+      "height": 2197,
+      "width": 2846,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/131a85ce-31e1-7d7a-c701-8084d54ff63f\">https://hdl.handle.net/21.12102/131a85ce-31e1-7d7a-c701-8084d54ff63f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae4f8555-28e6-4bf5-e241-45a41b79d7e1/NL-HlmNHA_1478_13892B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae4f8555-28e6-4bf5-e241-45a41b79d7e1/NL-HlmNHA_1478_13892B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/dcd8d791-5450-1fb9-f73a-8f7df2e1242b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2197,
+                "width": 2846,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/dcd8d791-5450-1fb9-f73a-8f7df2e1242b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae4f8555-28e6-4bf5-e241-45a41b79d7e1/NL-HlmNHA_1478_13892B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

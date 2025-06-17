@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/83d5cb19-6dfc-4082-42bd-e4354373afc4.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Party Herman Brood op partyschip in Amsterdam (live-optreden) (1980-09-08)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Party Herman Brood op partyschip in Amsterdam (live-optreden)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1980-09-08"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/83d5cb19-6dfc-4082-42bd-e4354373afc4/NL-HlmNHA_1478_19777K00_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Party Herman Brood op partyschip in Amsterdam (live-optreden)"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/26c690b1-254b-b05c-a1ab-82bf7fdaef13\">https://hdl.handle.net/21.12102/26c690b1-254b-b05c-a1ab-82bf7fdaef13</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/83d5cb19-6dfc-4082-42bd-e4354373afc4/NL-HlmNHA_1478_19777K00_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/83d5cb19-6dfc-4082-42bd-e4354373afc4/NL-HlmNHA_1478_19777K00_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f28a7778-ba16-c8fe-da8e-f33d84629825/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f28a7778-ba16-c8fe-da8e-f33d84629825",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/83d5cb19-6dfc-4082-42bd-e4354373afc4/NL-HlmNHA_1478_19777K00_08/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/83d5cb19-6dfc-4082-42bd-e4354373afc4/NL-HlmNHA_1478_19777K00_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Party Herman Brood op partyschip in Amsterdam (live-optreden)"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8f3ed4aa-ca52-d01a-c954-1aaa0e74d0a7\">https://hdl.handle.net/21.12102/8f3ed4aa-ca52-d01a-c954-1aaa0e74d0a7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/83d5cb19-6dfc-4082-42bd-e4354373afc4/NL-HlmNHA_1478_19777K00_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/83d5cb19-6dfc-4082-42bd-e4354373afc4/NL-HlmNHA_1478_19777K00_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/395a79df-509b-8231-6659-bedc3a4fce5b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/395a79df-509b-8231-6659-bedc3a4fce5b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/83d5cb19-6dfc-4082-42bd-e4354373afc4/NL-HlmNHA_1478_19777K00_09/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/83d5cb19-6dfc-4082-42bd-e4354373afc4/NL-HlmNHA_1478_19777K00_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Party Herman Brood op partyschip in Amsterdam (live-optreden)"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b06cdac8-94d7-0b63-f484-6da25fa5b009\">https://hdl.handle.net/21.12102/b06cdac8-94d7-0b63-f484-6da25fa5b009</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/83d5cb19-6dfc-4082-42bd-e4354373afc4/NL-HlmNHA_1478_19777K00_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/83d5cb19-6dfc-4082-42bd-e4354373afc4/NL-HlmNHA_1478_19777K00_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/dcd7db71-ee7b-52ff-bdcf-054935f246b0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/dcd7db71-ee7b-52ff-bdcf-054935f246b0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/83d5cb19-6dfc-4082-42bd-e4354373afc4/NL-HlmNHA_1478_19777K00_07/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

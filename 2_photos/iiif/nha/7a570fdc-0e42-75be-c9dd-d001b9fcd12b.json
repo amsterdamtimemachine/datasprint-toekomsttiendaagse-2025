@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/7a570fdc-0e42-75be-c9dd-d001b9fcd12b.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Aanleg van de zuidelijke toerit naar de IJ-tunnel. (1965-09-15)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Aanleg van de zuidelijke toerit naar de IJ-tunnel."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1965-09-15"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q1948487\">Valkenburgerstraat</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.906383,
+            52.369297
+          ]
+        },
+        "properties": {
+          "title": "Valkenburgerstraat",
+          "url": "http://www.wikidata.org/entity/Q1948487"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a570fdc-0e42-75be-c9dd-d001b9fcd12b/NL-HlmNHA_1478_03548K00_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Aanleg van de zuidelijke toerit naar de IJ-tunnel."
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3810e714-361f-7bac-97d6-412daafac557\">https://hdl.handle.net/21.12102/3810e714-361f-7bac-97d6-412daafac557</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a570fdc-0e42-75be-c9dd-d001b9fcd12b/NL-HlmNHA_1478_03548K00_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a570fdc-0e42-75be-c9dd-d001b9fcd12b/NL-HlmNHA_1478_03548K00_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1fb39984-000c-377f-ff51-f4fe81151599/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1fb39984-000c-377f-ff51-f4fe81151599",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a570fdc-0e42-75be-c9dd-d001b9fcd12b/NL-HlmNHA_1478_03548K00_10/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a570fdc-0e42-75be-c9dd-d001b9fcd12b/NL-HlmNHA_1478_03548K00_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Aanleg van de zuidelijke toerit naar de IJ-tunnel."
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7156237d-62aa-e8be-9fae-e41345de6612\">https://hdl.handle.net/21.12102/7156237d-62aa-e8be-9fae-e41345de6612</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a570fdc-0e42-75be-c9dd-d001b9fcd12b/NL-HlmNHA_1478_03548K00_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a570fdc-0e42-75be-c9dd-d001b9fcd12b/NL-HlmNHA_1478_03548K00_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/752a89f8-5926-37f8-89f0-e0c49b1219da/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/752a89f8-5926-37f8-89f0-e0c49b1219da",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a570fdc-0e42-75be-c9dd-d001b9fcd12b/NL-HlmNHA_1478_03548K00_12/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a570fdc-0e42-75be-c9dd-d001b9fcd12b/NL-HlmNHA_1478_03548K00_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Aanleg van de zuidelijke toerit naar de IJ-tunnel."
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e916c9bf-5e71-e7c9-15f2-f524eba40949\">https://hdl.handle.net/21.12102/e916c9bf-5e71-e7c9-15f2-f524eba40949</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a570fdc-0e42-75be-c9dd-d001b9fcd12b/NL-HlmNHA_1478_03548K00_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a570fdc-0e42-75be-c9dd-d001b9fcd12b/NL-HlmNHA_1478_03548K00_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0e138c24-1e9f-1231-2621-8591ef7b2e23/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0e138c24-1e9f-1231-2621-8591ef7b2e23",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a570fdc-0e42-75be-c9dd-d001b9fcd12b/NL-HlmNHA_1478_03548K00_11/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

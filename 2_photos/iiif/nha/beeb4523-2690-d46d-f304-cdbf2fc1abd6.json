@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/beeb4523-2690-d46d-f304-cdbf2fc1abd6.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Tinie de Vries VNU Amsterdam. (1983-11-29)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Tinie de Vries VNU Amsterdam."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1983-11-29"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "VNU Vereniging Nederlandse Uitgeverijen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/beeb4523-2690-d46d-f304-cdbf2fc1abd6/NL-HlmNHA_1478_23624K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tinie de Vries VNU Amsterdam."
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/15ab8188-77d8-25ff-dc55-8a2aca419838\">https://hdl.handle.net/21.12102/15ab8188-77d8-25ff-dc55-8a2aca419838</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/beeb4523-2690-d46d-f304-cdbf2fc1abd6/NL-HlmNHA_1478_23624K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/beeb4523-2690-d46d-f304-cdbf2fc1abd6/NL-HlmNHA_1478_23624K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/931f1cbf-7231-16da-b472-5e64a129fc86/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/931f1cbf-7231-16da-b472-5e64a129fc86",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/beeb4523-2690-d46d-f304-cdbf2fc1abd6/NL-HlmNHA_1478_23624K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/beeb4523-2690-d46d-f304-cdbf2fc1abd6/NL-HlmNHA_1478_23624K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tinie de Vries VNU Amsterdam."
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/66fe1f5a-abef-836e-9e17-369b195dd4ac\">https://hdl.handle.net/21.12102/66fe1f5a-abef-836e-9e17-369b195dd4ac</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/beeb4523-2690-d46d-f304-cdbf2fc1abd6/NL-HlmNHA_1478_23624K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/beeb4523-2690-d46d-f304-cdbf2fc1abd6/NL-HlmNHA_1478_23624K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3907ee16-78d5-10ce-7f7a-3cac0bd12d00/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3907ee16-78d5-10ce-7f7a-3cac0bd12d00",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/beeb4523-2690-d46d-f304-cdbf2fc1abd6/NL-HlmNHA_1478_23624K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/beeb4523-2690-d46d-f304-cdbf2fc1abd6/NL-HlmNHA_1478_23624K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tinie de Vries VNU Amsterdam."
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/702eefbb-edd0-f062-8465-009c72af5efd\">https://hdl.handle.net/21.12102/702eefbb-edd0-f062-8465-009c72af5efd</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/beeb4523-2690-d46d-f304-cdbf2fc1abd6/NL-HlmNHA_1478_23624K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/beeb4523-2690-d46d-f304-cdbf2fc1abd6/NL-HlmNHA_1478_23624K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ee718137-9d73-4634-cc48-c9740dfac0f7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ee718137-9d73-4634-cc48-c9740dfac0f7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/beeb4523-2690-d46d-f304-cdbf2fc1abd6/NL-HlmNHA_1478_23624K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/beeb4523-2690-d46d-f304-cdbf2fc1abd6/NL-HlmNHA_1478_23624K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tinie de Vries VNU Amsterdam."
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/864b37b3-e4df-5a07-2439-013dcc920681\">https://hdl.handle.net/21.12102/864b37b3-e4df-5a07-2439-013dcc920681</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/beeb4523-2690-d46d-f304-cdbf2fc1abd6/NL-HlmNHA_1478_23624K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/beeb4523-2690-d46d-f304-cdbf2fc1abd6/NL-HlmNHA_1478_23624K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/cd960515-1cb8-fa95-49ed-4606aec22c6f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/cd960515-1cb8-fa95-49ed-4606aec22c6f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/beeb4523-2690-d46d-f304-cdbf2fc1abd6/NL-HlmNHA_1478_23624K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

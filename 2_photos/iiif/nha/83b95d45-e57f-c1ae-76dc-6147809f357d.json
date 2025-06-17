@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/83b95d45-e57f-c1ae-76dc-6147809f357d.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "RAI Amsterdam stand British Leyland Morris, Landrover, Austin (1970-02-16)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "RAI Amsterdam stand British Leyland Morris, Landrover, Austin"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1970-02-16"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/83b95d45-e57f-c1ae-76dc-6147809f357d/NL-HlmNHA_1478_00132C02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "RAI Amsterdam stand British Leyland Morris, Landrover, Austin"
+        ]
+      },
+      "height": 2330,
+      "width": 3014,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a0f49062-79d4-c598-1fc5-2c655a39391f\">https://hdl.handle.net/21.12102/a0f49062-79d4-c598-1fc5-2c655a39391f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/83b95d45-e57f-c1ae-76dc-6147809f357d/NL-HlmNHA_1478_00132C02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/83b95d45-e57f-c1ae-76dc-6147809f357d/NL-HlmNHA_1478_00132C02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8e55af4f-cb17-038c-f833-aa18a3746b7b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2330,
+                "width": 3014,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8e55af4f-cb17-038c-f833-aa18a3746b7b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/83b95d45-e57f-c1ae-76dc-6147809f357d/NL-HlmNHA_1478_00132C02_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/83b95d45-e57f-c1ae-76dc-6147809f357d/NL-HlmNHA_1478_00132C01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "RAI Amsterdam stand British Leyland Morris, Landrover, Austin"
+        ]
+      },
+      "height": 2340,
+      "width": 2982,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/bd61497a-a2cc-e067-1010-41f4ff7024fb\">https://hdl.handle.net/21.12102/bd61497a-a2cc-e067-1010-41f4ff7024fb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/83b95d45-e57f-c1ae-76dc-6147809f357d/NL-HlmNHA_1478_00132C01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/83b95d45-e57f-c1ae-76dc-6147809f357d/NL-HlmNHA_1478_00132C01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0d67ee42-7624-796b-f28f-827e83e22f83/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2340,
+                "width": 2982,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0d67ee42-7624-796b-f28f-827e83e22f83",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/83b95d45-e57f-c1ae-76dc-6147809f357d/NL-HlmNHA_1478_00132C01_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

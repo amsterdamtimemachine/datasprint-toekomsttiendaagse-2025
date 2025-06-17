@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/ddab7aa7-3c94-c04e-3287-0346bc1e4fcb.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Twee heren bij bureau, KvK, Amsterdam (1999-06-14)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Twee heren bij bureau, KvK, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1999-06-14"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ddab7aa7-3c94-c04e-3287-0346bc1e4fcb/NL-HlmNHA_1478_47045K00_42/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Twee heren bij bureau, KvK, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/23dbb68d-9b1a-0d86-917b-e33dc2dd32d3\">https://hdl.handle.net/21.12102/23dbb68d-9b1a-0d86-917b-e33dc2dd32d3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ddab7aa7-3c94-c04e-3287-0346bc1e4fcb/NL-HlmNHA_1478_47045K00_42/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ddab7aa7-3c94-c04e-3287-0346bc1e4fcb/NL-HlmNHA_1478_47045K00_42/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d98b7a0e-1dbf-3376-f83d-9247345c6810/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d98b7a0e-1dbf-3376-f83d-9247345c6810",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ddab7aa7-3c94-c04e-3287-0346bc1e4fcb/NL-HlmNHA_1478_47045K00_42/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ddab7aa7-3c94-c04e-3287-0346bc1e4fcb/NL-HlmNHA_1478_47045K00_37/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Twee heren bij bureau, KvK, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/537dafbe-ee2d-5127-bc54-1a4d0c219790\">https://hdl.handle.net/21.12102/537dafbe-ee2d-5127-bc54-1a4d0c219790</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ddab7aa7-3c94-c04e-3287-0346bc1e4fcb/NL-HlmNHA_1478_47045K00_37/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ddab7aa7-3c94-c04e-3287-0346bc1e4fcb/NL-HlmNHA_1478_47045K00_37/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fdfd81d9-c87e-9dcd-ed0e-f1b2c1285beb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fdfd81d9-c87e-9dcd-ed0e-f1b2c1285beb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ddab7aa7-3c94-c04e-3287-0346bc1e4fcb/NL-HlmNHA_1478_47045K00_37/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ddab7aa7-3c94-c04e-3287-0346bc1e4fcb/NL-HlmNHA_1478_47045K00_41/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Twee heren bij bureau, KvK, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/73171197-b9a9-ee3a-8163-081df9530601\">https://hdl.handle.net/21.12102/73171197-b9a9-ee3a-8163-081df9530601</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ddab7aa7-3c94-c04e-3287-0346bc1e4fcb/NL-HlmNHA_1478_47045K00_41/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ddab7aa7-3c94-c04e-3287-0346bc1e4fcb/NL-HlmNHA_1478_47045K00_41/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b11a82a6-dcdd-2db1-a1f9-9c5e21ccc2ea/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b11a82a6-dcdd-2db1-a1f9-9c5e21ccc2ea",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ddab7aa7-3c94-c04e-3287-0346bc1e4fcb/NL-HlmNHA_1478_47045K00_41/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ddab7aa7-3c94-c04e-3287-0346bc1e4fcb/NL-HlmNHA_1478_47045K00_40/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Twee heren bij bureau, KvK, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ab8515d3-cb60-bd76-3a3b-1f7eb140886f\">https://hdl.handle.net/21.12102/ab8515d3-cb60-bd76-3a3b-1f7eb140886f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ddab7aa7-3c94-c04e-3287-0346bc1e4fcb/NL-HlmNHA_1478_47045K00_40/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ddab7aa7-3c94-c04e-3287-0346bc1e4fcb/NL-HlmNHA_1478_47045K00_40/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5cb85fd1-b8e5-6efb-19f0-6cc3e26592a0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5cb85fd1-b8e5-6efb-19f0-6cc3e26592a0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ddab7aa7-3c94-c04e-3287-0346bc1e4fcb/NL-HlmNHA_1478_47045K00_40/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ddab7aa7-3c94-c04e-3287-0346bc1e4fcb/NL-HlmNHA_1478_47045K00_39/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Twee heren bij bureau, KvK, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/eca447bb-3335-995a-8f89-8835520254a8\">https://hdl.handle.net/21.12102/eca447bb-3335-995a-8f89-8835520254a8</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ddab7aa7-3c94-c04e-3287-0346bc1e4fcb/NL-HlmNHA_1478_47045K00_39/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ddab7aa7-3c94-c04e-3287-0346bc1e4fcb/NL-HlmNHA_1478_47045K00_39/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8b5143cc-1e72-7047-efbe-df56ef208c32/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8b5143cc-1e72-7047-efbe-df56ef208c32",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ddab7aa7-3c94-c04e-3287-0346bc1e4fcb/NL-HlmNHA_1478_47045K00_39/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ddab7aa7-3c94-c04e-3287-0346bc1e4fcb/NL-HlmNHA_1478_47045K00_38/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Twee heren bij bureau, KvK, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f8ecb0a6-08f5-cfe2-3798-553ea708f5f7\">https://hdl.handle.net/21.12102/f8ecb0a6-08f5-cfe2-3798-553ea708f5f7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ddab7aa7-3c94-c04e-3287-0346bc1e4fcb/NL-HlmNHA_1478_47045K00_38/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ddab7aa7-3c94-c04e-3287-0346bc1e4fcb/NL-HlmNHA_1478_47045K00_38/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/be0ebb53-9781-b80a-93be-b32aec75e6a8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/be0ebb53-9781-b80a-93be-b32aec75e6a8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ddab7aa7-3c94-c04e-3287-0346bc1e4fcb/NL-HlmNHA_1478_47045K00_38/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

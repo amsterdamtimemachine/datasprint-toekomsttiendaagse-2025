@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/1e716ab1-6582-8397-834c-9c185b5f3096.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Reclame Gevaert en Handelsblad C.S [Centraal station] Amsterdam (1952-09-10)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Reclame Gevaert en Handelsblad C.S [Centraal station] Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1952-09-10"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Reclame"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/26609"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e716ab1-6582-8397-834c-9c185b5f3096/NL-HlmNHA_1478_07733B02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Reclame Gevaert en Handelsblad C.S [Centraal station] Amsterdam"
+        ]
+      },
+      "height": 2927,
+      "width": 2283,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3dabc8d5-8238-f02b-f088-6f9c2caa409c\">https://hdl.handle.net/21.12102/3dabc8d5-8238-f02b-f088-6f9c2caa409c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e716ab1-6582-8397-834c-9c185b5f3096/NL-HlmNHA_1478_07733B02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e716ab1-6582-8397-834c-9c185b5f3096/NL-HlmNHA_1478_07733B02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e3da8bd3-cb82-c0c9-1352-eef7d75a0de7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2927,
+                "width": 2283,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e3da8bd3-cb82-c0c9-1352-eef7d75a0de7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e716ab1-6582-8397-834c-9c185b5f3096/NL-HlmNHA_1478_07733B02_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e716ab1-6582-8397-834c-9c185b5f3096/NL-HlmNHA_1478_07733B01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Reclame Gevaert en Handelsblad C.S [Centraal station] Amsterdam"
+        ]
+      },
+      "height": 2915,
+      "width": 2283,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/662e2bb1-d823-d0dd-45b3-5e007dd8c1cc\">https://hdl.handle.net/21.12102/662e2bb1-d823-d0dd-45b3-5e007dd8c1cc</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e716ab1-6582-8397-834c-9c185b5f3096/NL-HlmNHA_1478_07733B01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e716ab1-6582-8397-834c-9c185b5f3096/NL-HlmNHA_1478_07733B01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d30517c2-9f8a-e432-94cb-1cfe4cfe5087/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2915,
+                "width": 2283,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d30517c2-9f8a-e432-94cb-1cfe4cfe5087",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1e716ab1-6582-8397-834c-9c185b5f3096/NL-HlmNHA_1478_07733B01_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

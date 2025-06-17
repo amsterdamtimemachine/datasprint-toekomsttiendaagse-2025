@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/3741afbf-40d5-e3ff-66cd-5abc2738ed10.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Rijksmuseum, Amsterdam (1969-11)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Rijksmuseum, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1969-11"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Stampwerk N.V."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3741afbf-40d5-e3ff-66cd-5abc2738ed10/NL-HlmNHA_1478_02575A00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rijksmuseum, Amsterdam"
+        ]
+      },
+      "height": 2474,
+      "width": 2474,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/39021e10-2773-535e-1d6b-347f7e00088d\">https://hdl.handle.net/21.12102/39021e10-2773-535e-1d6b-347f7e00088d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3741afbf-40d5-e3ff-66cd-5abc2738ed10/NL-HlmNHA_1478_02575A00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3741afbf-40d5-e3ff-66cd-5abc2738ed10/NL-HlmNHA_1478_02575A00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/252e21ff-8890-3598-5762-ed02cf022c5e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2474,
+                "width": 2474,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/252e21ff-8890-3598-5762-ed02cf022c5e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3741afbf-40d5-e3ff-66cd-5abc2738ed10/NL-HlmNHA_1478_02575A00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3741afbf-40d5-e3ff-66cd-5abc2738ed10/NL-HlmNHA_1478_02575A00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rijksmuseum, Amsterdam"
+        ]
+      },
+      "height": 2471,
+      "width": 2471,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3dfc6070-6d57-54bd-f11f-ba44aacc1ffe\">https://hdl.handle.net/21.12102/3dfc6070-6d57-54bd-f11f-ba44aacc1ffe</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3741afbf-40d5-e3ff-66cd-5abc2738ed10/NL-HlmNHA_1478_02575A00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3741afbf-40d5-e3ff-66cd-5abc2738ed10/NL-HlmNHA_1478_02575A00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/94bae7ab-dc3c-08aa-be2c-ea7fe328dc8d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2471,
+                "width": 2471,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/94bae7ab-dc3c-08aa-be2c-ea7fe328dc8d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3741afbf-40d5-e3ff-66cd-5abc2738ed10/NL-HlmNHA_1478_02575A00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3741afbf-40d5-e3ff-66cd-5abc2738ed10/NL-HlmNHA_1478_02575A00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rijksmuseum, Amsterdam"
+        ]
+      },
+      "height": 2489,
+      "width": 2489,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7c6f36ff-1dbc-b539-8e34-134c64293dd3\">https://hdl.handle.net/21.12102/7c6f36ff-1dbc-b539-8e34-134c64293dd3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3741afbf-40d5-e3ff-66cd-5abc2738ed10/NL-HlmNHA_1478_02575A00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3741afbf-40d5-e3ff-66cd-5abc2738ed10/NL-HlmNHA_1478_02575A00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/202e2f64-db15-ef32-f435-7b393c387a70/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2489,
+                "width": 2489,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/202e2f64-db15-ef32-f435-7b393c387a70",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3741afbf-40d5-e3ff-66cd-5abc2738ed10/NL-HlmNHA_1478_02575A00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3741afbf-40d5-e3ff-66cd-5abc2738ed10/NL-HlmNHA_1478_02575A00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rijksmuseum, Amsterdam"
+        ]
+      },
+      "height": 2471,
+      "width": 2471,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/edf1845d-3d38-d2da-7d78-cad6550b32f5\">https://hdl.handle.net/21.12102/edf1845d-3d38-d2da-7d78-cad6550b32f5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3741afbf-40d5-e3ff-66cd-5abc2738ed10/NL-HlmNHA_1478_02575A00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3741afbf-40d5-e3ff-66cd-5abc2738ed10/NL-HlmNHA_1478_02575A00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d39f6a8e-9921-7fe4-824f-e83306ee440a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2471,
+                "width": 2471,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d39f6a8e-9921-7fe4-824f-e83306ee440a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3741afbf-40d5-e3ff-66cd-5abc2738ed10/NL-HlmNHA_1478_02575A00_02/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

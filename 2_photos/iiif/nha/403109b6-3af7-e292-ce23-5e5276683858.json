@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/403109b6-3af7-e292-ce23-5e5276683858.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Werkzaanheden Leidseplein Amsterdam (1979-06-05)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Werkzaanheden Leidseplein Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1979-06-05"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q1409805\">Leidseplein</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.882969,
+            52.364133
+          ]
+        },
+        "properties": {
+          "title": "Leidseplein",
+          "url": "http://www.wikidata.org/entity/Q1409805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/403109b6-3af7-e292-ce23-5e5276683858/NL-HlmNHA_1478_18041K00_26/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Werkzaanheden Leidseplein Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/24e3cfa1-2d95-03ea-916f-1f47916ca61d\">https://hdl.handle.net/21.12102/24e3cfa1-2d95-03ea-916f-1f47916ca61d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/403109b6-3af7-e292-ce23-5e5276683858/NL-HlmNHA_1478_18041K00_26/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/403109b6-3af7-e292-ce23-5e5276683858/NL-HlmNHA_1478_18041K00_26/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/02a688ae-b941-5a06-591f-cf8e93555db7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/02a688ae-b941-5a06-591f-cf8e93555db7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/403109b6-3af7-e292-ce23-5e5276683858/NL-HlmNHA_1478_18041K00_26/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/403109b6-3af7-e292-ce23-5e5276683858/NL-HlmNHA_1478_18041K00_27/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Werkzaanheden Leidseplein Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c4931738-4ac1-32eb-5507-17bedad2eec5\">https://hdl.handle.net/21.12102/c4931738-4ac1-32eb-5507-17bedad2eec5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/403109b6-3af7-e292-ce23-5e5276683858/NL-HlmNHA_1478_18041K00_27/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/403109b6-3af7-e292-ce23-5e5276683858/NL-HlmNHA_1478_18041K00_27/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7a1e4715-107c-ec4c-6207-1e6b83abaf98/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7a1e4715-107c-ec4c-6207-1e6b83abaf98",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/403109b6-3af7-e292-ce23-5e5276683858/NL-HlmNHA_1478_18041K00_27/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

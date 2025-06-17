@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/0ab39bc9-33a2-41bf-9353-a3b65abca818.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Wassen beeld van Yvonne van Gennip (1997-09-03)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Wassen beeld van Yvonne van Gennip"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1997-09-03"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0ab39bc9-33a2-41bf-9353-a3b65abca818/NL-HlmNHA_1478_44591K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Wassen beeld van Yvonne van Gennip"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/37684418-5e9f-7ca0-fd2f-b472e1ceefd6\">https://hdl.handle.net/21.12102/37684418-5e9f-7ca0-fd2f-b472e1ceefd6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0ab39bc9-33a2-41bf-9353-a3b65abca818/NL-HlmNHA_1478_44591K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0ab39bc9-33a2-41bf-9353-a3b65abca818/NL-HlmNHA_1478_44591K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9d42b69c-02ff-978b-ff28-338fdc7dd536/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9d42b69c-02ff-978b-ff28-338fdc7dd536",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0ab39bc9-33a2-41bf-9353-a3b65abca818/NL-HlmNHA_1478_44591K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0ab39bc9-33a2-41bf-9353-a3b65abca818/NL-HlmNHA_1478_44591K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Wassen beeld van Yvonne van Gennip"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/61a5d81d-1bf9-72c3-2939-a1f0243d9eff\">https://hdl.handle.net/21.12102/61a5d81d-1bf9-72c3-2939-a1f0243d9eff</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0ab39bc9-33a2-41bf-9353-a3b65abca818/NL-HlmNHA_1478_44591K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0ab39bc9-33a2-41bf-9353-a3b65abca818/NL-HlmNHA_1478_44591K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/20d2f491-7a3d-5d9d-e39c-230e1402a6a2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/20d2f491-7a3d-5d9d-e39c-230e1402a6a2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0ab39bc9-33a2-41bf-9353-a3b65abca818/NL-HlmNHA_1478_44591K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0ab39bc9-33a2-41bf-9353-a3b65abca818/NL-HlmNHA_1478_44591K00_21/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Wassen beeld van Yvonne van Gennip"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/98200af7-c9fe-d3d7-4351-acfdc5299e8c\">https://hdl.handle.net/21.12102/98200af7-c9fe-d3d7-4351-acfdc5299e8c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0ab39bc9-33a2-41bf-9353-a3b65abca818/NL-HlmNHA_1478_44591K00_21/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0ab39bc9-33a2-41bf-9353-a3b65abca818/NL-HlmNHA_1478_44591K00_21/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/eb8f066d-0fba-9280-89f0-408d0d20aa35/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/eb8f066d-0fba-9280-89f0-408d0d20aa35",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0ab39bc9-33a2-41bf-9353-a3b65abca818/NL-HlmNHA_1478_44591K00_21/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0ab39bc9-33a2-41bf-9353-a3b65abca818/NL-HlmNHA_1478_44591K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Wassen beeld van Yvonne van Gennip"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a94e397f-eb9b-8fbc-4149-14caf618ce76\">https://hdl.handle.net/21.12102/a94e397f-eb9b-8fbc-4149-14caf618ce76</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0ab39bc9-33a2-41bf-9353-a3b65abca818/NL-HlmNHA_1478_44591K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0ab39bc9-33a2-41bf-9353-a3b65abca818/NL-HlmNHA_1478_44591K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/51a572b5-948a-69fd-dcfe-a524ba13036d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/51a572b5-948a-69fd-dcfe-a524ba13036d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0ab39bc9-33a2-41bf-9353-a3b65abca818/NL-HlmNHA_1478_44591K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0ab39bc9-33a2-41bf-9353-a3b65abca818/NL-HlmNHA_1478_44591K00_22/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Wassen beeld van Yvonne van Gennip"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e70b143d-53c6-cc9e-4196-c11569cc699f\">https://hdl.handle.net/21.12102/e70b143d-53c6-cc9e-4196-c11569cc699f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0ab39bc9-33a2-41bf-9353-a3b65abca818/NL-HlmNHA_1478_44591K00_22/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0ab39bc9-33a2-41bf-9353-a3b65abca818/NL-HlmNHA_1478_44591K00_22/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/59d53860-83fb-9e41-9175-de6d57d73b9c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/59d53860-83fb-9e41-9175-de6d57d73b9c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0ab39bc9-33a2-41bf-9353-a3b65abca818/NL-HlmNHA_1478_44591K00_22/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0ab39bc9-33a2-41bf-9353-a3b65abca818/NL-HlmNHA_1478_44591K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Wassen beeld van Yvonne van Gennip"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/fa2cfd7f-71eb-d9dc-8fef-a788a18c0095\">https://hdl.handle.net/21.12102/fa2cfd7f-71eb-d9dc-8fef-a788a18c0095</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0ab39bc9-33a2-41bf-9353-a3b65abca818/NL-HlmNHA_1478_44591K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0ab39bc9-33a2-41bf-9353-a3b65abca818/NL-HlmNHA_1478_44591K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/20b82b9f-5dfc-c4b6-27aa-3e92bfc00d36/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/20b82b9f-5dfc-c4b6-27aa-3e92bfc00d36",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0ab39bc9-33a2-41bf-9353-a3b65abca818/NL-HlmNHA_1478_44591K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

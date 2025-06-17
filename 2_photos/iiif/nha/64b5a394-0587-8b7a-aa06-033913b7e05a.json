@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/64b5a394-0587-8b7a-aa06-033913b7e05a.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Straatnaambord Rinse Hofstraweg Rozenburg (1987-04-09)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Straatnaambord Rinse Hofstraweg Rozenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1987-04-09"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Rinse Hofstraweg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7567,
+            52.28
+          ]
+        },
+        "properties": {
+          "title": "Rinse Hofstraweg",
+          "url": ""
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/64b5a394-0587-8b7a-aa06-033913b7e05a/NL-HlmNHA_1478_27490K00_37/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Straatnaambord Rinse Hofstraweg Rozenburg"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ede23320-04c9-d6d1-3eca-a9b5bd6c3f39\">https://hdl.handle.net/21.12102/ede23320-04c9-d6d1-3eca-a9b5bd6c3f39</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/64b5a394-0587-8b7a-aa06-033913b7e05a/NL-HlmNHA_1478_27490K00_37/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/64b5a394-0587-8b7a-aa06-033913b7e05a/NL-HlmNHA_1478_27490K00_37/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/df0397cf-7966-e290-cd45-315b82b8670f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/df0397cf-7966-e290-cd45-315b82b8670f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/64b5a394-0587-8b7a-aa06-033913b7e05a/NL-HlmNHA_1478_27490K00_37/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

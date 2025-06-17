@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/abeb23fb-3bed-3ec2-5825-57bdc9003e9f.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Vuurwerk Mercurius, Lijnden (2001-09-27)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Vuurwerk Mercurius, Lijnden"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2001-09-27"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q1981949\">Lijnden</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7597,
+            52.3522
+          ]
+        },
+        "properties": {
+          "title": "Lijnden",
+          "url": "http://www.wikidata.org/entity/Q1981949"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abeb23fb-3bed-3ec2-5825-57bdc9003e9f/NL-HlmNHA_1478_49806K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vuurwerk Mercurius, Lijnden"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/43a1b6e4-7563-c216-67c4-8db3753a83d4\">https://hdl.handle.net/21.12102/43a1b6e4-7563-c216-67c4-8db3753a83d4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abeb23fb-3bed-3ec2-5825-57bdc9003e9f/NL-HlmNHA_1478_49806K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abeb23fb-3bed-3ec2-5825-57bdc9003e9f/NL-HlmNHA_1478_49806K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a48cb780-ba9a-5dc0-f515-1642abe81813/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a48cb780-ba9a-5dc0-f515-1642abe81813",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abeb23fb-3bed-3ec2-5825-57bdc9003e9f/NL-HlmNHA_1478_49806K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abeb23fb-3bed-3ec2-5825-57bdc9003e9f/NL-HlmNHA_1478_49806K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vuurwerk Mercurius, Lijnden"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/67df255c-96dc-d89a-094c-cecce9239c7a\">https://hdl.handle.net/21.12102/67df255c-96dc-d89a-094c-cecce9239c7a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abeb23fb-3bed-3ec2-5825-57bdc9003e9f/NL-HlmNHA_1478_49806K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abeb23fb-3bed-3ec2-5825-57bdc9003e9f/NL-HlmNHA_1478_49806K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/52a3b4e8-689b-ad22-f61c-15d6fbfc58ea/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/52a3b4e8-689b-ad22-f61c-15d6fbfc58ea",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abeb23fb-3bed-3ec2-5825-57bdc9003e9f/NL-HlmNHA_1478_49806K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abeb23fb-3bed-3ec2-5825-57bdc9003e9f/NL-HlmNHA_1478_49806K00_22/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vuurwerk Mercurius, Lijnden"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8b9d6eea-dbc0-990c-1d44-79f6286b3ae5\">https://hdl.handle.net/21.12102/8b9d6eea-dbc0-990c-1d44-79f6286b3ae5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abeb23fb-3bed-3ec2-5825-57bdc9003e9f/NL-HlmNHA_1478_49806K00_22/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abeb23fb-3bed-3ec2-5825-57bdc9003e9f/NL-HlmNHA_1478_49806K00_22/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c9c103d0-2d95-bd73-c5c7-d11629597a7b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c9c103d0-2d95-bd73-c5c7-d11629597a7b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abeb23fb-3bed-3ec2-5825-57bdc9003e9f/NL-HlmNHA_1478_49806K00_22/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abeb23fb-3bed-3ec2-5825-57bdc9003e9f/NL-HlmNHA_1478_49806K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vuurwerk Mercurius, Lijnden"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b9118e5b-ba90-43bc-141c-37a89e63292a\">https://hdl.handle.net/21.12102/b9118e5b-ba90-43bc-141c-37a89e63292a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abeb23fb-3bed-3ec2-5825-57bdc9003e9f/NL-HlmNHA_1478_49806K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abeb23fb-3bed-3ec2-5825-57bdc9003e9f/NL-HlmNHA_1478_49806K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c6d1757a-0704-40ec-165e-9cec22040e6b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c6d1757a-0704-40ec-165e-9cec22040e6b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abeb23fb-3bed-3ec2-5825-57bdc9003e9f/NL-HlmNHA_1478_49806K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abeb23fb-3bed-3ec2-5825-57bdc9003e9f/NL-HlmNHA_1478_49806K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vuurwerk Mercurius, Lijnden"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/eb3b22d2-85df-5af1-613d-d5fde1962688\">https://hdl.handle.net/21.12102/eb3b22d2-85df-5af1-613d-d5fde1962688</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abeb23fb-3bed-3ec2-5825-57bdc9003e9f/NL-HlmNHA_1478_49806K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abeb23fb-3bed-3ec2-5825-57bdc9003e9f/NL-HlmNHA_1478_49806K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/634df08d-be23-360e-48fe-87d619bf57e7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/634df08d-be23-360e-48fe-87d619bf57e7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abeb23fb-3bed-3ec2-5825-57bdc9003e9f/NL-HlmNHA_1478_49806K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abeb23fb-3bed-3ec2-5825-57bdc9003e9f/NL-HlmNHA_1478_49806K00_21/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vuurwerk Mercurius, Lijnden"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f9ae5e7e-5233-5543-c483-1b9c5453634d\">https://hdl.handle.net/21.12102/f9ae5e7e-5233-5543-c483-1b9c5453634d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abeb23fb-3bed-3ec2-5825-57bdc9003e9f/NL-HlmNHA_1478_49806K00_21/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abeb23fb-3bed-3ec2-5825-57bdc9003e9f/NL-HlmNHA_1478_49806K00_21/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1110de28-e48c-4bfa-1d4a-ab3c8939abd5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1110de28-e48c-4bfa-1d4a-ab3c8939abd5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/abeb23fb-3bed-3ec2-5825-57bdc9003e9f/NL-HlmNHA_1478_49806K00_21/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,520 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Modellenshow Gerda Siemer Amsterdam (1956-09-03)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Modellenshow Gerda Siemer Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1956-09-03"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Modellen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/28152"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Modellenshow Gerda Siemer Amsterdam"
+        ]
+      },
+      "height": 2603,
+      "width": 2603,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0b218e94-6a7b-2cdc-bf62-c6178789217e\">https://hdl.handle.net/21.12102/0b218e94-6a7b-2cdc-bf62-c6178789217e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e5ee7510-e3cf-aa75-158f-f12bfa996661/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2603,
+                "width": 2603,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e5ee7510-e3cf-aa75-158f-f12bfa996661",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Modellenshow Gerda Siemer Amsterdam"
+        ]
+      },
+      "height": 2627,
+      "width": 2627,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/94906dcb-67b4-1345-c3fd-d015458ea490\">https://hdl.handle.net/21.12102/94906dcb-67b4-1345-c3fd-d015458ea490</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ec564a8e-a470-3199-272a-8a0bb20ed067/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2627,
+                "width": 2627,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ec564a8e-a470-3199-272a-8a0bb20ed067",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_08/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Modellenshow Gerda Siemer Amsterdam"
+        ]
+      },
+      "height": 2631,
+      "width": 2631,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a608e91b-7622-7275-b8be-ad88df8b8bed\">https://hdl.handle.net/21.12102/a608e91b-7622-7275-b8be-ad88df8b8bed</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/41422c73-d645-a8a7-3793-ef7c38c6aa5e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2631,
+                "width": 2631,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/41422c73-d645-a8a7-3793-ef7c38c6aa5e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Modellenshow Gerda Siemer Amsterdam"
+        ]
+      },
+      "height": 2633,
+      "width": 2633,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c427f149-6700-916f-249a-30cf1c6dc99b\">https://hdl.handle.net/21.12102/c427f149-6700-916f-249a-30cf1c6dc99b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d70c2b58-f226-8d7e-3ebf-980135fc0c73/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2633,
+                "width": 2633,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d70c2b58-f226-8d7e-3ebf-980135fc0c73",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Modellenshow Gerda Siemer Amsterdam"
+        ]
+      },
+      "height": 2602,
+      "width": 2602,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d369355e-416c-1b37-e363-59afc70dd532\">https://hdl.handle.net/21.12102/d369355e-416c-1b37-e363-59afc70dd532</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9962d6d1-640b-2aa1-75b8-8f0339bcdcc6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2602,
+                "width": 2602,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9962d6d1-640b-2aa1-75b8-8f0339bcdcc6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Modellenshow Gerda Siemer Amsterdam"
+        ]
+      },
+      "height": 2617,
+      "width": 2617,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/dc8b8e64-dcc0-65c0-d49d-8eb46767516d\">https://hdl.handle.net/21.12102/dc8b8e64-dcc0-65c0-d49d-8eb46767516d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e2137140-c7a0-7ade-da12-8f6d2da621f2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2617,
+                "width": 2617,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e2137140-c7a0-7ade-da12-8f6d2da621f2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Modellenshow Gerda Siemer Amsterdam"
+        ]
+      },
+      "height": 2607,
+      "width": 2607,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/eb1bed09-7770-e62a-bddb-1a1a70f38a59\">https://hdl.handle.net/21.12102/eb1bed09-7770-e62a-bddb-1a1a70f38a59</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6ff0e6f8-51ac-2443-513a-a1b0f8e05f4f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2607,
+                "width": 2607,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6ff0e6f8-51ac-2443-513a-a1b0f8e05f4f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Modellenshow Gerda Siemer Amsterdam"
+        ]
+      },
+      "height": 2602,
+      "width": 2602,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f10cd871-9901-3ccb-48b6-f0896fa3cbfb\">https://hdl.handle.net/21.12102/f10cd871-9901-3ccb-48b6-f0896fa3cbfb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e305c9b1-a512-91b7-2739-99ab68b7556d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2602,
+                "width": 2602,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e305c9b1-a512-91b7-2739-99ab68b7556d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0fe20b3a-1d64-3cc3-cdc6-53685affd2a3/NL-HlmNHA_1478_01549A00_03/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

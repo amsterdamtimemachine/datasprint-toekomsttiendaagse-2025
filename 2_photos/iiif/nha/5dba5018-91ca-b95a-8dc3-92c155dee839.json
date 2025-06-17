@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/5dba5018-91ca-b95a-8dc3-92c155dee839.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Afscheid van burgemeester L.H. Simons van Spaarnwoude en Haarlemmerliede wegens het bereiken van de pensioengerechtigde leeftijd. Burgemeesters. (1953-11-28)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Afscheid van burgemeester L.H. Simons van Spaarnwoude en Haarlemmerliede wegens het bereiken van de pensioengerechtigde leeftijd. Burgemeesters."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1953-11-28"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2367253\">Halfweg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.755,
+            52.3828
+          ]
+        },
+        "properties": {
+          "title": "Halfweg",
+          "url": "http://www.wikidata.org/entity/Q2367253"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5dba5018-91ca-b95a-8dc3-92c155dee839/NL-HlmNHA_1478_09716B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Afscheid van burgemeester L.H. Simons van Spaarnwoude en Haarlemmerliede wegens het bereiken van de pensioengerechtigde leeftijd. Burgemeesters."
+        ]
+      },
+      "height": 2093,
+      "width": 2705,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/de479c06-334c-d745-373f-10b6ee5c9421\">https://hdl.handle.net/21.12102/de479c06-334c-d745-373f-10b6ee5c9421</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5dba5018-91ca-b95a-8dc3-92c155dee839/NL-HlmNHA_1478_09716B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5dba5018-91ca-b95a-8dc3-92c155dee839/NL-HlmNHA_1478_09716B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c5b84046-d73e-d506-acc5-13d0a8746253/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2093,
+                "width": 2705,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c5b84046-d73e-d506-acc5-13d0a8746253",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5dba5018-91ca-b95a-8dc3-92c155dee839/NL-HlmNHA_1478_09716B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

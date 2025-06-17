@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/f8561f45-2398-0728-2d68-e2237753ef39.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "De Zoete Inval bij -28 graden Celsius (1991-09-23)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "De Zoete Inval bij -28 graden Celsius"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1991-09-23"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q19400326\">Oude Haarlemmerstraatweg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7396,
+            52.3867
+          ]
+        },
+        "properties": {
+          "title": "Oude Haarlemmerstraatweg",
+          "url": "http://www.wikidata.org/entity/Q19400326"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f8561f45-2398-0728-2d68-e2237753ef39/NL-HlmNHA_1478_35120K00_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De Zoete Inval bij -28 graden Celsius"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/44e95c7d-aed1-c2fa-9e95-77a72ae378bf\">https://hdl.handle.net/21.12102/44e95c7d-aed1-c2fa-9e95-77a72ae378bf</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f8561f45-2398-0728-2d68-e2237753ef39/NL-HlmNHA_1478_35120K00_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f8561f45-2398-0728-2d68-e2237753ef39/NL-HlmNHA_1478_35120K00_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b4627ec1-9ba8-8197-9d19-da04cc0feb9e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b4627ec1-9ba8-8197-9d19-da04cc0feb9e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f8561f45-2398-0728-2d68-e2237753ef39/NL-HlmNHA_1478_35120K00_30/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f8561f45-2398-0728-2d68-e2237753ef39/NL-HlmNHA_1478_35120K00_31/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De Zoete Inval bij -28 graden Celsius"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/fb6c6aa5-9ca1-5620-b06b-201bfd30a6a9\">https://hdl.handle.net/21.12102/fb6c6aa5-9ca1-5620-b06b-201bfd30a6a9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f8561f45-2398-0728-2d68-e2237753ef39/NL-HlmNHA_1478_35120K00_31/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f8561f45-2398-0728-2d68-e2237753ef39/NL-HlmNHA_1478_35120K00_31/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/834979d4-e05d-7eb0-1c11-c844b5664703/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/834979d4-e05d-7eb0-1c11-c844b5664703",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f8561f45-2398-0728-2d68-e2237753ef39/NL-HlmNHA_1478_35120K00_31/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

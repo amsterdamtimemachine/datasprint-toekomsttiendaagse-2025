@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/f6fe2da4-deaa-131a-ab14-4dc3bf361805.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Robert Long Jer\u00f4me Reehuis Jenny Arean Dimitri Frenkel Frank op de Dam voor het Kon. Paleis (1976)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Robert Long Jer\u00f4me Reehuis Jenny Arean Dimitri Frenkel Frank op de Dam voor het Kon. Paleis"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1976"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q901461\">Damrak</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.897113,
+            52.376071
+          ]
+        },
+        "properties": {
+          "title": "Damrak",
+          "url": "http://www.wikidata.org/entity/Q901461"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f6fe2da4-deaa-131a-ab14-4dc3bf361805/NL-HlmNHA_1478_03239A00_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Robert Long Jer\u00f4me Reehuis Jenny Arean Dimitri Frenkel Frank op de Dam voor het Kon. Paleis"
+        ]
+      },
+      "height": 2588,
+      "width": 2588,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/53f68624-0ca1-4643-d09c-cf3cef58d286\">https://hdl.handle.net/21.12102/53f68624-0ca1-4643-d09c-cf3cef58d286</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f6fe2da4-deaa-131a-ab14-4dc3bf361805/NL-HlmNHA_1478_03239A00_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f6fe2da4-deaa-131a-ab14-4dc3bf361805/NL-HlmNHA_1478_03239A00_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/75b3ed0c-4b4f-97f9-7a85-467ba3b8c132/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2588,
+                "width": 2588,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/75b3ed0c-4b4f-97f9-7a85-467ba3b8c132",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f6fe2da4-deaa-131a-ab14-4dc3bf361805/NL-HlmNHA_1478_03239A00_11/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f6fe2da4-deaa-131a-ab14-4dc3bf361805/NL-HlmNHA_1478_03239A00_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Robert Long Jer\u00f4me Reehuis Jenny Arean Dimitri Frenkel Frank op de Dam voor het Kon. Paleis"
+        ]
+      },
+      "height": 2583,
+      "width": 2583,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e4715ba7-01c2-4b2a-8da9-80221abd057d\">https://hdl.handle.net/21.12102/e4715ba7-01c2-4b2a-8da9-80221abd057d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f6fe2da4-deaa-131a-ab14-4dc3bf361805/NL-HlmNHA_1478_03239A00_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f6fe2da4-deaa-131a-ab14-4dc3bf361805/NL-HlmNHA_1478_03239A00_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/bb600d3c-0b3e-7cb6-9ae4-d62515349c7a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2583,
+                "width": 2583,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/bb600d3c-0b3e-7cb6-9ae4-d62515349c7a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f6fe2da4-deaa-131a-ab14-4dc3bf361805/NL-HlmNHA_1478_03239A00_12/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

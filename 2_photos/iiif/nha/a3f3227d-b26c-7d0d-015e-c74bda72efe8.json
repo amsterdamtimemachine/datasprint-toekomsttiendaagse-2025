@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/a3f3227d-b26c-7d0d-015e-c74bda72efe8.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Portret van dokter Hoekstra, Kerkhoflaan, Zwanenburg (1976-07-23)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Portret van dokter Hoekstra, Kerkhoflaan, Zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1976-07-23"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q19294340\">Kerkhoflaan</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Portretten, Doktoren"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/27140, http://data.beeldengeluid.nl/gtaa/25168"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7481,
+            52.3791
+          ]
+        },
+        "properties": {
+          "title": "Kerkhoflaan",
+          "url": "http://www.wikidata.org/entity/Q19294340"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a3f3227d-b26c-7d0d-015e-c74bda72efe8/NL-HlmNHA_1478_14762K01_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van dokter Hoekstra, Kerkhoflaan, Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/36fe5841-b33b-6d8f-9731-05ff79806789\">https://hdl.handle.net/21.12102/36fe5841-b33b-6d8f-9731-05ff79806789</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a3f3227d-b26c-7d0d-015e-c74bda72efe8/NL-HlmNHA_1478_14762K01_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a3f3227d-b26c-7d0d-015e-c74bda72efe8/NL-HlmNHA_1478_14762K01_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/892bd1bd-7d2b-71f9-65aa-d7e81cc66ab8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/892bd1bd-7d2b-71f9-65aa-d7e81cc66ab8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a3f3227d-b26c-7d0d-015e-c74bda72efe8/NL-HlmNHA_1478_14762K01_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a3f3227d-b26c-7d0d-015e-c74bda72efe8/NL-HlmNHA_1478_14762K01_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van dokter Hoekstra, Kerkhoflaan, Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/715b6279-d658-c6c0-770f-c3d01f297507\">https://hdl.handle.net/21.12102/715b6279-d658-c6c0-770f-c3d01f297507</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a3f3227d-b26c-7d0d-015e-c74bda72efe8/NL-HlmNHA_1478_14762K01_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a3f3227d-b26c-7d0d-015e-c74bda72efe8/NL-HlmNHA_1478_14762K01_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d6241cc5-57ff-c72f-cc4c-dd416dad9492/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d6241cc5-57ff-c72f-cc4c-dd416dad9492",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a3f3227d-b26c-7d0d-015e-c74bda72efe8/NL-HlmNHA_1478_14762K01_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a3f3227d-b26c-7d0d-015e-c74bda72efe8/NL-HlmNHA_1478_14762K01_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van dokter Hoekstra, Kerkhoflaan, Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/83f31e7e-c78a-8f0a-502b-cae0389e96e4\">https://hdl.handle.net/21.12102/83f31e7e-c78a-8f0a-502b-cae0389e96e4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a3f3227d-b26c-7d0d-015e-c74bda72efe8/NL-HlmNHA_1478_14762K01_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a3f3227d-b26c-7d0d-015e-c74bda72efe8/NL-HlmNHA_1478_14762K01_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/02a28f95-9d59-eaa2-7d88-296bc237a985/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/02a28f95-9d59-eaa2-7d88-296bc237a985",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a3f3227d-b26c-7d0d-015e-c74bda72efe8/NL-HlmNHA_1478_14762K01_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a3f3227d-b26c-7d0d-015e-c74bda72efe8/NL-HlmNHA_1478_14762K01_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van dokter Hoekstra, Kerkhoflaan, Zwanenburg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f75925b2-16d3-66c7-e97f-1a701d406088\">https://hdl.handle.net/21.12102/f75925b2-16d3-66c7-e97f-1a701d406088</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a3f3227d-b26c-7d0d-015e-c74bda72efe8/NL-HlmNHA_1478_14762K01_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a3f3227d-b26c-7d0d-015e-c74bda72efe8/NL-HlmNHA_1478_14762K01_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/47e424a4-ba25-19c6-66ab-813056dc9b20/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/47e424a4-ba25-19c6-66ab-813056dc9b20",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a3f3227d-b26c-7d0d-015e-c74bda72efe8/NL-HlmNHA_1478_14762K01_07/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

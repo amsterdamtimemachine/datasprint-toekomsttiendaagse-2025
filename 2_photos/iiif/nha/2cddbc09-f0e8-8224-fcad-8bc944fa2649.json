@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/2cddbc09-f0e8-8224-fcad-8bc944fa2649.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Luchtfoto centrum Amsterdam, gezien in zuidelijke richting, met Amstel door het midden (1974)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Luchtfoto centrum Amsterdam, gezien in zuidelijke richting, met Amstel door het midden"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1974"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2cddbc09-f0e8-8224-fcad-8bc944fa2649/NL-HlmNHA_1478_02949A00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Luchtfoto centrum Amsterdam, gezien in zuidelijke richting, met Amstel door het midden"
+        ]
+      },
+      "height": 2473,
+      "width": 3102,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/08cb0ad6-5079-6b62-82d2-14f41c63a087\">https://hdl.handle.net/21.12102/08cb0ad6-5079-6b62-82d2-14f41c63a087</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2cddbc09-f0e8-8224-fcad-8bc944fa2649/NL-HlmNHA_1478_02949A00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2cddbc09-f0e8-8224-fcad-8bc944fa2649/NL-HlmNHA_1478_02949A00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/cbe3ff57-0152-4d35-0877-61c7e9098bc5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2473,
+                "width": 3102,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/cbe3ff57-0152-4d35-0877-61c7e9098bc5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2cddbc09-f0e8-8224-fcad-8bc944fa2649/NL-HlmNHA_1478_02949A00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2cddbc09-f0e8-8224-fcad-8bc944fa2649/NL-HlmNHA_1478_02949A00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Luchtfoto centrum Amsterdam, gezien in zuidelijke richting, met Amstel door het midden"
+        ]
+      },
+      "height": 2492,
+      "width": 3126,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/bd7c96ca-b7fb-6613-524a-984279110da7\">https://hdl.handle.net/21.12102/bd7c96ca-b7fb-6613-524a-984279110da7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2cddbc09-f0e8-8224-fcad-8bc944fa2649/NL-HlmNHA_1478_02949A00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2cddbc09-f0e8-8224-fcad-8bc944fa2649/NL-HlmNHA_1478_02949A00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0ab33979-9fb4-a796-63a3-29ad9daf4985/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2492,
+                "width": 3126,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0ab33979-9fb4-a796-63a3-29ad9daf4985",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2cddbc09-f0e8-8224-fcad-8bc944fa2649/NL-HlmNHA_1478_02949A00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2cddbc09-f0e8-8224-fcad-8bc944fa2649/NL-HlmNHA_1478_02949A00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Luchtfoto centrum Amsterdam, gezien in zuidelijke richting, met Amstel door het midden"
+        ]
+      },
+      "height": 2496,
+      "width": 3131,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f7a745ea-057e-9b24-1bdb-6cac768f75c2\">https://hdl.handle.net/21.12102/f7a745ea-057e-9b24-1bdb-6cac768f75c2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2cddbc09-f0e8-8224-fcad-8bc944fa2649/NL-HlmNHA_1478_02949A00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2cddbc09-f0e8-8224-fcad-8bc944fa2649/NL-HlmNHA_1478_02949A00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b05c675e-39ee-46db-24e1-7c9138b7aacc/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2496,
+                "width": 3131,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b05c675e-39ee-46db-24e1-7c9138b7aacc",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2cddbc09-f0e8-8224-fcad-8bc944fa2649/NL-HlmNHA_1478_02949A00_06/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

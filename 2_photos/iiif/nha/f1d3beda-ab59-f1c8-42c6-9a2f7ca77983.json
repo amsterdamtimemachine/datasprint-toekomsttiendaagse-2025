@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/f1d3beda-ab59-f1c8-42c6-9a2f7ca77983.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Stoomgemaal Halfweg gezien vanaf de Ringvaart (1976-02)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Stoomgemaal Halfweg gezien vanaf de Ringvaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1976-02"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2367253\">Halfweg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.755,
+            52.3828
+          ]
+        },
+        "properties": {
+          "title": "Halfweg",
+          "url": "http://www.wikidata.org/entity/Q2367253"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1d3beda-ab59-f1c8-42c6-9a2f7ca77983/NL-HlmNHA_1478_14382K01_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Stoomgemaal Halfweg gezien vanaf de Ringvaart"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/807b11df-6542-5460-dd3a-d2c5245f9907\">https://hdl.handle.net/21.12102/807b11df-6542-5460-dd3a-d2c5245f9907</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1d3beda-ab59-f1c8-42c6-9a2f7ca77983/NL-HlmNHA_1478_14382K01_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1d3beda-ab59-f1c8-42c6-9a2f7ca77983/NL-HlmNHA_1478_14382K01_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6815c560-a1b7-ea9d-5b37-bde0ee6c2a1d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6815c560-a1b7-ea9d-5b37-bde0ee6c2a1d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1d3beda-ab59-f1c8-42c6-9a2f7ca77983/NL-HlmNHA_1478_14382K01_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1d3beda-ab59-f1c8-42c6-9a2f7ca77983/NL-HlmNHA_1478_14382K01_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Stoomgemaal Halfweg gezien vanaf de Ringvaart"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a63bc293-6e7d-2b63-5d4a-178b40f64606\">https://hdl.handle.net/21.12102/a63bc293-6e7d-2b63-5d4a-178b40f64606</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1d3beda-ab59-f1c8-42c6-9a2f7ca77983/NL-HlmNHA_1478_14382K01_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1d3beda-ab59-f1c8-42c6-9a2f7ca77983/NL-HlmNHA_1478_14382K01_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b536fe27-c207-a4c8-1182-467016596aa2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b536fe27-c207-a4c8-1182-467016596aa2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1d3beda-ab59-f1c8-42c6-9a2f7ca77983/NL-HlmNHA_1478_14382K01_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1d3beda-ab59-f1c8-42c6-9a2f7ca77983/NL-HlmNHA_1478_14382K01_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Stoomgemaal Halfweg gezien vanaf de Ringvaart"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b3c4bed6-a0e1-ce72-caca-5eaeda57496b\">https://hdl.handle.net/21.12102/b3c4bed6-a0e1-ce72-caca-5eaeda57496b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1d3beda-ab59-f1c8-42c6-9a2f7ca77983/NL-HlmNHA_1478_14382K01_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1d3beda-ab59-f1c8-42c6-9a2f7ca77983/NL-HlmNHA_1478_14382K01_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fcadd1b6-02ad-f008-4883-b00458555558/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fcadd1b6-02ad-f008-4883-b00458555558",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f1d3beda-ab59-f1c8-42c6-9a2f7ca77983/NL-HlmNHA_1478_14382K01_15/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

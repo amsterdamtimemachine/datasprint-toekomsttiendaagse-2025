@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/a68cd1d8-3e61-e7c3-9bcc-49fb288e7dc7.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Het Nederlands honkbalteam mannen komt aan op Schiphol na in Barcelona Europees kampioen te zijn geworden. Herman Beidschat toont de beker die hij heeft gekregen als beste werper van het toernooi. Honkbal. (1960-09-27)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Het Nederlands honkbalteam mannen komt aan op Schiphol na in Barcelona Europees kampioen te zijn geworden. Herman Beidschat toont de beker die hij heeft gekregen als beste werper van het toernooi. Honkbal."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1960-09-27"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a68cd1d8-3e61-e7c3-9bcc-49fb288e7dc7/NL-HlmNHA_1478_00037K00_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Het Nederlands honkbalteam mannen komt aan op Schiphol na in Barcelona Europees kampioen te zijn geworden. Herman Beidschat toont de beker die hij heeft gekregen als beste werper van het toernooi. Honkbal."
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/06b2fde2-106e-9736-60ae-cec61e63c577\">https://hdl.handle.net/21.12102/06b2fde2-106e-9736-60ae-cec61e63c577</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a68cd1d8-3e61-e7c3-9bcc-49fb288e7dc7/NL-HlmNHA_1478_00037K00_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a68cd1d8-3e61-e7c3-9bcc-49fb288e7dc7/NL-HlmNHA_1478_00037K00_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5258287f-548b-17d6-71a3-8e30c734efe2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5258287f-548b-17d6-71a3-8e30c734efe2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a68cd1d8-3e61-e7c3-9bcc-49fb288e7dc7/NL-HlmNHA_1478_00037K00_09/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

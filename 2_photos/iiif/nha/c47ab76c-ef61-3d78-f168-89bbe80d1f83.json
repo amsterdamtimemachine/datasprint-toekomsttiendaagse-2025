@@ -1,0 +1,467 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/c47ab76c-ef61-3d78-f168-89bbe80d1f83.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Clown, A'dam (1991-12-10)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Clown, A'dam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1991-12-10"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c47ab76c-ef61-3d78-f168-89bbe80d1f83/NL-HlmNHA_1478_35544K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Clown, A'dam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1c9d9087-e7a6-2b0d-adb8-ed2160447d18\">https://hdl.handle.net/21.12102/1c9d9087-e7a6-2b0d-adb8-ed2160447d18</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c47ab76c-ef61-3d78-f168-89bbe80d1f83/NL-HlmNHA_1478_35544K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c47ab76c-ef61-3d78-f168-89bbe80d1f83/NL-HlmNHA_1478_35544K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b3fc07e8-2a39-f1c5-604d-2935e5fea5dc/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b3fc07e8-2a39-f1c5-604d-2935e5fea5dc",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c47ab76c-ef61-3d78-f168-89bbe80d1f83/NL-HlmNHA_1478_35544K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c47ab76c-ef61-3d78-f168-89bbe80d1f83/NL-HlmNHA_1478_35544K00_21/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Clown, A'dam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/31d2bfcf-627d-d9cd-6686-3b7e9cc88e3f\">https://hdl.handle.net/21.12102/31d2bfcf-627d-d9cd-6686-3b7e9cc88e3f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c47ab76c-ef61-3d78-f168-89bbe80d1f83/NL-HlmNHA_1478_35544K00_21/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c47ab76c-ef61-3d78-f168-89bbe80d1f83/NL-HlmNHA_1478_35544K00_21/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/72379039-d5a7-1d80-1420-d2cad195e71d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/72379039-d5a7-1d80-1420-d2cad195e71d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c47ab76c-ef61-3d78-f168-89bbe80d1f83/NL-HlmNHA_1478_35544K00_21/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c47ab76c-ef61-3d78-f168-89bbe80d1f83/NL-HlmNHA_1478_35544K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Clown, A'dam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/41ed0f57-7364-b3c0-5d7e-780725038a4d\">https://hdl.handle.net/21.12102/41ed0f57-7364-b3c0-5d7e-780725038a4d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c47ab76c-ef61-3d78-f168-89bbe80d1f83/NL-HlmNHA_1478_35544K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c47ab76c-ef61-3d78-f168-89bbe80d1f83/NL-HlmNHA_1478_35544K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b76e66a0-857e-b96e-2b02-826fd6aa098e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b76e66a0-857e-b96e-2b02-826fd6aa098e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c47ab76c-ef61-3d78-f168-89bbe80d1f83/NL-HlmNHA_1478_35544K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c47ab76c-ef61-3d78-f168-89bbe80d1f83/NL-HlmNHA_1478_35544K00_22/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Clown, A'dam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5b40f031-40c0-07be-0f9d-45bc70f10ed2\">https://hdl.handle.net/21.12102/5b40f031-40c0-07be-0f9d-45bc70f10ed2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c47ab76c-ef61-3d78-f168-89bbe80d1f83/NL-HlmNHA_1478_35544K00_22/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c47ab76c-ef61-3d78-f168-89bbe80d1f83/NL-HlmNHA_1478_35544K00_22/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/cce799f4-f356-e5a5-1c0c-ed9f707bc239/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/cce799f4-f356-e5a5-1c0c-ed9f707bc239",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c47ab76c-ef61-3d78-f168-89bbe80d1f83/NL-HlmNHA_1478_35544K00_22/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c47ab76c-ef61-3d78-f168-89bbe80d1f83/NL-HlmNHA_1478_35544K00_25/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Clown, A'dam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a6d68a4c-0ec6-712b-8734-87fe4350afdc\">https://hdl.handle.net/21.12102/a6d68a4c-0ec6-712b-8734-87fe4350afdc</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c47ab76c-ef61-3d78-f168-89bbe80d1f83/NL-HlmNHA_1478_35544K00_25/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c47ab76c-ef61-3d78-f168-89bbe80d1f83/NL-HlmNHA_1478_35544K00_25/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/14290623-6c86-2b95-6686-94e52072cf09/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/14290623-6c86-2b95-6686-94e52072cf09",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c47ab76c-ef61-3d78-f168-89bbe80d1f83/NL-HlmNHA_1478_35544K00_25/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c47ab76c-ef61-3d78-f168-89bbe80d1f83/NL-HlmNHA_1478_35544K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Clown, A'dam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ae1906c4-7054-9406-35b6-8413530c3d5b\">https://hdl.handle.net/21.12102/ae1906c4-7054-9406-35b6-8413530c3d5b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c47ab76c-ef61-3d78-f168-89bbe80d1f83/NL-HlmNHA_1478_35544K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c47ab76c-ef61-3d78-f168-89bbe80d1f83/NL-HlmNHA_1478_35544K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/515c2636-45b9-e726-8ffc-b19bda06efb8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/515c2636-45b9-e726-8ffc-b19bda06efb8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c47ab76c-ef61-3d78-f168-89bbe80d1f83/NL-HlmNHA_1478_35544K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c47ab76c-ef61-3d78-f168-89bbe80d1f83/NL-HlmNHA_1478_35544K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Clown, A'dam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c50caea7-5294-e77f-1251-bbc4080c6bfd\">https://hdl.handle.net/21.12102/c50caea7-5294-e77f-1251-bbc4080c6bfd</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c47ab76c-ef61-3d78-f168-89bbe80d1f83/NL-HlmNHA_1478_35544K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c47ab76c-ef61-3d78-f168-89bbe80d1f83/NL-HlmNHA_1478_35544K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ea3b0f9f-5252-fd82-1c3c-9a38db529288/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ea3b0f9f-5252-fd82-1c3c-9a38db529288",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c47ab76c-ef61-3d78-f168-89bbe80d1f83/NL-HlmNHA_1478_35544K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/8f596dd3-0b03-5137-9506-c6c63d29e5fc.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Het bloemencorso van Aalsmeer in het olympisch stadion in Amsterdam (1952-09)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Het bloemencorso van Aalsmeer in het olympisch stadion in Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1952-09"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8f596dd3-0b03-5137-9506-c6c63d29e5fc/NL-HlmNHA_1478_07776B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Het bloemencorso van Aalsmeer in het olympisch stadion in Amsterdam"
+        ]
+      },
+      "height": 2176,
+      "width": 2833,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/677a9a48-44eb-43bd-cf04-c023d7007138\">https://hdl.handle.net/21.12102/677a9a48-44eb-43bd-cf04-c023d7007138</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8f596dd3-0b03-5137-9506-c6c63d29e5fc/NL-HlmNHA_1478_07776B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8f596dd3-0b03-5137-9506-c6c63d29e5fc/NL-HlmNHA_1478_07776B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d97d5796-4517-17ac-434f-367a28f7c021/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2176,
+                "width": 2833,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d97d5796-4517-17ac-434f-367a28f7c021",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8f596dd3-0b03-5137-9506-c6c63d29e5fc/NL-HlmNHA_1478_07776B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

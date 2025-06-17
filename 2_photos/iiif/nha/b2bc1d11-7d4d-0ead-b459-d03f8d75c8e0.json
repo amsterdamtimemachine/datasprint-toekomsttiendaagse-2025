@@ -1,0 +1,467 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/b2bc1d11-7d4d-0ead-b459-d03f8d75c8e0.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Bezoek van H.M. Koningin Juliana en Z.K.H.Prins Bernhard aan Amsterdam (1953-09-11)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Bezoek van H.M. Koningin Juliana en Z.K.H.Prins Bernhard aan Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1953-09-11"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Koninklijke ontvangsten en Koninklijke bezoeken, United foto's"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2bc1d11-7d4d-0ead-b459-d03f8d75c8e0/NL-HlmNHA_1478_09256B14_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bezoek van H.M. Koningin Juliana en Z.K.H.Prins Bernhard aan Amsterdam"
+        ]
+      },
+      "height": 2220,
+      "width": 2807,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/02d5e030-338b-8b9d-c0e7-1bb302f7d489\">https://hdl.handle.net/21.12102/02d5e030-338b-8b9d-c0e7-1bb302f7d489</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2bc1d11-7d4d-0ead-b459-d03f8d75c8e0/NL-HlmNHA_1478_09256B14_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2bc1d11-7d4d-0ead-b459-d03f8d75c8e0/NL-HlmNHA_1478_09256B14_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/480b8b41-93d6-0669-1714-52079d787707/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2220,
+                "width": 2807,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/480b8b41-93d6-0669-1714-52079d787707",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2bc1d11-7d4d-0ead-b459-d03f8d75c8e0/NL-HlmNHA_1478_09256B14_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2bc1d11-7d4d-0ead-b459-d03f8d75c8e0/NL-HlmNHA_1478_09256B09_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bezoek van H.M. Koningin Juliana en Z.K.H.Prins Bernhard aan Amsterdam"
+        ]
+      },
+      "height": 2152,
+      "width": 2745,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1e406074-0df9-3fba-87ee-68b0c0daa37f\">https://hdl.handle.net/21.12102/1e406074-0df9-3fba-87ee-68b0c0daa37f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2bc1d11-7d4d-0ead-b459-d03f8d75c8e0/NL-HlmNHA_1478_09256B09_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2bc1d11-7d4d-0ead-b459-d03f8d75c8e0/NL-HlmNHA_1478_09256B09_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/042c91b3-3289-f885-6080-f9cdf68de3a2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2152,
+                "width": 2745,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/042c91b3-3289-f885-6080-f9cdf68de3a2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2bc1d11-7d4d-0ead-b459-d03f8d75c8e0/NL-HlmNHA_1478_09256B09_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2bc1d11-7d4d-0ead-b459-d03f8d75c8e0/NL-HlmNHA_1478_09256B01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bezoek van H.M. Koningin Juliana en Z.K.H.Prins Bernhard aan Amsterdam"
+        ]
+      },
+      "height": 2183,
+      "width": 2795,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/64eb6a2e-002e-347d-266f-cd4fa72ccd99\">https://hdl.handle.net/21.12102/64eb6a2e-002e-347d-266f-cd4fa72ccd99</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2bc1d11-7d4d-0ead-b459-d03f8d75c8e0/NL-HlmNHA_1478_09256B01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2bc1d11-7d4d-0ead-b459-d03f8d75c8e0/NL-HlmNHA_1478_09256B01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/129b9304-fec3-c7cd-34eb-cdd81f50c697/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2183,
+                "width": 2795,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/129b9304-fec3-c7cd-34eb-cdd81f50c697",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2bc1d11-7d4d-0ead-b459-d03f8d75c8e0/NL-HlmNHA_1478_09256B01_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2bc1d11-7d4d-0ead-b459-d03f8d75c8e0/NL-HlmNHA_1478_09256B10_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bezoek van H.M. Koningin Juliana en Z.K.H.Prins Bernhard aan Amsterdam"
+        ]
+      },
+      "height": 2095,
+      "width": 2757,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/67b70178-6f80-d099-f978-7d2e10c1c43d\">https://hdl.handle.net/21.12102/67b70178-6f80-d099-f978-7d2e10c1c43d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2bc1d11-7d4d-0ead-b459-d03f8d75c8e0/NL-HlmNHA_1478_09256B10_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2bc1d11-7d4d-0ead-b459-d03f8d75c8e0/NL-HlmNHA_1478_09256B10_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/81041f94-a702-0cda-743a-d32fc849581f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2095,
+                "width": 2757,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/81041f94-a702-0cda-743a-d32fc849581f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2bc1d11-7d4d-0ead-b459-d03f8d75c8e0/NL-HlmNHA_1478_09256B10_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2bc1d11-7d4d-0ead-b459-d03f8d75c8e0/NL-HlmNHA_1478_09256B12_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bezoek van H.M. Koningin Juliana en Z.K.H.Prins Bernhard aan Amsterdam"
+        ]
+      },
+      "height": 2139,
+      "width": 2814,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8f9fc288-507e-3ce6-1713-f8042988871c\">https://hdl.handle.net/21.12102/8f9fc288-507e-3ce6-1713-f8042988871c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2bc1d11-7d4d-0ead-b459-d03f8d75c8e0/NL-HlmNHA_1478_09256B12_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2bc1d11-7d4d-0ead-b459-d03f8d75c8e0/NL-HlmNHA_1478_09256B12_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3ba76904-1d98-ed70-ee2c-b83061b30fe9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2139,
+                "width": 2814,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3ba76904-1d98-ed70-ee2c-b83061b30fe9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2bc1d11-7d4d-0ead-b459-d03f8d75c8e0/NL-HlmNHA_1478_09256B12_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2bc1d11-7d4d-0ead-b459-d03f8d75c8e0/NL-HlmNHA_1478_09256B11_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bezoek van H.M. Koningin Juliana en Z.K.H.Prins Bernhard aan Amsterdam"
+        ]
+      },
+      "height": 2712,
+      "width": 2108,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b924d050-508c-d9c5-c0e3-cc7a63981946\">https://hdl.handle.net/21.12102/b924d050-508c-d9c5-c0e3-cc7a63981946</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2bc1d11-7d4d-0ead-b459-d03f8d75c8e0/NL-HlmNHA_1478_09256B11_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2bc1d11-7d4d-0ead-b459-d03f8d75c8e0/NL-HlmNHA_1478_09256B11_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c82c962b-7020-576d-ddfe-573282459afd/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2712,
+                "width": 2108,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c82c962b-7020-576d-ddfe-573282459afd",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2bc1d11-7d4d-0ead-b459-d03f8d75c8e0/NL-HlmNHA_1478_09256B11_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2bc1d11-7d4d-0ead-b459-d03f8d75c8e0/NL-HlmNHA_1478_09256B13_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bezoek van H.M. Koningin Juliana en Z.K.H.Prins Bernhard aan Amsterdam"
+        ]
+      },
+      "height": 2196,
+      "width": 2808,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e6a64e90-9e25-01ea-a30a-2af420cbe3ac\">https://hdl.handle.net/21.12102/e6a64e90-9e25-01ea-a30a-2af420cbe3ac</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2bc1d11-7d4d-0ead-b459-d03f8d75c8e0/NL-HlmNHA_1478_09256B13_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2bc1d11-7d4d-0ead-b459-d03f8d75c8e0/NL-HlmNHA_1478_09256B13_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f5194008-9b39-3109-65c1-a9c849f86c04/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2196,
+                "width": 2808,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f5194008-9b39-3109-65c1-a9c849f86c04",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2bc1d11-7d4d-0ead-b459-d03f8d75c8e0/NL-HlmNHA_1478_09256B13_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

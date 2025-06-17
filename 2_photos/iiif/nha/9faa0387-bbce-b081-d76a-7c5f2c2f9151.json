@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/9faa0387-bbce-b081-d76a-7c5f2c2f9151.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Tom Okker in kunstgalerie, A'dam (1996-09-09)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Tom Okker in kunstgalerie, A'dam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1996-09-09"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9faa0387-bbce-b081-d76a-7c5f2c2f9151/NL-HlmNHA_1478_43202K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tom Okker in kunstgalerie, A'dam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0ca4a815-9228-7b9f-8dba-416719bd9ae7\">https://hdl.handle.net/21.12102/0ca4a815-9228-7b9f-8dba-416719bd9ae7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9faa0387-bbce-b081-d76a-7c5f2c2f9151/NL-HlmNHA_1478_43202K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9faa0387-bbce-b081-d76a-7c5f2c2f9151/NL-HlmNHA_1478_43202K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4afd7546-43a0-382e-d836-0e21c1b311a2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4afd7546-43a0-382e-d836-0e21c1b311a2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9faa0387-bbce-b081-d76a-7c5f2c2f9151/NL-HlmNHA_1478_43202K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9faa0387-bbce-b081-d76a-7c5f2c2f9151/NL-HlmNHA_1478_43202K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tom Okker in kunstgalerie, A'dam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/17ab3824-38d2-9db8-ea3b-70a2e564b760\">https://hdl.handle.net/21.12102/17ab3824-38d2-9db8-ea3b-70a2e564b760</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9faa0387-bbce-b081-d76a-7c5f2c2f9151/NL-HlmNHA_1478_43202K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9faa0387-bbce-b081-d76a-7c5f2c2f9151/NL-HlmNHA_1478_43202K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/47b4996a-dd19-b6e4-36ab-06c1f1d9e056/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/47b4996a-dd19-b6e4-36ab-06c1f1d9e056",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9faa0387-bbce-b081-d76a-7c5f2c2f9151/NL-HlmNHA_1478_43202K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9faa0387-bbce-b081-d76a-7c5f2c2f9151/NL-HlmNHA_1478_43202K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tom Okker in kunstgalerie, A'dam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2414f625-9437-2db4-a8b1-1d3090f4ac79\">https://hdl.handle.net/21.12102/2414f625-9437-2db4-a8b1-1d3090f4ac79</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9faa0387-bbce-b081-d76a-7c5f2c2f9151/NL-HlmNHA_1478_43202K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9faa0387-bbce-b081-d76a-7c5f2c2f9151/NL-HlmNHA_1478_43202K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fcf7165c-be5c-eb7d-90a7-32fe0c4b4d13/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fcf7165c-be5c-eb7d-90a7-32fe0c4b4d13",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9faa0387-bbce-b081-d76a-7c5f2c2f9151/NL-HlmNHA_1478_43202K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9faa0387-bbce-b081-d76a-7c5f2c2f9151/NL-HlmNHA_1478_43202K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tom Okker in kunstgalerie, A'dam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3fb54a8c-b50c-dcc2-926d-4d5a832743bc\">https://hdl.handle.net/21.12102/3fb54a8c-b50c-dcc2-926d-4d5a832743bc</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9faa0387-bbce-b081-d76a-7c5f2c2f9151/NL-HlmNHA_1478_43202K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9faa0387-bbce-b081-d76a-7c5f2c2f9151/NL-HlmNHA_1478_43202K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ba022755-5b72-44f0-8551-2210fee6f37d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ba022755-5b72-44f0-8551-2210fee6f37d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9faa0387-bbce-b081-d76a-7c5f2c2f9151/NL-HlmNHA_1478_43202K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9faa0387-bbce-b081-d76a-7c5f2c2f9151/NL-HlmNHA_1478_43202K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tom Okker in kunstgalerie, A'dam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b84434ca-5f4d-5ba1-9f9c-e31dbd57f652\">https://hdl.handle.net/21.12102/b84434ca-5f4d-5ba1-9f9c-e31dbd57f652</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9faa0387-bbce-b081-d76a-7c5f2c2f9151/NL-HlmNHA_1478_43202K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9faa0387-bbce-b081-d76a-7c5f2c2f9151/NL-HlmNHA_1478_43202K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8c0e5143-b4b9-e041-1d73-910637a9f5bb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8c0e5143-b4b9-e041-1d73-910637a9f5bb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9faa0387-bbce-b081-d76a-7c5f2c2f9151/NL-HlmNHA_1478_43202K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9faa0387-bbce-b081-d76a-7c5f2c2f9151/NL-HlmNHA_1478_43202K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tom Okker in kunstgalerie, A'dam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c894ee19-ce08-fb02-3aeb-c1c41178d7b9\">https://hdl.handle.net/21.12102/c894ee19-ce08-fb02-3aeb-c1c41178d7b9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9faa0387-bbce-b081-d76a-7c5f2c2f9151/NL-HlmNHA_1478_43202K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9faa0387-bbce-b081-d76a-7c5f2c2f9151/NL-HlmNHA_1478_43202K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c3915456-f5db-a83f-82dc-2ea9ab57799f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c3915456-f5db-a83f-82dc-2ea9ab57799f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9faa0387-bbce-b081-d76a-7c5f2c2f9151/NL-HlmNHA_1478_43202K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

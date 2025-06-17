@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/e5b80db0-d5b6-469e-511c-e993e95c39cb.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Luifels winkels Pa. Verkuyllaan Badhoevedorp (1988-07-28)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Luifels winkels Pa. Verkuyllaan Badhoevedorp"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1988-07-28"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q19404157\">Pa Verkuijllaan</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Winkels en kiosken"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7795,
+            52.3354
+          ]
+        },
+        "properties": {
+          "title": "Pa Verkuijllaan",
+          "url": "http://www.wikidata.org/entity/Q19404157"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e5b80db0-d5b6-469e-511c-e993e95c39cb/NL-HlmNHA_1478_29376K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Luifels winkels Pa. Verkuyllaan Badhoevedorp"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/01486c20-fa0c-4d4c-c270-11464b80bb03\">https://hdl.handle.net/21.12102/01486c20-fa0c-4d4c-c270-11464b80bb03</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e5b80db0-d5b6-469e-511c-e993e95c39cb/NL-HlmNHA_1478_29376K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e5b80db0-d5b6-469e-511c-e993e95c39cb/NL-HlmNHA_1478_29376K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ea04e266-0bf1-da60-a8f6-da1704589e80/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ea04e266-0bf1-da60-a8f6-da1704589e80",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e5b80db0-d5b6-469e-511c-e993e95c39cb/NL-HlmNHA_1478_29376K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e5b80db0-d5b6-469e-511c-e993e95c39cb/NL-HlmNHA_1478_29376K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Luifels winkels Pa. Verkuyllaan Badhoevedorp"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3bd10a4c-9f2a-ecce-1cda-68bdb49c07e4\">https://hdl.handle.net/21.12102/3bd10a4c-9f2a-ecce-1cda-68bdb49c07e4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e5b80db0-d5b6-469e-511c-e993e95c39cb/NL-HlmNHA_1478_29376K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e5b80db0-d5b6-469e-511c-e993e95c39cb/NL-HlmNHA_1478_29376K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f36cf452-045f-8c2f-92cb-2a8c7f401a9e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f36cf452-045f-8c2f-92cb-2a8c7f401a9e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e5b80db0-d5b6-469e-511c-e993e95c39cb/NL-HlmNHA_1478_29376K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

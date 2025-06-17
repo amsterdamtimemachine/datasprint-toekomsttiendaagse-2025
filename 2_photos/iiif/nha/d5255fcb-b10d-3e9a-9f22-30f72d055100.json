@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/d5255fcb-b10d-3e9a-9f22-30f72d055100.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Gebouwen Rechtbank Amsterdam, Parnassusweg (1991-08-13)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Gebouwen Rechtbank Amsterdam, Parnassusweg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1991-08-13"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q1813357\">Parnassusweg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.86806,
+            52.34167
+          ]
+        },
+        "properties": {
+          "title": "Parnassusweg",
+          "url": "http://www.wikidata.org/entity/Q1813357"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5255fcb-b10d-3e9a-9f22-30f72d055100/NL-HlmNHA_1478_34859K01_32/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Gebouwen Rechtbank Amsterdam, Parnassusweg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/258b866f-f1e5-429c-ca01-729f875d6fce\">https://hdl.handle.net/21.12102/258b866f-f1e5-429c-ca01-729f875d6fce</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5255fcb-b10d-3e9a-9f22-30f72d055100/NL-HlmNHA_1478_34859K01_32/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5255fcb-b10d-3e9a-9f22-30f72d055100/NL-HlmNHA_1478_34859K01_32/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/45260588-5153-fee1-243a-aa18c6eae3ed/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/45260588-5153-fee1-243a-aa18c6eae3ed",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5255fcb-b10d-3e9a-9f22-30f72d055100/NL-HlmNHA_1478_34859K01_32/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5255fcb-b10d-3e9a-9f22-30f72d055100/NL-HlmNHA_1478_34859K01_33/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Gebouwen Rechtbank Amsterdam, Parnassusweg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/50c083bf-e53f-5132-efa4-5017558816cc\">https://hdl.handle.net/21.12102/50c083bf-e53f-5132-efa4-5017558816cc</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5255fcb-b10d-3e9a-9f22-30f72d055100/NL-HlmNHA_1478_34859K01_33/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5255fcb-b10d-3e9a-9f22-30f72d055100/NL-HlmNHA_1478_34859K01_33/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0ef31bf7-956b-b6c9-76ab-0e4d2497cdbf/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0ef31bf7-956b-b6c9-76ab-0e4d2497cdbf",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d5255fcb-b10d-3e9a-9f22-30f72d055100/NL-HlmNHA_1478_34859K01_33/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

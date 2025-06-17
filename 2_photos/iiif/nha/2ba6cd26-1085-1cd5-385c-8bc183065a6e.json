@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/2ba6cd26-1085-1cd5-385c-8bc183065a6e.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Wethouder deelt vuilprikkers uit ivm schoonmaakactie Halfweg (2001-05-06)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Wethouder deelt vuilprikkers uit ivm schoonmaakactie Halfweg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2001-05-06"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2367253\">Halfweg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.755,
+            52.3828
+          ]
+        },
+        "properties": {
+          "title": "Halfweg",
+          "url": "http://www.wikidata.org/entity/Q2367253"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ba6cd26-1085-1cd5-385c-8bc183065a6e/NL-HlmNHA_1478_49324K00_27/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Wethouder deelt vuilprikkers uit ivm schoonmaakactie Halfweg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4b8897d2-a9d3-574e-ef6e-f41b6b8945cf\">https://hdl.handle.net/21.12102/4b8897d2-a9d3-574e-ef6e-f41b6b8945cf</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ba6cd26-1085-1cd5-385c-8bc183065a6e/NL-HlmNHA_1478_49324K00_27/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ba6cd26-1085-1cd5-385c-8bc183065a6e/NL-HlmNHA_1478_49324K00_27/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c69e9d14-488f-8b54-86e2-244dd3aa638a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c69e9d14-488f-8b54-86e2-244dd3aa638a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ba6cd26-1085-1cd5-385c-8bc183065a6e/NL-HlmNHA_1478_49324K00_27/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ba6cd26-1085-1cd5-385c-8bc183065a6e/NL-HlmNHA_1478_49324K00_26/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Wethouder deelt vuilprikkers uit ivm schoonmaakactie Halfweg"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9a26b7c4-25e7-c127-d1a0-84b4ebcbe328\">https://hdl.handle.net/21.12102/9a26b7c4-25e7-c127-d1a0-84b4ebcbe328</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ba6cd26-1085-1cd5-385c-8bc183065a6e/NL-HlmNHA_1478_49324K00_26/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ba6cd26-1085-1cd5-385c-8bc183065a6e/NL-HlmNHA_1478_49324K00_26/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/186a814b-1443-ca87-5fb7-3d8e95694a2c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/186a814b-1443-ca87-5fb7-3d8e95694a2c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2ba6cd26-1085-1cd5-385c-8bc183065a6e/NL-HlmNHA_1478_49324K00_26/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

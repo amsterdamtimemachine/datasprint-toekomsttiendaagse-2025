@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/b96cbffe-833d-1aea-823d-af0c28a342a5.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Musicbox op rommelmarkt de Looier, Amsterdam Markt, 09-09-1987, Amsterdam (1987)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Musicbox op rommelmarkt de Looier, Amsterdam Markt, 09-09-1987, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1987"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2628035\">Looiersgracht</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.880887,
+            52.36835
+          ]
+        },
+        "properties": {
+          "title": "Looiersgracht",
+          "url": "http://www.wikidata.org/entity/Q2628035"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b96cbffe-833d-1aea-823d-af0c28a342a5/NL-HlmNHA_1478_28095K00_41/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Musicbox op rommelmarkt de Looier, Amsterdam Markt, 09-09-1987, Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/abf31086-0d92-c460-2fc7-8fd196cdecb5\">https://hdl.handle.net/21.12102/abf31086-0d92-c460-2fc7-8fd196cdecb5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b96cbffe-833d-1aea-823d-af0c28a342a5/NL-HlmNHA_1478_28095K00_41/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b96cbffe-833d-1aea-823d-af0c28a342a5/NL-HlmNHA_1478_28095K00_41/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d98e882a-a718-fcf7-91d5-455de3955eea/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d98e882a-a718-fcf7-91d5-455de3955eea",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b96cbffe-833d-1aea-823d-af0c28a342a5/NL-HlmNHA_1478_28095K00_41/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

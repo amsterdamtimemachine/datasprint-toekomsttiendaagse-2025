@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/9635fa44-eb27-f043-1e54-6417aade8c5a.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Reiziger op wandelpromenade Schiphol (1988-07-28)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Reiziger op wandelpromenade Schiphol"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1988-07-28"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Schiphol"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9635fa44-eb27-f043-1e54-6417aade8c5a/NL-HlmNHA_1478_29378K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Reiziger op wandelpromenade Schiphol"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/15ae00c0-22f1-7781-51a9-c2d3655bb6dc\">https://hdl.handle.net/21.12102/15ae00c0-22f1-7781-51a9-c2d3655bb6dc</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9635fa44-eb27-f043-1e54-6417aade8c5a/NL-HlmNHA_1478_29378K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9635fa44-eb27-f043-1e54-6417aade8c5a/NL-HlmNHA_1478_29378K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d48139ce-7034-945b-d4fd-efc3cf77eddf/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d48139ce-7034-945b-d4fd-efc3cf77eddf",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9635fa44-eb27-f043-1e54-6417aade8c5a/NL-HlmNHA_1478_29378K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9635fa44-eb27-f043-1e54-6417aade8c5a/NL-HlmNHA_1478_29378K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Reiziger op wandelpromenade Schiphol"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/51c2af68-862e-ad91-f2ec-59daa45195e5\">https://hdl.handle.net/21.12102/51c2af68-862e-ad91-f2ec-59daa45195e5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9635fa44-eb27-f043-1e54-6417aade8c5a/NL-HlmNHA_1478_29378K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9635fa44-eb27-f043-1e54-6417aade8c5a/NL-HlmNHA_1478_29378K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2fb16f80-e0cb-e430-5cc9-db155ed31008/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2fb16f80-e0cb-e430-5cc9-db155ed31008",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9635fa44-eb27-f043-1e54-6417aade8c5a/NL-HlmNHA_1478_29378K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9635fa44-eb27-f043-1e54-6417aade8c5a/NL-HlmNHA_1478_29378K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Reiziger op wandelpromenade Schiphol"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/aac0ae3b-32c5-58c8-9f73-a8f308c0d45d\">https://hdl.handle.net/21.12102/aac0ae3b-32c5-58c8-9f73-a8f308c0d45d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9635fa44-eb27-f043-1e54-6417aade8c5a/NL-HlmNHA_1478_29378K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9635fa44-eb27-f043-1e54-6417aade8c5a/NL-HlmNHA_1478_29378K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1f595136-70f1-4f99-abfc-ff19245533d0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1f595136-70f1-4f99-abfc-ff19245533d0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9635fa44-eb27-f043-1e54-6417aade8c5a/NL-HlmNHA_1478_29378K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9635fa44-eb27-f043-1e54-6417aade8c5a/NL-HlmNHA_1478_29378K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Reiziger op wandelpromenade Schiphol"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/bd50c21e-dee1-17b7-92ef-c714eff96e70\">https://hdl.handle.net/21.12102/bd50c21e-dee1-17b7-92ef-c714eff96e70</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9635fa44-eb27-f043-1e54-6417aade8c5a/NL-HlmNHA_1478_29378K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9635fa44-eb27-f043-1e54-6417aade8c5a/NL-HlmNHA_1478_29378K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e9802b8e-5bf7-c8ba-0ed5-ba9117343408/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e9802b8e-5bf7-c8ba-0ed5-ba9117343408",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9635fa44-eb27-f043-1e54-6417aade8c5a/NL-HlmNHA_1478_29378K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9635fa44-eb27-f043-1e54-6417aade8c5a/NL-HlmNHA_1478_29378K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Reiziger op wandelpromenade Schiphol"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f6812b6e-b53a-dab7-72fc-f2388e3d39f4\">https://hdl.handle.net/21.12102/f6812b6e-b53a-dab7-72fc-f2388e3d39f4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9635fa44-eb27-f043-1e54-6417aade8c5a/NL-HlmNHA_1478_29378K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9635fa44-eb27-f043-1e54-6417aade8c5a/NL-HlmNHA_1478_29378K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2d9814c9-a7b9-b26d-7287-7f83c8bc69ba/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2d9814c9-a7b9-b26d-7287-7f83c8bc69ba",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9635fa44-eb27-f043-1e54-6417aade8c5a/NL-HlmNHA_1478_29378K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

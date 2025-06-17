@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/fa7f291f-446d-53ac-9b8d-85dc3e37c56a.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Luchtfoto van Amsterdam Centrum (1973)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Luchtfoto van Amsterdam Centrum"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1973"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fa7f291f-446d-53ac-9b8d-85dc3e37c56a/NL-HlmNHA_1478_02885A00_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Luchtfoto van Amsterdam Centrum"
+        ]
+      },
+      "height": 2511,
+      "width": 3150,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4a9cb77f-3643-7d2d-c53b-953e93537f18\">https://hdl.handle.net/21.12102/4a9cb77f-3643-7d2d-c53b-953e93537f18</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fa7f291f-446d-53ac-9b8d-85dc3e37c56a/NL-HlmNHA_1478_02885A00_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fa7f291f-446d-53ac-9b8d-85dc3e37c56a/NL-HlmNHA_1478_02885A00_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/574d4bf1-181c-3632-113d-588c0166367b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2511,
+                "width": 3150,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/574d4bf1-181c-3632-113d-588c0166367b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fa7f291f-446d-53ac-9b8d-85dc3e37c56a/NL-HlmNHA_1478_02885A00_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fa7f291f-446d-53ac-9b8d-85dc3e37c56a/NL-HlmNHA_1478_02885A00_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Luchtfoto van Amsterdam Centrum"
+        ]
+      },
+      "height": 2516,
+      "width": 3156,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/905d85ff-69ef-32e7-7674-924c057e2cb0\">https://hdl.handle.net/21.12102/905d85ff-69ef-32e7-7674-924c057e2cb0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fa7f291f-446d-53ac-9b8d-85dc3e37c56a/NL-HlmNHA_1478_02885A00_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fa7f291f-446d-53ac-9b8d-85dc3e37c56a/NL-HlmNHA_1478_02885A00_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/92a1b8a0-1268-b99f-041c-6b0e42ef25b3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2516,
+                "width": 3156,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/92a1b8a0-1268-b99f-041c-6b0e42ef25b3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fa7f291f-446d-53ac-9b8d-85dc3e37c56a/NL-HlmNHA_1478_02885A00_08/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fa7f291f-446d-53ac-9b8d-85dc3e37c56a/NL-HlmNHA_1478_02885A00_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Luchtfoto van Amsterdam Centrum"
+        ]
+      },
+      "height": 2515,
+      "width": 3155,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/db23144d-bdde-3f56-8c6d-685b5b06e64e\">https://hdl.handle.net/21.12102/db23144d-bdde-3f56-8c6d-685b5b06e64e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fa7f291f-446d-53ac-9b8d-85dc3e37c56a/NL-HlmNHA_1478_02885A00_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fa7f291f-446d-53ac-9b8d-85dc3e37c56a/NL-HlmNHA_1478_02885A00_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d21f2d87-50ad-b30b-be77-625da46613e8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2515,
+                "width": 3155,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d21f2d87-50ad-b30b-be77-625da46613e8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fa7f291f-446d-53ac-9b8d-85dc3e37c56a/NL-HlmNHA_1478_02885A00_09/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/31afc35a-c4c5-aee4-a865-ac9e1a37362f.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Werkzaamheden bouw in Arena stadion Amsterdam-Zuidoost (1996-06-24)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Werkzaamheden bouw in Arena stadion Amsterdam-Zuidoost"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1996-06-24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2436772\">Johan Cruijff Boulevard</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.943953,
+            52.312631
+          ]
+        },
+        "properties": {
+          "title": "Johan Cruijff Boulevard",
+          "url": "http://www.wikidata.org/entity/Q2436772"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31afc35a-c4c5-aee4-a865-ac9e1a37362f/NL-HlmNHA_1478_42921K00_27/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Werkzaamheden bouw in Arena stadion Amsterdam-Zuidoost"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c2d05753-d9d2-faa4-79b0-621dfe23868e\">https://hdl.handle.net/21.12102/c2d05753-d9d2-faa4-79b0-621dfe23868e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31afc35a-c4c5-aee4-a865-ac9e1a37362f/NL-HlmNHA_1478_42921K00_27/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31afc35a-c4c5-aee4-a865-ac9e1a37362f/NL-HlmNHA_1478_42921K00_27/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e70dfe4f-d2eb-663e-b736-ec3da5213bdc/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e70dfe4f-d2eb-663e-b736-ec3da5213bdc",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/31afc35a-c4c5-aee4-a865-ac9e1a37362f/NL-HlmNHA_1478_42921K00_27/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

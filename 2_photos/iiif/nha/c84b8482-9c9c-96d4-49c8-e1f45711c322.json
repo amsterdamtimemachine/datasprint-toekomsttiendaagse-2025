@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/c84b8482-9c9c-96d4-49c8-e1f45711c322.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Bezoek Deens koninklijk paar. Kranslegging op de Dam (1954-04-26)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Bezoek Deens koninklijk paar. Kranslegging op de Dam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1954-04-26"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q839050\">Dam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.892778,
+            52.373056
+          ]
+        },
+        "properties": {
+          "title": "Dam",
+          "url": "http://www.wikidata.org/entity/Q839050"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c84b8482-9c9c-96d4-49c8-e1f45711c322/NL-HlmNHA_1478_10355B02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bezoek Deens koninklijk paar. Kranslegging op de Dam"
+        ]
+      },
+      "height": 2227,
+      "width": 2647,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1845ce19-ae50-f9c5-0014-59598c9e0d45\">https://hdl.handle.net/21.12102/1845ce19-ae50-f9c5-0014-59598c9e0d45</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c84b8482-9c9c-96d4-49c8-e1f45711c322/NL-HlmNHA_1478_10355B02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c84b8482-9c9c-96d4-49c8-e1f45711c322/NL-HlmNHA_1478_10355B02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/09357edd-b4da-6dd2-0dea-b22849a079f6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2227,
+                "width": 2647,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/09357edd-b4da-6dd2-0dea-b22849a079f6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c84b8482-9c9c-96d4-49c8-e1f45711c322/NL-HlmNHA_1478_10355B02_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c84b8482-9c9c-96d4-49c8-e1f45711c322/NL-HlmNHA_1478_10355B01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bezoek Deens koninklijk paar. Kranslegging op de Dam"
+        ]
+      },
+      "height": 2636,
+      "width": 2216,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d3667391-48c2-fb32-3698-7436d5d0c147\">https://hdl.handle.net/21.12102/d3667391-48c2-fb32-3698-7436d5d0c147</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c84b8482-9c9c-96d4-49c8-e1f45711c322/NL-HlmNHA_1478_10355B01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c84b8482-9c9c-96d4-49c8-e1f45711c322/NL-HlmNHA_1478_10355B01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f0f4a0fe-9a72-e6f3-9141-4af2267df022/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2636,
+                "width": 2216,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f0f4a0fe-9a72-e6f3-9141-4af2267df022",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c84b8482-9c9c-96d4-49c8-e1f45711c322/NL-HlmNHA_1478_10355B01_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

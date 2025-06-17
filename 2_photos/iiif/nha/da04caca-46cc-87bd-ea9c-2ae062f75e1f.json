@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/da04caca-46cc-87bd-ea9c-2ae062f75e1f.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Leidsekade 90 (Droste cacao) en 92 (American hotel), hoek Leidseplein (1959)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Leidsekade 90 (Droste cacao) en 92 (American hotel), hoek Leidseplein"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1959"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Leidsekade 92"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.879,
+            52.3661
+          ]
+        },
+        "properties": {
+          "title": "Leidsekade 92",
+          "url": ""
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/da04caca-46cc-87bd-ea9c-2ae062f75e1f/NL-HlmNHA_1478_17493B00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Leidsekade 90 (Droste cacao) en 92 (American hotel), hoek Leidseplein"
+        ]
+      },
+      "height": 2994,
+      "width": 2327,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ab98b5a6-6c03-6cc1-c036-81440c634b43\">https://hdl.handle.net/21.12102/ab98b5a6-6c03-6cc1-c036-81440c634b43</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/da04caca-46cc-87bd-ea9c-2ae062f75e1f/NL-HlmNHA_1478_17493B00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/da04caca-46cc-87bd-ea9c-2ae062f75e1f/NL-HlmNHA_1478_17493B00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ec95ab4c-5fc9-48cb-b7f3-a2bfe30a669f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2994,
+                "width": 2327,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ec95ab4c-5fc9-48cb-b7f3-a2bfe30a669f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/da04caca-46cc-87bd-ea9c-2ae062f75e1f/NL-HlmNHA_1478_17493B00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/72a5bb3b-3657-7d7c-c398-8b16dff8a8fd.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Nieuwezijds Voorburgwal hoek Paleisstraat in Amsterdam. (1954-12-01)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Nieuwezijds Voorburgwal hoek Paleisstraat in Amsterdam."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1954-12-01"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Verkeer, veilig verkeer"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72a5bb3b-3657-7d7c-c398-8b16dff8a8fd/NL-HlmNHA_1478_11209B02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Nieuwezijds Voorburgwal hoek Paleisstraat in Amsterdam."
+        ]
+      },
+      "height": 2240,
+      "width": 2869,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4d0be448-8afb-316c-8363-0ce5d9a96856\">https://hdl.handle.net/21.12102/4d0be448-8afb-316c-8363-0ce5d9a96856</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72a5bb3b-3657-7d7c-c398-8b16dff8a8fd/NL-HlmNHA_1478_11209B02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72a5bb3b-3657-7d7c-c398-8b16dff8a8fd/NL-HlmNHA_1478_11209B02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c73536c1-17c8-f2ba-a80e-9f59a13e6c70/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2240,
+                "width": 2869,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c73536c1-17c8-f2ba-a80e-9f59a13e6c70",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72a5bb3b-3657-7d7c-c398-8b16dff8a8fd/NL-HlmNHA_1478_11209B02_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72a5bb3b-3657-7d7c-c398-8b16dff8a8fd/NL-HlmNHA_1478_11209B01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Nieuwezijds Voorburgwal hoek Paleisstraat in Amsterdam."
+        ]
+      },
+      "height": 2257,
+      "width": 2827,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d3d6269d-3bde-05d0-69c4-e861134dad89\">https://hdl.handle.net/21.12102/d3d6269d-3bde-05d0-69c4-e861134dad89</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72a5bb3b-3657-7d7c-c398-8b16dff8a8fd/NL-HlmNHA_1478_11209B01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72a5bb3b-3657-7d7c-c398-8b16dff8a8fd/NL-HlmNHA_1478_11209B01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f37e75fd-d635-b1a7-cd9f-7444f77eaa4b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2257,
+                "width": 2827,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f37e75fd-d635-b1a7-cd9f-7444f77eaa4b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72a5bb3b-3657-7d7c-c398-8b16dff8a8fd/NL-HlmNHA_1478_11209B01_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

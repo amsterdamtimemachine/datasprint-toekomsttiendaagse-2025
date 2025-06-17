@@ -1,0 +1,520 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Nieuwe brugsteeg (1978)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Nieuwe brugsteeg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1978"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Nieuwe brugsteeg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0fbc1b26-a6d0-32d4-0d99-8282aa6ba958\">https://hdl.handle.net/21.12102/0fbc1b26-a6d0-32d4-0d99-8282aa6ba958</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/27a6ff1c-f9e9-8fdd-8d09-c22ea06b1571/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/27a6ff1c-f9e9-8fdd-8d09-c22ea06b1571",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Nieuwe brugsteeg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2282c873-fcc6-9b95-a3e0-7e91adbdfe39\">https://hdl.handle.net/21.12102/2282c873-fcc6-9b95-a3e0-7e91adbdfe39</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fe715842-d717-babb-3ba2-00093eb7e49b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fe715842-d717-babb-3ba2-00093eb7e49b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_21/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Nieuwe brugsteeg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/91ab8722-551c-0a28-542e-a75a5f3b745b\">https://hdl.handle.net/21.12102/91ab8722-551c-0a28-542e-a75a5f3b745b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_21/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_21/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6caf9791-f44a-1f32-3da5-e9a2da6e9bb3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6caf9791-f44a-1f32-3da5-e9a2da6e9bb3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_21/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Nieuwe brugsteeg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a9c29dc1-7da9-4a18-5dd7-06a0c6e75953\">https://hdl.handle.net/21.12102/a9c29dc1-7da9-4a18-5dd7-06a0c6e75953</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a0c9e02f-75d2-5db1-065a-d1e32f57a4f1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a0c9e02f-75d2-5db1-065a-d1e32f57a4f1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Nieuwe brugsteeg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b007268c-f13e-116d-df74-b310944d02bd\">https://hdl.handle.net/21.12102/b007268c-f13e-116d-df74-b310944d02bd</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a3ba8253-b4c8-42bd-16a4-108faac0d119/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a3ba8253-b4c8-42bd-16a4-108faac0d119",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_22/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Nieuwe brugsteeg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b42258bd-85de-9af6-02e3-8fe925c6258a\">https://hdl.handle.net/21.12102/b42258bd-85de-9af6-02e3-8fe925c6258a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_22/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_22/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/40abffae-7f19-8228-0ac9-753d43e5aede/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/40abffae-7f19-8228-0ac9-753d43e5aede",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_22/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Nieuwe brugsteeg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c178bb31-dcf6-db5f-f0f5-bf74a6a17dbc\">https://hdl.handle.net/21.12102/c178bb31-dcf6-db5f-f0f5-bf74a6a17dbc</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b61beb38-c6ce-e5e9-81e2-4cd598543191/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b61beb38-c6ce-e5e9-81e2-4cd598543191",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Nieuwe brugsteeg"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/eec3607c-0aa9-f04d-97f1-6373f9b41a8a\">https://hdl.handle.net/21.12102/eec3607c-0aa9-f04d-97f1-6373f9b41a8a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ed0c2dea-7919-9bd8-0813-d6300a014af7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ed0c2dea-7919-9bd8-0813-d6300a014af7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6bba0f12-3cef-772f-1f9d-ebb09a53c9d6/NL-HlmNHA_1478_16339K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

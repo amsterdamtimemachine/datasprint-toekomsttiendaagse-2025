@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/6597ea69-1ecf-0fd4-64e7-8b7bd4a682df.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Rondvaartboot Hilda IV voor het stadhuis aan de Oudezijds Voorburgwal, Amsterdam (1968-03-15)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Rondvaartboot Hilda IV voor het stadhuis aan de Oudezijds Voorburgwal, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1968-03-15"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2484869\">Oudezijds Voorburgwal</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.89722,
+            52.37278
+          ]
+        },
+        "properties": {
+          "title": "Oudezijds Voorburgwal",
+          "url": "http://www.wikidata.org/entity/Q2484869"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6597ea69-1ecf-0fd4-64e7-8b7bd4a682df/NL-HlmNHA_1478_06005K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rondvaartboot Hilda IV voor het stadhuis aan de Oudezijds Voorburgwal, Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5389114e-5538-89ba-853e-f9364c16528a\">https://hdl.handle.net/21.12102/5389114e-5538-89ba-853e-f9364c16528a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6597ea69-1ecf-0fd4-64e7-8b7bd4a682df/NL-HlmNHA_1478_06005K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6597ea69-1ecf-0fd4-64e7-8b7bd4a682df/NL-HlmNHA_1478_06005K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9ed2b392-ded3-594d-d6b7-20fcb343ea3d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9ed2b392-ded3-594d-d6b7-20fcb343ea3d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6597ea69-1ecf-0fd4-64e7-8b7bd4a682df/NL-HlmNHA_1478_06005K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6597ea69-1ecf-0fd4-64e7-8b7bd4a682df/NL-HlmNHA_1478_06005K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Rondvaartboot Hilda IV voor het stadhuis aan de Oudezijds Voorburgwal, Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/87c0bae9-8e69-9a47-cf32-55bde92cb0dd\">https://hdl.handle.net/21.12102/87c0bae9-8e69-9a47-cf32-55bde92cb0dd</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6597ea69-1ecf-0fd4-64e7-8b7bd4a682df/NL-HlmNHA_1478_06005K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6597ea69-1ecf-0fd4-64e7-8b7bd4a682df/NL-HlmNHA_1478_06005K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7f9d9610-c43f-16fe-ec74-9525acfeb15c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7f9d9610-c43f-16fe-ec74-9525acfeb15c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6597ea69-1ecf-0fd4-64e7-8b7bd4a682df/NL-HlmNHA_1478_06005K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

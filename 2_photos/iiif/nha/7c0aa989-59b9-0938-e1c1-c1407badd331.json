@@ -1,0 +1,891 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/7c0aa989-59b9-0938-e1c1-c1407badd331.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Bert Nievaart N.D.B. Amsterdam (1997-06-06)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Bert Nievaart N.D.B. Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1997-06-06"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_28/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bert Nievaart N.D.B. Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/02a6116c-9bd4-899b-c036-eef0076c5eb4\">https://hdl.handle.net/21.12102/02a6116c-9bd4-899b-c036-eef0076c5eb4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_28/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_28/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/15420db1-e0dd-cb82-c4a3-10d080166be4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/15420db1-e0dd-cb82-c4a3-10d080166be4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_28/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bert Nievaart N.D.B. Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/32882431-2ad6-07e8-1a3e-acf9ebcb4b1d\">https://hdl.handle.net/21.12102/32882431-2ad6-07e8-1a3e-acf9ebcb4b1d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/904d88f3-21c2-9e02-b8c9-f3c365023d94/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/904d88f3-21c2-9e02-b8c9-f3c365023d94",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bert Nievaart N.D.B. Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/63ae41ad-c56b-32e8-74cf-2534705e74af\">https://hdl.handle.net/21.12102/63ae41ad-c56b-32e8-74cf-2534705e74af</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/90b4aa19-7c71-8435-bfbd-4b7662297007/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/90b4aa19-7c71-8435-bfbd-4b7662297007",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_29/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_22/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bert Nievaart N.D.B. Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/644f4be7-06ff-6532-e3fe-fff6d8993418\">https://hdl.handle.net/21.12102/644f4be7-06ff-6532-e3fe-fff6d8993418</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_22/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_22/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3e9c0c98-b2fb-a1e9-39fe-8f7d17dce97f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3e9c0c98-b2fb-a1e9-39fe-8f7d17dce97f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_22/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bert Nievaart N.D.B. Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7976e2db-ce44-fe3d-4355-3a8bfb8fcc3b\">https://hdl.handle.net/21.12102/7976e2db-ce44-fe3d-4355-3a8bfb8fcc3b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/64853d53-d8e2-32f3-7acc-f646ef508d92/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/64853d53-d8e2-32f3-7acc-f646ef508d92",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_32/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bert Nievaart N.D.B. Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7d2facf0-e1be-a0bb-6f08-c3733cfaea38\">https://hdl.handle.net/21.12102/7d2facf0-e1be-a0bb-6f08-c3733cfaea38</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_32/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_32/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d3316e07-9f2f-8374-330e-06384d432911/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d3316e07-9f2f-8374-330e-06384d432911",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_32/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_33/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bert Nievaart N.D.B. Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7ea11116-ac03-fe66-f282-9f18192297be\">https://hdl.handle.net/21.12102/7ea11116-ac03-fe66-f282-9f18192297be</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_33/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_33/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/06d737f5-55ab-807e-e662-baae38add0a8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/06d737f5-55ab-807e-e662-baae38add0a8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_33/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bert Nievaart N.D.B. Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/bec3c894-dd8f-d859-f6c7-20aabbf57638\">https://hdl.handle.net/21.12102/bec3c894-dd8f-d859-f6c7-20aabbf57638</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5ff343de-d865-b813-47d8-0898d8df7fd3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5ff343de-d865-b813-47d8-0898d8df7fd3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_30/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bert Nievaart N.D.B. Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/bf0b579c-865a-8681-a0df-2a41d4afafaf\">https://hdl.handle.net/21.12102/bf0b579c-865a-8681-a0df-2a41d4afafaf</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/177cf51f-d2e9-6ea6-7a9c-2bc09ac527ef/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/177cf51f-d2e9-6ea6-7a9c-2bc09ac527ef",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_25/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bert Nievaart N.D.B. Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ce84c639-196c-7fad-ce79-228cd25d65cf\">https://hdl.handle.net/21.12102/ce84c639-196c-7fad-ce79-228cd25d65cf</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_25/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_25/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/06a1e276-8c2c-d96e-ae5f-6244b574e66e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/06a1e276-8c2c-d96e-ae5f-6244b574e66e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_25/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_27/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bert Nievaart N.D.B. Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d6d0b253-7193-8cd5-2789-db694fcd1969\">https://hdl.handle.net/21.12102/d6d0b253-7193-8cd5-2789-db694fcd1969</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_27/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_27/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7a1be004-daea-4962-08c8-2b7b9a997ff6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7a1be004-daea-4962-08c8-2b7b9a997ff6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_27/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_31/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bert Nievaart N.D.B. Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e922b58d-4ec0-ff49-364f-5babbfbbf9f1\">https://hdl.handle.net/21.12102/e922b58d-4ec0-ff49-364f-5babbfbbf9f1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_31/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_31/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5b04def3-326e-13a0-1499-21375ec08599/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5b04def3-326e-13a0-1499-21375ec08599",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_31/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bert Nievaart N.D.B. Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/eb8f2915-8d0d-84ec-eb25-36f9ed6138cb\">https://hdl.handle.net/21.12102/eb8f2915-8d0d-84ec-eb25-36f9ed6138cb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f5d3f5c4-33a9-fe96-b2e9-ede3f757b648/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f5d3f5c4-33a9-fe96-b2e9-ede3f757b648",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_21/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bert Nievaart N.D.B. Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ee2b2fff-e7c1-8f7d-ee8c-3845d052f17d\">https://hdl.handle.net/21.12102/ee2b2fff-e7c1-8f7d-ee8c-3845d052f17d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_21/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_21/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/65e3d87e-ae1a-de49-301a-982674273dc0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/65e3d87e-ae1a-de49-301a-982674273dc0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_21/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_26/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bert Nievaart N.D.B. Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ef6559e0-a07d-9ee6-8604-8917eddd39ff\">https://hdl.handle.net/21.12102/ef6559e0-a07d-9ee6-8604-8917eddd39ff</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_26/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_26/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f2f0d2a0-f108-3f1a-0c79-b4613fa8467d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f2f0d2a0-f108-3f1a-0c79-b4613fa8467d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7c0aa989-59b9-0938-e1c1-c1407badd331/NL-HlmNHA_1478_44274K00_26/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

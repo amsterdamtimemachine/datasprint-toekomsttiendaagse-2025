@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/355a2052-11f3-b030-75d1-f172ffa05aa4.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Portret Hans Schuit Greenpeace Amsterdam (1980-06-16)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Portret Hans Schuit Greenpeace Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1980-06-16"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Portretten"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/27140"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/355a2052-11f3-b030-75d1-f172ffa05aa4/NL-HlmNHA_1478_19462K01_37/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Hans Schuit Greenpeace Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/10db03ff-3a2d-2576-df4c-34ffe2513dfc\">https://hdl.handle.net/21.12102/10db03ff-3a2d-2576-df4c-34ffe2513dfc</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/355a2052-11f3-b030-75d1-f172ffa05aa4/NL-HlmNHA_1478_19462K01_37/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/355a2052-11f3-b030-75d1-f172ffa05aa4/NL-HlmNHA_1478_19462K01_37/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8fa472ca-9a42-2693-5dd4-b6afc082dfaf/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8fa472ca-9a42-2693-5dd4-b6afc082dfaf",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/355a2052-11f3-b030-75d1-f172ffa05aa4/NL-HlmNHA_1478_19462K01_37/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/355a2052-11f3-b030-75d1-f172ffa05aa4/NL-HlmNHA_1478_19462K01_39/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Hans Schuit Greenpeace Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4b706f60-125f-42a3-bf11-1ed193e8c32c\">https://hdl.handle.net/21.12102/4b706f60-125f-42a3-bf11-1ed193e8c32c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/355a2052-11f3-b030-75d1-f172ffa05aa4/NL-HlmNHA_1478_19462K01_39/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/355a2052-11f3-b030-75d1-f172ffa05aa4/NL-HlmNHA_1478_19462K01_39/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/294fcc04-f212-c5c5-bcd8-de344c5a9cf3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/294fcc04-f212-c5c5-bcd8-de344c5a9cf3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/355a2052-11f3-b030-75d1-f172ffa05aa4/NL-HlmNHA_1478_19462K01_39/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/355a2052-11f3-b030-75d1-f172ffa05aa4/NL-HlmNHA_1478_19462K01_36/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Hans Schuit Greenpeace Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4c618253-22cb-4759-cf7c-8525420e6ac2\">https://hdl.handle.net/21.12102/4c618253-22cb-4759-cf7c-8525420e6ac2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/355a2052-11f3-b030-75d1-f172ffa05aa4/NL-HlmNHA_1478_19462K01_36/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/355a2052-11f3-b030-75d1-f172ffa05aa4/NL-HlmNHA_1478_19462K01_36/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2fe98e2a-2fc1-c0b7-1840-070453e61423/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2fe98e2a-2fc1-c0b7-1840-070453e61423",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/355a2052-11f3-b030-75d1-f172ffa05aa4/NL-HlmNHA_1478_19462K01_36/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/355a2052-11f3-b030-75d1-f172ffa05aa4/NL-HlmNHA_1478_19462K01_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Hans Schuit Greenpeace Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5ba4e64f-6057-2a0a-8bca-f4b7f19f15f5\">https://hdl.handle.net/21.12102/5ba4e64f-6057-2a0a-8bca-f4b7f19f15f5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/355a2052-11f3-b030-75d1-f172ffa05aa4/NL-HlmNHA_1478_19462K01_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/355a2052-11f3-b030-75d1-f172ffa05aa4/NL-HlmNHA_1478_19462K01_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/db2b9dd8-153b-3a28-1845-2ac175de46d4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/db2b9dd8-153b-3a28-1845-2ac175de46d4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/355a2052-11f3-b030-75d1-f172ffa05aa4/NL-HlmNHA_1478_19462K01_35/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/355a2052-11f3-b030-75d1-f172ffa05aa4/NL-HlmNHA_1478_19462K01_40/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Hans Schuit Greenpeace Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8d80195b-e549-5eff-37ef-6e57b8bacaf3\">https://hdl.handle.net/21.12102/8d80195b-e549-5eff-37ef-6e57b8bacaf3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/355a2052-11f3-b030-75d1-f172ffa05aa4/NL-HlmNHA_1478_19462K01_40/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/355a2052-11f3-b030-75d1-f172ffa05aa4/NL-HlmNHA_1478_19462K01_40/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/54719919-8c84-ac79-6131-b2a6e8a4de1b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/54719919-8c84-ac79-6131-b2a6e8a4de1b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/355a2052-11f3-b030-75d1-f172ffa05aa4/NL-HlmNHA_1478_19462K01_40/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/355a2052-11f3-b030-75d1-f172ffa05aa4/NL-HlmNHA_1478_19462K01_38/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Hans Schuit Greenpeace Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/aaf4e864-8b0a-88d5-610e-bf8d41ca90bf\">https://hdl.handle.net/21.12102/aaf4e864-8b0a-88d5-610e-bf8d41ca90bf</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/355a2052-11f3-b030-75d1-f172ffa05aa4/NL-HlmNHA_1478_19462K01_38/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/355a2052-11f3-b030-75d1-f172ffa05aa4/NL-HlmNHA_1478_19462K01_38/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1e8e41e9-ab69-abb5-7213-a597e463a230/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1e8e41e9-ab69-abb5-7213-a597e463a230",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/355a2052-11f3-b030-75d1-f172ffa05aa4/NL-HlmNHA_1478_19462K01_38/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

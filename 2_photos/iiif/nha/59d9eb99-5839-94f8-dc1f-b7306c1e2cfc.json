@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/59d9eb99-5839-94f8-dc1f-b7306c1e2cfc.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Portret van Wim Stevenhagen, striptekenaar in zijn atelier (1990-05-17)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Portret van Wim Stevenhagen, striptekenaar in zijn atelier"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1990-05-17"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59d9eb99-5839-94f8-dc1f-b7306c1e2cfc/NL-HlmNHA_1478_32404K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van Wim Stevenhagen, striptekenaar in zijn atelier"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/17f5bded-4a00-b049-f39e-d79ee52e6da4\">https://hdl.handle.net/21.12102/17f5bded-4a00-b049-f39e-d79ee52e6da4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59d9eb99-5839-94f8-dc1f-b7306c1e2cfc/NL-HlmNHA_1478_32404K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59d9eb99-5839-94f8-dc1f-b7306c1e2cfc/NL-HlmNHA_1478_32404K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/dedb5a92-d337-9701-13af-c9054ec161cc/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/dedb5a92-d337-9701-13af-c9054ec161cc",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59d9eb99-5839-94f8-dc1f-b7306c1e2cfc/NL-HlmNHA_1478_32404K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59d9eb99-5839-94f8-dc1f-b7306c1e2cfc/NL-HlmNHA_1478_32404K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van Wim Stevenhagen, striptekenaar in zijn atelier"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2ed42339-fe68-21a5-9174-c07b9cde4e3f\">https://hdl.handle.net/21.12102/2ed42339-fe68-21a5-9174-c07b9cde4e3f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59d9eb99-5839-94f8-dc1f-b7306c1e2cfc/NL-HlmNHA_1478_32404K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59d9eb99-5839-94f8-dc1f-b7306c1e2cfc/NL-HlmNHA_1478_32404K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f1fac2ad-b590-c05f-9d03-1725aa18feea/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f1fac2ad-b590-c05f-9d03-1725aa18feea",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59d9eb99-5839-94f8-dc1f-b7306c1e2cfc/NL-HlmNHA_1478_32404K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59d9eb99-5839-94f8-dc1f-b7306c1e2cfc/NL-HlmNHA_1478_32404K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van Wim Stevenhagen, striptekenaar in zijn atelier"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7520b828-e3da-3ee5-79ea-fa1dcdb04eaf\">https://hdl.handle.net/21.12102/7520b828-e3da-3ee5-79ea-fa1dcdb04eaf</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59d9eb99-5839-94f8-dc1f-b7306c1e2cfc/NL-HlmNHA_1478_32404K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59d9eb99-5839-94f8-dc1f-b7306c1e2cfc/NL-HlmNHA_1478_32404K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f0c5fd9b-bf7a-bdec-3841-01547d97aaf1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f0c5fd9b-bf7a-bdec-3841-01547d97aaf1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59d9eb99-5839-94f8-dc1f-b7306c1e2cfc/NL-HlmNHA_1478_32404K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59d9eb99-5839-94f8-dc1f-b7306c1e2cfc/NL-HlmNHA_1478_32404K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van Wim Stevenhagen, striptekenaar in zijn atelier"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/86f8d218-47f8-234c-1061-cfacb8f6f06a\">https://hdl.handle.net/21.12102/86f8d218-47f8-234c-1061-cfacb8f6f06a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59d9eb99-5839-94f8-dc1f-b7306c1e2cfc/NL-HlmNHA_1478_32404K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59d9eb99-5839-94f8-dc1f-b7306c1e2cfc/NL-HlmNHA_1478_32404K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a9c944b1-4e41-f57a-6ee1-f644191b456b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a9c944b1-4e41-f57a-6ee1-f644191b456b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59d9eb99-5839-94f8-dc1f-b7306c1e2cfc/NL-HlmNHA_1478_32404K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59d9eb99-5839-94f8-dc1f-b7306c1e2cfc/NL-HlmNHA_1478_32404K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van Wim Stevenhagen, striptekenaar in zijn atelier"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a47bc242-8781-3c62-84e4-f42a896dcdba\">https://hdl.handle.net/21.12102/a47bc242-8781-3c62-84e4-f42a896dcdba</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59d9eb99-5839-94f8-dc1f-b7306c1e2cfc/NL-HlmNHA_1478_32404K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59d9eb99-5839-94f8-dc1f-b7306c1e2cfc/NL-HlmNHA_1478_32404K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/86d17d98-f513-3d8b-2c63-33b3433d98f3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/86d17d98-f513-3d8b-2c63-33b3433d98f3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59d9eb99-5839-94f8-dc1f-b7306c1e2cfc/NL-HlmNHA_1478_32404K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59d9eb99-5839-94f8-dc1f-b7306c1e2cfc/NL-HlmNHA_1478_32404K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van Wim Stevenhagen, striptekenaar in zijn atelier"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/eb5e394f-b4be-9fa6-ab70-ecc9b7b5de84\">https://hdl.handle.net/21.12102/eb5e394f-b4be-9fa6-ab70-ecc9b7b5de84</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59d9eb99-5839-94f8-dc1f-b7306c1e2cfc/NL-HlmNHA_1478_32404K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59d9eb99-5839-94f8-dc1f-b7306c1e2cfc/NL-HlmNHA_1478_32404K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d8e1502e-5f11-7383-7ae5-1e456c956173/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d8e1502e-5f11-7383-7ae5-1e456c956173",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/59d9eb99-5839-94f8-dc1f-b7306c1e2cfc/NL-HlmNHA_1478_32404K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

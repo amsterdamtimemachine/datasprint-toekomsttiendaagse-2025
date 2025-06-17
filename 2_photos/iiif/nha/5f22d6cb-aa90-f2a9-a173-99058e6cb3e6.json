@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/5f22d6cb-aa90-f2a9-a173-99058e6cb3e6.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Interieur Bijlmerbajes Amsterdam (1978-02-20)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Interieur Bijlmerbajes Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1978-02-20"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q19231255\">H.J.E. Wenckebachweg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.927,
+            52.339
+          ]
+        },
+        "properties": {
+          "title": "H.J.E. Wenckebachweg",
+          "url": "http://www.wikidata.org/entity/Q19231255"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f22d6cb-aa90-f2a9-a173-99058e6cb3e6/NL-HlmNHA_1478_16468K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interieur Bijlmerbajes Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a095250e-9b56-96e1-4b23-47673ba289cc\">https://hdl.handle.net/21.12102/a095250e-9b56-96e1-4b23-47673ba289cc</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f22d6cb-aa90-f2a9-a173-99058e6cb3e6/NL-HlmNHA_1478_16468K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f22d6cb-aa90-f2a9-a173-99058e6cb3e6/NL-HlmNHA_1478_16468K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/56eacc3f-807f-b03f-861e-b3b74c51a990/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/56eacc3f-807f-b03f-861e-b3b74c51a990",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f22d6cb-aa90-f2a9-a173-99058e6cb3e6/NL-HlmNHA_1478_16468K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f22d6cb-aa90-f2a9-a173-99058e6cb3e6/NL-HlmNHA_1478_16468K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interieur Bijlmerbajes Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a6cfcf8d-4262-71dc-9b39-f3835683fa44\">https://hdl.handle.net/21.12102/a6cfcf8d-4262-71dc-9b39-f3835683fa44</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f22d6cb-aa90-f2a9-a173-99058e6cb3e6/NL-HlmNHA_1478_16468K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f22d6cb-aa90-f2a9-a173-99058e6cb3e6/NL-HlmNHA_1478_16468K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fe3d7770-6bf4-e306-78a7-28ee73bbdc3f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fe3d7770-6bf4-e306-78a7-28ee73bbdc3f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f22d6cb-aa90-f2a9-a173-99058e6cb3e6/NL-HlmNHA_1478_16468K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/b8bc2a29-7f5a-ef07-451f-2731a96087ce.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Hr. Reitsma Mita Amstelveen (1988-01-07)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Hr. Reitsma Mita Amstelveen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1988-01-07"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q33421878\">Amstelveen</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Personen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.858056,
+            52.301944
+          ]
+        },
+        "properties": {
+          "title": "Amstelveen",
+          "url": "http://www.wikidata.org/entity/Q33421878"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8bc2a29-7f5a-ef07-451f-2731a96087ce/NL-HlmNHA_1478_28562K00_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hr. Reitsma Mita Amstelveen"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/733b078c-1a5a-ed55-000a-4ecce55bdedd\">https://hdl.handle.net/21.12102/733b078c-1a5a-ed55-000a-4ecce55bdedd</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8bc2a29-7f5a-ef07-451f-2731a96087ce/NL-HlmNHA_1478_28562K00_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8bc2a29-7f5a-ef07-451f-2731a96087ce/NL-HlmNHA_1478_28562K00_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/32105990-02d9-0394-3156-274f18358f3c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/32105990-02d9-0394-3156-274f18358f3c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8bc2a29-7f5a-ef07-451f-2731a96087ce/NL-HlmNHA_1478_28562K00_12/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8bc2a29-7f5a-ef07-451f-2731a96087ce/NL-HlmNHA_1478_28562K00_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hr. Reitsma Mita Amstelveen"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7e4ee998-6222-1beb-d9c9-4743ef94889e\">https://hdl.handle.net/21.12102/7e4ee998-6222-1beb-d9c9-4743ef94889e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8bc2a29-7f5a-ef07-451f-2731a96087ce/NL-HlmNHA_1478_28562K00_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8bc2a29-7f5a-ef07-451f-2731a96087ce/NL-HlmNHA_1478_28562K00_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b9098435-e74a-8373-27fc-367b2b0763ab/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b9098435-e74a-8373-27fc-367b2b0763ab",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8bc2a29-7f5a-ef07-451f-2731a96087ce/NL-HlmNHA_1478_28562K00_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8bc2a29-7f5a-ef07-451f-2731a96087ce/NL-HlmNHA_1478_28562K00_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hr. Reitsma Mita Amstelveen"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7f47c46f-6cec-f554-b883-90d1ba476209\">https://hdl.handle.net/21.12102/7f47c46f-6cec-f554-b883-90d1ba476209</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8bc2a29-7f5a-ef07-451f-2731a96087ce/NL-HlmNHA_1478_28562K00_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8bc2a29-7f5a-ef07-451f-2731a96087ce/NL-HlmNHA_1478_28562K00_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/dfc1a347-9a2d-bccf-49b9-e34755e27438/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/dfc1a347-9a2d-bccf-49b9-e34755e27438",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8bc2a29-7f5a-ef07-451f-2731a96087ce/NL-HlmNHA_1478_28562K00_11/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8bc2a29-7f5a-ef07-451f-2731a96087ce/NL-HlmNHA_1478_28562K00_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hr. Reitsma Mita Amstelveen"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ae5f6b3c-9ba5-c121-22a6-8ed9fe6bbd0a\">https://hdl.handle.net/21.12102/ae5f6b3c-9ba5-c121-22a6-8ed9fe6bbd0a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8bc2a29-7f5a-ef07-451f-2731a96087ce/NL-HlmNHA_1478_28562K00_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8bc2a29-7f5a-ef07-451f-2731a96087ce/NL-HlmNHA_1478_28562K00_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/19abf0c1-f61a-7c90-45ad-3d0c23a04cda/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/19abf0c1-f61a-7c90-45ad-3d0c23a04cda",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8bc2a29-7f5a-ef07-451f-2731a96087ce/NL-HlmNHA_1478_28562K00_08/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8bc2a29-7f5a-ef07-451f-2731a96087ce/NL-HlmNHA_1478_28562K00_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hr. Reitsma Mita Amstelveen"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c313d2b9-50ff-b79d-c1fa-2db91aea8915\">https://hdl.handle.net/21.12102/c313d2b9-50ff-b79d-c1fa-2db91aea8915</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8bc2a29-7f5a-ef07-451f-2731a96087ce/NL-HlmNHA_1478_28562K00_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8bc2a29-7f5a-ef07-451f-2731a96087ce/NL-HlmNHA_1478_28562K00_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d1a1160c-b8cf-1c9b-8c6b-5eea072b221a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d1a1160c-b8cf-1c9b-8c6b-5eea072b221a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8bc2a29-7f5a-ef07-451f-2731a96087ce/NL-HlmNHA_1478_28562K00_09/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8bc2a29-7f5a-ef07-451f-2731a96087ce/NL-HlmNHA_1478_28562K00_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hr. Reitsma Mita Amstelveen"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ebb5e1f2-8df5-1590-db34-c48a2f3028c4\">https://hdl.handle.net/21.12102/ebb5e1f2-8df5-1590-db34-c48a2f3028c4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8bc2a29-7f5a-ef07-451f-2731a96087ce/NL-HlmNHA_1478_28562K00_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8bc2a29-7f5a-ef07-451f-2731a96087ce/NL-HlmNHA_1478_28562K00_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5dd6e27e-ccf9-39f3-e915-c2b300bbf016/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5dd6e27e-ccf9-39f3-e915-c2b300bbf016",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b8bc2a29-7f5a-ef07-451f-2731a96087ce/NL-HlmNHA_1478_28562K00_10/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

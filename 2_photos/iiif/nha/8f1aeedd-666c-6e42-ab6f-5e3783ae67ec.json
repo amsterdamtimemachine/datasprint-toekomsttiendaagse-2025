@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/8f1aeedd-666c-6e42-ab6f-5e3783ae67ec.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Boerderij de Badhoeve Badhoevedorp (1976-05-04)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Boerderij de Badhoeve Badhoevedorp"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1976-05-04"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q18978418\">Burgemeester Amersfoordtlaan</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Boerderijen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/27958"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7881,
+            52.3398
+          ]
+        },
+        "properties": {
+          "title": "Burgemeester Amersfoordtlaan",
+          "url": "http://www.wikidata.org/entity/Q18978418"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8f1aeedd-666c-6e42-ab6f-5e3783ae67ec/NL-HlmNHA_1478_14572K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Boerderij de Badhoeve Badhoevedorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0e49d84d-03ad-ab5b-b7b1-2d8a10d8b5f6\">https://hdl.handle.net/21.12102/0e49d84d-03ad-ab5b-b7b1-2d8a10d8b5f6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8f1aeedd-666c-6e42-ab6f-5e3783ae67ec/NL-HlmNHA_1478_14572K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8f1aeedd-666c-6e42-ab6f-5e3783ae67ec/NL-HlmNHA_1478_14572K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/24ac1271-0422-64b3-b57a-5e58b1cfd996/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/24ac1271-0422-64b3-b57a-5e58b1cfd996",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8f1aeedd-666c-6e42-ab6f-5e3783ae67ec/NL-HlmNHA_1478_14572K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8f1aeedd-666c-6e42-ab6f-5e3783ae67ec/NL-HlmNHA_1478_14572K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Boerderij de Badhoeve Badhoevedorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e2c055fe-d946-1b59-b20f-67c5477abd48\">https://hdl.handle.net/21.12102/e2c055fe-d946-1b59-b20f-67c5477abd48</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8f1aeedd-666c-6e42-ab6f-5e3783ae67ec/NL-HlmNHA_1478_14572K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8f1aeedd-666c-6e42-ab6f-5e3783ae67ec/NL-HlmNHA_1478_14572K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f973ad21-38a4-a76b-5afd-3b98c9bec483/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f973ad21-38a4-a76b-5afd-3b98c9bec483",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8f1aeedd-666c-6e42-ab6f-5e3783ae67ec/NL-HlmNHA_1478_14572K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8f1aeedd-666c-6e42-ab6f-5e3783ae67ec/NL-HlmNHA_1478_14572K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Boerderij de Badhoeve Badhoevedorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f06bf8bd-dc1a-335a-7930-dffd1256c8f1\">https://hdl.handle.net/21.12102/f06bf8bd-dc1a-335a-7930-dffd1256c8f1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8f1aeedd-666c-6e42-ab6f-5e3783ae67ec/NL-HlmNHA_1478_14572K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8f1aeedd-666c-6e42-ab6f-5e3783ae67ec/NL-HlmNHA_1478_14572K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d75562e1-acef-6969-755c-ed195e5ff146/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d75562e1-acef-6969-755c-ed195e5ff146",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/8f1aeedd-666c-6e42-ab6f-5e3783ae67ec/NL-HlmNHA_1478_14572K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/0684e948-83a6-647c-edc7-d8dd37756223.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Boerderij, Sloterweg 347 (1990-03-06)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Boerderij, Sloterweg 347"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1990-03-06"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2511009\">Sloterweg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Boerderijen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/27958"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.779,
+            52.337806
+          ]
+        },
+        "properties": {
+          "title": "Sloterweg",
+          "url": "http://www.wikidata.org/entity/Q2511009"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0684e948-83a6-647c-edc7-d8dd37756223/NL-HlmNHA_1478_32008K00_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Boerderij, Sloterweg 347"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/054c790f-e3d6-5dec-6f6b-c90ce51a4a8d\">https://hdl.handle.net/21.12102/054c790f-e3d6-5dec-6f6b-c90ce51a4a8d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0684e948-83a6-647c-edc7-d8dd37756223/NL-HlmNHA_1478_32008K00_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0684e948-83a6-647c-edc7-d8dd37756223/NL-HlmNHA_1478_32008K00_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c4420947-f56a-e8c5-e76b-b9343c0f7ac4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c4420947-f56a-e8c5-e76b-b9343c0f7ac4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0684e948-83a6-647c-edc7-d8dd37756223/NL-HlmNHA_1478_32008K00_09/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0684e948-83a6-647c-edc7-d8dd37756223/NL-HlmNHA_1478_32008K00_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Boerderij, Sloterweg 347"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/43534fa9-f2ae-8ee7-ac02-b108540f76c4\">https://hdl.handle.net/21.12102/43534fa9-f2ae-8ee7-ac02-b108540f76c4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0684e948-83a6-647c-edc7-d8dd37756223/NL-HlmNHA_1478_32008K00_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0684e948-83a6-647c-edc7-d8dd37756223/NL-HlmNHA_1478_32008K00_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e01fabc8-d024-f11d-a605-336091e45601/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e01fabc8-d024-f11d-a605-336091e45601",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0684e948-83a6-647c-edc7-d8dd37756223/NL-HlmNHA_1478_32008K00_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0684e948-83a6-647c-edc7-d8dd37756223/NL-HlmNHA_1478_32008K00_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Boerderij, Sloterweg 347"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9c5b33d3-6767-472c-6b75-672d235c13f8\">https://hdl.handle.net/21.12102/9c5b33d3-6767-472c-6b75-672d235c13f8</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0684e948-83a6-647c-edc7-d8dd37756223/NL-HlmNHA_1478_32008K00_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0684e948-83a6-647c-edc7-d8dd37756223/NL-HlmNHA_1478_32008K00_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/199b483e-7275-daaa-f455-56cf86cca9a3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/199b483e-7275-daaa-f455-56cf86cca9a3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0684e948-83a6-647c-edc7-d8dd37756223/NL-HlmNHA_1478_32008K00_08/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0684e948-83a6-647c-edc7-d8dd37756223/NL-HlmNHA_1478_32008K00_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Boerderij, Sloterweg 347"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a6ed9b57-137e-59b8-8260-3563ff55dc45\">https://hdl.handle.net/21.12102/a6ed9b57-137e-59b8-8260-3563ff55dc45</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0684e948-83a6-647c-edc7-d8dd37756223/NL-HlmNHA_1478_32008K00_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0684e948-83a6-647c-edc7-d8dd37756223/NL-HlmNHA_1478_32008K00_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/250a885e-2f7f-ef16-2d42-fae7a9d0b0c6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/250a885e-2f7f-ef16-2d42-fae7a9d0b0c6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0684e948-83a6-647c-edc7-d8dd37756223/NL-HlmNHA_1478_32008K00_10/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0684e948-83a6-647c-edc7-d8dd37756223/NL-HlmNHA_1478_32008K00_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Boerderij, Sloterweg 347"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b27a8425-6bff-9933-49bc-d324afe1c7a5\">https://hdl.handle.net/21.12102/b27a8425-6bff-9933-49bc-d324afe1c7a5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0684e948-83a6-647c-edc7-d8dd37756223/NL-HlmNHA_1478_32008K00_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0684e948-83a6-647c-edc7-d8dd37756223/NL-HlmNHA_1478_32008K00_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a9812973-ec34-58ff-ae5e-bacc1739d537/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a9812973-ec34-58ff-ae5e-bacc1739d537",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0684e948-83a6-647c-edc7-d8dd37756223/NL-HlmNHA_1478_32008K00_11/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0684e948-83a6-647c-edc7-d8dd37756223/NL-HlmNHA_1478_32008K00_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Boerderij, Sloterweg 347"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d9325e2d-6ec7-2771-8620-3c25b10ffdaa\">https://hdl.handle.net/21.12102/d9325e2d-6ec7-2771-8620-3c25b10ffdaa</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0684e948-83a6-647c-edc7-d8dd37756223/NL-HlmNHA_1478_32008K00_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0684e948-83a6-647c-edc7-d8dd37756223/NL-HlmNHA_1478_32008K00_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/049f4988-bf91-0d7e-0aad-f41ee7b42d7a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/049f4988-bf91-0d7e-0aad-f41ee7b42d7a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0684e948-83a6-647c-edc7-d8dd37756223/NL-HlmNHA_1478_32008K00_12/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/c63568e5-a11c-1be8-ffa9-15926aaef01b.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Kapitein en machinist NESTOR (1983-09-07)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Kapitein en machinist NESTOR"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1983-09-07"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Scheepsbouw, scheepsvaart"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/28148"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c63568e5-a11c-1be8-ffa9-15926aaef01b/NL-HlmNHA_1478_23395K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kapitein en machinist NESTOR"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4e055669-ac33-ccae-5258-2230888de161\">https://hdl.handle.net/21.12102/4e055669-ac33-ccae-5258-2230888de161</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c63568e5-a11c-1be8-ffa9-15926aaef01b/NL-HlmNHA_1478_23395K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c63568e5-a11c-1be8-ffa9-15926aaef01b/NL-HlmNHA_1478_23395K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/dc5224ad-8a5d-2967-8823-a84467b4df22/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/dc5224ad-8a5d-2967-8823-a84467b4df22",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c63568e5-a11c-1be8-ffa9-15926aaef01b/NL-HlmNHA_1478_23395K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c63568e5-a11c-1be8-ffa9-15926aaef01b/NL-HlmNHA_1478_23395K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kapitein en machinist NESTOR"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b21994bf-0a64-1b42-b91e-522040e2048f\">https://hdl.handle.net/21.12102/b21994bf-0a64-1b42-b91e-522040e2048f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c63568e5-a11c-1be8-ffa9-15926aaef01b/NL-HlmNHA_1478_23395K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c63568e5-a11c-1be8-ffa9-15926aaef01b/NL-HlmNHA_1478_23395K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2c4c8d2c-59e5-9e30-6c34-3ede8776eb4b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2c4c8d2c-59e5-9e30-6c34-3ede8776eb4b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c63568e5-a11c-1be8-ffa9-15926aaef01b/NL-HlmNHA_1478_23395K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c63568e5-a11c-1be8-ffa9-15926aaef01b/NL-HlmNHA_1478_23395K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kapitein en machinist NESTOR"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c404bfd3-fc6f-c17c-23ac-4af162a08864\">https://hdl.handle.net/21.12102/c404bfd3-fc6f-c17c-23ac-4af162a08864</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c63568e5-a11c-1be8-ffa9-15926aaef01b/NL-HlmNHA_1478_23395K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c63568e5-a11c-1be8-ffa9-15926aaef01b/NL-HlmNHA_1478_23395K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5e497613-a6ac-7435-dca4-cf8034f8135b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5e497613-a6ac-7435-dca4-cf8034f8135b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c63568e5-a11c-1be8-ffa9-15926aaef01b/NL-HlmNHA_1478_23395K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c63568e5-a11c-1be8-ffa9-15926aaef01b/NL-HlmNHA_1478_23395K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kapitein en machinist NESTOR"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ed055954-9b90-9ed8-ce44-e4a327a3edcd\">https://hdl.handle.net/21.12102/ed055954-9b90-9ed8-ce44-e4a327a3edcd</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c63568e5-a11c-1be8-ffa9-15926aaef01b/NL-HlmNHA_1478_23395K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c63568e5-a11c-1be8-ffa9-15926aaef01b/NL-HlmNHA_1478_23395K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/84879855-06f8-0f34-07b2-fff25f6a27bc/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/84879855-06f8-0f34-07b2-fff25f6a27bc",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c63568e5-a11c-1be8-ffa9-15926aaef01b/NL-HlmNHA_1478_23395K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

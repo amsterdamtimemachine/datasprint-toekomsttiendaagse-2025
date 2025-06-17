@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/9cd12739-679b-0f65-901f-e167edb5348e.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Portret van de heer Lamberts, KNWB, Amsterdam (1984-05-08)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Portret van de heer Lamberts, KNWB, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1984-05-08"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Portretten, Bonden"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/27140"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cd12739-679b-0f65-901f-e167edb5348e/NL-HlmNHA_1478_24117K01_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van de heer Lamberts, KNWB, Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4599c85f-6d6c-e6a0-4854-9e6a81a24cee\">https://hdl.handle.net/21.12102/4599c85f-6d6c-e6a0-4854-9e6a81a24cee</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cd12739-679b-0f65-901f-e167edb5348e/NL-HlmNHA_1478_24117K01_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cd12739-679b-0f65-901f-e167edb5348e/NL-HlmNHA_1478_24117K01_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/26e80a90-3737-decc-9fc0-49ef9f3957f3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/26e80a90-3737-decc-9fc0-49ef9f3957f3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cd12739-679b-0f65-901f-e167edb5348e/NL-HlmNHA_1478_24117K01_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cd12739-679b-0f65-901f-e167edb5348e/NL-HlmNHA_1478_24117K01_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van de heer Lamberts, KNWB, Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/64eea87b-7df7-25e5-9311-a6aff51c3f0a\">https://hdl.handle.net/21.12102/64eea87b-7df7-25e5-9311-a6aff51c3f0a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cd12739-679b-0f65-901f-e167edb5348e/NL-HlmNHA_1478_24117K01_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cd12739-679b-0f65-901f-e167edb5348e/NL-HlmNHA_1478_24117K01_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b18c8c18-a7ea-d650-c97f-503caeb96b7e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b18c8c18-a7ea-d650-c97f-503caeb96b7e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cd12739-679b-0f65-901f-e167edb5348e/NL-HlmNHA_1478_24117K01_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cd12739-679b-0f65-901f-e167edb5348e/NL-HlmNHA_1478_24117K01_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van de heer Lamberts, KNWB, Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/653130fe-d42c-33b5-7a6c-6efef9fcf98b\">https://hdl.handle.net/21.12102/653130fe-d42c-33b5-7a6c-6efef9fcf98b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cd12739-679b-0f65-901f-e167edb5348e/NL-HlmNHA_1478_24117K01_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cd12739-679b-0f65-901f-e167edb5348e/NL-HlmNHA_1478_24117K01_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f436b629-71a5-2dc2-9b2b-658ed3bc0734/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f436b629-71a5-2dc2-9b2b-658ed3bc0734",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cd12739-679b-0f65-901f-e167edb5348e/NL-HlmNHA_1478_24117K01_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cd12739-679b-0f65-901f-e167edb5348e/NL-HlmNHA_1478_24117K01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van de heer Lamberts, KNWB, Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6a013524-9e7c-0898-5eb3-a4d92371223b\">https://hdl.handle.net/21.12102/6a013524-9e7c-0898-5eb3-a4d92371223b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cd12739-679b-0f65-901f-e167edb5348e/NL-HlmNHA_1478_24117K01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cd12739-679b-0f65-901f-e167edb5348e/NL-HlmNHA_1478_24117K01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9beed96b-0a56-5eed-f4ce-40f839f4b95c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9beed96b-0a56-5eed-f4ce-40f839f4b95c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cd12739-679b-0f65-901f-e167edb5348e/NL-HlmNHA_1478_24117K01_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cd12739-679b-0f65-901f-e167edb5348e/NL-HlmNHA_1478_24117K01_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van de heer Lamberts, KNWB, Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ede86737-24bd-0460-e3ad-3f44acbb2299\">https://hdl.handle.net/21.12102/ede86737-24bd-0460-e3ad-3f44acbb2299</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cd12739-679b-0f65-901f-e167edb5348e/NL-HlmNHA_1478_24117K01_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cd12739-679b-0f65-901f-e167edb5348e/NL-HlmNHA_1478_24117K01_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/59eda2a5-70db-e0f7-7a6e-efa23dcbbc3a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/59eda2a5-70db-e0f7-7a6e-efa23dcbbc3a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cd12739-679b-0f65-901f-e167edb5348e/NL-HlmNHA_1478_24117K01_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cd12739-679b-0f65-901f-e167edb5348e/NL-HlmNHA_1478_24117K01_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van de heer Lamberts, KNWB, Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/fd54e999-5387-2a68-52a1-b9e4e708c84e\">https://hdl.handle.net/21.12102/fd54e999-5387-2a68-52a1-b9e4e708c84e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cd12739-679b-0f65-901f-e167edb5348e/NL-HlmNHA_1478_24117K01_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cd12739-679b-0f65-901f-e167edb5348e/NL-HlmNHA_1478_24117K01_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fc00dca3-88bf-126a-8381-7fa6a0384927/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fc00dca3-88bf-126a-8381-7fa6a0384927",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9cd12739-679b-0f65-901f-e167edb5348e/NL-HlmNHA_1478_24117K01_02/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

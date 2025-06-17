@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/466565bd-58f2-fb31-b8da-6b73e965fb20.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Portret Jan Verver Zwanenburg, clubhuis de Hoek (1981-10-08)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Portret Jan Verver Zwanenburg, clubhuis de Hoek"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1981-10-08"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Clubhuizen, Portretten"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/25069, http://data.beeldengeluid.nl/gtaa/27140"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/466565bd-58f2-fb31-b8da-6b73e965fb20/NL-HlmNHA_1478_21213K00_27/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Jan Verver Zwanenburg, clubhuis de Hoek"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3bff61e1-2e22-0d40-31f4-f08ab1447f60\">https://hdl.handle.net/21.12102/3bff61e1-2e22-0d40-31f4-f08ab1447f60</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/466565bd-58f2-fb31-b8da-6b73e965fb20/NL-HlmNHA_1478_21213K00_27/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/466565bd-58f2-fb31-b8da-6b73e965fb20/NL-HlmNHA_1478_21213K00_27/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/91e24cbd-58ac-f45e-0408-90883e360a61/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/91e24cbd-58ac-f45e-0408-90883e360a61",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/466565bd-58f2-fb31-b8da-6b73e965fb20/NL-HlmNHA_1478_21213K00_27/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/466565bd-58f2-fb31-b8da-6b73e965fb20/NL-HlmNHA_1478_21213K00_26/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Jan Verver Zwanenburg, clubhuis de Hoek"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5a5f4ca1-7a02-bbfa-d955-3799e96ef1d7\">https://hdl.handle.net/21.12102/5a5f4ca1-7a02-bbfa-d955-3799e96ef1d7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/466565bd-58f2-fb31-b8da-6b73e965fb20/NL-HlmNHA_1478_21213K00_26/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/466565bd-58f2-fb31-b8da-6b73e965fb20/NL-HlmNHA_1478_21213K00_26/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2b85e613-6035-e856-22c6-b731a06c5383/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2b85e613-6035-e856-22c6-b731a06c5383",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/466565bd-58f2-fb31-b8da-6b73e965fb20/NL-HlmNHA_1478_21213K00_26/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/466565bd-58f2-fb31-b8da-6b73e965fb20/NL-HlmNHA_1478_21213K00_25/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Jan Verver Zwanenburg, clubhuis de Hoek"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/615e3cde-ccbd-7be8-d374-ea835b744f94\">https://hdl.handle.net/21.12102/615e3cde-ccbd-7be8-d374-ea835b744f94</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/466565bd-58f2-fb31-b8da-6b73e965fb20/NL-HlmNHA_1478_21213K00_25/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/466565bd-58f2-fb31-b8da-6b73e965fb20/NL-HlmNHA_1478_21213K00_25/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f84deb12-70ee-02f3-36ed-ec127191467d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f84deb12-70ee-02f3-36ed-ec127191467d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/466565bd-58f2-fb31-b8da-6b73e965fb20/NL-HlmNHA_1478_21213K00_25/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/466565bd-58f2-fb31-b8da-6b73e965fb20/NL-HlmNHA_1478_21213K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Jan Verver Zwanenburg, clubhuis de Hoek"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c31ba1b5-892e-2b65-d9b4-f4d5c8a80284\">https://hdl.handle.net/21.12102/c31ba1b5-892e-2b65-d9b4-f4d5c8a80284</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/466565bd-58f2-fb31-b8da-6b73e965fb20/NL-HlmNHA_1478_21213K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/466565bd-58f2-fb31-b8da-6b73e965fb20/NL-HlmNHA_1478_21213K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1b191267-4b1b-e7b7-7042-8c820996a084/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1b191267-4b1b-e7b7-7042-8c820996a084",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/466565bd-58f2-fb31-b8da-6b73e965fb20/NL-HlmNHA_1478_21213K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/466565bd-58f2-fb31-b8da-6b73e965fb20/NL-HlmNHA_1478_21213K00_28/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret Jan Verver Zwanenburg, clubhuis de Hoek"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/efd03df9-ca90-3ab3-4788-daf79ba98901\">https://hdl.handle.net/21.12102/efd03df9-ca90-3ab3-4788-daf79ba98901</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/466565bd-58f2-fb31-b8da-6b73e965fb20/NL-HlmNHA_1478_21213K00_28/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/466565bd-58f2-fb31-b8da-6b73e965fb20/NL-HlmNHA_1478_21213K00_28/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8a3e980e-bc1b-6f88-234e-d727d9f13169/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8a3e980e-bc1b-6f88-234e-d727d9f13169",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/466565bd-58f2-fb31-b8da-6b73e965fb20/NL-HlmNHA_1478_21213K00_28/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

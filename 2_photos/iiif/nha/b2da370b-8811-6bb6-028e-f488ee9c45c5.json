@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/b2da370b-8811-6bb6-028e-f488ee9c45c5.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Opening Kamerlingh Onneslaan Badhoevedorp (1985-06-16)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Opening Kamerlingh Onneslaan Badhoevedorp"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1985-06-16"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q19285744\">Kamerlingh Onneslaan</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Opening, openingen, in gebruik name"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7772,
+            52.3431
+          ]
+        },
+        "properties": {
+          "title": "Kamerlingh Onneslaan",
+          "url": "http://www.wikidata.org/entity/Q19285744"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2da370b-8811-6bb6-028e-f488ee9c45c5/NL-HlmNHA_1478_25252K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Opening Kamerlingh Onneslaan Badhoevedorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/018e9e15-acc1-e3e9-3037-1d36020f9334\">https://hdl.handle.net/21.12102/018e9e15-acc1-e3e9-3037-1d36020f9334</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2da370b-8811-6bb6-028e-f488ee9c45c5/NL-HlmNHA_1478_25252K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2da370b-8811-6bb6-028e-f488ee9c45c5/NL-HlmNHA_1478_25252K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1fb0e55a-d7ef-a487-52a4-e2750f2ed482/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1fb0e55a-d7ef-a487-52a4-e2750f2ed482",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2da370b-8811-6bb6-028e-f488ee9c45c5/NL-HlmNHA_1478_25252K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2da370b-8811-6bb6-028e-f488ee9c45c5/NL-HlmNHA_1478_25252K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Opening Kamerlingh Onneslaan Badhoevedorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/471bc424-28e6-1450-1b7b-9aafeb46e2cc\">https://hdl.handle.net/21.12102/471bc424-28e6-1450-1b7b-9aafeb46e2cc</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2da370b-8811-6bb6-028e-f488ee9c45c5/NL-HlmNHA_1478_25252K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2da370b-8811-6bb6-028e-f488ee9c45c5/NL-HlmNHA_1478_25252K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1c26a631-a06d-a4b6-786d-721ce8f29c56/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1c26a631-a06d-a4b6-786d-721ce8f29c56",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2da370b-8811-6bb6-028e-f488ee9c45c5/NL-HlmNHA_1478_25252K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2da370b-8811-6bb6-028e-f488ee9c45c5/NL-HlmNHA_1478_25252K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Opening Kamerlingh Onneslaan Badhoevedorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7925c43c-91be-1530-8ce1-a3a49a51918f\">https://hdl.handle.net/21.12102/7925c43c-91be-1530-8ce1-a3a49a51918f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2da370b-8811-6bb6-028e-f488ee9c45c5/NL-HlmNHA_1478_25252K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2da370b-8811-6bb6-028e-f488ee9c45c5/NL-HlmNHA_1478_25252K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9e2a3721-5da6-e897-8f23-97a4d9dd981b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9e2a3721-5da6-e897-8f23-97a4d9dd981b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2da370b-8811-6bb6-028e-f488ee9c45c5/NL-HlmNHA_1478_25252K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2da370b-8811-6bb6-028e-f488ee9c45c5/NL-HlmNHA_1478_25252K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Opening Kamerlingh Onneslaan Badhoevedorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8b195b25-fa29-1d68-fa1d-08ef0fd7f3d2\">https://hdl.handle.net/21.12102/8b195b25-fa29-1d68-fa1d-08ef0fd7f3d2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2da370b-8811-6bb6-028e-f488ee9c45c5/NL-HlmNHA_1478_25252K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2da370b-8811-6bb6-028e-f488ee9c45c5/NL-HlmNHA_1478_25252K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/83c0cf93-44ec-bb0c-b1cb-90b21d4b6f44/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/83c0cf93-44ec-bb0c-b1cb-90b21d4b6f44",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2da370b-8811-6bb6-028e-f488ee9c45c5/NL-HlmNHA_1478_25252K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2da370b-8811-6bb6-028e-f488ee9c45c5/NL-HlmNHA_1478_25252K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Opening Kamerlingh Onneslaan Badhoevedorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/96fc2905-6ac5-7c84-2df2-6fe0ec9f3288\">https://hdl.handle.net/21.12102/96fc2905-6ac5-7c84-2df2-6fe0ec9f3288</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2da370b-8811-6bb6-028e-f488ee9c45c5/NL-HlmNHA_1478_25252K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2da370b-8811-6bb6-028e-f488ee9c45c5/NL-HlmNHA_1478_25252K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/fa1f305c-aec5-d7a5-5e36-c52e5c50bd1a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/fa1f305c-aec5-d7a5-5e36-c52e5c50bd1a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2da370b-8811-6bb6-028e-f488ee9c45c5/NL-HlmNHA_1478_25252K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2da370b-8811-6bb6-028e-f488ee9c45c5/NL-HlmNHA_1478_25252K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Opening Kamerlingh Onneslaan Badhoevedorp"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/dded50e8-121b-6e78-c685-5c7b67bb8bee\">https://hdl.handle.net/21.12102/dded50e8-121b-6e78-c685-5c7b67bb8bee</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2da370b-8811-6bb6-028e-f488ee9c45c5/NL-HlmNHA_1478_25252K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2da370b-8811-6bb6-028e-f488ee9c45c5/NL-HlmNHA_1478_25252K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/aef1ef4f-2158-5972-d819-3ce73673ad82/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/aef1ef4f-2158-5972-d819-3ce73673ad82",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/b2da370b-8811-6bb6-028e-f488ee9c45c5/NL-HlmNHA_1478_25252K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

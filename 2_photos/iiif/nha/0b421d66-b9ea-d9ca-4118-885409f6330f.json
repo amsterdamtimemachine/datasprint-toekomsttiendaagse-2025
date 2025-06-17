@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/0b421d66-b9ea-d9ca-4118-885409f6330f.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Een echtpaar bovenaan een vliegtuigtrap op Schiphol (1959)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Een echtpaar bovenaan een vliegtuigtrap op Schiphol"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1959"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0b421d66-b9ea-d9ca-4118-885409f6330f/NL-HlmNHA_1478_16769B02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Een echtpaar bovenaan een vliegtuigtrap op Schiphol"
+        ]
+      },
+      "height": 2775,
+      "width": 2223,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1ff6160b-79d2-291a-2300-f3d3865349a9\">https://hdl.handle.net/21.12102/1ff6160b-79d2-291a-2300-f3d3865349a9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0b421d66-b9ea-d9ca-4118-885409f6330f/NL-HlmNHA_1478_16769B02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0b421d66-b9ea-d9ca-4118-885409f6330f/NL-HlmNHA_1478_16769B02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2cd723b3-9c41-c7a5-abe1-d444861703bd/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2775,
+                "width": 2223,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2cd723b3-9c41-c7a5-abe1-d444861703bd",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0b421d66-b9ea-d9ca-4118-885409f6330f/NL-HlmNHA_1478_16769B02_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0b421d66-b9ea-d9ca-4118-885409f6330f/NL-HlmNHA_1478_16769B01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Een echtpaar bovenaan een vliegtuigtrap op Schiphol"
+        ]
+      },
+      "height": 2812,
+      "width": 2147,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/cdc2f3bf-2c33-7014-b80c-0c94505f7309\">https://hdl.handle.net/21.12102/cdc2f3bf-2c33-7014-b80c-0c94505f7309</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0b421d66-b9ea-d9ca-4118-885409f6330f/NL-HlmNHA_1478_16769B01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0b421d66-b9ea-d9ca-4118-885409f6330f/NL-HlmNHA_1478_16769B01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/36a8298f-e242-1d7b-ea22-33ca3c342ddd/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2812,
+                "width": 2147,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/36a8298f-e242-1d7b-ea22-33ca3c342ddd",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0b421d66-b9ea-d9ca-4118-885409f6330f/NL-HlmNHA_1478_16769B01_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

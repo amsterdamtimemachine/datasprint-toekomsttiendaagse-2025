@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/3fe3daa1-bc4c-a5a8-8531-815ef04b8563.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Tekening in galerie Fagel A'dam (1979-05-30)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Tekening in galerie Fagel A'dam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1979-05-30"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Tekenen, tekeningen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/29036"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3fe3daa1-bc4c-a5a8-8531-815ef04b8563/NL-HlmNHA_1478_18023K01_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tekening in galerie Fagel A'dam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/650f03df-0cbe-3ebb-00b2-027ab2e50c36\">https://hdl.handle.net/21.12102/650f03df-0cbe-3ebb-00b2-027ab2e50c36</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3fe3daa1-bc4c-a5a8-8531-815ef04b8563/NL-HlmNHA_1478_18023K01_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3fe3daa1-bc4c-a5a8-8531-815ef04b8563/NL-HlmNHA_1478_18023K01_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c062c212-ae63-baff-4ac6-8af7126ea30a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c062c212-ae63-baff-4ac6-8af7126ea30a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3fe3daa1-bc4c-a5a8-8531-815ef04b8563/NL-HlmNHA_1478_18023K01_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3fe3daa1-bc4c-a5a8-8531-815ef04b8563/NL-HlmNHA_1478_18023K01_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tekening in galerie Fagel A'dam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c80ef13e-53ad-bf2a-9747-48603a7a829f\">https://hdl.handle.net/21.12102/c80ef13e-53ad-bf2a-9747-48603a7a829f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3fe3daa1-bc4c-a5a8-8531-815ef04b8563/NL-HlmNHA_1478_18023K01_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3fe3daa1-bc4c-a5a8-8531-815ef04b8563/NL-HlmNHA_1478_18023K01_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8d27b237-0f1c-bb86-f9c7-51633ecc2063/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8d27b237-0f1c-bb86-f9c7-51633ecc2063",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3fe3daa1-bc4c-a5a8-8531-815ef04b8563/NL-HlmNHA_1478_18023K01_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3fe3daa1-bc4c-a5a8-8531-815ef04b8563/NL-HlmNHA_1478_18023K01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tekening in galerie Fagel A'dam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ce8e784a-8301-998e-0453-3f6392fde09c\">https://hdl.handle.net/21.12102/ce8e784a-8301-998e-0453-3f6392fde09c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3fe3daa1-bc4c-a5a8-8531-815ef04b8563/NL-HlmNHA_1478_18023K01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3fe3daa1-bc4c-a5a8-8531-815ef04b8563/NL-HlmNHA_1478_18023K01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/87709cdc-7f2a-1538-a04d-a41000b1faa6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/87709cdc-7f2a-1538-a04d-a41000b1faa6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3fe3daa1-bc4c-a5a8-8531-815ef04b8563/NL-HlmNHA_1478_18023K01_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

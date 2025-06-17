@@ -1,0 +1,520 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Thomas Thichelman, A'dam (2000-08-09)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Thomas Thichelman, A'dam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2000-08-09"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Thomas Thichelman, A'dam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/18a0e9e5-8dee-1586-bcc6-d8ab1a6eaa1d\">https://hdl.handle.net/21.12102/18a0e9e5-8dee-1586-bcc6-d8ab1a6eaa1d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a19b80b9-858c-0899-5e44-d1142e6fbfa4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a19b80b9-858c-0899-5e44-d1142e6fbfa4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Thomas Thichelman, A'dam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4b597568-05f3-2e20-fd42-69f15d8c141d\">https://hdl.handle.net/21.12102/4b597568-05f3-2e20-fd42-69f15d8c141d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d1a6da22-0330-d0ce-081e-f6a3ec7b7738/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d1a6da22-0330-d0ce-081e-f6a3ec7b7738",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_12/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Thomas Thichelman, A'dam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5f2b22a4-d817-214d-7663-5bb85a71ca1d\">https://hdl.handle.net/21.12102/5f2b22a4-d817-214d-7663-5bb85a71ca1d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e1f91952-76ca-c87a-733e-4cbfa3a60d64/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e1f91952-76ca-c87a-733e-4cbfa3a60d64",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_10/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Thomas Thichelman, A'dam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/74d75412-008f-3dc1-55c6-9c2607f64931\">https://hdl.handle.net/21.12102/74d75412-008f-3dc1-55c6-9c2607f64931</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4c58ffb0-e729-7ab0-fa92-be01dd7d4f28/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4c58ffb0-e729-7ab0-fa92-be01dd7d4f28",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_07/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Thomas Thichelman, A'dam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c214920e-575e-4b1e-a1fe-a02667b473d1\">https://hdl.handle.net/21.12102/c214920e-575e-4b1e-a1fe-a02667b473d1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_07/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_07/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c02535ac-011d-cc36-a971-773863ce7259/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c02535ac-011d-cc36-a971-773863ce7259",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_07/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Thomas Thichelman, A'dam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d22b5a30-a627-61ec-474b-ac87f1b6b884\">https://hdl.handle.net/21.12102/d22b5a30-a627-61ec-474b-ac87f1b6b884</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d0e8e394-6a88-ab7d-97e5-5a63969e6291/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d0e8e394-6a88-ab7d-97e5-5a63969e6291",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_11/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Thomas Thichelman, A'dam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e719ea80-0dc5-7220-5fff-b5dad7460129\">https://hdl.handle.net/21.12102/e719ea80-0dc5-7220-5fff-b5dad7460129</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6a8abbb5-cb2f-cedb-8df7-19a785a805cc/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6a8abbb5-cb2f-cedb-8df7-19a785a805cc",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_09/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Thomas Thichelman, A'dam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/fb15ae2e-2ca5-b373-6f9e-01f785568f58\">https://hdl.handle.net/21.12102/fb15ae2e-2ca5-b373-6f9e-01f785568f58</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a5e94915-72d2-7b78-9543-638c9f515b85/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a5e94915-72d2-7b78-9543-638c9f515b85",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ea8f5626-f06e-e244-85fa-5c9d1ea5cb29/NL-HlmNHA_1478_48463K00_08/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

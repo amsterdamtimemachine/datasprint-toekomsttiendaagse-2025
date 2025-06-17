@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/6b472324-dce5-0022-714c-8d1f373f4cfe.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Hr. Overeem, Texaco, Amsterdam (2003-07-21)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Hr. Overeem, Texaco, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2003-07-21"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b472324-dce5-0022-714c-8d1f373f4cfe/NL-HlmNHA_1478_51753K00_32/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hr. Overeem, Texaco, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0a6dbdec-aec8-4837-5873-0cec47449d4c\">https://hdl.handle.net/21.12102/0a6dbdec-aec8-4837-5873-0cec47449d4c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b472324-dce5-0022-714c-8d1f373f4cfe/NL-HlmNHA_1478_51753K00_32/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b472324-dce5-0022-714c-8d1f373f4cfe/NL-HlmNHA_1478_51753K00_32/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7b0f0a85-1cf5-f0c0-e9ed-f387695457ff/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7b0f0a85-1cf5-f0c0-e9ed-f387695457ff",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b472324-dce5-0022-714c-8d1f373f4cfe/NL-HlmNHA_1478_51753K00_32/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b472324-dce5-0022-714c-8d1f373f4cfe/NL-HlmNHA_1478_51753K00_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hr. Overeem, Texaco, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0c3fa1d4-529b-bde1-4ed6-d7e2040e8275\">https://hdl.handle.net/21.12102/0c3fa1d4-529b-bde1-4ed6-d7e2040e8275</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b472324-dce5-0022-714c-8d1f373f4cfe/NL-HlmNHA_1478_51753K00_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b472324-dce5-0022-714c-8d1f373f4cfe/NL-HlmNHA_1478_51753K00_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/74f5a87e-372e-01fb-e4a0-cdc40236f8b8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/74f5a87e-372e-01fb-e4a0-cdc40236f8b8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b472324-dce5-0022-714c-8d1f373f4cfe/NL-HlmNHA_1478_51753K00_30/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b472324-dce5-0022-714c-8d1f373f4cfe/NL-HlmNHA_1478_51753K00_31/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hr. Overeem, Texaco, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/29746b1e-524a-73c3-e8a4-ebd70223df2f\">https://hdl.handle.net/21.12102/29746b1e-524a-73c3-e8a4-ebd70223df2f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b472324-dce5-0022-714c-8d1f373f4cfe/NL-HlmNHA_1478_51753K00_31/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b472324-dce5-0022-714c-8d1f373f4cfe/NL-HlmNHA_1478_51753K00_31/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/02366a1f-8cd9-f23b-5027-c8bb5ce7acb4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/02366a1f-8cd9-f23b-5027-c8bb5ce7acb4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b472324-dce5-0022-714c-8d1f373f4cfe/NL-HlmNHA_1478_51753K00_31/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b472324-dce5-0022-714c-8d1f373f4cfe/NL-HlmNHA_1478_51753K00_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hr. Overeem, Texaco, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e82ddc64-801b-39d9-2be2-c94c0b6b90a3\">https://hdl.handle.net/21.12102/e82ddc64-801b-39d9-2be2-c94c0b6b90a3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b472324-dce5-0022-714c-8d1f373f4cfe/NL-HlmNHA_1478_51753K00_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b472324-dce5-0022-714c-8d1f373f4cfe/NL-HlmNHA_1478_51753K00_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8801a021-cd6b-e7f2-89fb-cda0c7641bda/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8801a021-cd6b-e7f2-89fb-cda0c7641bda",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b472324-dce5-0022-714c-8d1f373f4cfe/NL-HlmNHA_1478_51753K00_29/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b472324-dce5-0022-714c-8d1f373f4cfe/NL-HlmNHA_1478_51753K00_33/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Hr. Overeem, Texaco, Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f7c8a862-2769-8358-9ac9-7e60edb2d109\">https://hdl.handle.net/21.12102/f7c8a862-2769-8358-9ac9-7e60edb2d109</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b472324-dce5-0022-714c-8d1f373f4cfe/NL-HlmNHA_1478_51753K00_33/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b472324-dce5-0022-714c-8d1f373f4cfe/NL-HlmNHA_1478_51753K00_33/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5cb815b6-00a8-c502-77c0-512deb4583d3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5cb815b6-00a8-c502-77c0-512deb4583d3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6b472324-dce5-0022-714c-8d1f373f4cfe/NL-HlmNHA_1478_51753K00_33/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

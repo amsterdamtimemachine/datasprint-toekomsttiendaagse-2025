@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/a92ca041-b8f9-8336-6d7d-1f6465bf50ab.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "D.O.C. groep Brinkstraat 31 Amsterdam. Mevr. Heil (1947-03-09)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "D.O.C. groep Brinkstraat 31 Amsterdam. Mevr. Heil"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1947-03-09"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Brinkstraat 31"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Turnen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/26979"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.9466,
+            52.3423
+          ]
+        },
+        "properties": {
+          "title": "Brinkstraat 31",
+          "url": ""
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a92ca041-b8f9-8336-6d7d-1f6465bf50ab/NL-HlmNHA_1478_01568G00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "D.O.C. groep Brinkstraat 31 Amsterdam. Mevr. Heil"
+        ]
+      },
+      "height": 4438,
+      "width": 6086,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5cc93dbc-ff18-2767-bca6-ac80d632997d\">https://hdl.handle.net/21.12102/5cc93dbc-ff18-2767-bca6-ac80d632997d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a92ca041-b8f9-8336-6d7d-1f6465bf50ab/NL-HlmNHA_1478_01568G00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a92ca041-b8f9-8336-6d7d-1f6465bf50ab/NL-HlmNHA_1478_01568G00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c6fec79a-7810-fd61-a067-0e226b301f9e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4438,
+                "width": 6086,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c6fec79a-7810-fd61-a067-0e226b301f9e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/a92ca041-b8f9-8336-6d7d-1f6465bf50ab/NL-HlmNHA_1478_01568G00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

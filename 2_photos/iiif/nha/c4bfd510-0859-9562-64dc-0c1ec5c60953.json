@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/c4bfd510-0859-9562-64dc-0c1ec5c60953.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Diner in Kerstentuin, Amsterdam, o.a. Pieter Taselaar (1983-03-07)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Diner in Kerstentuin, Amsterdam, o.a. Pieter Taselaar"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1983-03-07"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Diner"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4bfd510-0859-9562-64dc-0c1ec5c60953/NL-HlmNHA_1478_22833K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Diner in Kerstentuin, Amsterdam, o.a. Pieter Taselaar"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/58539d86-4047-cf20-1161-c9ad43721592\">https://hdl.handle.net/21.12102/58539d86-4047-cf20-1161-c9ad43721592</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4bfd510-0859-9562-64dc-0c1ec5c60953/NL-HlmNHA_1478_22833K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4bfd510-0859-9562-64dc-0c1ec5c60953/NL-HlmNHA_1478_22833K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e65aba1e-3d93-a7d6-02fa-265ee1f9ae4f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e65aba1e-3d93-a7d6-02fa-265ee1f9ae4f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4bfd510-0859-9562-64dc-0c1ec5c60953/NL-HlmNHA_1478_22833K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4bfd510-0859-9562-64dc-0c1ec5c60953/NL-HlmNHA_1478_22833K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Diner in Kerstentuin, Amsterdam, o.a. Pieter Taselaar"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/875e15c4-4a0f-bed6-0a2d-4fb79cfca1ea\">https://hdl.handle.net/21.12102/875e15c4-4a0f-bed6-0a2d-4fb79cfca1ea</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4bfd510-0859-9562-64dc-0c1ec5c60953/NL-HlmNHA_1478_22833K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4bfd510-0859-9562-64dc-0c1ec5c60953/NL-HlmNHA_1478_22833K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c259d283-ecac-f235-95b5-91f0c766de5e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c259d283-ecac-f235-95b5-91f0c766de5e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4bfd510-0859-9562-64dc-0c1ec5c60953/NL-HlmNHA_1478_22833K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4bfd510-0859-9562-64dc-0c1ec5c60953/NL-HlmNHA_1478_22833K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Diner in Kerstentuin, Amsterdam, o.a. Pieter Taselaar"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c5d45049-fbea-2192-fda0-715d7836d79e\">https://hdl.handle.net/21.12102/c5d45049-fbea-2192-fda0-715d7836d79e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4bfd510-0859-9562-64dc-0c1ec5c60953/NL-HlmNHA_1478_22833K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4bfd510-0859-9562-64dc-0c1ec5c60953/NL-HlmNHA_1478_22833K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/47550662-584d-a413-477b-e3cf0d777cf1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/47550662-584d-a413-477b-e3cf0d777cf1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c4bfd510-0859-9562-64dc-0c1ec5c60953/NL-HlmNHA_1478_22833K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

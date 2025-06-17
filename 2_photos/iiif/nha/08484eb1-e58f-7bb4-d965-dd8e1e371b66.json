@@ -1,0 +1,732 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/08484eb1-e58f-7bb4-d965-dd8e1e371b66.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Peter van der Noord, Schiphol (2002-12-12)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Peter van der Noord, Schiphol"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2002-12-12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Peter van der Noord, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/07cd7901-fe1e-c326-95e6-6b60042c20b1\">https://hdl.handle.net/21.12102/07cd7901-fe1e-c326-95e6-6b60042c20b1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/50319bbb-2474-de1e-8dc8-61527a452f95/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/50319bbb-2474-de1e-8dc8-61527a452f95",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Peter van der Noord, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2042f3f1-ad4b-fa54-4730-0a926c2f85a6\">https://hdl.handle.net/21.12102/2042f3f1-ad4b-fa54-4730-0a926c2f85a6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2eb18d57-c4c2-7b7a-279b-74ef7a6cc75a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2eb18d57-c4c2-7b7a-279b-74ef7a6cc75a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Peter van der Noord, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/54880959-3a2b-806e-deb5-254b4858f3e3\">https://hdl.handle.net/21.12102/54880959-3a2b-806e-deb5-254b4858f3e3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/dd7fab5e-15ea-30e3-8b12-f86acddb1841/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/dd7fab5e-15ea-30e3-8b12-f86acddb1841",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Peter van der Noord, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/57405215-ef0f-0221-61a1-94b9b902da8e\">https://hdl.handle.net/21.12102/57405215-ef0f-0221-61a1-94b9b902da8e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/25969db1-36dd-22c2-186a-38c1ef28f52a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/25969db1-36dd-22c2-186a-38c1ef28f52a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Peter van der Noord, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/64f29b4a-9eab-f8dc-95ba-f0bf3430eb47\">https://hdl.handle.net/21.12102/64f29b4a-9eab-f8dc-95ba-f0bf3430eb47</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/029d0f88-20ac-21b8-9d7a-22bbf1c57e1d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/029d0f88-20ac-21b8-9d7a-22bbf1c57e1d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_21/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Peter van der Noord, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/76f6080f-24e3-a947-0e15-480612d68936\">https://hdl.handle.net/21.12102/76f6080f-24e3-a947-0e15-480612d68936</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_21/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_21/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4c840efa-7355-5674-232a-00ea4d9b2968/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4c840efa-7355-5674-232a-00ea4d9b2968",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_21/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_22/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Peter van der Noord, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/85a8e3d6-e144-740f-6e17-ee6816ab1b92\">https://hdl.handle.net/21.12102/85a8e3d6-e144-740f-6e17-ee6816ab1b92</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_22/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_22/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/bd8d1866-011d-9fdd-d39c-e1acb0de6c67/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/bd8d1866-011d-9fdd-d39c-e1acb0de6c67",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_22/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Peter van der Noord, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/924f896f-e5d3-de37-7000-29ff034a8d1c\">https://hdl.handle.net/21.12102/924f896f-e5d3-de37-7000-29ff034a8d1c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/17793b6b-2e8d-1221-a42c-b8a3102f7e04/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/17793b6b-2e8d-1221-a42c-b8a3102f7e04",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Peter van der Noord, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9fcbf669-8785-ec9e-d06a-877935364d9f\">https://hdl.handle.net/21.12102/9fcbf669-8785-ec9e-d06a-877935364d9f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8e8a5196-3d32-890d-427b-10879999cc1f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8e8a5196-3d32-890d-427b-10879999cc1f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Peter van der Noord, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a3574a35-4190-926a-3443-c227930ca342\">https://hdl.handle.net/21.12102/a3574a35-4190-926a-3443-c227930ca342</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d751dca2-36de-cd4a-84d1-2cc6cae318e0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d751dca2-36de-cd4a-84d1-2cc6cae318e0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Peter van der Noord, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a7642087-32f3-48ac-9d5c-540cd48cc9f5\">https://hdl.handle.net/21.12102/a7642087-32f3-48ac-9d5c-540cd48cc9f5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/67d41e3c-ce45-d5f2-17f5-cef57c2fb112/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/67d41e3c-ce45-d5f2-17f5-cef57c2fb112",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Peter van der Noord, Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d15c64ae-59ca-b89c-c7a5-034e8bd211ac\">https://hdl.handle.net/21.12102/d15c64ae-59ca-b89c-c7a5-034e8bd211ac</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/00380dd4-8375-0213-39d8-b693f962b288/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/00380dd4-8375-0213-39d8-b693f962b288",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/08484eb1-e58f-7bb4-d965-dd8e1e371b66/NL-HlmNHA_1478_51145K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

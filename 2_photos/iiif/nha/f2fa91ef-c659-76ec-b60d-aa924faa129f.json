@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/f2fa91ef-c659-76ec-b60d-aa924faa129f.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Interieur Bijlmerbajes Amsterdam (vrouw kijkt uit venster) (1978-02-20)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Interieur Bijlmerbajes Amsterdam (vrouw kijkt uit venster)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1978-02-20"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q19231255\">H.J.E. Wenckebachweg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.927,
+            52.339
+          ]
+        },
+        "properties": {
+          "title": "H.J.E. Wenckebachweg",
+          "url": "http://www.wikidata.org/entity/Q19231255"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f2fa91ef-c659-76ec-b60d-aa924faa129f/NL-HlmNHA_1478_16468K00_25/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interieur Bijlmerbajes Amsterdam (vrouw kijkt uit venster)"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1ae9be1c-13b8-a080-2910-f746efda4170\">https://hdl.handle.net/21.12102/1ae9be1c-13b8-a080-2910-f746efda4170</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f2fa91ef-c659-76ec-b60d-aa924faa129f/NL-HlmNHA_1478_16468K00_25/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f2fa91ef-c659-76ec-b60d-aa924faa129f/NL-HlmNHA_1478_16468K00_25/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/479b26ff-2bf1-ddb3-d47e-d4b1dc8962e8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/479b26ff-2bf1-ddb3-d47e-d4b1dc8962e8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f2fa91ef-c659-76ec-b60d-aa924faa129f/NL-HlmNHA_1478_16468K00_25/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f2fa91ef-c659-76ec-b60d-aa924faa129f/NL-HlmNHA_1478_16468K00_26/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interieur Bijlmerbajes Amsterdam (vrouw kijkt uit venster)"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9243c7c0-e52e-87a4-3863-6d0c24c9f3f9\">https://hdl.handle.net/21.12102/9243c7c0-e52e-87a4-3863-6d0c24c9f3f9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f2fa91ef-c659-76ec-b60d-aa924faa129f/NL-HlmNHA_1478_16468K00_26/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f2fa91ef-c659-76ec-b60d-aa924faa129f/NL-HlmNHA_1478_16468K00_26/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/87e258d6-5bed-13ea-8577-4a7d1c780e55/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/87e258d6-5bed-13ea-8577-4a7d1c780e55",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f2fa91ef-c659-76ec-b60d-aa924faa129f/NL-HlmNHA_1478_16468K00_26/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

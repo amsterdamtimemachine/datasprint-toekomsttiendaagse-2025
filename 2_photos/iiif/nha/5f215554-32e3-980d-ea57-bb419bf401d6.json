@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/5f215554-32e3-980d-ea57-bb419bf401d6.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Nederland - Turkije (1958-05-04)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Nederland - Turkije"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1958-05-04"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Voetbal"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/27291"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f215554-32e3-980d-ea57-bb419bf401d6/NL-HlmNHA_1478_15649B01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Nederland - Turkije"
+        ]
+      },
+      "height": 2203,
+      "width": 2737,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/571b8203-80e5-1586-e60b-0e452ef5c78f\">https://hdl.handle.net/21.12102/571b8203-80e5-1586-e60b-0e452ef5c78f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f215554-32e3-980d-ea57-bb419bf401d6/NL-HlmNHA_1478_15649B01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f215554-32e3-980d-ea57-bb419bf401d6/NL-HlmNHA_1478_15649B01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c36b9735-bb79-af6e-6965-e3dd342ae66a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2203,
+                "width": 2737,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c36b9735-bb79-af6e-6965-e3dd342ae66a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f215554-32e3-980d-ea57-bb419bf401d6/NL-HlmNHA_1478_15649B01_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f215554-32e3-980d-ea57-bb419bf401d6/NL-HlmNHA_1478_15649B02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Nederland - Turkije"
+        ]
+      },
+      "height": 2176,
+      "width": 2751,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d185d113-112b-1764-e452-20a6b20208fc\">https://hdl.handle.net/21.12102/d185d113-112b-1764-e452-20a6b20208fc</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f215554-32e3-980d-ea57-bb419bf401d6/NL-HlmNHA_1478_15649B02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f215554-32e3-980d-ea57-bb419bf401d6/NL-HlmNHA_1478_15649B02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/aeb9bd98-ff10-ced0-e511-b193bb4c3403/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2176,
+                "width": 2751,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/aeb9bd98-ff10-ced0-e511-b193bb4c3403",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5f215554-32e3-980d-ea57-bb419bf401d6/NL-HlmNHA_1478_15649B02_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

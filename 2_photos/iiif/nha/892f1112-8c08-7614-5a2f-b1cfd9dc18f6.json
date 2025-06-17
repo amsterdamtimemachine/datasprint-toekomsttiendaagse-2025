@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/892f1112-8c08-7614-5a2f-b1cfd9dc18f6.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Aviodome Schiphol (2003-09-16)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Aviodome Schiphol"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2003-09-16"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/892f1112-8c08-7614-5a2f-b1cfd9dc18f6/NL-HlmNHA_1478_51922K00_32/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Aviodome Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/37aee973-af3b-240c-0de3-c341dabaf7b5\">https://hdl.handle.net/21.12102/37aee973-af3b-240c-0de3-c341dabaf7b5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/892f1112-8c08-7614-5a2f-b1cfd9dc18f6/NL-HlmNHA_1478_51922K00_32/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/892f1112-8c08-7614-5a2f-b1cfd9dc18f6/NL-HlmNHA_1478_51922K00_32/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/13fd585f-81a1-bc08-fba0-37a5a7939f24/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/13fd585f-81a1-bc08-fba0-37a5a7939f24",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/892f1112-8c08-7614-5a2f-b1cfd9dc18f6/NL-HlmNHA_1478_51922K00_32/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/892f1112-8c08-7614-5a2f-b1cfd9dc18f6/NL-HlmNHA_1478_51922K00_34/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Aviodome Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/38a91009-88f3-e828-f256-0e677ce4e624\">https://hdl.handle.net/21.12102/38a91009-88f3-e828-f256-0e677ce4e624</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/892f1112-8c08-7614-5a2f-b1cfd9dc18f6/NL-HlmNHA_1478_51922K00_34/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/892f1112-8c08-7614-5a2f-b1cfd9dc18f6/NL-HlmNHA_1478_51922K00_34/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6035e089-2426-50e6-a614-c745e24ee1c2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6035e089-2426-50e6-a614-c745e24ee1c2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/892f1112-8c08-7614-5a2f-b1cfd9dc18f6/NL-HlmNHA_1478_51922K00_34/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/892f1112-8c08-7614-5a2f-b1cfd9dc18f6/NL-HlmNHA_1478_51922K00_33/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Aviodome Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3dd26bcd-b068-11ea-f3e0-15904903d6ef\">https://hdl.handle.net/21.12102/3dd26bcd-b068-11ea-f3e0-15904903d6ef</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/892f1112-8c08-7614-5a2f-b1cfd9dc18f6/NL-HlmNHA_1478_51922K00_33/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/892f1112-8c08-7614-5a2f-b1cfd9dc18f6/NL-HlmNHA_1478_51922K00_33/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/afe0a5c2-ee34-7f52-6a12-f05dfc7e8590/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/afe0a5c2-ee34-7f52-6a12-f05dfc7e8590",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/892f1112-8c08-7614-5a2f-b1cfd9dc18f6/NL-HlmNHA_1478_51922K00_33/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/892f1112-8c08-7614-5a2f-b1cfd9dc18f6/NL-HlmNHA_1478_51922K00_31/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Aviodome Schiphol"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/db0f4929-0c5f-8b06-9bd8-6620fc70625b\">https://hdl.handle.net/21.12102/db0f4929-0c5f-8b06-9bd8-6620fc70625b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/892f1112-8c08-7614-5a2f-b1cfd9dc18f6/NL-HlmNHA_1478_51922K00_31/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/892f1112-8c08-7614-5a2f-b1cfd9dc18f6/NL-HlmNHA_1478_51922K00_31/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/397cb8a6-615e-2e9b-02a6-b36847748c52/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/397cb8a6-615e-2e9b-02a6-b36847748c52",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/892f1112-8c08-7614-5a2f-b1cfd9dc18f6/NL-HlmNHA_1478_51922K00_31/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

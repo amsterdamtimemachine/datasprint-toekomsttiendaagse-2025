@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/1b7a1a05-ef87-2bd8-2d62-8ffe67c96210.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Interview kano\u00ebr Karel Muis langs Bosbaan, Amsterdam (1967-04-23)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Interview kano\u00ebr Karel Muis langs Bosbaan, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1967-04-23"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b7a1a05-ef87-2bd8-2d62-8ffe67c96210/NL-HlmNHA_1478_05076K01_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interview kano\u00ebr Karel Muis langs Bosbaan, Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1a2985cd-af3e-41c7-6e4f-aba7aa3e7a19\">https://hdl.handle.net/21.12102/1a2985cd-af3e-41c7-6e4f-aba7aa3e7a19</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b7a1a05-ef87-2bd8-2d62-8ffe67c96210/NL-HlmNHA_1478_05076K01_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b7a1a05-ef87-2bd8-2d62-8ffe67c96210/NL-HlmNHA_1478_05076K01_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5f516fd7-d855-7c1d-8c05-e49de7185821/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5f516fd7-d855-7c1d-8c05-e49de7185821",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b7a1a05-ef87-2bd8-2d62-8ffe67c96210/NL-HlmNHA_1478_05076K01_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b7a1a05-ef87-2bd8-2d62-8ffe67c96210/NL-HlmNHA_1478_05076K01_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interview kano\u00ebr Karel Muis langs Bosbaan, Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f6e52d5d-49e4-f90f-173a-954d7c9c9591\">https://hdl.handle.net/21.12102/f6e52d5d-49e4-f90f-173a-954d7c9c9591</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b7a1a05-ef87-2bd8-2d62-8ffe67c96210/NL-HlmNHA_1478_05076K01_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b7a1a05-ef87-2bd8-2d62-8ffe67c96210/NL-HlmNHA_1478_05076K01_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/07ebacdc-f27e-1859-32bd-047695bd7512/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/07ebacdc-f27e-1859-32bd-047695bd7512",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/1b7a1a05-ef87-2bd8-2d62-8ffe67c96210/NL-HlmNHA_1478_05076K01_04/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

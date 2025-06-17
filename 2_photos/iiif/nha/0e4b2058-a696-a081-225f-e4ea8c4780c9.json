@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/0e4b2058-a696-a081-225f-e4ea8c4780c9.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Akerdijk, eerste paal T106, Badhoevedorp wethouder Cees van der Linden van Haarlemmermeer in een vrachtauto van de aannemer (1998-12-07)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Akerdijk, eerste paal T106, Badhoevedorp wethouder Cees van der Linden van Haarlemmermeer in een vrachtauto van de aannemer"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1998-12-07"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q18933379\">Akerdijk</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7749,
+            52.3478
+          ]
+        },
+        "properties": {
+          "title": "Akerdijk",
+          "url": "http://www.wikidata.org/entity/Q18933379"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0e4b2058-a696-a081-225f-e4ea8c4780c9/NL-HlmNHA_1478_46353K00_22/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Akerdijk, eerste paal T106, Badhoevedorp wethouder Cees van der Linden van Haarlemmermeer in een vrachtauto van de aannemer"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/53705fb2-b475-f503-b408-2890a15681bb\">https://hdl.handle.net/21.12102/53705fb2-b475-f503-b408-2890a15681bb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0e4b2058-a696-a081-225f-e4ea8c4780c9/NL-HlmNHA_1478_46353K00_22/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0e4b2058-a696-a081-225f-e4ea8c4780c9/NL-HlmNHA_1478_46353K00_22/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/dd7dfd38-f47f-3242-7dfa-f1094556f9d7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/dd7dfd38-f47f-3242-7dfa-f1094556f9d7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/0e4b2058-a696-a081-225f-e4ea8c4780c9/NL-HlmNHA_1478_46353K00_22/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

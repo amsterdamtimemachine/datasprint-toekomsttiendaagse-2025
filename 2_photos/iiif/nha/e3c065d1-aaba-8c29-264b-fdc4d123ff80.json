@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/e3c065d1-aaba-8c29-264b-fdc4d123ff80.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "T.v. opname met Ko van Leeuwen in Artis, Amsterdam (1987-01-23)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "T.v. opname met Ko van Leeuwen in Artis, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1987-01-23"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Haarlems Dagblad e.d. en IJmuider Courant en Koerier"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e3c065d1-aaba-8c29-264b-fdc4d123ff80/NL-HlmNHA_1478_27219K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "T.v. opname met Ko van Leeuwen in Artis, Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0a75d5a0-b8cd-b933-2a06-a1d2bc1d36ad\">https://hdl.handle.net/21.12102/0a75d5a0-b8cd-b933-2a06-a1d2bc1d36ad</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e3c065d1-aaba-8c29-264b-fdc4d123ff80/NL-HlmNHA_1478_27219K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e3c065d1-aaba-8c29-264b-fdc4d123ff80/NL-HlmNHA_1478_27219K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/30124b4b-f38a-83e8-9a5b-e65ff1464330/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/30124b4b-f38a-83e8-9a5b-e65ff1464330",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e3c065d1-aaba-8c29-264b-fdc4d123ff80/NL-HlmNHA_1478_27219K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e3c065d1-aaba-8c29-264b-fdc4d123ff80/NL-HlmNHA_1478_27219K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "T.v. opname met Ko van Leeuwen in Artis, Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5477ab4a-16d5-6077-9ef6-988879269334\">https://hdl.handle.net/21.12102/5477ab4a-16d5-6077-9ef6-988879269334</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e3c065d1-aaba-8c29-264b-fdc4d123ff80/NL-HlmNHA_1478_27219K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e3c065d1-aaba-8c29-264b-fdc4d123ff80/NL-HlmNHA_1478_27219K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0de1e9dc-f7ce-daeb-965c-7a4cf537c2eb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0de1e9dc-f7ce-daeb-965c-7a4cf537c2eb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e3c065d1-aaba-8c29-264b-fdc4d123ff80/NL-HlmNHA_1478_27219K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e3c065d1-aaba-8c29-264b-fdc4d123ff80/NL-HlmNHA_1478_27219K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "T.v. opname met Ko van Leeuwen in Artis, Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6cdaea71-e3b8-e8aa-3049-6d250a518f38\">https://hdl.handle.net/21.12102/6cdaea71-e3b8-e8aa-3049-6d250a518f38</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e3c065d1-aaba-8c29-264b-fdc4d123ff80/NL-HlmNHA_1478_27219K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e3c065d1-aaba-8c29-264b-fdc4d123ff80/NL-HlmNHA_1478_27219K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/be8fd158-016d-f281-65b4-8be7de163101/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/be8fd158-016d-f281-65b4-8be7de163101",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e3c065d1-aaba-8c29-264b-fdc4d123ff80/NL-HlmNHA_1478_27219K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e3c065d1-aaba-8c29-264b-fdc4d123ff80/NL-HlmNHA_1478_27219K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "T.v. opname met Ko van Leeuwen in Artis, Amsterdam"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ff0616be-1f11-1306-618e-458859dccdb9\">https://hdl.handle.net/21.12102/ff0616be-1f11-1306-618e-458859dccdb9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e3c065d1-aaba-8c29-264b-fdc4d123ff80/NL-HlmNHA_1478_27219K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e3c065d1-aaba-8c29-264b-fdc4d123ff80/NL-HlmNHA_1478_27219K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/775e6315-7358-0952-aa00-7ded26622869/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/775e6315-7358-0952-aa00-7ded26622869",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e3c065d1-aaba-8c29-264b-fdc4d123ff80/NL-HlmNHA_1478_27219K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

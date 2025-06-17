@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/ec03dd5d-ea77-4642-5c4c-5279017e97f0.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Winkelen in Amstelveen (1998-09-28)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Winkelen in Amstelveen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1998-09-28"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q33421878\">Amstelveen</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.858056,
+            52.301944
+          ]
+        },
+        "properties": {
+          "title": "Amstelveen",
+          "url": "http://www.wikidata.org/entity/Q33421878"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec03dd5d-ea77-4642-5c4c-5279017e97f0/NL-HlmNHA_1478_46074K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Winkelen in Amstelveen"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/43098efa-06e3-1de4-e25e-fb8736a5d9b8\">https://hdl.handle.net/21.12102/43098efa-06e3-1de4-e25e-fb8736a5d9b8</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec03dd5d-ea77-4642-5c4c-5279017e97f0/NL-HlmNHA_1478_46074K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec03dd5d-ea77-4642-5c4c-5279017e97f0/NL-HlmNHA_1478_46074K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/af0d9838-b520-f894-0ee8-ca9d192417b3/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/af0d9838-b520-f894-0ee8-ca9d192417b3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec03dd5d-ea77-4642-5c4c-5279017e97f0/NL-HlmNHA_1478_46074K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec03dd5d-ea77-4642-5c4c-5279017e97f0/NL-HlmNHA_1478_46074K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Winkelen in Amstelveen"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4d6a9d4d-f5fa-4e67-18b6-45aac83fb012\">https://hdl.handle.net/21.12102/4d6a9d4d-f5fa-4e67-18b6-45aac83fb012</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec03dd5d-ea77-4642-5c4c-5279017e97f0/NL-HlmNHA_1478_46074K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec03dd5d-ea77-4642-5c4c-5279017e97f0/NL-HlmNHA_1478_46074K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b40b0e99-fb7b-66f0-f2d6-1e4fe26a3a25/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b40b0e99-fb7b-66f0-f2d6-1e4fe26a3a25",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec03dd5d-ea77-4642-5c4c-5279017e97f0/NL-HlmNHA_1478_46074K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec03dd5d-ea77-4642-5c4c-5279017e97f0/NL-HlmNHA_1478_46074K00_26/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Winkelen in Amstelveen"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6256ee31-1670-c2c3-c143-aa1d010047e5\">https://hdl.handle.net/21.12102/6256ee31-1670-c2c3-c143-aa1d010047e5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec03dd5d-ea77-4642-5c4c-5279017e97f0/NL-HlmNHA_1478_46074K00_26/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec03dd5d-ea77-4642-5c4c-5279017e97f0/NL-HlmNHA_1478_46074K00_26/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/564e2740-6e56-3c57-6278-055ea6c90727/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/564e2740-6e56-3c57-6278-055ea6c90727",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec03dd5d-ea77-4642-5c4c-5279017e97f0/NL-HlmNHA_1478_46074K00_26/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec03dd5d-ea77-4642-5c4c-5279017e97f0/NL-HlmNHA_1478_46074K00_22/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Winkelen in Amstelveen"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/83b9eb05-fd64-e980-36bc-65fb1ca707fc\">https://hdl.handle.net/21.12102/83b9eb05-fd64-e980-36bc-65fb1ca707fc</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec03dd5d-ea77-4642-5c4c-5279017e97f0/NL-HlmNHA_1478_46074K00_22/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec03dd5d-ea77-4642-5c4c-5279017e97f0/NL-HlmNHA_1478_46074K00_22/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0fda0d77-06e5-e3d7-9a7b-6043b6779cc9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0fda0d77-06e5-e3d7-9a7b-6043b6779cc9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec03dd5d-ea77-4642-5c4c-5279017e97f0/NL-HlmNHA_1478_46074K00_22/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec03dd5d-ea77-4642-5c4c-5279017e97f0/NL-HlmNHA_1478_46074K00_25/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Winkelen in Amstelveen"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b4244583-5987-a423-2932-9b55607a0b91\">https://hdl.handle.net/21.12102/b4244583-5987-a423-2932-9b55607a0b91</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec03dd5d-ea77-4642-5c4c-5279017e97f0/NL-HlmNHA_1478_46074K00_25/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec03dd5d-ea77-4642-5c4c-5279017e97f0/NL-HlmNHA_1478_46074K00_25/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b69fdf27-e4d5-ea3b-8bee-6f8f44ed6a90/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b69fdf27-e4d5-ea3b-8bee-6f8f44ed6a90",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec03dd5d-ea77-4642-5c4c-5279017e97f0/NL-HlmNHA_1478_46074K00_25/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec03dd5d-ea77-4642-5c4c-5279017e97f0/NL-HlmNHA_1478_46074K00_27/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Winkelen in Amstelveen"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c4d3cc59-821b-0dc5-cacb-f2ba1934e2c7\">https://hdl.handle.net/21.12102/c4d3cc59-821b-0dc5-cacb-f2ba1934e2c7</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec03dd5d-ea77-4642-5c4c-5279017e97f0/NL-HlmNHA_1478_46074K00_27/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec03dd5d-ea77-4642-5c4c-5279017e97f0/NL-HlmNHA_1478_46074K00_27/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a63c9f5f-b2fd-2ed6-6889-c9b461a29deb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a63c9f5f-b2fd-2ed6-6889-c9b461a29deb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ec03dd5d-ea77-4642-5c4c-5279017e97f0/NL-HlmNHA_1478_46074K00_27/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

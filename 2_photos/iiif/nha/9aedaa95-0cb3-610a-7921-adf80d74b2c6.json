@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/9aedaa95-0cb3-610a-7921-adf80d74b2c6.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Portret van de heer Van Waveren te Zwanenburg, bejaarden (1982-03-31)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Portret van de heer Van Waveren te Zwanenburg, bejaarden"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1982-03-31"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Personen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9aedaa95-0cb3-610a-7921-adf80d74b2c6/NL-HlmNHA_1478_21753K00_26/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van de heer Van Waveren te Zwanenburg, bejaarden"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2236f8c5-cdd2-caf9-c527-2b433af31441\">https://hdl.handle.net/21.12102/2236f8c5-cdd2-caf9-c527-2b433af31441</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9aedaa95-0cb3-610a-7921-adf80d74b2c6/NL-HlmNHA_1478_21753K00_26/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9aedaa95-0cb3-610a-7921-adf80d74b2c6/NL-HlmNHA_1478_21753K00_26/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/49f94cda-3b61-5aa5-17bc-fb1eeccbccf2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/49f94cda-3b61-5aa5-17bc-fb1eeccbccf2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9aedaa95-0cb3-610a-7921-adf80d74b2c6/NL-HlmNHA_1478_21753K00_26/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9aedaa95-0cb3-610a-7921-adf80d74b2c6/NL-HlmNHA_1478_21753K00_28/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van de heer Van Waveren te Zwanenburg, bejaarden"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/256a0c45-b023-b43a-dd8f-a66cede67469\">https://hdl.handle.net/21.12102/256a0c45-b023-b43a-dd8f-a66cede67469</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9aedaa95-0cb3-610a-7921-adf80d74b2c6/NL-HlmNHA_1478_21753K00_28/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9aedaa95-0cb3-610a-7921-adf80d74b2c6/NL-HlmNHA_1478_21753K00_28/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/1a795d3b-2f38-7d86-766f-2f389dad1f46/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/1a795d3b-2f38-7d86-766f-2f389dad1f46",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9aedaa95-0cb3-610a-7921-adf80d74b2c6/NL-HlmNHA_1478_21753K00_28/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9aedaa95-0cb3-610a-7921-adf80d74b2c6/NL-HlmNHA_1478_21753K00_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van de heer Van Waveren te Zwanenburg, bejaarden"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/363299fc-4835-b5ab-b033-b54355a9e897\">https://hdl.handle.net/21.12102/363299fc-4835-b5ab-b033-b54355a9e897</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9aedaa95-0cb3-610a-7921-adf80d74b2c6/NL-HlmNHA_1478_21753K00_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9aedaa95-0cb3-610a-7921-adf80d74b2c6/NL-HlmNHA_1478_21753K00_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a26ff3f4-866d-3d4c-2999-8f7646c7b5d1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a26ff3f4-866d-3d4c-2999-8f7646c7b5d1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9aedaa95-0cb3-610a-7921-adf80d74b2c6/NL-HlmNHA_1478_21753K00_29/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9aedaa95-0cb3-610a-7921-adf80d74b2c6/NL-HlmNHA_1478_21753K00_31/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van de heer Van Waveren te Zwanenburg, bejaarden"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/819a4214-9686-cda6-8535-76a38cb3a9a9\">https://hdl.handle.net/21.12102/819a4214-9686-cda6-8535-76a38cb3a9a9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9aedaa95-0cb3-610a-7921-adf80d74b2c6/NL-HlmNHA_1478_21753K00_31/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9aedaa95-0cb3-610a-7921-adf80d74b2c6/NL-HlmNHA_1478_21753K00_31/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ac484b31-0ff2-e8a7-7f41-ca2a78280017/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ac484b31-0ff2-e8a7-7f41-ca2a78280017",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9aedaa95-0cb3-610a-7921-adf80d74b2c6/NL-HlmNHA_1478_21753K00_31/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9aedaa95-0cb3-610a-7921-adf80d74b2c6/NL-HlmNHA_1478_21753K00_27/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van de heer Van Waveren te Zwanenburg, bejaarden"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/beaf7d96-13d4-fdfa-581f-d9bef785dece\">https://hdl.handle.net/21.12102/beaf7d96-13d4-fdfa-581f-d9bef785dece</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9aedaa95-0cb3-610a-7921-adf80d74b2c6/NL-HlmNHA_1478_21753K00_27/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9aedaa95-0cb3-610a-7921-adf80d74b2c6/NL-HlmNHA_1478_21753K00_27/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e4836f7a-34b5-42ff-5e2c-b920b504ef3e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e4836f7a-34b5-42ff-5e2c-b920b504ef3e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9aedaa95-0cb3-610a-7921-adf80d74b2c6/NL-HlmNHA_1478_21753K00_27/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9aedaa95-0cb3-610a-7921-adf80d74b2c6/NL-HlmNHA_1478_21753K00_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van de heer Van Waveren te Zwanenburg, bejaarden"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/fb070915-4e63-7f06-aaa4-70f6e7651afc\">https://hdl.handle.net/21.12102/fb070915-4e63-7f06-aaa4-70f6e7651afc</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9aedaa95-0cb3-610a-7921-adf80d74b2c6/NL-HlmNHA_1478_21753K00_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9aedaa95-0cb3-610a-7921-adf80d74b2c6/NL-HlmNHA_1478_21753K00_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4d219e40-d892-02f9-13d9-114e01c4369a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4d219e40-d892-02f9-13d9-114e01c4369a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9aedaa95-0cb3-610a-7921-adf80d74b2c6/NL-HlmNHA_1478_21753K00_30/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

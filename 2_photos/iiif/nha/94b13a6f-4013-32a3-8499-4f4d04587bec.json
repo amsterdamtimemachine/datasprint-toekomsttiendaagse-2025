@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/94b13a6f-4013-32a3-8499-4f4d04587bec.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "John Adams, componist uit de VS, A'dam (1997-02-10)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "John Adams, componist uit de VS, A'dam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1997-02-10"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94b13a6f-4013-32a3-8499-4f4d04587bec/NL-HlmNHA_1478_43801K01_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "John Adams, componist uit de VS, A'dam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0bd5f793-34e4-08df-7b2e-4fbc61acbe5b\">https://hdl.handle.net/21.12102/0bd5f793-34e4-08df-7b2e-4fbc61acbe5b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94b13a6f-4013-32a3-8499-4f4d04587bec/NL-HlmNHA_1478_43801K01_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94b13a6f-4013-32a3-8499-4f4d04587bec/NL-HlmNHA_1478_43801K01_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4de2b5fa-6aae-962d-b5b4-fa231e736fbd/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4de2b5fa-6aae-962d-b5b4-fa231e736fbd",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94b13a6f-4013-32a3-8499-4f4d04587bec/NL-HlmNHA_1478_43801K01_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94b13a6f-4013-32a3-8499-4f4d04587bec/NL-HlmNHA_1478_43801K01_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "John Adams, componist uit de VS, A'dam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/59931b58-a758-5285-7d34-6996bc31409b\">https://hdl.handle.net/21.12102/59931b58-a758-5285-7d34-6996bc31409b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94b13a6f-4013-32a3-8499-4f4d04587bec/NL-HlmNHA_1478_43801K01_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94b13a6f-4013-32a3-8499-4f4d04587bec/NL-HlmNHA_1478_43801K01_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/febade63-ecde-e4bb-041b-3bb0a930e9e6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/febade63-ecde-e4bb-041b-3bb0a930e9e6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94b13a6f-4013-32a3-8499-4f4d04587bec/NL-HlmNHA_1478_43801K01_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94b13a6f-4013-32a3-8499-4f4d04587bec/NL-HlmNHA_1478_43801K01_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "John Adams, componist uit de VS, A'dam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6f1f10bd-06bb-2750-4d6a-b4ffc254ff8c\">https://hdl.handle.net/21.12102/6f1f10bd-06bb-2750-4d6a-b4ffc254ff8c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94b13a6f-4013-32a3-8499-4f4d04587bec/NL-HlmNHA_1478_43801K01_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94b13a6f-4013-32a3-8499-4f4d04587bec/NL-HlmNHA_1478_43801K01_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4e44c9c2-461f-77a6-b67d-30fa64406a57/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4e44c9c2-461f-77a6-b67d-30fa64406a57",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94b13a6f-4013-32a3-8499-4f4d04587bec/NL-HlmNHA_1478_43801K01_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94b13a6f-4013-32a3-8499-4f4d04587bec/NL-HlmNHA_1478_43801K01_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "John Adams, componist uit de VS, A'dam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/931f97bb-535c-a9c2-19e7-a4950f166f73\">https://hdl.handle.net/21.12102/931f97bb-535c-a9c2-19e7-a4950f166f73</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94b13a6f-4013-32a3-8499-4f4d04587bec/NL-HlmNHA_1478_43801K01_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94b13a6f-4013-32a3-8499-4f4d04587bec/NL-HlmNHA_1478_43801K01_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d221681f-c7b8-a9d3-e9de-adbd034101a4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d221681f-c7b8-a9d3-e9de-adbd034101a4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94b13a6f-4013-32a3-8499-4f4d04587bec/NL-HlmNHA_1478_43801K01_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94b13a6f-4013-32a3-8499-4f4d04587bec/NL-HlmNHA_1478_43801K01_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "John Adams, componist uit de VS, A'dam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/dac3457e-bc1f-6446-0dff-73887eba59da\">https://hdl.handle.net/21.12102/dac3457e-bc1f-6446-0dff-73887eba59da</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94b13a6f-4013-32a3-8499-4f4d04587bec/NL-HlmNHA_1478_43801K01_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94b13a6f-4013-32a3-8499-4f4d04587bec/NL-HlmNHA_1478_43801K01_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f10f53c1-f043-3984-68cd-2d67bf2148f9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f10f53c1-f043-3984-68cd-2d67bf2148f9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94b13a6f-4013-32a3-8499-4f4d04587bec/NL-HlmNHA_1478_43801K01_17/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

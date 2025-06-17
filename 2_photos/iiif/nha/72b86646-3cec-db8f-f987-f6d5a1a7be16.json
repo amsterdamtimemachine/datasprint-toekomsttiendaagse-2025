@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/72b86646-3cec-db8f-f987-f6d5a1a7be16.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Kunstwerk Gerard Hali, Amsterdam (1991-06-12)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Kunstwerk Gerard Hali, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1991-06-12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72b86646-3cec-db8f-f987-f6d5a1a7be16/NL-HlmNHA_1478_34538K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kunstwerk Gerard Hali, Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/10eb921c-5656-fb4a-7b5f-0186f408ab62\">https://hdl.handle.net/21.12102/10eb921c-5656-fb4a-7b5f-0186f408ab62</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72b86646-3cec-db8f-f987-f6d5a1a7be16/NL-HlmNHA_1478_34538K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72b86646-3cec-db8f-f987-f6d5a1a7be16/NL-HlmNHA_1478_34538K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a9d70772-1200-35b2-96f5-9126543d2108/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a9d70772-1200-35b2-96f5-9126543d2108",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72b86646-3cec-db8f-f987-f6d5a1a7be16/NL-HlmNHA_1478_34538K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72b86646-3cec-db8f-f987-f6d5a1a7be16/NL-HlmNHA_1478_34538K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kunstwerk Gerard Hali, Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1800f0d0-548f-4d07-3a62-ad7d1f280ef2\">https://hdl.handle.net/21.12102/1800f0d0-548f-4d07-3a62-ad7d1f280ef2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72b86646-3cec-db8f-f987-f6d5a1a7be16/NL-HlmNHA_1478_34538K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72b86646-3cec-db8f-f987-f6d5a1a7be16/NL-HlmNHA_1478_34538K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f067ad68-663e-4a95-ff74-e2c5ce9131d8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f067ad68-663e-4a95-ff74-e2c5ce9131d8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72b86646-3cec-db8f-f987-f6d5a1a7be16/NL-HlmNHA_1478_34538K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72b86646-3cec-db8f-f987-f6d5a1a7be16/NL-HlmNHA_1478_34538K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kunstwerk Gerard Hali, Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/82187a72-cb8b-79f2-dac2-f9b26a02e403\">https://hdl.handle.net/21.12102/82187a72-cb8b-79f2-dac2-f9b26a02e403</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72b86646-3cec-db8f-f987-f6d5a1a7be16/NL-HlmNHA_1478_34538K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72b86646-3cec-db8f-f987-f6d5a1a7be16/NL-HlmNHA_1478_34538K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c7f10c1a-9c5f-d268-c1aa-0040b35f62dc/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c7f10c1a-9c5f-d268-c1aa-0040b35f62dc",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72b86646-3cec-db8f-f987-f6d5a1a7be16/NL-HlmNHA_1478_34538K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72b86646-3cec-db8f-f987-f6d5a1a7be16/NL-HlmNHA_1478_34538K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kunstwerk Gerard Hali, Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b11effc6-4e0a-542b-ecd6-64883e7a4b18\">https://hdl.handle.net/21.12102/b11effc6-4e0a-542b-ecd6-64883e7a4b18</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72b86646-3cec-db8f-f987-f6d5a1a7be16/NL-HlmNHA_1478_34538K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72b86646-3cec-db8f-f987-f6d5a1a7be16/NL-HlmNHA_1478_34538K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/175b310c-32c4-2c81-9ef2-0e29428c0a62/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/175b310c-32c4-2c81-9ef2-0e29428c0a62",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72b86646-3cec-db8f-f987-f6d5a1a7be16/NL-HlmNHA_1478_34538K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72b86646-3cec-db8f-f987-f6d5a1a7be16/NL-HlmNHA_1478_34538K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kunstwerk Gerard Hali, Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e079ddf2-6926-9d4d-144c-f36b0ab127be\">https://hdl.handle.net/21.12102/e079ddf2-6926-9d4d-144c-f36b0ab127be</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72b86646-3cec-db8f-f987-f6d5a1a7be16/NL-HlmNHA_1478_34538K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72b86646-3cec-db8f-f987-f6d5a1a7be16/NL-HlmNHA_1478_34538K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/54a77f7e-a119-f40e-8c86-91f27e7b5f2e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/54a77f7e-a119-f40e-8c86-91f27e7b5f2e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72b86646-3cec-db8f-f987-f6d5a1a7be16/NL-HlmNHA_1478_34538K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72b86646-3cec-db8f-f987-f6d5a1a7be16/NL-HlmNHA_1478_34538K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Kunstwerk Gerard Hali, Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e63d33f1-823d-1d36-70f0-a839afcc69da\">https://hdl.handle.net/21.12102/e63d33f1-823d-1d36-70f0-a839afcc69da</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72b86646-3cec-db8f-f987-f6d5a1a7be16/NL-HlmNHA_1478_34538K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72b86646-3cec-db8f-f987-f6d5a1a7be16/NL-HlmNHA_1478_34538K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/32bcee86-81d7-40d7-c665-2ba035c9caa8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/32bcee86-81d7-40d7-c665-2ba035c9caa8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/72b86646-3cec-db8f-f987-f6d5a1a7be16/NL-HlmNHA_1478_34538K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

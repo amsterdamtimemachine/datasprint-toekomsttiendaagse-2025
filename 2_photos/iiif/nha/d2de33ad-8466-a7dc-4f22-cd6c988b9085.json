@@ -1,0 +1,573 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/d2de33ad-8466-a7dc-4f22-cd6c988b9085.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Burgemeester van Amsterdam Schelto Patijn doopt het vliegtuig Blauwbrug, de eerste van een serie nieuwe Boeings 767-300ER van de KLM. De vliegtuigen worden vernoemd naar Amsterdamse bruggen. Naast de burgemeester staat KLM-directeur Pieter Bouw. (1995-10-12)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Burgemeester van Amsterdam Schelto Patijn doopt het vliegtuig Blauwbrug, de eerste van een serie nieuwe Boeings 767-300ER van de KLM. De vliegtuigen worden vernoemd naar Amsterdamse bruggen. Naast de burgemeester staat KLM-directeur Pieter Bouw."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1995-10-12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Burgemeester van Amsterdam Schelto Patijn doopt het vliegtuig Blauwbrug, de eerste van een serie nieuwe Boeings 767-300ER van de KLM. De vliegtuigen worden vernoemd naar Amsterdamse bruggen. Naast de burgemeester staat KLM-directeur Pieter Bouw."
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/095299f5-a000-5991-6f0f-8f65da523e40\">https://hdl.handle.net/21.12102/095299f5-a000-5991-6f0f-8f65da523e40</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/adacbd85-9dba-267a-3e68-d48ca248e0a0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/adacbd85-9dba-267a-3e68-d48ca248e0a0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Burgemeester van Amsterdam Schelto Patijn doopt het vliegtuig Blauwbrug, de eerste van een serie nieuwe Boeings 767-300ER van de KLM. De vliegtuigen worden vernoemd naar Amsterdamse bruggen. Naast de burgemeester staat KLM-directeur Pieter Bouw."
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/195c220d-de10-b9ba-0f32-c6f908644407\">https://hdl.handle.net/21.12102/195c220d-de10-b9ba-0f32-c6f908644407</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f2f9e151-f317-1365-1049-ebd2df8c91af/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f2f9e151-f317-1365-1049-ebd2df8c91af",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_10/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Burgemeester van Amsterdam Schelto Patijn doopt het vliegtuig Blauwbrug, de eerste van een serie nieuwe Boeings 767-300ER van de KLM. De vliegtuigen worden vernoemd naar Amsterdamse bruggen. Naast de burgemeester staat KLM-directeur Pieter Bouw."
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3700ea33-ee08-b726-de37-30b655e74afc\">https://hdl.handle.net/21.12102/3700ea33-ee08-b726-de37-30b655e74afc</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d0991913-2d1e-9201-141d-5c21c26ecca8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d0991913-2d1e-9201-141d-5c21c26ecca8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Burgemeester van Amsterdam Schelto Patijn doopt het vliegtuig Blauwbrug, de eerste van een serie nieuwe Boeings 767-300ER van de KLM. De vliegtuigen worden vernoemd naar Amsterdamse bruggen. Naast de burgemeester staat KLM-directeur Pieter Bouw."
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3cc73f12-104b-06f8-313c-4790eb33933d\">https://hdl.handle.net/21.12102/3cc73f12-104b-06f8-313c-4790eb33933d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6d746c14-79bc-d7d4-e966-bf0017e0a846/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6d746c14-79bc-d7d4-e966-bf0017e0a846",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_12/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Burgemeester van Amsterdam Schelto Patijn doopt het vliegtuig Blauwbrug, de eerste van een serie nieuwe Boeings 767-300ER van de KLM. De vliegtuigen worden vernoemd naar Amsterdamse bruggen. Naast de burgemeester staat KLM-directeur Pieter Bouw."
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3d228600-d579-b737-d795-820b75667efb\">https://hdl.handle.net/21.12102/3d228600-d579-b737-d795-820b75667efb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8b4438c7-b82a-bfb2-97f6-c27265a48baf/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8b4438c7-b82a-bfb2-97f6-c27265a48baf",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Burgemeester van Amsterdam Schelto Patijn doopt het vliegtuig Blauwbrug, de eerste van een serie nieuwe Boeings 767-300ER van de KLM. De vliegtuigen worden vernoemd naar Amsterdamse bruggen. Naast de burgemeester staat KLM-directeur Pieter Bouw."
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/604237b3-d030-031b-9014-b854a1a8a591\">https://hdl.handle.net/21.12102/604237b3-d030-031b-9014-b854a1a8a591</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/de0e746a-1efd-400b-b703-315ac5cd6a18/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/de0e746a-1efd-400b-b703-315ac5cd6a18",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Burgemeester van Amsterdam Schelto Patijn doopt het vliegtuig Blauwbrug, de eerste van een serie nieuwe Boeings 767-300ER van de KLM. De vliegtuigen worden vernoemd naar Amsterdamse bruggen. Naast de burgemeester staat KLM-directeur Pieter Bouw."
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/861deb5b-b694-7f32-a261-d03c2662fbf1\">https://hdl.handle.net/21.12102/861deb5b-b694-7f32-a261-d03c2662fbf1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e4f171b6-5822-7fdc-b2f3-7fb1b1611527/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e4f171b6-5822-7fdc-b2f3-7fb1b1611527",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Burgemeester van Amsterdam Schelto Patijn doopt het vliegtuig Blauwbrug, de eerste van een serie nieuwe Boeings 767-300ER van de KLM. De vliegtuigen worden vernoemd naar Amsterdamse bruggen. Naast de burgemeester staat KLM-directeur Pieter Bouw."
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/877f3f7f-a40d-b610-a721-27ced64b8d35\">https://hdl.handle.net/21.12102/877f3f7f-a40d-b610-a721-27ced64b8d35</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9dfbd077-b88b-2eeb-a603-3beaef724619/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9dfbd077-b88b-2eeb-a603-3beaef724619",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_11/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Burgemeester van Amsterdam Schelto Patijn doopt het vliegtuig Blauwbrug, de eerste van een serie nieuwe Boeings 767-300ER van de KLM. De vliegtuigen worden vernoemd naar Amsterdamse bruggen. Naast de burgemeester staat KLM-directeur Pieter Bouw."
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/afeaeffd-e5bb-bc7b-a9ad-55faa56cfc5d\">https://hdl.handle.net/21.12102/afeaeffd-e5bb-bc7b-a9ad-55faa56cfc5d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/45465e0c-39e7-9af0-f842-d308762d34bd/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/45465e0c-39e7-9af0-f842-d308762d34bd",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/d2de33ad-8466-a7dc-4f22-cd6c988b9085/NL-HlmNHA_1478_41895K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

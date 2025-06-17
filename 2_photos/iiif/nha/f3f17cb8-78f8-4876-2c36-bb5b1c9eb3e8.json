@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/f3f17cb8-78f8-4876-2c36-bb5b1c9eb3e8.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Opening Spaarbank Zwanenburg (1961-06-28)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Opening Spaarbank Zwanenburg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1961-06-28"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2855805\">Zwanenburg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Opening, openingen, in gebruik name"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7464,
+            52.3781
+          ]
+        },
+        "properties": {
+          "title": "Zwanenburg",
+          "url": "http://www.wikidata.org/entity/Q2855805"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3f17cb8-78f8-4876-2c36-bb5b1c9eb3e8/NL-HlmNHA_1478_19108B01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Opening Spaarbank Zwanenburg"
+        ]
+      },
+      "height": 1356,
+      "width": 1331,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9bf4c466-2092-1919-14ed-ad5a0b4f42c2\">https://hdl.handle.net/21.12102/9bf4c466-2092-1919-14ed-ad5a0b4f42c2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3f17cb8-78f8-4876-2c36-bb5b1c9eb3e8/NL-HlmNHA_1478_19108B01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3f17cb8-78f8-4876-2c36-bb5b1c9eb3e8/NL-HlmNHA_1478_19108B01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c0de27ac-569d-ba98-047a-d32c35699aed/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1356,
+                "width": 1331,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c0de27ac-569d-ba98-047a-d32c35699aed",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3f17cb8-78f8-4876-2c36-bb5b1c9eb3e8/NL-HlmNHA_1478_19108B01_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3f17cb8-78f8-4876-2c36-bb5b1c9eb3e8/NL-HlmNHA_1478_19108B02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Opening Spaarbank Zwanenburg"
+        ]
+      },
+      "height": 1375,
+      "width": 1319,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ba0bb65b-af9a-748e-e5ba-7d54d902220f\">https://hdl.handle.net/21.12102/ba0bb65b-af9a-748e-e5ba-7d54d902220f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3f17cb8-78f8-4876-2c36-bb5b1c9eb3e8/NL-HlmNHA_1478_19108B02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3f17cb8-78f8-4876-2c36-bb5b1c9eb3e8/NL-HlmNHA_1478_19108B02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/196224ba-2aa6-420c-bdb4-a61a3eff78fa/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1375,
+                "width": 1319,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/196224ba-2aa6-420c-bdb4-a61a3eff78fa",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3f17cb8-78f8-4876-2c36-bb5b1c9eb3e8/NL-HlmNHA_1478_19108B02_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3f17cb8-78f8-4876-2c36-bb5b1c9eb3e8/NL-HlmNHA_1478_19108B03_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Opening Spaarbank Zwanenburg"
+        ]
+      },
+      "height": 1344,
+      "width": 1325,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/fb37ec86-feaa-da28-fa01-3e4300922d51\">https://hdl.handle.net/21.12102/fb37ec86-feaa-da28-fa01-3e4300922d51</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3f17cb8-78f8-4876-2c36-bb5b1c9eb3e8/NL-HlmNHA_1478_19108B03_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3f17cb8-78f8-4876-2c36-bb5b1c9eb3e8/NL-HlmNHA_1478_19108B03_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/033992e7-824e-4c53-9a5d-bfc4a07d1283/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1344,
+                "width": 1325,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/033992e7-824e-4c53-9a5d-bfc4a07d1283",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f3f17cb8-78f8-4876-2c36-bb5b1c9eb3e8/NL-HlmNHA_1478_19108B03_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

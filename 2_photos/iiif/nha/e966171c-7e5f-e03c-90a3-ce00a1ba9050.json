@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/e966171c-7e5f-e03c-90a3-ce00a1ba9050.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Bezoek van Koningin Juliana aan de Hogere Technische School voor de confectie-industrie Mr. Koetsier. (1959-09-08)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Bezoek van Koningin Juliana aan de Hogere Technische School voor de confectie-industrie Mr. Koetsier."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1959-09-08"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2622759\">Keizersgracht</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.884722,
+            52.366667
+          ]
+        },
+        "properties": {
+          "title": "Keizersgracht",
+          "url": "http://www.wikidata.org/entity/Q2622759"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e966171c-7e5f-e03c-90a3-ce00a1ba9050/NL-HlmNHA_1478_17241B05b_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bezoek van Koningin Juliana aan de Hogere Technische School voor de confectie-industrie Mr. Koetsier."
+        ]
+      },
+      "height": 1395,
+      "width": 1381,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ec18b1a4-1916-3f58-e11b-4c60fbdcf65b\">https://hdl.handle.net/21.12102/ec18b1a4-1916-3f58-e11b-4c60fbdcf65b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e966171c-7e5f-e03c-90a3-ce00a1ba9050/NL-HlmNHA_1478_17241B05b_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e966171c-7e5f-e03c-90a3-ce00a1ba9050/NL-HlmNHA_1478_17241B05b_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f1423848-cc1d-2007-6c7e-2cf802ef6619/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1395,
+                "width": 1381,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f1423848-cc1d-2007-6c7e-2cf802ef6619",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/e966171c-7e5f-e03c-90a3-ce00a1ba9050/NL-HlmNHA_1478_17241B05b_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

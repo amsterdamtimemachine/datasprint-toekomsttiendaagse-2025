@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/5b914d0a-05d7-0587-ef09-d2d4a9c36311.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Expo galerie 2001 Badhoevedorp (1995-04-13)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Expo galerie 2001 Badhoevedorp"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1995-04-13"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q568337\">Badhoevedorp</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7803,
+            52.3381
+          ]
+        },
+        "properties": {
+          "title": "Badhoevedorp",
+          "url": "http://www.wikidata.org/entity/Q568337"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5b914d0a-05d7-0587-ef09-d2d4a9c36311/NL-HlmNHA_1478_41137K00_34/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Expo galerie 2001 Badhoevedorp"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/14249190-6928-38bd-173e-4214a8672a12\">https://hdl.handle.net/21.12102/14249190-6928-38bd-173e-4214a8672a12</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5b914d0a-05d7-0587-ef09-d2d4a9c36311/NL-HlmNHA_1478_41137K00_34/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5b914d0a-05d7-0587-ef09-d2d4a9c36311/NL-HlmNHA_1478_41137K00_34/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6c813b8c-daea-9932-54ea-81e840d98e0a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6c813b8c-daea-9932-54ea-81e840d98e0a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5b914d0a-05d7-0587-ef09-d2d4a9c36311/NL-HlmNHA_1478_41137K00_34/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5b914d0a-05d7-0587-ef09-d2d4a9c36311/NL-HlmNHA_1478_41137K00_33/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Expo galerie 2001 Badhoevedorp"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/28ed1fd2-555b-94fa-9b53-455185a9327a\">https://hdl.handle.net/21.12102/28ed1fd2-555b-94fa-9b53-455185a9327a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5b914d0a-05d7-0587-ef09-d2d4a9c36311/NL-HlmNHA_1478_41137K00_33/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5b914d0a-05d7-0587-ef09-d2d4a9c36311/NL-HlmNHA_1478_41137K00_33/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3c55d867-5ec3-8d79-e698-dd4f212e12c4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3c55d867-5ec3-8d79-e698-dd4f212e12c4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5b914d0a-05d7-0587-ef09-d2d4a9c36311/NL-HlmNHA_1478_41137K00_33/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5b914d0a-05d7-0587-ef09-d2d4a9c36311/NL-HlmNHA_1478_41137K00_32/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Expo galerie 2001 Badhoevedorp"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/38e6af59-85e0-92bc-e02f-bcc0dcb1d927\">https://hdl.handle.net/21.12102/38e6af59-85e0-92bc-e02f-bcc0dcb1d927</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5b914d0a-05d7-0587-ef09-d2d4a9c36311/NL-HlmNHA_1478_41137K00_32/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5b914d0a-05d7-0587-ef09-d2d4a9c36311/NL-HlmNHA_1478_41137K00_32/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/b4a25875-a08f-b703-8b6b-11f9bfa40a24/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/b4a25875-a08f-b703-8b6b-11f9bfa40a24",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5b914d0a-05d7-0587-ef09-d2d4a9c36311/NL-HlmNHA_1478_41137K00_32/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5b914d0a-05d7-0587-ef09-d2d4a9c36311/NL-HlmNHA_1478_41137K00_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Expo galerie 2001 Badhoevedorp"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6cf97b90-f43d-b293-7277-f1d32764f52a\">https://hdl.handle.net/21.12102/6cf97b90-f43d-b293-7277-f1d32764f52a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5b914d0a-05d7-0587-ef09-d2d4a9c36311/NL-HlmNHA_1478_41137K00_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5b914d0a-05d7-0587-ef09-d2d4a9c36311/NL-HlmNHA_1478_41137K00_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/94f1265f-7189-2541-1717-a1ea5dd93588/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/94f1265f-7189-2541-1717-a1ea5dd93588",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5b914d0a-05d7-0587-ef09-d2d4a9c36311/NL-HlmNHA_1478_41137K00_35/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/51c30fc6-5e66-ed2f-f081-31ce6460f754.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Prinses Margriet opent Congresgebouw R.A.I. (1965-01-07)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Prinses Margriet opent Congresgebouw R.A.I."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1965-01-07"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Kon. bezoeken en ontvangsten, personen, begrafenissen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/51c30fc6-5e66-ed2f-f081-31ce6460f754/NL-HlmNHA_1478_02118A00_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Prinses Margriet opent Congresgebouw R.A.I."
+        ]
+      },
+      "height": 2521,
+      "width": 2521,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/26b841de-a623-feb1-1cdd-19a811667401\">https://hdl.handle.net/21.12102/26b841de-a623-feb1-1cdd-19a811667401</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/51c30fc6-5e66-ed2f-f081-31ce6460f754/NL-HlmNHA_1478_02118A00_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/51c30fc6-5e66-ed2f-f081-31ce6460f754/NL-HlmNHA_1478_02118A00_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d82649f6-adc0-18b0-35a8-5cd0e442dc0b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2521,
+                "width": 2521,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d82649f6-adc0-18b0-35a8-5cd0e442dc0b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/51c30fc6-5e66-ed2f-f081-31ce6460f754/NL-HlmNHA_1478_02118A00_11/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/51c30fc6-5e66-ed2f-f081-31ce6460f754/NL-HlmNHA_1478_02118A00_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Prinses Margriet opent Congresgebouw R.A.I."
+        ]
+      },
+      "height": 2517,
+      "width": 2517,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/66d7322e-5495-88b3-1408-846c1cd18313\">https://hdl.handle.net/21.12102/66d7322e-5495-88b3-1408-846c1cd18313</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/51c30fc6-5e66-ed2f-f081-31ce6460f754/NL-HlmNHA_1478_02118A00_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/51c30fc6-5e66-ed2f-f081-31ce6460f754/NL-HlmNHA_1478_02118A00_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4b12e7e9-8463-6eb3-f112-0b01b8fdf30a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2517,
+                "width": 2517,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4b12e7e9-8463-6eb3-f112-0b01b8fdf30a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/51c30fc6-5e66-ed2f-f081-31ce6460f754/NL-HlmNHA_1478_02118A00_10/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/f95e7c22-ccc5-c8e2-1644-f2441ad5d1a7.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Ronald Jan Heijn, A'dam (2000-08-09)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Ronald Jan Heijn, A'dam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2000-08-09"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f95e7c22-ccc5-c8e2-1644-f2441ad5d1a7/NL-HlmNHA_1478_48463K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ronald Jan Heijn, A'dam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/00593210-f63f-4fc8-e75e-b14ae1f87403\">https://hdl.handle.net/21.12102/00593210-f63f-4fc8-e75e-b14ae1f87403</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f95e7c22-ccc5-c8e2-1644-f2441ad5d1a7/NL-HlmNHA_1478_48463K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f95e7c22-ccc5-c8e2-1644-f2441ad5d1a7/NL-HlmNHA_1478_48463K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c6bf2344-7414-31fd-2f52-798d834107f2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c6bf2344-7414-31fd-2f52-798d834107f2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f95e7c22-ccc5-c8e2-1644-f2441ad5d1a7/NL-HlmNHA_1478_48463K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f95e7c22-ccc5-c8e2-1644-f2441ad5d1a7/NL-HlmNHA_1478_48463K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ronald Jan Heijn, A'dam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4a839c09-d730-7caf-6a72-dff3f543f087\">https://hdl.handle.net/21.12102/4a839c09-d730-7caf-6a72-dff3f543f087</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f95e7c22-ccc5-c8e2-1644-f2441ad5d1a7/NL-HlmNHA_1478_48463K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f95e7c22-ccc5-c8e2-1644-f2441ad5d1a7/NL-HlmNHA_1478_48463K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/af447248-553b-6f5f-58e3-a0ddbf79232b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/af447248-553b-6f5f-58e3-a0ddbf79232b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f95e7c22-ccc5-c8e2-1644-f2441ad5d1a7/NL-HlmNHA_1478_48463K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f95e7c22-ccc5-c8e2-1644-f2441ad5d1a7/NL-HlmNHA_1478_48463K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ronald Jan Heijn, A'dam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/67cc0059-c0d1-b143-a55c-7f72e3e37dd9\">https://hdl.handle.net/21.12102/67cc0059-c0d1-b143-a55c-7f72e3e37dd9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f95e7c22-ccc5-c8e2-1644-f2441ad5d1a7/NL-HlmNHA_1478_48463K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f95e7c22-ccc5-c8e2-1644-f2441ad5d1a7/NL-HlmNHA_1478_48463K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0d873fd9-85dd-6b0f-14ab-79b2f20ad034/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0d873fd9-85dd-6b0f-14ab-79b2f20ad034",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f95e7c22-ccc5-c8e2-1644-f2441ad5d1a7/NL-HlmNHA_1478_48463K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f95e7c22-ccc5-c8e2-1644-f2441ad5d1a7/NL-HlmNHA_1478_48463K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Ronald Jan Heijn, A'dam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f0eaf5c4-16f5-6c4b-5a20-593225da5e9c\">https://hdl.handle.net/21.12102/f0eaf5c4-16f5-6c4b-5a20-593225da5e9c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f95e7c22-ccc5-c8e2-1644-f2441ad5d1a7/NL-HlmNHA_1478_48463K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f95e7c22-ccc5-c8e2-1644-f2441ad5d1a7/NL-HlmNHA_1478_48463K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/df630b38-70b8-3dee-cad0-c419934cf6ff/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/df630b38-70b8-3dee-cad0-c419934cf6ff",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/f95e7c22-ccc5-c8e2-1644-f2441ad5d1a7/NL-HlmNHA_1478_48463K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

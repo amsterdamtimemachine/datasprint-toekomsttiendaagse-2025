@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/459e2197-d5a8-480c-c663-46c7b6775f1e.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Drs. Pama universiteit Amsterdam (1986-03-18)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Drs. Pama universiteit Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1986-03-18"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Universiteit"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/27740"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/459e2197-d5a8-480c-c663-46c7b6775f1e/NL-HlmNHA_1478_26113K00_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Drs. Pama universiteit Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/024f48ee-321a-6413-9939-4ce8795b6e05\">https://hdl.handle.net/21.12102/024f48ee-321a-6413-9939-4ce8795b6e05</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/459e2197-d5a8-480c-c663-46c7b6775f1e/NL-HlmNHA_1478_26113K00_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/459e2197-d5a8-480c-c663-46c7b6775f1e/NL-HlmNHA_1478_26113K00_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2e49e5ea-2768-e8cc-ee2a-3c4784d1ee2a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2e49e5ea-2768-e8cc-ee2a-3c4784d1ee2a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/459e2197-d5a8-480c-c663-46c7b6775f1e/NL-HlmNHA_1478_26113K00_12/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/459e2197-d5a8-480c-c663-46c7b6775f1e/NL-HlmNHA_1478_26113K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Drs. Pama universiteit Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/490aaab1-8c22-9b07-6894-6459994b9458\">https://hdl.handle.net/21.12102/490aaab1-8c22-9b07-6894-6459994b9458</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/459e2197-d5a8-480c-c663-46c7b6775f1e/NL-HlmNHA_1478_26113K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/459e2197-d5a8-480c-c663-46c7b6775f1e/NL-HlmNHA_1478_26113K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2cd09598-8699-2279-b1c1-3ee9b73b9b04/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2cd09598-8699-2279-b1c1-3ee9b73b9b04",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/459e2197-d5a8-480c-c663-46c7b6775f1e/NL-HlmNHA_1478_26113K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/459e2197-d5a8-480c-c663-46c7b6775f1e/NL-HlmNHA_1478_26113K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Drs. Pama universiteit Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7ce1b428-27a0-5ec1-ba32-6cb4a6b0ee21\">https://hdl.handle.net/21.12102/7ce1b428-27a0-5ec1-ba32-6cb4a6b0ee21</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/459e2197-d5a8-480c-c663-46c7b6775f1e/NL-HlmNHA_1478_26113K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/459e2197-d5a8-480c-c663-46c7b6775f1e/NL-HlmNHA_1478_26113K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/cd620239-5694-0da6-74fc-71390d0581a6/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/cd620239-5694-0da6-74fc-71390d0581a6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/459e2197-d5a8-480c-c663-46c7b6775f1e/NL-HlmNHA_1478_26113K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/459e2197-d5a8-480c-c663-46c7b6775f1e/NL-HlmNHA_1478_26113K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Drs. Pama universiteit Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9b9ae078-ce29-61db-69d6-94ce1c321943\">https://hdl.handle.net/21.12102/9b9ae078-ce29-61db-69d6-94ce1c321943</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/459e2197-d5a8-480c-c663-46c7b6775f1e/NL-HlmNHA_1478_26113K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/459e2197-d5a8-480c-c663-46c7b6775f1e/NL-HlmNHA_1478_26113K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a56903f2-362d-adbc-5d78-1d4cfdb04854/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a56903f2-362d-adbc-5d78-1d4cfdb04854",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/459e2197-d5a8-480c-c663-46c7b6775f1e/NL-HlmNHA_1478_26113K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/459e2197-d5a8-480c-c663-46c7b6775f1e/NL-HlmNHA_1478_26113K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Drs. Pama universiteit Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d381b67a-baf3-2b36-650d-a426edda21ac\">https://hdl.handle.net/21.12102/d381b67a-baf3-2b36-650d-a426edda21ac</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/459e2197-d5a8-480c-c663-46c7b6775f1e/NL-HlmNHA_1478_26113K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/459e2197-d5a8-480c-c663-46c7b6775f1e/NL-HlmNHA_1478_26113K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d28fd155-9b80-a6ba-0028-9254ba14fc61/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d28fd155-9b80-a6ba-0028-9254ba14fc61",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/459e2197-d5a8-480c-c663-46c7b6775f1e/NL-HlmNHA_1478_26113K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/459e2197-d5a8-480c-c663-46c7b6775f1e/NL-HlmNHA_1478_26113K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Drs. Pama universiteit Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d75fd4cd-60bb-6b1b-cd34-477f958ae0c2\">https://hdl.handle.net/21.12102/d75fd4cd-60bb-6b1b-cd34-477f958ae0c2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/459e2197-d5a8-480c-c663-46c7b6775f1e/NL-HlmNHA_1478_26113K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/459e2197-d5a8-480c-c663-46c7b6775f1e/NL-HlmNHA_1478_26113K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e62516c3-ab38-58ec-4851-ffc2a8732bc2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e62516c3-ab38-58ec-4851-ffc2a8732bc2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/459e2197-d5a8-480c-c663-46c7b6775f1e/NL-HlmNHA_1478_26113K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

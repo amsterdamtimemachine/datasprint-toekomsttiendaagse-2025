@@ -1,0 +1,679 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Info-avond Schiphol, Amsterdam (1994-02-14)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Info-avond Schiphol, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1994-02-14"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_20/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Info-avond Schiphol, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/12375f5a-c4ea-11cb-5774-cd676028a14c\">https://hdl.handle.net/21.12102/12375f5a-c4ea-11cb-5774-cd676028a14c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_20/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_20/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4ef47fd2-20da-7b0b-1e6d-df7e08460fc7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4ef47fd2-20da-7b0b-1e6d-df7e08460fc7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_20/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Info-avond Schiphol, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1319055c-1eda-13e5-2240-378d4ac30aa2\">https://hdl.handle.net/21.12102/1319055c-1eda-13e5-2240-378d4ac30aa2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6600f5ae-2177-b179-c97d-ab0b55af27a8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6600f5ae-2177-b179-c97d-ab0b55af27a8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_21/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Info-avond Schiphol, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3c3a1800-cbe9-6b71-97b7-00159aa0fae6\">https://hdl.handle.net/21.12102/3c3a1800-cbe9-6b71-97b7-00159aa0fae6</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_21/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_21/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f6c20622-ce24-b66b-5be4-ba5a637f468f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f6c20622-ce24-b66b-5be4-ba5a637f468f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_21/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Info-avond Schiphol, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/59c811ac-bcf2-1d4e-6465-60dd2822d7d4\">https://hdl.handle.net/21.12102/59c811ac-bcf2-1d4e-6465-60dd2822d7d4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/982a484b-870f-ed9d-bb4d-9ba946248808/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/982a484b-870f-ed9d-bb4d-9ba946248808",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Info-avond Schiphol, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7db7cdf4-3966-63b7-8408-beedead9471c\">https://hdl.handle.net/21.12102/7db7cdf4-3966-63b7-8408-beedead9471c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0165dcb1-a7b5-e8ee-d94b-ca0f50f325dc/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0165dcb1-a7b5-e8ee-d94b-ca0f50f325dc",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_22/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Info-avond Schiphol, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a62c20a3-4168-9128-8bfd-a8caa3e45d20\">https://hdl.handle.net/21.12102/a62c20a3-4168-9128-8bfd-a8caa3e45d20</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_22/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_22/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/34752faf-4375-8dcd-bc5a-c1190242c7b0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/34752faf-4375-8dcd-bc5a-c1190242c7b0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_22/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Info-avond Schiphol, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c2ae538e-d00e-75d4-5789-aa79cc340df9\">https://hdl.handle.net/21.12102/c2ae538e-d00e-75d4-5789-aa79cc340df9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e78a2b45-5722-30a5-cca7-ecd3a75ecd93/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e78a2b45-5722-30a5-cca7-ecd3a75ecd93",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Info-avond Schiphol, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/cbd83bbc-78a5-6fa9-fa62-d686f1935206\">https://hdl.handle.net/21.12102/cbd83bbc-78a5-6fa9-fa62-d686f1935206</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/47f80572-70e6-dae1-d1df-dcd19969f0b8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/47f80572-70e6-dae1-d1df-dcd19969f0b8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Info-avond Schiphol, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/da5b8650-44a4-e1b9-57d5-3cdc0a347c02\">https://hdl.handle.net/21.12102/da5b8650-44a4-e1b9-57d5-3cdc0a347c02</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6b284c62-46bd-2a7f-f7ae-99a734592448/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6b284c62-46bd-2a7f-f7ae-99a734592448",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Info-avond Schiphol, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/dd6870b0-aa03-c578-34b9-094b1a89eaf1\">https://hdl.handle.net/21.12102/dd6870b0-aa03-c578-34b9-094b1a89eaf1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4cf8be10-b5ea-70c1-d939-ae34d66c9d65/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4cf8be10-b5ea-70c1-d939-ae34d66c9d65",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Info-avond Schiphol, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e2bf6b26-15ec-2593-8bec-c7629211b57d\">https://hdl.handle.net/21.12102/e2bf6b26-15ec-2593-8bec-c7629211b57d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ece9dc3e-88c0-6d0b-d6a8-7b0df49d2170/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ece9dc3e-88c0-6d0b-d6a8-7b0df49d2170",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7a5fbbbe-9d50-5b29-08e8-34dd8893bfb4/NL-HlmNHA_1478_39275K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

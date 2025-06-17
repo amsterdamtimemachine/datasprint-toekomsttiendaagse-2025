@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/aa62ccab-66c7-dabb-a52d-4abf14780fe6.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Tram en bus op het Stationsplein, Amsterdam (1971-03-11)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Tram en bus op het Stationsplein, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1971-03-11"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2095205\">Stationsplein</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.899167,
+            52.378056
+          ]
+        },
+        "properties": {
+          "title": "Stationsplein",
+          "url": "http://www.wikidata.org/entity/Q2095205"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aa62ccab-66c7-dabb-a52d-4abf14780fe6/NL-HlmNHA_1478_09289K01_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tram en bus op het Stationsplein, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6d2d99b8-83da-8fd6-4039-a790977d00c3\">https://hdl.handle.net/21.12102/6d2d99b8-83da-8fd6-4039-a790977d00c3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aa62ccab-66c7-dabb-a52d-4abf14780fe6/NL-HlmNHA_1478_09289K01_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aa62ccab-66c7-dabb-a52d-4abf14780fe6/NL-HlmNHA_1478_09289K01_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/46093bab-a291-aca9-1abc-cc6c28f7e6ad/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/46093bab-a291-aca9-1abc-cc6c28f7e6ad",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aa62ccab-66c7-dabb-a52d-4abf14780fe6/NL-HlmNHA_1478_09289K01_14/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

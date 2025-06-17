@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/48e4b4eb-42af-4943-8edf-83ef720a3c90.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "R. Dekker + R. Jansen, woning in Amsterdam (1997-02-24)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "R. Dekker + R. Jansen, woning in Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1997-02-24"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48e4b4eb-42af-4943-8edf-83ef720a3c90/NL-HlmNHA_1478_43926K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "R. Dekker + R. Jansen, woning in Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0ff83914-5404-97db-d267-56cf806703f3\">https://hdl.handle.net/21.12102/0ff83914-5404-97db-d267-56cf806703f3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48e4b4eb-42af-4943-8edf-83ef720a3c90/NL-HlmNHA_1478_43926K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48e4b4eb-42af-4943-8edf-83ef720a3c90/NL-HlmNHA_1478_43926K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/108b86ba-8a47-8ed3-1b31-e857933f086e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/108b86ba-8a47-8ed3-1b31-e857933f086e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48e4b4eb-42af-4943-8edf-83ef720a3c90/NL-HlmNHA_1478_43926K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48e4b4eb-42af-4943-8edf-83ef720a3c90/NL-HlmNHA_1478_43926K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "R. Dekker + R. Jansen, woning in Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1292b9b5-ed60-a549-79dc-efc3b3645478\">https://hdl.handle.net/21.12102/1292b9b5-ed60-a549-79dc-efc3b3645478</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48e4b4eb-42af-4943-8edf-83ef720a3c90/NL-HlmNHA_1478_43926K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48e4b4eb-42af-4943-8edf-83ef720a3c90/NL-HlmNHA_1478_43926K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/092e67f3-405d-3df9-73b3-58e627a46f59/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/092e67f3-405d-3df9-73b3-58e627a46f59",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48e4b4eb-42af-4943-8edf-83ef720a3c90/NL-HlmNHA_1478_43926K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48e4b4eb-42af-4943-8edf-83ef720a3c90/NL-HlmNHA_1478_43926K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "R. Dekker + R. Jansen, woning in Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/db5dfc6f-d449-fc09-eba7-ad3623ee93ef\">https://hdl.handle.net/21.12102/db5dfc6f-d449-fc09-eba7-ad3623ee93ef</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48e4b4eb-42af-4943-8edf-83ef720a3c90/NL-HlmNHA_1478_43926K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48e4b4eb-42af-4943-8edf-83ef720a3c90/NL-HlmNHA_1478_43926K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/20b5b345-10ba-a605-65ae-2df8c6a67230/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/20b5b345-10ba-a605-65ae-2df8c6a67230",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48e4b4eb-42af-4943-8edf-83ef720a3c90/NL-HlmNHA_1478_43926K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48e4b4eb-42af-4943-8edf-83ef720a3c90/NL-HlmNHA_1478_43926K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "R. Dekker + R. Jansen, woning in Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e48ea3a3-bf26-df92-fa94-bd7b61d8b8af\">https://hdl.handle.net/21.12102/e48ea3a3-bf26-df92-fa94-bd7b61d8b8af</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48e4b4eb-42af-4943-8edf-83ef720a3c90/NL-HlmNHA_1478_43926K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48e4b4eb-42af-4943-8edf-83ef720a3c90/NL-HlmNHA_1478_43926K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d202533e-2bfd-917e-2b3e-c9d7d05b4c5a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d202533e-2bfd-917e-2b3e-c9d7d05b4c5a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48e4b4eb-42af-4943-8edf-83ef720a3c90/NL-HlmNHA_1478_43926K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48e4b4eb-42af-4943-8edf-83ef720a3c90/NL-HlmNHA_1478_43926K00_19/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "R. Dekker + R. Jansen, woning in Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ef8abe94-e283-d1f0-c5bb-06e44260e6d3\">https://hdl.handle.net/21.12102/ef8abe94-e283-d1f0-c5bb-06e44260e6d3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48e4b4eb-42af-4943-8edf-83ef720a3c90/NL-HlmNHA_1478_43926K00_19/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48e4b4eb-42af-4943-8edf-83ef720a3c90/NL-HlmNHA_1478_43926K00_19/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c5f03f6c-2a10-9523-45ac-e24477b05bc2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c5f03f6c-2a10-9523-45ac-e24477b05bc2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48e4b4eb-42af-4943-8edf-83ef720a3c90/NL-HlmNHA_1478_43926K00_19/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48e4b4eb-42af-4943-8edf-83ef720a3c90/NL-HlmNHA_1478_43926K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "R. Dekker + R. Jansen, woning in Amsterdam"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f224c788-d44c-9cad-4c2f-6c0b8b671d53\">https://hdl.handle.net/21.12102/f224c788-d44c-9cad-4c2f-6c0b8b671d53</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48e4b4eb-42af-4943-8edf-83ef720a3c90/NL-HlmNHA_1478_43926K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48e4b4eb-42af-4943-8edf-83ef720a3c90/NL-HlmNHA_1478_43926K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9e783f6e-b4e7-ffee-5f93-bacceae0b4b2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9e783f6e-b4e7-ffee-5f93-bacceae0b4b2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/48e4b4eb-42af-4943-8edf-83ef720a3c90/NL-HlmNHA_1478_43926K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

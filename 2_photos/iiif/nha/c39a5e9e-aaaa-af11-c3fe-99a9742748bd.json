@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/c39a5e9e-aaaa-af11-c3fe-99a9742748bd.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Serie van Schiphol (stewardessen) Theus van Vliet (1954-12)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Serie van Schiphol (stewardessen) Theus van Vliet"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1954-12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Schiphol, Series Thans van Vliet"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c39a5e9e-aaaa-af11-c3fe-99a9742748bd/NL-HlmNHA_1478_01189A00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Serie van Schiphol (stewardessen) Theus van Vliet"
+        ]
+      },
+      "height": 2663,
+      "width": 2663,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/caccc823-fd68-42ac-0706-eb0c32d9ee65\">https://hdl.handle.net/21.12102/caccc823-fd68-42ac-0706-eb0c32d9ee65</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c39a5e9e-aaaa-af11-c3fe-99a9742748bd/NL-HlmNHA_1478_01189A00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c39a5e9e-aaaa-af11-c3fe-99a9742748bd/NL-HlmNHA_1478_01189A00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/40a23494-8ca9-d41d-99d0-033fd7213006/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2663,
+                "width": 2663,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/40a23494-8ca9-d41d-99d0-033fd7213006",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c39a5e9e-aaaa-af11-c3fe-99a9742748bd/NL-HlmNHA_1478_01189A00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

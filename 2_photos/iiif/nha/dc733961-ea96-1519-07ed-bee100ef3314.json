@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/dc733961-ea96-1519-07ed-bee100ef3314.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Interland voetbalwedstrijd Nederland - Bulgarije in het Olympisch Stadion te Amsterdam. (1960-04-03)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Interland voetbalwedstrijd Nederland - Bulgarije in het Olympisch Stadion te Amsterdam."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1960-04-03"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dc733961-ea96-1519-07ed-bee100ef3314/NL-HlmNHA_1478_17728B09a_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Interland voetbalwedstrijd Nederland - Bulgarije in het Olympisch Stadion te Amsterdam."
+        ]
+      },
+      "height": 1348,
+      "width": 1357,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/62ea6518-ed75-eb4a-9805-49cca8b808af\">https://hdl.handle.net/21.12102/62ea6518-ed75-eb4a-9805-49cca8b808af</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dc733961-ea96-1519-07ed-bee100ef3314/NL-HlmNHA_1478_17728B09a_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dc733961-ea96-1519-07ed-bee100ef3314/NL-HlmNHA_1478_17728B09a_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/9c071dcb-8f81-43a9-8d44-55c6d6fd328b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1348,
+                "width": 1357,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/9c071dcb-8f81-43a9-8d44-55c6d6fd328b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/dc733961-ea96-1519-07ed-bee100ef3314/NL-HlmNHA_1478_17728B09a_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

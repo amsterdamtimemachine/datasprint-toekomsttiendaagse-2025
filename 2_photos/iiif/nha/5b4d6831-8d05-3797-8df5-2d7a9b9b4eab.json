@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/5b4d6831-8d05-3797-8df5-2d7a9b9b4eab.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Bietencampagne suikerfabriek CSM Halfweg met schepen geladen met suikerbieten (1965-11-18)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Bietencampagne suikerfabriek CSM Halfweg met schepen geladen met suikerbieten"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1965-11-18"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2367253\">Halfweg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.755,
+            52.3828
+          ]
+        },
+        "properties": {
+          "title": "Halfweg",
+          "url": "http://www.wikidata.org/entity/Q2367253"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5b4d6831-8d05-3797-8df5-2d7a9b9b4eab/NL-HlmNHA_1478_03654K00_34/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bietencampagne suikerfabriek CSM Halfweg met schepen geladen met suikerbieten"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/dfae2b84-7c6d-fed6-4c52-87a51ce0320a\">https://hdl.handle.net/21.12102/dfae2b84-7c6d-fed6-4c52-87a51ce0320a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5b4d6831-8d05-3797-8df5-2d7a9b9b4eab/NL-HlmNHA_1478_03654K00_34/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5b4d6831-8d05-3797-8df5-2d7a9b9b4eab/NL-HlmNHA_1478_03654K00_34/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/dc866890-e3b6-8052-84ce-7868d414c5d7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/dc866890-e3b6-8052-84ce-7868d414c5d7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5b4d6831-8d05-3797-8df5-2d7a9b9b4eab/NL-HlmNHA_1478_03654K00_34/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5b4d6831-8d05-3797-8df5-2d7a9b9b4eab/NL-HlmNHA_1478_03654K00_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bietencampagne suikerfabriek CSM Halfweg met schepen geladen met suikerbieten"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e5223972-0e20-32e7-edac-fd5e8d688712\">https://hdl.handle.net/21.12102/e5223972-0e20-32e7-edac-fd5e8d688712</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5b4d6831-8d05-3797-8df5-2d7a9b9b4eab/NL-HlmNHA_1478_03654K00_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5b4d6831-8d05-3797-8df5-2d7a9b9b4eab/NL-HlmNHA_1478_03654K00_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3193d38e-44e2-6b0f-c446-c9d8b8d19b90/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3193d38e-44e2-6b0f-c446-c9d8b8d19b90",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/5b4d6831-8d05-3797-8df5-2d7a9b9b4eab/NL-HlmNHA_1478_03654K00_35/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/75ad0df5-6ef4-a8a7-4eaa-d6393469472a.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Boerderij Voorzorg, Lijnden (1999-05-05)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Boerderij Voorzorg, Lijnden"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1999-05-05"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q1981949\">Lijnden</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7597,
+            52.3522
+          ]
+        },
+        "properties": {
+          "title": "Lijnden",
+          "url": "http://www.wikidata.org/entity/Q1981949"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/75ad0df5-6ef4-a8a7-4eaa-d6393469472a/NL-HlmNHA_1478_46887K00_28/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Boerderij Voorzorg, Lijnden"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5f916dbb-4a9b-0367-cdf6-a80e2567c755\">https://hdl.handle.net/21.12102/5f916dbb-4a9b-0367-cdf6-a80e2567c755</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/75ad0df5-6ef4-a8a7-4eaa-d6393469472a/NL-HlmNHA_1478_46887K00_28/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/75ad0df5-6ef4-a8a7-4eaa-d6393469472a/NL-HlmNHA_1478_46887K00_28/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/23bc3c25-8144-af45-4a0b-199db184d0f0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/23bc3c25-8144-af45-4a0b-199db184d0f0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/75ad0df5-6ef4-a8a7-4eaa-d6393469472a/NL-HlmNHA_1478_46887K00_28/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/75ad0df5-6ef4-a8a7-4eaa-d6393469472a/NL-HlmNHA_1478_46887K00_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Boerderij Voorzorg, Lijnden"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9c37f956-1876-d363-c1e1-b5364edbf8b3\">https://hdl.handle.net/21.12102/9c37f956-1876-d363-c1e1-b5364edbf8b3</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/75ad0df5-6ef4-a8a7-4eaa-d6393469472a/NL-HlmNHA_1478_46887K00_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/75ad0df5-6ef4-a8a7-4eaa-d6393469472a/NL-HlmNHA_1478_46887K00_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/5e39008a-4de6-922e-e54a-cddbb7997d25/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/5e39008a-4de6-922e-e54a-cddbb7997d25",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/75ad0df5-6ef4-a8a7-4eaa-d6393469472a/NL-HlmNHA_1478_46887K00_30/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/75ad0df5-6ef4-a8a7-4eaa-d6393469472a/NL-HlmNHA_1478_46887K00_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Boerderij Voorzorg, Lijnden"
+        ]
+      },
+      "height": 4496,
+      "width": 6114,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/bce48a2b-9aae-8d1d-afb8-cdc2c9a465e4\">https://hdl.handle.net/21.12102/bce48a2b-9aae-8d1d-afb8-cdc2c9a465e4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/75ad0df5-6ef4-a8a7-4eaa-d6393469472a/NL-HlmNHA_1478_46887K00_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/75ad0df5-6ef4-a8a7-4eaa-d6393469472a/NL-HlmNHA_1478_46887K00_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/09821a0e-ceb6-e761-1f43-5328cb7c73f9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4496,
+                "width": 6114,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/09821a0e-ceb6-e761-1f43-5328cb7c73f9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/75ad0df5-6ef4-a8a7-4eaa-d6393469472a/NL-HlmNHA_1478_46887K00_29/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

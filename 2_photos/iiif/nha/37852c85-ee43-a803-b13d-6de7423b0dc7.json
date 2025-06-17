@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/37852c85-ee43-a803-b13d-6de7423b0dc7.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Bloemencorso Aalsmeer in het Olympisch stadion (praalwagen met nar) (1956-08)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Bloemencorso Aalsmeer in het Olympisch stadion (praalwagen met nar)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1956-08"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/37852c85-ee43-a803-b13d-6de7423b0dc7/NL-HlmNHA_1478_13568B05_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bloemencorso Aalsmeer in het Olympisch stadion (praalwagen met nar)"
+        ]
+      },
+      "height": 2068,
+      "width": 2754,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0719194a-41d6-ce9d-5be1-7005617c2511\">https://hdl.handle.net/21.12102/0719194a-41d6-ce9d-5be1-7005617c2511</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/37852c85-ee43-a803-b13d-6de7423b0dc7/NL-HlmNHA_1478_13568B05_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/37852c85-ee43-a803-b13d-6de7423b0dc7/NL-HlmNHA_1478_13568B05_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/84176fb6-f89b-2e9b-0032-f01f930fbb26/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2068,
+                "width": 2754,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/84176fb6-f89b-2e9b-0032-f01f930fbb26",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/37852c85-ee43-a803-b13d-6de7423b0dc7/NL-HlmNHA_1478_13568B05_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

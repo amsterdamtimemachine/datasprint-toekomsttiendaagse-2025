@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/94919646-2c33-001b-4349-c7ec9630e30e.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Sluizencomplex IJmuiden (1966-07-12)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Sluizencomplex IJmuiden"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1966-07-12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q119314\">Noordzeekanaal</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.755664,
+            52.428917
+          ]
+        },
+        "properties": {
+          "title": "Noordzeekanaal",
+          "url": "http://www.wikidata.org/entity/Q119314"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94919646-2c33-001b-4349-c7ec9630e30e/NL-HlmNHA_1478_03923K00_25/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Sluizencomplex IJmuiden"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1245e12a-8bf3-06c4-3e6f-c38659e9d9bf\">https://hdl.handle.net/21.12102/1245e12a-8bf3-06c4-3e6f-c38659e9d9bf</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94919646-2c33-001b-4349-c7ec9630e30e/NL-HlmNHA_1478_03923K00_25/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94919646-2c33-001b-4349-c7ec9630e30e/NL-HlmNHA_1478_03923K00_25/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ff409996-be00-3f54-b7d9-fc3c101971fa/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ff409996-be00-3f54-b7d9-fc3c101971fa",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94919646-2c33-001b-4349-c7ec9630e30e/NL-HlmNHA_1478_03923K00_25/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94919646-2c33-001b-4349-c7ec9630e30e/NL-HlmNHA_1478_03923K00_26/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Sluizencomplex IJmuiden"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/7f5c3d8b-1701-dc7c-f804-482f4cce73ef\">https://hdl.handle.net/21.12102/7f5c3d8b-1701-dc7c-f804-482f4cce73ef</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94919646-2c33-001b-4349-c7ec9630e30e/NL-HlmNHA_1478_03923K00_26/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94919646-2c33-001b-4349-c7ec9630e30e/NL-HlmNHA_1478_03923K00_26/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e08e3ff0-b4dc-b792-79dc-eb1de8355863/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e08e3ff0-b4dc-b792-79dc-eb1de8355863",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94919646-2c33-001b-4349-c7ec9630e30e/NL-HlmNHA_1478_03923K00_26/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94919646-2c33-001b-4349-c7ec9630e30e/NL-HlmNHA_1478_03923K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Sluizencomplex IJmuiden"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b7ba7ccc-5273-ed34-88db-6783ef22b4b9\">https://hdl.handle.net/21.12102/b7ba7ccc-5273-ed34-88db-6783ef22b4b9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94919646-2c33-001b-4349-c7ec9630e30e/NL-HlmNHA_1478_03923K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94919646-2c33-001b-4349-c7ec9630e30e/NL-HlmNHA_1478_03923K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/80993ff9-9c6c-3930-cb99-7414541e1eae/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/80993ff9-9c6c-3930-cb99-7414541e1eae",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/94919646-2c33-001b-4349-c7ec9630e30e/NL-HlmNHA_1478_03923K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

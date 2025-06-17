@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/440f69c0-eac4-2a0b-8eed-c3a3c31dd2f9.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "De heer Hoogland overgeven voorzitterschap aan de heer Van Rooyen in Crest hotel Amsterdam (1988-05-11)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "De heer Hoogland overgeven voorzitterschap aan de heer Van Rooyen in Crest hotel Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1988-05-11"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Hoogovens"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/56497"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/440f69c0-eac4-2a0b-8eed-c3a3c31dd2f9/NL-HlmNHA_1478_29084K00_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer Hoogland overgeven voorzitterschap aan de heer Van Rooyen in Crest hotel Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/3ffad82d-05a5-bee9-ba46-31af5728ba2f\">https://hdl.handle.net/21.12102/3ffad82d-05a5-bee9-ba46-31af5728ba2f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/440f69c0-eac4-2a0b-8eed-c3a3c31dd2f9/NL-HlmNHA_1478_29084K00_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/440f69c0-eac4-2a0b-8eed-c3a3c31dd2f9/NL-HlmNHA_1478_29084K00_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/06ee3529-b473-bc3c-bfe3-1dc6ed022011/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/06ee3529-b473-bc3c-bfe3-1dc6ed022011",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/440f69c0-eac4-2a0b-8eed-c3a3c31dd2f9/NL-HlmNHA_1478_29084K00_30/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/440f69c0-eac4-2a0b-8eed-c3a3c31dd2f9/NL-HlmNHA_1478_29084K00_32/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer Hoogland overgeven voorzitterschap aan de heer Van Rooyen in Crest hotel Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b1fba7a2-8ba2-dd79-3582-42b9c148b7e4\">https://hdl.handle.net/21.12102/b1fba7a2-8ba2-dd79-3582-42b9c148b7e4</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/440f69c0-eac4-2a0b-8eed-c3a3c31dd2f9/NL-HlmNHA_1478_29084K00_32/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/440f69c0-eac4-2a0b-8eed-c3a3c31dd2f9/NL-HlmNHA_1478_29084K00_32/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/062e8c27-23d5-3619-fefe-82ff102979f8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/062e8c27-23d5-3619-fefe-82ff102979f8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/440f69c0-eac4-2a0b-8eed-c3a3c31dd2f9/NL-HlmNHA_1478_29084K00_32/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/440f69c0-eac4-2a0b-8eed-c3a3c31dd2f9/NL-HlmNHA_1478_29084K00_31/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer Hoogland overgeven voorzitterschap aan de heer Van Rooyen in Crest hotel Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/db0b16ca-71ac-0472-7279-50f3c2102f6b\">https://hdl.handle.net/21.12102/db0b16ca-71ac-0472-7279-50f3c2102f6b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/440f69c0-eac4-2a0b-8eed-c3a3c31dd2f9/NL-HlmNHA_1478_29084K00_31/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/440f69c0-eac4-2a0b-8eed-c3a3c31dd2f9/NL-HlmNHA_1478_29084K00_31/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7c761d2d-5b53-837f-ccc8-3295db73eb5c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7c761d2d-5b53-837f-ccc8-3295db73eb5c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/440f69c0-eac4-2a0b-8eed-c3a3c31dd2f9/NL-HlmNHA_1478_29084K00_31/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/440f69c0-eac4-2a0b-8eed-c3a3c31dd2f9/NL-HlmNHA_1478_29084K00_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer Hoogland overgeven voorzitterschap aan de heer Van Rooyen in Crest hotel Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ef09098a-3208-53d8-65ae-f46216891e5e\">https://hdl.handle.net/21.12102/ef09098a-3208-53d8-65ae-f46216891e5e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/440f69c0-eac4-2a0b-8eed-c3a3c31dd2f9/NL-HlmNHA_1478_29084K00_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/440f69c0-eac4-2a0b-8eed-c3a3c31dd2f9/NL-HlmNHA_1478_29084K00_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4a170ed3-9126-5e51-2ebe-ad4ebe41a314/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4a170ed3-9126-5e51-2ebe-ad4ebe41a314",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/440f69c0-eac4-2a0b-8eed-c3a3c31dd2f9/NL-HlmNHA_1478_29084K00_29/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

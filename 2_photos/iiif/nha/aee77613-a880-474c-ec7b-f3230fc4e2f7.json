@@ -1,0 +1,308 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/aee77613-a880-474c-ec7b-f3230fc4e2f7.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "De heer De Wit + medewerkers VNU Amsterdam (1982-03-05)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "De heer De Wit + medewerkers VNU Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1982-03-05"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Personen, VNU Vereniging Nederlandse Uitgeverijen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aee77613-a880-474c-ec7b-f3230fc4e2f7/NL-HlmNHA_1478_21665K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer De Wit + medewerkers VNU Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1b5f3f19-6a71-1c50-195f-141c54ac3a22\">https://hdl.handle.net/21.12102/1b5f3f19-6a71-1c50-195f-141c54ac3a22</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aee77613-a880-474c-ec7b-f3230fc4e2f7/NL-HlmNHA_1478_21665K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aee77613-a880-474c-ec7b-f3230fc4e2f7/NL-HlmNHA_1478_21665K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/bd5f5a89-0c22-7e67-db6f-78cba536d169/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/bd5f5a89-0c22-7e67-db6f-78cba536d169",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aee77613-a880-474c-ec7b-f3230fc4e2f7/NL-HlmNHA_1478_21665K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aee77613-a880-474c-ec7b-f3230fc4e2f7/NL-HlmNHA_1478_21665K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer De Wit + medewerkers VNU Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/971d4f61-d150-62b4-d3c4-43791b34b23f\">https://hdl.handle.net/21.12102/971d4f61-d150-62b4-d3c4-43791b34b23f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aee77613-a880-474c-ec7b-f3230fc4e2f7/NL-HlmNHA_1478_21665K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aee77613-a880-474c-ec7b-f3230fc4e2f7/NL-HlmNHA_1478_21665K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/84e488f5-2953-afdc-079f-9fc7c7a13370/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/84e488f5-2953-afdc-079f-9fc7c7a13370",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aee77613-a880-474c-ec7b-f3230fc4e2f7/NL-HlmNHA_1478_21665K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aee77613-a880-474c-ec7b-f3230fc4e2f7/NL-HlmNHA_1478_21665K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer De Wit + medewerkers VNU Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9b5e3f4d-b0b4-e171-f3d5-5320832a2fd9\">https://hdl.handle.net/21.12102/9b5e3f4d-b0b4-e171-f3d5-5320832a2fd9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aee77613-a880-474c-ec7b-f3230fc4e2f7/NL-HlmNHA_1478_21665K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aee77613-a880-474c-ec7b-f3230fc4e2f7/NL-HlmNHA_1478_21665K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8560b254-83a4-763d-04cc-4635c79d02d5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8560b254-83a4-763d-04cc-4635c79d02d5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aee77613-a880-474c-ec7b-f3230fc4e2f7/NL-HlmNHA_1478_21665K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aee77613-a880-474c-ec7b-f3230fc4e2f7/NL-HlmNHA_1478_21665K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer De Wit + medewerkers VNU Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/cf841d43-b1c7-5abb-ceb3-e872d53d960a\">https://hdl.handle.net/21.12102/cf841d43-b1c7-5abb-ceb3-e872d53d960a</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aee77613-a880-474c-ec7b-f3230fc4e2f7/NL-HlmNHA_1478_21665K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aee77613-a880-474c-ec7b-f3230fc4e2f7/NL-HlmNHA_1478_21665K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8bfd716e-cdc2-88e6-d812-832ba70adcd0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8bfd716e-cdc2-88e6-d812-832ba70adcd0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/aee77613-a880-474c-ec7b-f3230fc4e2f7/NL-HlmNHA_1478_21665K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

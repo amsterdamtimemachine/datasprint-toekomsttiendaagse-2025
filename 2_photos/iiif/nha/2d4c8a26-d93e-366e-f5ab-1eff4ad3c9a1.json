@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/2d4c8a26-d93e-366e-f5ab-1eff4ad3c9a1.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Bouw afvalverwerkingsinrichting Amsterdam-West (1990-12-03)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Bouw afvalverwerkingsinrichting Amsterdam-West"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1990-12-03"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2d4c8a26-d93e-366e-f5ab-1eff4ad3c9a1/NL-HlmNHA_1478_33428K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bouw afvalverwerkingsinrichting Amsterdam-West"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1b0cb8df-ec76-03c2-469c-c9affe542066\">https://hdl.handle.net/21.12102/1b0cb8df-ec76-03c2-469c-c9affe542066</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2d4c8a26-d93e-366e-f5ab-1eff4ad3c9a1/NL-HlmNHA_1478_33428K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2d4c8a26-d93e-366e-f5ab-1eff4ad3c9a1/NL-HlmNHA_1478_33428K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/a591f1a7-5a1e-b664-d87e-87fde0d65591/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/a591f1a7-5a1e-b664-d87e-87fde0d65591",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2d4c8a26-d93e-366e-f5ab-1eff4ad3c9a1/NL-HlmNHA_1478_33428K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2d4c8a26-d93e-366e-f5ab-1eff4ad3c9a1/NL-HlmNHA_1478_33428K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bouw afvalverwerkingsinrichting Amsterdam-West"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1b3ef781-f6b4-52b0-5a7e-eeb4753bfe85\">https://hdl.handle.net/21.12102/1b3ef781-f6b4-52b0-5a7e-eeb4753bfe85</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2d4c8a26-d93e-366e-f5ab-1eff4ad3c9a1/NL-HlmNHA_1478_33428K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2d4c8a26-d93e-366e-f5ab-1eff4ad3c9a1/NL-HlmNHA_1478_33428K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/f3722a85-3459-701f-8c70-4d800fa76672/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/f3722a85-3459-701f-8c70-4d800fa76672",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2d4c8a26-d93e-366e-f5ab-1eff4ad3c9a1/NL-HlmNHA_1478_33428K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2d4c8a26-d93e-366e-f5ab-1eff4ad3c9a1/NL-HlmNHA_1478_33428K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Bouw afvalverwerkingsinrichting Amsterdam-West"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/63b3654a-2f5d-f161-e9b7-046836b141f8\">https://hdl.handle.net/21.12102/63b3654a-2f5d-f161-e9b7-046836b141f8</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2d4c8a26-d93e-366e-f5ab-1eff4ad3c9a1/NL-HlmNHA_1478_33428K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2d4c8a26-d93e-366e-f5ab-1eff4ad3c9a1/NL-HlmNHA_1478_33428K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d002a432-7ec6-4370-4dda-9b259d16792d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d002a432-7ec6-4370-4dda-9b259d16792d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/2d4c8a26-d93e-366e-f5ab-1eff4ad3c9a1/NL-HlmNHA_1478_33428K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/3b9e4248-eefd-24c6-2a62-f0814906af10.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "KLM Gebouw 430, gebouwd door Vermeer / Verom (1986-06)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "KLM Gebouw 430, gebouwd door Vermeer / Verom"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1986-06"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q18935253\">Amsterdam-Bataviaweg</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.7923,
+            52.2969
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam-Bataviaweg",
+          "url": "http://www.wikidata.org/entity/Q18935253"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3b9e4248-eefd-24c6-2a62-f0814906af10/NL-HlmNHA_1478_04065AC00_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "KLM Gebouw 430, gebouwd door Vermeer / Verom"
+        ]
+      },
+      "height": 4765,
+      "width": 4765,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1cd4734c-9c09-8a43-dfd2-4d3df18c3e83\">https://hdl.handle.net/21.12102/1cd4734c-9c09-8a43-dfd2-4d3df18c3e83</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3b9e4248-eefd-24c6-2a62-f0814906af10/NL-HlmNHA_1478_04065AC00_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3b9e4248-eefd-24c6-2a62-f0814906af10/NL-HlmNHA_1478_04065AC00_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/c27cfb90-dbe9-7b7b-d062-54ad65bc6bbe/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4765,
+                "width": 4765,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/c27cfb90-dbe9-7b7b-d062-54ad65bc6bbe",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3b9e4248-eefd-24c6-2a62-f0814906af10/NL-HlmNHA_1478_04065AC00_10/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3b9e4248-eefd-24c6-2a62-f0814906af10/NL-HlmNHA_1478_04065AC00_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "KLM Gebouw 430, gebouwd door Vermeer / Verom"
+        ]
+      },
+      "height": 4785,
+      "width": 4785,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2fc9e968-0d13-6c4d-5606-dc83cbb65296\">https://hdl.handle.net/21.12102/2fc9e968-0d13-6c4d-5606-dc83cbb65296</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3b9e4248-eefd-24c6-2a62-f0814906af10/NL-HlmNHA_1478_04065AC00_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3b9e4248-eefd-24c6-2a62-f0814906af10/NL-HlmNHA_1478_04065AC00_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ad610e3d-e7bf-bca3-8ac5-c856ea750b4e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4785,
+                "width": 4785,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ad610e3d-e7bf-bca3-8ac5-c856ea750b4e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3b9e4248-eefd-24c6-2a62-f0814906af10/NL-HlmNHA_1478_04065AC00_11/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3b9e4248-eefd-24c6-2a62-f0814906af10/NL-HlmNHA_1478_04065AC00_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "KLM Gebouw 430, gebouwd door Vermeer / Verom"
+        ]
+      },
+      "height": 4788,
+      "width": 4788,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/584484f9-4443-7183-d371-ec0f606846bb\">https://hdl.handle.net/21.12102/584484f9-4443-7183-d371-ec0f606846bb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3b9e4248-eefd-24c6-2a62-f0814906af10/NL-HlmNHA_1478_04065AC00_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3b9e4248-eefd-24c6-2a62-f0814906af10/NL-HlmNHA_1478_04065AC00_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/75a8d0f1-0a27-83e7-62bb-88e0d87f77b5/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4788,
+                "width": 4788,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/75a8d0f1-0a27-83e7-62bb-88e0d87f77b5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/3b9e4248-eefd-24c6-2a62-f0814906af10/NL-HlmNHA_1478_04065AC00_09/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

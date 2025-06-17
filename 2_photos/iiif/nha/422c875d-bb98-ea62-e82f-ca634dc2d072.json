@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/422c875d-bb98-ea62-e82f-ca634dc2d072.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Tram GVB Amsterdam 609 (1960-02)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Tram GVB Amsterdam 609"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1960-02"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Bos en Lommerplein"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.842843,
+            52.377792
+          ]
+        },
+        "properties": {
+          "title": "Bos en Lommerplein",
+          "url": ""
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/422c875d-bb98-ea62-e82f-ca634dc2d072/NL-HlmNHA_1478_17590B01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tram GVB Amsterdam 609"
+        ]
+      },
+      "height": 2326,
+      "width": 2915,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d116a565-76b7-e051-26e1-396c95c8f499\">https://hdl.handle.net/21.12102/d116a565-76b7-e051-26e1-396c95c8f499</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/422c875d-bb98-ea62-e82f-ca634dc2d072/NL-HlmNHA_1478_17590B01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/422c875d-bb98-ea62-e82f-ca634dc2d072/NL-HlmNHA_1478_17590B01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/366f43d3-b693-c685-6051-5d13bc34dc9a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2326,
+                "width": 2915,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/366f43d3-b693-c685-6051-5d13bc34dc9a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/422c875d-bb98-ea62-e82f-ca634dc2d072/NL-HlmNHA_1478_17590B01_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/422c875d-bb98-ea62-e82f-ca634dc2d072/NL-HlmNHA_1478_17590B02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Tram GVB Amsterdam 609"
+        ]
+      },
+      "height": 2299,
+      "width": 2888,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ec99a099-2407-992e-be72-27294ab33499\">https://hdl.handle.net/21.12102/ec99a099-2407-992e-be72-27294ab33499</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/422c875d-bb98-ea62-e82f-ca634dc2d072/NL-HlmNHA_1478_17590B02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/422c875d-bb98-ea62-e82f-ca634dc2d072/NL-HlmNHA_1478_17590B02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3bfe8333-e0ce-ce08-a4f8-da43e83bf1e1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2299,
+                "width": 2888,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3bfe8333-e0ce-ce08-a4f8-da43e83bf1e1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/422c875d-bb98-ea62-e82f-ca634dc2d072/NL-HlmNHA_1478_17590B02_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

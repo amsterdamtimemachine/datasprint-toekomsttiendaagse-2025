@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/10278b2e-6d5b-2a42-c653-940321d7a57c.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Prinses Beatrix doopt haar eigen schip 'De Groene Draeck' bij de tewaterlating op de N.V. Amsterdamsche Scheepswerf G. De Vries Lentsch Jr. Grasweg 60 - 62. Naast haar Dhr. G. de Vries Lentsch Jr. Zie HD 05-06-1957, pag 1 (1957-06-04)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Prinses Beatrix doopt haar eigen schip 'De Groene Draeck' bij de tewaterlating op de N.V. Amsterdamsche Scheepswerf G. De Vries Lentsch Jr. Grasweg 60 - 62. Naast haar Dhr. G. de Vries Lentsch Jr. Zie HD 05-06-1957, pag 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1957-06-04"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/10278b2e-6d5b-2a42-c653-940321d7a57c/NL-HlmNHA_1478_14081B02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Prinses Beatrix doopt haar eigen schip 'De Groene Draeck' bij de tewaterlating op de N.V. Amsterdamsche Scheepswerf G. De Vries Lentsch Jr. Grasweg 60 - 62. Naast haar Dhr. G. de Vries Lentsch Jr. Zie HD 05-06-1957, pag 1"
+        ]
+      },
+      "height": 2170,
+      "width": 2632,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2cfe3228-9d44-85d1-86e3-9e39c857d093\">https://hdl.handle.net/21.12102/2cfe3228-9d44-85d1-86e3-9e39c857d093</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/10278b2e-6d5b-2a42-c653-940321d7a57c/NL-HlmNHA_1478_14081B02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/10278b2e-6d5b-2a42-c653-940321d7a57c/NL-HlmNHA_1478_14081B02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/05127e99-2d4a-03b9-a75d-95d0cf63e04c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2170,
+                "width": 2632,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/05127e99-2d4a-03b9-a75d-95d0cf63e04c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/10278b2e-6d5b-2a42-c653-940321d7a57c/NL-HlmNHA_1478_14081B02_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

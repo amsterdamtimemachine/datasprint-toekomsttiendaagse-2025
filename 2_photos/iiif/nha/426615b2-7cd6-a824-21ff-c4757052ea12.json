@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/426615b2-7cd6-a824-21ff-c4757052ea12.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Voorbereidingen voor openluchtspel 'Wie Wint de Pot' in het Olympisch Stadion in Amsterdam, een levend ganzenbordspel met honderden schoolkinderen onder regie van Carel Briels. Op de eerste Koninginnedag op 30 april opgevoerd voor 60.000 mensen publiek en rechtsstreeks uitgezonden op de radio. Circus Strassburger levert twaalf vrachtauto's met dieren als kamelen, olifanten, nijlpaarden en ponnies. Toneel. Jeugd en jeugdspelen. (1949-04-30)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Voorbereidingen voor openluchtspel 'Wie Wint de Pot' in het Olympisch Stadion in Amsterdam, een levend ganzenbordspel met honderden schoolkinderen onder regie van Carel Briels. Op de eerste Koninginnedag op 30 april opgevoerd voor 60.000 mensen publiek en rechtsstreeks uitgezonden op de radio. Circus Strassburger levert twaalf vrachtauto's met dieren als kamelen, olifanten, nijlpaarden en ponnies. Toneel. Jeugd en jeugdspelen."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1949-04-30"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q2834612\">Stadionplein</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.85722,
+            52.34389
+          ]
+        },
+        "properties": {
+          "title": "Stadionplein",
+          "url": "http://www.wikidata.org/entity/Q2834612"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/426615b2-7cd6-a824-21ff-c4757052ea12/NL-HlmNHA_1478_00356A00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Voorbereidingen voor openluchtspel 'Wie Wint de Pot' in het Olympisch Stadion in Amsterdam, een levend ganzenbordspel met honderden schoolkinderen onder regie van Carel Briels. Op de eerste Koninginnedag op 30 april opgevoerd voor 60.000 mensen publiek en rechtsstreeks uitgezonden op de radio. Circus Strassburger levert twaalf vrachtauto's met dieren als kamelen, olifanten, nijlpaarden en ponnies. Toneel. Jeugd en jeugdspelen."
+        ]
+      },
+      "height": 2585,
+      "width": 2585,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/01238a44-5f7f-9b14-da1e-2b0dd19c67fa\">https://hdl.handle.net/21.12102/01238a44-5f7f-9b14-da1e-2b0dd19c67fa</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/426615b2-7cd6-a824-21ff-c4757052ea12/NL-HlmNHA_1478_00356A00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/426615b2-7cd6-a824-21ff-c4757052ea12/NL-HlmNHA_1478_00356A00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/d4f03c66-3751-9996-0daa-05eb10c9b9a1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2585,
+                "width": 2585,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/d4f03c66-3751-9996-0daa-05eb10c9b9a1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/426615b2-7cd6-a824-21ff-c4757052ea12/NL-HlmNHA_1478_00356A00_02/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/6c48d072-6c48-ed32-7d22-f5abdaa7d8b7.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Sloopwoningen Schipholdijk (1990-12-05)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Sloopwoningen Schipholdijk"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1990-12-05"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q19510460\">Schipholdijk</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.79,
+            52.2912
+          ]
+        },
+        "properties": {
+          "title": "Schipholdijk",
+          "url": "http://www.wikidata.org/entity/Q19510460"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6c48d072-6c48-ed32-7d22-f5abdaa7d8b7/NL-HlmNHA_1478_33439K00_26/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Sloopwoningen Schipholdijk"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/0bc731a6-742d-ba54-fe70-c886e408328e\">https://hdl.handle.net/21.12102/0bc731a6-742d-ba54-fe70-c886e408328e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6c48d072-6c48-ed32-7d22-f5abdaa7d8b7/NL-HlmNHA_1478_33439K00_26/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6c48d072-6c48-ed32-7d22-f5abdaa7d8b7/NL-HlmNHA_1478_33439K00_26/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/54f5cc08-2ba3-3df9-fa96-842aaa596270/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/54f5cc08-2ba3-3df9-fa96-842aaa596270",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6c48d072-6c48-ed32-7d22-f5abdaa7d8b7/NL-HlmNHA_1478_33439K00_26/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6c48d072-6c48-ed32-7d22-f5abdaa7d8b7/NL-HlmNHA_1478_33439K00_25/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Sloopwoningen Schipholdijk"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/32218ba0-229f-ac1d-0444-563b19d10f3f\">https://hdl.handle.net/21.12102/32218ba0-229f-ac1d-0444-563b19d10f3f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6c48d072-6c48-ed32-7d22-f5abdaa7d8b7/NL-HlmNHA_1478_33439K00_25/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6c48d072-6c48-ed32-7d22-f5abdaa7d8b7/NL-HlmNHA_1478_33439K00_25/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/954bfe16-8434-3b8f-f383-5f24d9eb275b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/954bfe16-8434-3b8f-f383-5f24d9eb275b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6c48d072-6c48-ed32-7d22-f5abdaa7d8b7/NL-HlmNHA_1478_33439K00_25/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6c48d072-6c48-ed32-7d22-f5abdaa7d8b7/NL-HlmNHA_1478_33439K00_24/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Sloopwoningen Schipholdijk"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9f145ffa-6192-06a9-d8b5-bce5f81c5f56\">https://hdl.handle.net/21.12102/9f145ffa-6192-06a9-d8b5-bce5f81c5f56</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6c48d072-6c48-ed32-7d22-f5abdaa7d8b7/NL-HlmNHA_1478_33439K00_24/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6c48d072-6c48-ed32-7d22-f5abdaa7d8b7/NL-HlmNHA_1478_33439K00_24/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/3e6890f1-ca8c-9215-68c6-91824083958a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/3e6890f1-ca8c-9215-68c6-91824083958a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6c48d072-6c48-ed32-7d22-f5abdaa7d8b7/NL-HlmNHA_1478_33439K00_24/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6c48d072-6c48-ed32-7d22-f5abdaa7d8b7/NL-HlmNHA_1478_33439K00_23/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Sloopwoningen Schipholdijk"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b68acb63-5168-914f-cf62-d577d8c83857\">https://hdl.handle.net/21.12102/b68acb63-5168-914f-cf62-d577d8c83857</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6c48d072-6c48-ed32-7d22-f5abdaa7d8b7/NL-HlmNHA_1478_33439K00_23/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6c48d072-6c48-ed32-7d22-f5abdaa7d8b7/NL-HlmNHA_1478_33439K00_23/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2d86aec3-6782-c8dd-e6bd-19feb0dcb16e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2d86aec3-6782-c8dd-e6bd-19feb0dcb16e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6c48d072-6c48-ed32-7d22-f5abdaa7d8b7/NL-HlmNHA_1478_33439K00_23/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6c48d072-6c48-ed32-7d22-f5abdaa7d8b7/NL-HlmNHA_1478_33439K00_27/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Sloopwoningen Schipholdijk"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ec7fd351-2548-e802-7d1a-3227d4819d57\">https://hdl.handle.net/21.12102/ec7fd351-2548-e802-7d1a-3227d4819d57</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6c48d072-6c48-ed32-7d22-f5abdaa7d8b7/NL-HlmNHA_1478_33439K00_27/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6c48d072-6c48-ed32-7d22-f5abdaa7d8b7/NL-HlmNHA_1478_33439K00_27/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/0d31aaec-93c7-16b8-fcb5-a35091716e16/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/0d31aaec-93c7-16b8-fcb5-a35091716e16",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/6c48d072-6c48-ed32-7d22-f5abdaa7d8b7/NL-HlmNHA_1478_33439K00_27/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

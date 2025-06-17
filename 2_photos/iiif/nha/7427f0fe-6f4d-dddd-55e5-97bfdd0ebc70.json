@@ -1,0 +1,361 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/7427f0fe-6f4d-dddd-55e5-97bfdd0ebc70.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Replica VOC schip Amsterdam aan kade (1990-07-26)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Replica VOC schip Amsterdam aan kade"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1990-07-26"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7427f0fe-6f4d-dddd-55e5-97bfdd0ebc70/NL-HlmNHA_1478_32724K00_34/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Replica VOC schip Amsterdam aan kade"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2f8d9242-bbe3-830d-d2bd-1ee8948cef79\">https://hdl.handle.net/21.12102/2f8d9242-bbe3-830d-d2bd-1ee8948cef79</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7427f0fe-6f4d-dddd-55e5-97bfdd0ebc70/NL-HlmNHA_1478_32724K00_34/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7427f0fe-6f4d-dddd-55e5-97bfdd0ebc70/NL-HlmNHA_1478_32724K00_34/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/419e33fd-ee5c-db9c-81a6-dee16de0b679/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/419e33fd-ee5c-db9c-81a6-dee16de0b679",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7427f0fe-6f4d-dddd-55e5-97bfdd0ebc70/NL-HlmNHA_1478_32724K00_34/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7427f0fe-6f4d-dddd-55e5-97bfdd0ebc70/NL-HlmNHA_1478_32724K00_36/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Replica VOC schip Amsterdam aan kade"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/9ebde910-5df3-414d-7af0-8459040a0fc8\">https://hdl.handle.net/21.12102/9ebde910-5df3-414d-7af0-8459040a0fc8</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7427f0fe-6f4d-dddd-55e5-97bfdd0ebc70/NL-HlmNHA_1478_32724K00_36/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7427f0fe-6f4d-dddd-55e5-97bfdd0ebc70/NL-HlmNHA_1478_32724K00_36/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/06f0a653-01a5-4db7-c671-3e1960148d82/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/06f0a653-01a5-4db7-c671-3e1960148d82",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7427f0fe-6f4d-dddd-55e5-97bfdd0ebc70/NL-HlmNHA_1478_32724K00_36/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7427f0fe-6f4d-dddd-55e5-97bfdd0ebc70/NL-HlmNHA_1478_32724K00_32/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Replica VOC schip Amsterdam aan kade"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/c37071ec-08e2-9d47-3193-cd1a1ad47b39\">https://hdl.handle.net/21.12102/c37071ec-08e2-9d47-3193-cd1a1ad47b39</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7427f0fe-6f4d-dddd-55e5-97bfdd0ebc70/NL-HlmNHA_1478_32724K00_32/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7427f0fe-6f4d-dddd-55e5-97bfdd0ebc70/NL-HlmNHA_1478_32724K00_32/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ca3559e0-8bb7-53c9-5c8e-975089eb6868/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ca3559e0-8bb7-53c9-5c8e-975089eb6868",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7427f0fe-6f4d-dddd-55e5-97bfdd0ebc70/NL-HlmNHA_1478_32724K00_32/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7427f0fe-6f4d-dddd-55e5-97bfdd0ebc70/NL-HlmNHA_1478_32724K00_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Replica VOC schip Amsterdam aan kade"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/daf1d078-00aa-6b37-a1c6-654787093f7c\">https://hdl.handle.net/21.12102/daf1d078-00aa-6b37-a1c6-654787093f7c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7427f0fe-6f4d-dddd-55e5-97bfdd0ebc70/NL-HlmNHA_1478_32724K00_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7427f0fe-6f4d-dddd-55e5-97bfdd0ebc70/NL-HlmNHA_1478_32724K00_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8cf97577-3e4b-daaf-d4f0-a452e266135e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8cf97577-3e4b-daaf-d4f0-a452e266135e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7427f0fe-6f4d-dddd-55e5-97bfdd0ebc70/NL-HlmNHA_1478_32724K00_35/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7427f0fe-6f4d-dddd-55e5-97bfdd0ebc70/NL-HlmNHA_1478_32724K00_33/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Replica VOC schip Amsterdam aan kade"
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e76a55e5-1106-996c-573b-16c51d7ed1ed\">https://hdl.handle.net/21.12102/e76a55e5-1106-996c-573b-16c51d7ed1ed</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7427f0fe-6f4d-dddd-55e5-97bfdd0ebc70/NL-HlmNHA_1478_32724K00_33/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7427f0fe-6f4d-dddd-55e5-97bfdd0ebc70/NL-HlmNHA_1478_32724K00_33/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ef913718-0790-3bf9-8ea4-8cda46118347/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ef913718-0790-3bf9-8ea4-8cda46118347",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/7427f0fe-6f4d-dddd-55e5-97bfdd0ebc70/NL-HlmNHA_1478_32724K00_33/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

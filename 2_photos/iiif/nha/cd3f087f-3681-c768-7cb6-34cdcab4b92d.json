@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/cd3f087f-3681-c768-7cb6-34cdcab4b92d.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "De heer van Dungen, beurzen Amsterdam (1991-08-20)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "De heer van Dungen, beurzen Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1991-08-20"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cd3f087f-3681-c768-7cb6-34cdcab4b92d/NL-HlmNHA_1478_34900K00_15/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer van Dungen, beurzen Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/220bcee6-9e3f-a7e7-ad6d-b70b2f61353b\">https://hdl.handle.net/21.12102/220bcee6-9e3f-a7e7-ad6d-b70b2f61353b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cd3f087f-3681-c768-7cb6-34cdcab4b92d/NL-HlmNHA_1478_34900K00_15/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cd3f087f-3681-c768-7cb6-34cdcab4b92d/NL-HlmNHA_1478_34900K00_15/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6e3f4291-a3f3-a89b-001a-693bb2072b7f/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6e3f4291-a3f3-a89b-001a-693bb2072b7f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cd3f087f-3681-c768-7cb6-34cdcab4b92d/NL-HlmNHA_1478_34900K00_15/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cd3f087f-3681-c768-7cb6-34cdcab4b92d/NL-HlmNHA_1478_34900K00_18/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer van Dungen, beurzen Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2685147b-6348-5bb8-dddf-5bcb89eb1b4e\">https://hdl.handle.net/21.12102/2685147b-6348-5bb8-dddf-5bcb89eb1b4e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cd3f087f-3681-c768-7cb6-34cdcab4b92d/NL-HlmNHA_1478_34900K00_18/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cd3f087f-3681-c768-7cb6-34cdcab4b92d/NL-HlmNHA_1478_34900K00_18/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4596c321-0e9e-3105-9aeb-0511eddbfbfa/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4596c321-0e9e-3105-9aeb-0511eddbfbfa",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cd3f087f-3681-c768-7cb6-34cdcab4b92d/NL-HlmNHA_1478_34900K00_18/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cd3f087f-3681-c768-7cb6-34cdcab4b92d/NL-HlmNHA_1478_34900K00_17/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer van Dungen, beurzen Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6cc60c70-7a25-f77c-eb8a-fa1eeaadd30f\">https://hdl.handle.net/21.12102/6cc60c70-7a25-f77c-eb8a-fa1eeaadd30f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cd3f087f-3681-c768-7cb6-34cdcab4b92d/NL-HlmNHA_1478_34900K00_17/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cd3f087f-3681-c768-7cb6-34cdcab4b92d/NL-HlmNHA_1478_34900K00_17/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/03f50e8f-60e8-1558-b78a-78d12b25eb0b/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/03f50e8f-60e8-1558-b78a-78d12b25eb0b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cd3f087f-3681-c768-7cb6-34cdcab4b92d/NL-HlmNHA_1478_34900K00_17/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cd3f087f-3681-c768-7cb6-34cdcab4b92d/NL-HlmNHA_1478_34900K00_14/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer van Dungen, beurzen Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/722ac117-55ff-6584-520a-ca8ab6096b1f\">https://hdl.handle.net/21.12102/722ac117-55ff-6584-520a-ca8ab6096b1f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cd3f087f-3681-c768-7cb6-34cdcab4b92d/NL-HlmNHA_1478_34900K00_14/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cd3f087f-3681-c768-7cb6-34cdcab4b92d/NL-HlmNHA_1478_34900K00_14/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/21c511fd-dbc7-ad1a-3e41-024d9c4c330e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/21c511fd-dbc7-ad1a-3e41-024d9c4c330e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cd3f087f-3681-c768-7cb6-34cdcab4b92d/NL-HlmNHA_1478_34900K00_14/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cd3f087f-3681-c768-7cb6-34cdcab4b92d/NL-HlmNHA_1478_34900K00_13/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer van Dungen, beurzen Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/bb3bef8f-33be-ae12-1128-8514269e781f\">https://hdl.handle.net/21.12102/bb3bef8f-33be-ae12-1128-8514269e781f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cd3f087f-3681-c768-7cb6-34cdcab4b92d/NL-HlmNHA_1478_34900K00_13/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cd3f087f-3681-c768-7cb6-34cdcab4b92d/NL-HlmNHA_1478_34900K00_13/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/755b1f88-f855-d19e-1aa0-acd85faeef5e/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/755b1f88-f855-d19e-1aa0-acd85faeef5e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cd3f087f-3681-c768-7cb6-34cdcab4b92d/NL-HlmNHA_1478_34900K00_13/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cd3f087f-3681-c768-7cb6-34cdcab4b92d/NL-HlmNHA_1478_34900K00_16/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "De heer van Dungen, beurzen Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/fdb42429-95be-06c2-ccde-8ea1aabe682e\">https://hdl.handle.net/21.12102/fdb42429-95be-06c2-ccde-8ea1aabe682e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cd3f087f-3681-c768-7cb6-34cdcab4b92d/NL-HlmNHA_1478_34900K00_16/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cd3f087f-3681-c768-7cb6-34cdcab4b92d/NL-HlmNHA_1478_34900K00_16/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/632b34b8-a1bc-8951-c03d-7000da10bb56/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/632b34b8-a1bc-8951-c03d-7000da10bb56",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cd3f087f-3681-c768-7cb6-34cdcab4b92d/NL-HlmNHA_1478_34900K00_16/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

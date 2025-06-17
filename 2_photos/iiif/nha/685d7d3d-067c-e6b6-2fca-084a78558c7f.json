@@ -1,0 +1,414 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/685d7d3d-067c-e6b6-2fca-084a78558c7f.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Toneelaffiche van Lucifer toneelmuseum Amsterdam (1979-12-04)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Toneelaffiche van Lucifer toneelmuseum Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1979-12-04"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Toneel"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/26944"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/685d7d3d-067c-e6b6-2fca-084a78558c7f/NL-HlmNHA_1478_18728K00_05/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Toneelaffiche van Lucifer toneelmuseum Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/00c115cc-c734-1e91-18a6-3710872a7aaa\">https://hdl.handle.net/21.12102/00c115cc-c734-1e91-18a6-3710872a7aaa</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/685d7d3d-067c-e6b6-2fca-084a78558c7f/NL-HlmNHA_1478_18728K00_05/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/685d7d3d-067c-e6b6-2fca-084a78558c7f/NL-HlmNHA_1478_18728K00_05/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ca10011b-3147-594c-2a58-d8856f8f11ee/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ca10011b-3147-594c-2a58-d8856f8f11ee",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/685d7d3d-067c-e6b6-2fca-084a78558c7f/NL-HlmNHA_1478_18728K00_05/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/685d7d3d-067c-e6b6-2fca-084a78558c7f/NL-HlmNHA_1478_18728K00_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Toneelaffiche van Lucifer toneelmuseum Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/04358185-384e-69de-c382-287d6bf6c3d1\">https://hdl.handle.net/21.12102/04358185-384e-69de-c382-287d6bf6c3d1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/685d7d3d-067c-e6b6-2fca-084a78558c7f/NL-HlmNHA_1478_18728K00_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/685d7d3d-067c-e6b6-2fca-084a78558c7f/NL-HlmNHA_1478_18728K00_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/84ba61fe-82ed-e799-0041-13843df5f12a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/84ba61fe-82ed-e799-0041-13843df5f12a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/685d7d3d-067c-e6b6-2fca-084a78558c7f/NL-HlmNHA_1478_18728K00_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/685d7d3d-067c-e6b6-2fca-084a78558c7f/NL-HlmNHA_1478_18728K00_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Toneelaffiche van Lucifer toneelmuseum Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2482dc3e-a2da-b637-eeab-855c7b01bfa9\">https://hdl.handle.net/21.12102/2482dc3e-a2da-b637-eeab-855c7b01bfa9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/685d7d3d-067c-e6b6-2fca-084a78558c7f/NL-HlmNHA_1478_18728K00_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/685d7d3d-067c-e6b6-2fca-084a78558c7f/NL-HlmNHA_1478_18728K00_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4946782c-c882-133a-d0ac-c974e22e4beb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4946782c-c882-133a-d0ac-c974e22e4beb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/685d7d3d-067c-e6b6-2fca-084a78558c7f/NL-HlmNHA_1478_18728K00_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/685d7d3d-067c-e6b6-2fca-084a78558c7f/NL-HlmNHA_1478_18728K00_04/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Toneelaffiche van Lucifer toneelmuseum Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2c866f19-cbd6-61ea-00c3-ea2e7004d571\">https://hdl.handle.net/21.12102/2c866f19-cbd6-61ea-00c3-ea2e7004d571</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/685d7d3d-067c-e6b6-2fca-084a78558c7f/NL-HlmNHA_1478_18728K00_04/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/685d7d3d-067c-e6b6-2fca-084a78558c7f/NL-HlmNHA_1478_18728K00_04/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/6ec47a96-a48f-cf4c-09e7-148b4e4e91e8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/6ec47a96-a48f-cf4c-09e7-148b4e4e91e8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/685d7d3d-067c-e6b6-2fca-084a78558c7f/NL-HlmNHA_1478_18728K00_04/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/685d7d3d-067c-e6b6-2fca-084a78558c7f/NL-HlmNHA_1478_18728K00_06/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Toneelaffiche van Lucifer toneelmuseum Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/6fb4cf23-99f9-5fe3-7eb8-b9688c379929\">https://hdl.handle.net/21.12102/6fb4cf23-99f9-5fe3-7eb8-b9688c379929</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/685d7d3d-067c-e6b6-2fca-084a78558c7f/NL-HlmNHA_1478_18728K00_06/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/685d7d3d-067c-e6b6-2fca-084a78558c7f/NL-HlmNHA_1478_18728K00_06/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/4dc4a848-0981-fb87-7fb9-14fd96220ea0/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/4dc4a848-0981-fb87-7fb9-14fd96220ea0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/685d7d3d-067c-e6b6-2fca-084a78558c7f/NL-HlmNHA_1478_18728K00_06/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/685d7d3d-067c-e6b6-2fca-084a78558c7f/NL-HlmNHA_1478_18728K00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Toneelaffiche van Lucifer toneelmuseum Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b1789a8d-7712-cee2-8fd7-7a0f78b68080\">https://hdl.handle.net/21.12102/b1789a8d-7712-cee2-8fd7-7a0f78b68080</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/685d7d3d-067c-e6b6-2fca-084a78558c7f/NL-HlmNHA_1478_18728K00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/685d7d3d-067c-e6b6-2fca-084a78558c7f/NL-HlmNHA_1478_18728K00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/76f07ae2-2069-bfec-6782-d3a02378a8af/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/76f07ae2-2069-bfec-6782-d3a02378a8af",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/685d7d3d-067c-e6b6-2fca-084a78558c7f/NL-HlmNHA_1478_18728K00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

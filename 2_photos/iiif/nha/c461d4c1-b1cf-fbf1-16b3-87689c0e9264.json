@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/c461d4c1-b1cf-fbf1-16b3-87689c0e9264.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Een Fokker 100 van de KLM met 76 mensen aan boord is door het landingsgestel gezakt bij de landing op Schiphol. Niemand raakte gewond. Onderzoek zou later uitwijzen dat de oorzaak wellicht moest worden gezocht in de harde zijwind waardoor het landingsgestel automatisch ontgrendelde. (1994-01-28)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Een Fokker 100 van de KLM met 76 mensen aan boord is door het landingsgestel gezakt bij de landing op Schiphol. Niemand raakte gewond. Onderzoek zou later uitwijzen dat de oorzaak wellicht moest worden gezocht in de harde zijwind waardoor het landingsgestel automatisch ontgrendelde."
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1994-01-28"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q9694\">Luchthaven Schiphol</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.764169,
+            52.3081
+          ]
+        },
+        "properties": {
+          "title": "Luchthaven Schiphol",
+          "url": "http://www.wikidata.org/entity/Q9694"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c461d4c1-b1cf-fbf1-16b3-87689c0e9264/NL-HlmNHA_1478_39196K00_12/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Een Fokker 100 van de KLM met 76 mensen aan boord is door het landingsgestel gezakt bij de landing op Schiphol. Niemand raakte gewond. Onderzoek zou later uitwijzen dat de oorzaak wellicht moest worden gezocht in de harde zijwind waardoor het landingsgestel automatisch ontgrendelde."
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/58ba8138-0cac-6e00-7dfc-a7bf6cc3a5a1\">https://hdl.handle.net/21.12102/58ba8138-0cac-6e00-7dfc-a7bf6cc3a5a1</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c461d4c1-b1cf-fbf1-16b3-87689c0e9264/NL-HlmNHA_1478_39196K00_12/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c461d4c1-b1cf-fbf1-16b3-87689c0e9264/NL-HlmNHA_1478_39196K00_12/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/785f5843-3ee8-5134-3f9d-0b85605354f2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/785f5843-3ee8-5134-3f9d-0b85605354f2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c461d4c1-b1cf-fbf1-16b3-87689c0e9264/NL-HlmNHA_1478_39196K00_12/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c461d4c1-b1cf-fbf1-16b3-87689c0e9264/NL-HlmNHA_1478_39196K00_11/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Een Fokker 100 van de KLM met 76 mensen aan boord is door het landingsgestel gezakt bij de landing op Schiphol. Niemand raakte gewond. Onderzoek zou later uitwijzen dat de oorzaak wellicht moest worden gezocht in de harde zijwind waardoor het landingsgestel automatisch ontgrendelde."
+        ]
+      },
+      "height": 4368,
+      "width": 5613,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e66ac671-d793-eac4-d4ce-9d5a10e81588\">https://hdl.handle.net/21.12102/e66ac671-d793-eac4-d4ce-9d5a10e81588</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c461d4c1-b1cf-fbf1-16b3-87689c0e9264/NL-HlmNHA_1478_39196K00_11/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c461d4c1-b1cf-fbf1-16b3-87689c0e9264/NL-HlmNHA_1478_39196K00_11/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ecc21226-1971-c096-f112-e3e53901019c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4368,
+                "width": 5613,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ecc21226-1971-c096-f112-e3e53901019c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/c461d4c1-b1cf-fbf1-16b3-87689c0e9264/NL-HlmNHA_1478_39196K00_11/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

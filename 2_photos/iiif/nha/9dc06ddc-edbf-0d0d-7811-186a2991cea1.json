@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/9dc06ddc-edbf-0d0d-7811-186a2991cea1.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Mevr. Vrijdaghs, Tahotcursus,Amsterdam (1989-01-23)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Mevr. Vrijdaghs, Tahotcursus,Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1989-01-23"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Cursussen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          "http://data.beeldengeluid.nl/gtaa/25469"
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dc06ddc-edbf-0d0d-7811-186a2991cea1/NL-HlmNHA_1478_30081K00_40/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Mevr. Vrijdaghs, Tahotcursus,Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/4f2c0441-20f6-f25d-0d42-360addcdc649\">https://hdl.handle.net/21.12102/4f2c0441-20f6-f25d-0d42-360addcdc649</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dc06ddc-edbf-0d0d-7811-186a2991cea1/NL-HlmNHA_1478_30081K00_40/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dc06ddc-edbf-0d0d-7811-186a2991cea1/NL-HlmNHA_1478_30081K00_40/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e313589b-2f21-ec61-4b75-b15f66f2fe41/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e313589b-2f21-ec61-4b75-b15f66f2fe41",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dc06ddc-edbf-0d0d-7811-186a2991cea1/NL-HlmNHA_1478_30081K00_40/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dc06ddc-edbf-0d0d-7811-186a2991cea1/NL-HlmNHA_1478_30081K00_42/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Mevr. Vrijdaghs, Tahotcursus,Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e453ed2f-9177-9367-1eb5-dfdf25a91b91\">https://hdl.handle.net/21.12102/e453ed2f-9177-9367-1eb5-dfdf25a91b91</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dc06ddc-edbf-0d0d-7811-186a2991cea1/NL-HlmNHA_1478_30081K00_42/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dc06ddc-edbf-0d0d-7811-186a2991cea1/NL-HlmNHA_1478_30081K00_42/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8d15df38-e9fa-acc0-546b-5793f3a332ea/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8d15df38-e9fa-acc0-546b-5793f3a332ea",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dc06ddc-edbf-0d0d-7811-186a2991cea1/NL-HlmNHA_1478_30081K00_42/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dc06ddc-edbf-0d0d-7811-186a2991cea1/NL-HlmNHA_1478_30081K00_41/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Mevr. Vrijdaghs, Tahotcursus,Amsterdam"
+        ]
+      },
+      "height": 4255,
+      "width": 6050,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/e7b870f5-59be-295c-e468-726c19cd4ea9\">https://hdl.handle.net/21.12102/e7b870f5-59be-295c-e468-726c19cd4ea9</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dc06ddc-edbf-0d0d-7811-186a2991cea1/NL-HlmNHA_1478_30081K00_41/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dc06ddc-edbf-0d0d-7811-186a2991cea1/NL-HlmNHA_1478_30081K00_41/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/54c755b8-790b-7199-a39c-2798d4503e93/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4255,
+                "width": 6050,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/54c755b8-790b-7199-a39c-2798d4503e93",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/9dc06ddc-edbf-0d0d-7811-186a2991cea1/NL-HlmNHA_1478_30081K00_41/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

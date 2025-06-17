@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/91951f39-23c3-265d-9fba-3189640b8c76.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Luchtfoto Hoofdkantoor NMB (1974)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Luchtfoto Hoofdkantoor NMB"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1974"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q52321279\">Eduard van Beinumstraat</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.87027,
+            52.33959
+          ]
+        },
+        "properties": {
+          "title": "Eduard van Beinumstraat",
+          "url": "http://www.wikidata.org/entity/Q52321279"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/91951f39-23c3-265d-9fba-3189640b8c76/NL-HlmNHA_1478_00101L00_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Luchtfoto Hoofdkantoor NMB"
+        ]
+      },
+      "height": 2361,
+      "width": 3090,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/b6f1fbb7-442d-9d82-344e-97cf8a6b6b01\">https://hdl.handle.net/21.12102/b6f1fbb7-442d-9d82-344e-97cf8a6b6b01</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/91951f39-23c3-265d-9fba-3189640b8c76/NL-HlmNHA_1478_00101L00_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/91951f39-23c3-265d-9fba-3189640b8c76/NL-HlmNHA_1478_00101L00_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/bce1a2e5-a354-48a7-fdd9-130c085a6c7c/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2361,
+                "width": 3090,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/bce1a2e5-a354-48a7-fdd9-130c085a6c7c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/91951f39-23c3-265d-9fba-3189640b8c76/NL-HlmNHA_1478_00101L00_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/cb0a850a-04e4-d833-8c48-0ac33158a16a.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Huizen rand van Amsterdam, \"Geuzenveld\" (1957-04-02)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Huizen rand van Amsterdam, \"Geuzenveld\""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1957-04-02"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Huizen en gebouwen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cb0a850a-04e4-d833-8c48-0ac33158a16a/NL-HlmNHA_1478_13942B01_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Huizen rand van Amsterdam, \"Geuzenveld\""
+        ]
+      },
+      "height": 2138,
+      "width": 2779,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/32df6bee-23d2-d182-c4fe-beb4dbf58b31\">https://hdl.handle.net/21.12102/32df6bee-23d2-d182-c4fe-beb4dbf58b31</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cb0a850a-04e4-d833-8c48-0ac33158a16a/NL-HlmNHA_1478_13942B01_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cb0a850a-04e4-d833-8c48-0ac33158a16a/NL-HlmNHA_1478_13942B01_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/20db3d3e-0a08-e794-c079-8739666d2599/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2138,
+                "width": 2779,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/20db3d3e-0a08-e794-c079-8739666d2599",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cb0a850a-04e4-d833-8c48-0ac33158a16a/NL-HlmNHA_1478_13942B01_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cb0a850a-04e4-d833-8c48-0ac33158a16a/NL-HlmNHA_1478_13942B02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Huizen rand van Amsterdam, \"Geuzenveld\""
+        ]
+      },
+      "height": 2105,
+      "width": 2796,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/40b082e6-af0a-18c2-2186-edf6f12259a5\">https://hdl.handle.net/21.12102/40b082e6-af0a-18c2-2186-edf6f12259a5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cb0a850a-04e4-d833-8c48-0ac33158a16a/NL-HlmNHA_1478_13942B02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cb0a850a-04e4-d833-8c48-0ac33158a16a/NL-HlmNHA_1478_13942B02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ba0d5957-7297-35f5-6bba-9915371a25f7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2105,
+                "width": 2796,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ba0d5957-7297-35f5-6bba-9915371a25f7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/cb0a850a-04e4-d833-8c48-0ac33158a16a/NL-HlmNHA_1478_13942B02_01/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

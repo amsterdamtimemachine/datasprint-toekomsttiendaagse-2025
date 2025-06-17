@@ -1,0 +1,255 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/fd25fbca-537d-d2b9-6886-9ec0be7c467a.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Groep Kamer van Koophandel, Amsterdam (1999-09-07)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Groep Kamer van Koophandel, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1999-09-07"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fd25fbca-537d-d2b9-6886-9ec0be7c467a/NL-HlmNHA_1478_04875AC00_09/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Groep Kamer van Koophandel, Amsterdam"
+        ]
+      },
+      "height": 2422,
+      "width": 2422,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/1d2b28f2-daec-15d1-2a18-112dc94ffea2\">https://hdl.handle.net/21.12102/1d2b28f2-daec-15d1-2a18-112dc94ffea2</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fd25fbca-537d-d2b9-6886-9ec0be7c467a/NL-HlmNHA_1478_04875AC00_09/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fd25fbca-537d-d2b9-6886-9ec0be7c467a/NL-HlmNHA_1478_04875AC00_09/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/82e6c20c-b0e9-3056-69c8-eef943b6a66a/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2422,
+                "width": 2422,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/82e6c20c-b0e9-3056-69c8-eef943b6a66a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fd25fbca-537d-d2b9-6886-9ec0be7c467a/NL-HlmNHA_1478_04875AC00_09/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fd25fbca-537d-d2b9-6886-9ec0be7c467a/NL-HlmNHA_1478_04875AC00_08/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Groep Kamer van Koophandel, Amsterdam"
+        ]
+      },
+      "height": 2422,
+      "width": 2422,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/2b97b095-cf2f-cb76-f1cb-625564ee1eee\">https://hdl.handle.net/21.12102/2b97b095-cf2f-cb76-f1cb-625564ee1eee</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fd25fbca-537d-d2b9-6886-9ec0be7c467a/NL-HlmNHA_1478_04875AC00_08/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fd25fbca-537d-d2b9-6886-9ec0be7c467a/NL-HlmNHA_1478_04875AC00_08/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/785fe57e-1496-c9fb-ca83-22ab2d5ff8b8/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2422,
+                "width": 2422,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/785fe57e-1496-c9fb-ca83-22ab2d5ff8b8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fd25fbca-537d-d2b9-6886-9ec0be7c467a/NL-HlmNHA_1478_04875AC00_08/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fd25fbca-537d-d2b9-6886-9ec0be7c467a/NL-HlmNHA_1478_04875AC00_10/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Groep Kamer van Koophandel, Amsterdam"
+        ]
+      },
+      "height": 2423,
+      "width": 2423,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5aea6156-2e40-e1b1-5ee9-c9dcb25b4fcf\">https://hdl.handle.net/21.12102/5aea6156-2e40-e1b1-5ee9-c9dcb25b4fcf</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fd25fbca-537d-d2b9-6886-9ec0be7c467a/NL-HlmNHA_1478_04875AC00_10/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fd25fbca-537d-d2b9-6886-9ec0be7c467a/NL-HlmNHA_1478_04875AC00_10/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/43b6cc45-093d-cfec-a1a5-d44c29e898cb/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2423,
+                "width": 2423,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/43b6cc45-093d-cfec-a1a5-d44c29e898cb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/fd25fbca-537d-d2b9-6886-9ec0be7c467a/NL-HlmNHA_1478_04875AC00_10/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

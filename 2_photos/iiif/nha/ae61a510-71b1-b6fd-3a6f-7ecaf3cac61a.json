@@ -1,0 +1,626 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/nha/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Portret van dhr. Wiegers Smit, SOMO, Amsterdam (1982-02-17)"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Portret van dhr. Wiegers Smit, SOMO, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1982-02-17"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<a href=\"http://www.wikidata.org/entity/Q727\">Amsterdam</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Concept"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Personen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "GTAA"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.893611,
+            52.372778
+          ]
+        },
+        "properties": {
+          "title": "Amsterdam",
+          "url": "http://www.wikidata.org/entity/Q727"
+        }
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K02_01/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van dhr. Wiegers Smit, SOMO, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/13552595-81de-c122-5867-e24f310655d5\">https://hdl.handle.net/21.12102/13552595-81de-c122-5867-e24f310655d5</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K02_01/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K02_01/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/7dd4a0bd-0edf-5020-6ad0-d9e0722a36f9/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/7dd4a0bd-0edf-5020-6ad0-d9e0722a36f9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K02_01/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K01_33/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van dhr. Wiegers Smit, SOMO, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/5bf26e0b-1f35-12af-0d49-ed8d1d8d6c75\">https://hdl.handle.net/21.12102/5bf26e0b-1f35-12af-0d49-ed8d1d8d6c75</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K01_33/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K01_33/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ad8f0ab7-d6ac-4823-5a14-0539e968ef6d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ad8f0ab7-d6ac-4823-5a14-0539e968ef6d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K01_33/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K01_32/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van dhr. Wiegers Smit, SOMO, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/68319cca-ccc3-696b-1d40-755a77f3476e\">https://hdl.handle.net/21.12102/68319cca-ccc3-696b-1d40-755a77f3476e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K01_32/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K01_32/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/2ae152fa-567b-8448-ba17-cb37e46116c7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/2ae152fa-567b-8448-ba17-cb37e46116c7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K01_32/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K01_34/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van dhr. Wiegers Smit, SOMO, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/8d31d6b1-0d1e-83e7-0640-db66d8ff337b\">https://hdl.handle.net/21.12102/8d31d6b1-0d1e-83e7-0640-db66d8ff337b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K01_34/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K01_34/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/ff7e2dcd-e6c4-bd5c-82bf-742b7c74ea17/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/ff7e2dcd-e6c4-bd5c-82bf-742b7c74ea17",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K01_34/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K02_02/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van dhr. Wiegers Smit, SOMO, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/901270c7-269d-8d08-81b9-86b74418c598\">https://hdl.handle.net/21.12102/901270c7-269d-8d08-81b9-86b74418c598</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K02_02/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K02_02/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/59d5ecab-3622-2d4d-b690-173267c4e03d/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/59d5ecab-3622-2d4d-b690-173267c4e03d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K02_02/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K01_30/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van dhr. Wiegers Smit, SOMO, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/a961b76c-29eb-8fc9-e9e8-5de614baab81\">https://hdl.handle.net/21.12102/a961b76c-29eb-8fc9-e9e8-5de614baab81</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K01_30/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K01_30/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/e55ea8fd-20a7-b705-08ee-e141ba1c03b1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/e55ea8fd-20a7-b705-08ee-e141ba1c03b1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K01_30/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K01_35/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van dhr. Wiegers Smit, SOMO, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/ab440426-7bb0-ad03-2cfe-92dff6b8a315\">https://hdl.handle.net/21.12102/ab440426-7bb0-ad03-2cfe-92dff6b8a315</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K01_35/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K01_35/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/af803ffe-db91-0df8-4406-58cf3d5b9e94/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/af803ffe-db91-0df8-4406-58cf3d5b9e94",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K01_35/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K01_31/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van dhr. Wiegers Smit, SOMO, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d6810393-8a45-c1c4-2193-3b9cff842c68\">https://hdl.handle.net/21.12102/d6810393-8a45-c1c4-2193-3b9cff842c68</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K01_31/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K01_31/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/8104f90d-9d8c-7f8c-a754-41f8656d6a60/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/8104f90d-9d8c-7f8c-a754-41f8656d6a60",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K01_31/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K02_03/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van dhr. Wiegers Smit, SOMO, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/d92b6617-afbd-d9e2-e5c8-cd72c1a49f86\">https://hdl.handle.net/21.12102/d92b6617-afbd-d9e2-e5c8-cd72c1a49f86</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K02_03/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K02_03/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/08308826-2351-2ab2-ec49-b91f79c949bf/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/08308826-2351-2ab2-ec49-b91f79c949bf",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K02_03/canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K01_29/canvas",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Portret van dhr. Wiegers Smit, SOMO, Amsterdam"
+        ]
+      },
+      "height": 4640,
+      "width": 6049,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/21.12102/f524f41e-2b4c-be19-70bb-3f6540b05cdc\">https://hdl.handle.net/21.12102/f524f41e-2b4c-be19-70bb-3f6540b05cdc</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K01_29/canvas/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K01_29/canvas/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://maior-images.memorix.nl/ranh/iiif/770a0e3a-6fc2-2398-ec03-ac170d84d8fc/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 4640,
+                "width": 6049,
+                "service": [
+                  {
+                    "@id": "https://maior-images.memorix.nl/ranh/iiif/770a0e3a-6fc2-2398-ec03-ac170d84d8fc",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/ae61a510-71b1-b6fd-3a6f-7ecaf3cac61a/NL-HlmNHA_1478_21604K01_29/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
