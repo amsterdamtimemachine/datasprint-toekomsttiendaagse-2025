@@ -8,7 +8,7 @@ import shapely.wkt
 iiif_prezi3.config.configs["helpers.auto_fields.AutoLang"].auto_lang = "nl"
 
 PREFIX = (
-    "https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/iiif/"
+    "https://static.amsterdamtimemachine.nl/datasprint-toekomsttiendaagse-2025/iiif/"
 )
 
 
@@ -52,10 +52,16 @@ def process_saa():
     for year, year_df in df.groupby("year"):
 
         os.makedirs(f"iiif/saa/{year}", exist_ok=True)
+
         year_collection = iiif_prezi3.Collection(
             id=f"{PREFIX}saa/{year}.json",
             label=f"{year}",
         )
+
+        if os.path.exists(f"iiif/saa/{year}.json"):
+            print(f"Skipping year {year}, already processed.")
+            collection.add_item(year_collection)
+            continue
 
         manifests = []
 
