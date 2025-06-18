@@ -1,0 +1,32 @@
+#+ endpoint: https://api.lod.uba.uva.nl/datasets/ATM/ATM-KG/services/ATM-KG/sparql
+prefix hg: <http://rdf.histograph.io/>
+prefix skos: <http://www.w3.org/2004/02/skos/core#>
+prefix sem: <http://semanticweb.cs.vu.nl/2009/11/sem/>
+prefix owl: <http://www.w3.org/2002/07/owl#>
+prefix geo: <http://www.opengis.net/ont/geosparql#>
+select * where {
+
+  ?adamlink_uri a ?type ;
+    skos:prefLabel ?preflabel ;
+    geo:hasGeometry/geo:asWKT ?wkt .
+
+  optional {
+    ?adamlink_uri owl:sameAs ?wikidata .
+    FILTER(CONTAINS(STR(?wikidata), 'wiki'))
+  }
+
+  optional {
+    ?adamlink_uri sem:hasEarliestBeginTimeStamp ?since_min .
+  }
+  optional {
+    ?adamlink_uri sem:hasEarliestEndTimeStamp ?until_min .
+  }
+  optional {
+    ?adamlink_uri sem:hasLatestBeginTimeStamp ?since_max .
+  }
+  optional {
+    ?adamlink_uri sem:hasLatestEndTimeStamp ?until_max .
+  }
+
+  filter(?type in (hg:Street, hg:Building))
+} limit 10000
