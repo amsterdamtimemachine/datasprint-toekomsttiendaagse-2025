@@ -10,6 +10,7 @@
       - [IISG](#iisg)
     - [Format](#format)
     - [Verrijkingen](#verrijkingen)
+      - [Alternatief (experimenteel)](#alternatief-experimenteel)
 
 ## Introductie
 
@@ -129,3 +130,10 @@ Verrijkingen houden we bij in een gedeelde spreadsheet:
 
 De verrijkingen in die spreadsheet zetten we om naar Web Annotaties en slaan we op in de AnnotatieContainer van de Datasprint:
 * https://annorepo.demo.netwerkdigitaalerfgoed.nl/w3c/atm-toekomsttiendaagse/
+
+#### Alternatief (experimenteel)
+
+De afbeeldingen kunnen ook automatisch geclassificeerd worden met behulp van AI. Een voorbeeld hiervan is te vinden in een Jupyter Notebook dat ook op Google Colab draait: 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amsterdamtimemachine/datasprint-toekomsttiendaagse-2025/blob/main/2_photos/classify_ai.ipynb)
+
