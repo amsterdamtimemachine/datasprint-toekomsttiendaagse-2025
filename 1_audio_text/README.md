@@ -36,9 +36,9 @@ https://hart.amsterdam/nl/page/392478/biografie-van-amsterdam
 ## Datasprint 
 ### Human evaluation - annotating using LabelStudio
 #### Setting up
-1. If you do not yet have a LabelStudio account: create one at https://annotate.amsterdamtimemachine.nl/user/signup/
-2. Go to LabelStudio via: https://annotate.amsterdamtimemachine.nl 
-3. Go to the Meaningful Memories project: https://annotate.amsterdamtimemachine.nl/projects/3/data
+1. If you do not yet have a LabelStudio account: create one at https://annotate.laagveen.nl/user/signup/
+2. Go to LabelStudio via: https://annotate.laagveen.nl 
+3. Go to the Meaningful Memories project: https://annotate.laagveen.nl/projects/3/data
 
 
 #### Picking your data 
