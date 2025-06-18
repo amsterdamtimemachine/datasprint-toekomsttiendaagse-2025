@@ -36,7 +36,7 @@ https://hart.amsterdam/nl/page/392478/biografie-van-amsterdam
 ## Datasprint 
 ### Human evaluation - annotating using LabelStudio
 #### Setting up
-1. If you do not yet have a LabelStudio account: create one at https://annotate.amsterdamtimemachine.nl/user/signup/)
+1. If you do not yet have a LabelStudio account: create one at https://annotate.amsterdamtimemachine.nl/user/signup/
 2. Go to LabelStudio via: https://annotate.amsterdamtimemachine.nl 
 3. Go to the Meaningful Memories project: https://annotate.amsterdamtimemachine.nl/projects/3/data
 
@@ -50,6 +50,7 @@ Note that files are stored with underscores instead of spaces between words, so 
 
 #### Labelling 
 1. You should now see the labelling interface:
+
 ![Labeling interface](imgs/labelstudio.png)
 Please stay within the same tab as was opened (not the one named _undefined_)
 2. You can now view the pre-annotated AI annotations. They are colored by type, so red means person, yellow means location etc. 
@@ -81,7 +82,9 @@ Please stay within the same tab as was opened (not the one named _undefined_)
 ![Overview](imgs/overview.png)
 
 ### Running the pipeline
+If you want to run the pipeline locally, you can do so by using the code in the git (see submodule in this git). We might have to do some adaptations to the config to get it to work locally, so please let me know and we can fix this :) 
 #### Notebooks 
+You can find an example notebook in the notebooks dir:  ```notebooks/mm_video_example.ipynb```
 #### Running on your own data
-
+If you want to run this pipeline on your own data, you can do some by loading the notebook in Google Colab and adding your data folder there (see instructions in notebook). 
 
