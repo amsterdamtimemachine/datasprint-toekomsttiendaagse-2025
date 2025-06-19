@@ -1,0 +1,892 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d30499b9-290d-4308-bd9e-3afa4f389a35",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797195/ik-ben-nooit-de-enige-die-wakker-is",
+          "type": "BlogPosting",
+          "name": "'Ik ben nooit de enige die wakker is'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Janine",
+          "prefix": "het pleintje waar ",
+          "suffix": " woont, zijn altijd mensen wakker. Iemand die naar zijn"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "bd1f4b8a-dadb-4435-a634-ea8c7a11fa16",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797195/ik-ben-nooit-de-enige-die-wakker-is",
+          "type": "BlogPosting",
+          "name": "'Ik ben nooit de enige die wakker is'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Janine",
+          "prefix": "zeil houdt voor elkaar. Op een druilerige ochtend vertelt ",
+          "suffix": " over de kracht van gemeenschap en de waarde van een"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "fbbee868-79ab-4af8-b494-85bd4e0ad2d5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797195/ik-ben-nooit-de-enige-die-wakker-is",
+          "type": "BlogPosting",
+          "name": "'Ik ben nooit de enige die wakker is'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Janine",
+          "prefix": "kracht van gemeenschap en de waarde van een hechte buurt. ",
+          "suffix": " is geboren en getogen in Amsterdam. Ze woont al 25"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "663c142b-22f4-46f2-9a07-d1a148e6dbc1",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797195/ik-ben-nooit-de-enige-die-wakker-is",
+          "type": "BlogPosting",
+          "name": "'Ik ben nooit de enige die wakker is'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "van een hechte buurt. Janine is geboren en getogen in ",
+          "suffix": ". Ze woont al 25 jaar in haar huis in"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ae26a176-7512-4435-83ca-df7f227f9303",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q2042402",
+          "type": "Place",
+          "label": null
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/district/ijpleinvogelbuurt/581",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797195/ik-ben-nooit-de-enige-die-wakker-is",
+          "type": "BlogPosting",
+          "name": "'Ik ben nooit de enige die wakker is'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Vogelbuurt",
+          "prefix": "Ze woont al 25 jaar in haar huis in de ",
+          "suffix": ". Daarvoor woonde ze een paar huizen verderop. Het duurde"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5c23bbf3-be94-4300-bca3-01421d6afd00",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797195/ik-ben-nooit-de-enige-die-wakker-is",
+          "type": "BlogPosting",
+          "name": "'Ik ben nooit de enige die wakker is'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "maart",
+          "prefix": "voordat ze zich in haar nieuwe buurt thuis voelde. In ",
+          "suffix": " verhuisde ze en toen ze in de herfst de Vogelbuurt"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1fe68e16-0d98-4040-9a44-5630e6abaef6",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q2042402",
+          "type": "Place",
+          "label": null
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/district/ijpleinvogelbuurt/581",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797195/ik-ben-nooit-de-enige-die-wakker-is",
+          "type": "BlogPosting",
+          "name": "'Ik ben nooit de enige die wakker is'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Vogelbuurt",
+          "prefix": "maart verhuisde ze en toen ze in de herfst de ",
+          "suffix": " binnen reed, had ze al een intens gevoel van thuiskomen."
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1b8779d5-5238-41fa-8853-18a71684ad08",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797195/ik-ben-nooit-de-enige-die-wakker-is",
+          "type": "BlogPosting",
+          "name": "'Ik ben nooit de enige die wakker is'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Janine",
+          "prefix": "binnen reed, had ze al een intens gevoel van thuiskomen. ",
+          "suffix": " is actief in de buurt, ze leidt samen met een"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "22bb8b55-06e4-4fe7-8bf2-69c20d519ada",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797195/ik-ben-nooit-de-enige-die-wakker-is",
+          "type": "BlogPosting",
+          "name": "'Ik ben nooit de enige die wakker is'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Janine",
+          "prefix": "een interculturele ontmoetingsbijeenkomst voor vrouwen en ",
+          "suffix": " komt regelmatig bij haar buren over de vloer.\nJanine’s"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0fa541e5-c735-48ff-b38b-2c961463faf7",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797195/ik-ben-nooit-de-enige-die-wakker-is",
+          "type": "BlogPosting",
+          "name": "'Ik ben nooit de enige die wakker is'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Janine",
+          "prefix": "en Janine komt regelmatig bij haar buren over de vloer.\n",
+          "suffix": "’s favoriete plek in Amsterdam is haar voortuin. Of ja,"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b92ec9b0-c8b8-4b2c-ad2f-dde6f239443c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797195/ik-ben-nooit-de-enige-die-wakker-is",
+          "type": "BlogPosting",
+          "name": "'Ik ben nooit de enige die wakker is'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "bij haar buren over de vloer.\nJanine’s favoriete plek in ",
+          "suffix": " is haar voortuin. Of ja, eigenlijk is het niet háár"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6babc3cc-faba-4db6-a1c6-4ebf5b30fa99",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797195/ik-ben-nooit-de-enige-die-wakker-is",
+          "type": "BlogPosting",
+          "name": "'Ik ben nooit de enige die wakker is'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Janine",
+          "prefix": "voortuin. Het is het tuintje van de benedenwoningen en ",
+          "suffix": " woont boven. Janine wilde ooit een bank weggooien en toen"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f878838a-2afe-4cff-b62a-61606f9f612f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797195/ik-ben-nooit-de-enige-die-wakker-is",
+          "type": "BlogPosting",
+          "name": "'Ik ben nooit de enige die wakker is'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Janine",
+          "prefix": "het tuintje van de benedenwoningen en Janine woont boven. ",
+          "suffix": " wilde ooit een bank weggooien en toen had ze de"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "28a44c42-0ba9-4760-929b-1aa5a00cdeda",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797195/ik-ben-nooit-de-enige-die-wakker-is",
+          "type": "BlogPosting",
+          "name": "'Ik ben nooit de enige die wakker is'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Janine",
+          "prefix": "al heel wat jaren - nu met bijpassende oranje kussens. ",
+          "suffix": "’s buurmeisjes bespraken op het schoolplein van de"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6a8fec7e-9240-4d23-9ad1-b208528f2bb7",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797195/ik-ben-nooit-de-enige-die-wakker-is",
+          "type": "BlogPosting",
+          "name": "'Ik ben nooit de enige die wakker is'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Janine",
+          "prefix": "kleuterklas al of ze die middag “op het bankje van ",
+          "suffix": "” gingen zitten. “Ben jij ook op het bankje?” vroegen"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6f1a7803-cce0-460a-904d-e333cd330bf0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797195/ik-ben-nooit-de-enige-die-wakker-is",
+          "type": "BlogPosting",
+          "name": "'Ik ben nooit de enige die wakker is'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Janine",
+          "prefix": "zitten. “Ben jij ook op het bankje?” vroegen ze aan ",
+          "suffix": " zelf. Nog steeds bellen de nu 10-jarige meisjes aan om"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8fad0fce-0144-4175-b90a-8d55f100b2f6",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797195/ik-ben-nooit-de-enige-die-wakker-is",
+          "type": "BlogPosting",
+          "name": "'Ik ben nooit de enige die wakker is'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Janine",
+          "prefix": "bellen de nu 10-jarige meisjes aan om te vragen of ",
+          "suffix": " naar beneden komt. Zelfgemaakte schilderwerkjes van de"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5057e849-47c0-468c-bbb2-eae51fc1d841",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797195/ik-ben-nooit-de-enige-die-wakker-is",
+          "type": "BlogPosting",
+          "name": "'Ik ben nooit de enige die wakker is'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Janine",
+          "prefix": "aan de muur. “De tuin gaat de wereld over”, vertelt ",
+          "suffix": ".\nJanine vertelt ook over hoe Noord verandert. Ze merkt"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ef0fa3da-e78d-474b-8595-267a82b46745",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797195/ik-ben-nooit-de-enige-die-wakker-is",
+          "type": "BlogPosting",
+          "name": "'Ik ben nooit de enige die wakker is'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Janine",
+          "prefix": "de muur. “De tuin gaat de wereld over”, vertelt Janine.\n",
+          "suffix": " vertelt ook over hoe Noord verandert. Ze merkt een"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "757b1856-b12d-4d18-ad20-c61204cc346f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q478607",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797195/ik-ben-nooit-de-enige-die-wakker-is",
+          "type": "BlogPosting",
+          "name": "'Ik ben nooit de enige die wakker is'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Noord",
+          "prefix": "wereld over”, vertelt Janine.\nJanine vertelt ook over hoe ",
+          "suffix": " verandert. Ze merkt een verschil tussen de oude en nieuwe"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "11c831b3-3ebe-4881-8f91-a76a23ad3f7c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797195/ik-ben-nooit-de-enige-die-wakker-is",
+          "type": "BlogPosting",
+          "name": "'Ik ben nooit de enige die wakker is'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Janine",
+          "prefix": "praten anders, draaien meer om de zaken heen. ",
+          "suffix": " vertelt dat veranderingen in golven gaan en dat de buurt"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b25a80b7-5d7e-463d-a3c6-e03801b7320f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797195/ik-ben-nooit-de-enige-die-wakker-is",
+          "type": "BlogPosting",
+          "name": "'Ik ben nooit de enige die wakker is'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Janine",
+          "prefix": "wel.\nDe hele buurt komt samen rondom het tuintje van ",
+          "suffix": ". Ze koken voor elkaar, helpen elkaar in noodsituaties en"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "cddb9327-35c0-45b1-8268-f496351930ec",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q478607",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797195/ik-ben-nooit-de-enige-die-wakker-is",
+          "type": "BlogPosting",
+          "name": "'Ik ben nooit de enige die wakker is'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Noord",
+          "prefix": "tijdens de Holocaust. Er woonden veel Joodse mensen in ",
+          "suffix": ", maar er zijn nog weinig struikelstenen in het gehele"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d9359359-12c3-4a44-8850-3cbcac1b9a89",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797195/ik-ben-nooit-de-enige-die-wakker-is",
+          "type": "BlogPosting",
+          "name": "'Ik ben nooit de enige die wakker is'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Janine",
+          "prefix": "hoeven niet groot te zijn als je met veel bent. ",
+          "suffix": " zegt krachtig: “wij doen het gewoon.” Ze benoemt ook dat"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "eb8c922a-6405-4fba-86fb-09462c7e3ea5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "sociale cohesie",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797195/ik-ben-nooit-de-enige-die-wakker-is",
+          "type": "BlogPosting",
+          "name": "'Ik ben nooit de enige die wakker is'"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "262d1a7b-e44a-4331-8bea-7f7dbb5ab740",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "geen tekst",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797195/ik-ben-nooit-de-enige-die-wakker-is",
+          "type": "BlogPosting",
+          "name": "'Ik ben nooit de enige die wakker is'"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "67c4af0b-a344-48cf-af9f-9b355db8daed",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "gemeenschap",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797195/ik-ben-nooit-de-enige-die-wakker-is",
+          "type": "BlogPosting",
+          "name": "'Ik ben nooit de enige die wakker is'"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5777d15a-c7b5-48ec-b1f5-a8b49ddb9029",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "buurt",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797195/ik-ben-nooit-de-enige-die-wakker-is",
+          "type": "BlogPosting",
+          "name": "'Ik ben nooit de enige die wakker is'"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "505e1bb0-b589-44b7-a34c-7c4812ee62c5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "saamhorigheid",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797195/ik-ben-nooit-de-enige-die-wakker-is",
+          "type": "BlogPosting",
+          "name": "'Ik ben nooit de enige die wakker is'"
+        }
+      ]
+    }
+  }
+]

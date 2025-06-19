@@ -1,0 +1,720 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7a5adf14-bfdb-48f1-8187-d8e107e1d95d",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797143/bij-het-grote-veld",
+          "type": "BlogPosting",
+          "name": "Bij het grote veld"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "dinsdagmiddag",
+          "prefix": "een zonnige ",
+          "suffix": " in het Oosterpark in Amsterdam rijdt Abdul langs mij in"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "bd3fb7ab-bafd-45f9-b63c-94c14afe0570",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q19395676",
+          "type": "Place",
+          "label": "Oosterpark"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/oosterpark/3327",
+          "type": "Place",
+          "label": "Oosterpark",
+          "longitude": "4.919354456000919",
+          "latitude": "52.3589392997441"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797143/bij-het-grote-veld",
+          "type": "BlogPosting",
+          "name": "Bij het grote veld"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Oosterpark",
+          "prefix": "een zonnige dinsdagmiddag in het ",
+          "suffix": " in Amsterdam rijdt Abdul langs mij in zijn scootmobiel."
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "22165ff0-99c8-4baf-81b3-4c1842df17d1",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797143/bij-het-grote-veld",
+          "type": "BlogPosting",
+          "name": "Bij het grote veld"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "een zonnige dinsdagmiddag in het Oosterpark in ",
+          "suffix": " rijdt Abdul langs mij in zijn scootmobiel. ‘Alleen omdat"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "294d4a0a-e27f-4069-9b02-a19c6bca08b0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797143/bij-het-grote-veld",
+          "type": "BlogPosting",
+          "name": "Bij het grote veld"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Abdul",
+          "prefix": "dinsdagmiddag in het Oosterpark in Amsterdam rijdt ",
+          "suffix": " langs mij in zijn scootmobiel. ‘Alleen omdat ik net aan"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5c00d125-5e01-4e45-ad9a-a5cc5d183dee",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q19395676",
+          "type": "Place",
+          "label": "Oosterpark"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/oosterpark/3327",
+          "type": "Place",
+          "label": "Oosterpark",
+          "longitude": "4.919354456000919",
+          "latitude": "52.3589392997441"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797143/bij-het-grote-veld",
+          "type": "BlogPosting",
+          "name": "Bij het grote veld"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Oosterpark",
+          "prefix": "praat en hij neemt mij mee terug naar hoe het ",
+          "suffix": " er in het verleden uit zag.\nIn 1972 is Abdul"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d601bdc0-fe97-4e57-86b0-2bd12cc19611",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797143/bij-het-grote-veld",
+          "type": "BlogPosting",
+          "name": "Bij het grote veld"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Abdul",
+          "prefix": "Oosterpark er in het verleden uit zag.\nIn 1972 is ",
+          "suffix": " in Amsterdam komen wonen als tweede generatie"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "34e41318-ca1f-4758-b3c8-484e8d3a4c87",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797143/bij-het-grote-veld",
+          "type": "BlogPosting",
+          "name": "Bij het grote veld"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "in het verleden uit zag.\nIn 1972 is Abdul in ",
+          "suffix": " komen wonen als tweede generatie gastarbeider, nadat zijn"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3ed6aae7-5fc9-4f3b-975b-f64822fe7155",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q19395676",
+          "type": "Place",
+          "label": "Oosterpark"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/oosterpark/3327",
+          "type": "Place",
+          "label": "Oosterpark",
+          "longitude": "4.919354456000919",
+          "latitude": "52.3589392997441"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797143/bij-het-grote-veld",
+          "type": "BlogPosting",
+          "name": "Bij het grote veld"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Oosterpark",
+          "prefix": "hij zich gelijk thuis in de stad. Daar heeft het ",
+          "suffix": " aan bijgedragen. Hij is nu inmiddels bijna 65 en komt"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "298b15fb-36e5-47ae-ba01-00f884bb481c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797143/bij-het-grote-veld",
+          "type": "BlogPosting",
+          "name": "Bij het grote veld"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "koffie",
+          "prefix": "hij graag kwam. Het was een klein cafeetje waar je ",
+          "suffix": ", thee en een biertje kon drinken, zowel in de"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a10dcc25-5a4d-406e-8929-789f5694402e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797143/bij-het-grote-veld",
+          "type": "BlogPosting",
+          "name": "Bij het grote veld"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "thee",
+          "prefix": "graag kwam. Het was een klein cafeetje waar je koffie, ",
+          "suffix": " en een biertje kon drinken, zowel in de zomer als"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "855597d1-c91e-4a95-9427-eed69291f97e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q478608",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797143/bij-het-grote-veld",
+          "type": "BlogPosting",
+          "name": "Bij het grote veld"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam-Oost",
+          "prefix": "toch wel het grote grasveld, dat de échte mensen uit ",
+          "suffix": " beter kennen als het ‘grote veld’. Hier voetbalde hij"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e2447500-dc5f-44b8-8ac2-904ca8d08d0d",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797143/bij-het-grote-veld",
+          "type": "BlogPosting",
+          "name": "Bij het grote veld"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Abdul",
+          "prefix": "jaren ’70 en ’80. Twee van de jongens met wie ",
+          "suffix": " voetbalde zijn uiteindelijk ook naar Ajax gegaan, de"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "096b8a90-66db-42fe-af0e-efa0b7f32681",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797143/bij-het-grote-veld",
+          "type": "BlogPosting",
+          "name": "Bij het grote veld"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Abdul",
+          "prefix": "in die tijd, die jongens speelden hier echt met ons’.\n",
+          "suffix": " heeft het park door de loop van tijd wel zien"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "694e51b9-72b8-4855-b93f-b8d626aa9f0c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797143/bij-het-grote-veld",
+          "type": "BlogPosting",
+          "name": "Bij het grote veld"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Abdul",
+          "prefix": "allerlei verschillende activiteiten, zoals de bingo waar ",
+          "suffix": " altijd van genoot. ‘Ze maken iets moois, maar halen ook"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "faf1debc-b180-448f-a3a9-f6b2ac0c39e2",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q19395676",
+          "type": "Place",
+          "label": "Oosterpark"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/oosterpark/3327",
+          "type": "Place",
+          "label": "Oosterpark",
+          "longitude": "4.919354456000919",
+          "latitude": "52.3589392997441"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797143/bij-het-grote-veld",
+          "type": "BlogPosting",
+          "name": "Bij het grote veld"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Oosterpark",
+          "prefix": "maar vooral ook voor het contact met andere mensen. Het ",
+          "suffix": " is de lievelingsplek van Abdelkader, maar bekenden mogen"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6bb5476a-3c0a-4882-8739-34fce28cfcf8",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797143/bij-het-grote-veld",
+          "type": "BlogPosting",
+          "name": "Bij het grote veld"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Abdelkader",
+          "prefix": "andere mensen. Het Oosterpark is de lievelingsplek van ",
+          "suffix": ", maar bekenden mogen hem Abdul"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "582815a0-17d7-45e1-bade-26481f866e3f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797143/bij-het-grote-veld",
+          "type": "BlogPosting",
+          "name": "Bij het grote veld"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Abdul",
+          "prefix": "de lievelingsplek van Abdelkader, maar bekenden mogen hem ",
+          "suffix": ""
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d7e5cc0c-217e-4180-84d0-b7780d3e876a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "verandering",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797143/bij-het-grote-veld",
+          "type": "BlogPosting",
+          "name": "Bij het grote veld"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "971ca94d-0a66-4b78-a013-046eb34cec8e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "nostalgie",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797143/bij-het-grote-veld",
+          "type": "BlogPosting",
+          "name": "Bij het grote veld"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f2d461ef-7bba-4cdb-bcc5-f39b921cd37d",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "geen tekst",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797143/bij-het-grote-veld",
+          "type": "BlogPosting",
+          "name": "Bij het grote veld"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "740f624e-d6b3-4e1b-a5fc-e8ba7ef18f88",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "toeval",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797143/bij-het-grote-veld",
+          "type": "BlogPosting",
+          "name": "Bij het grote veld"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f257c126-4438-47ec-acf0-ca023b33eaf4",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "ontmoeting",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797143/bij-het-grote-veld",
+          "type": "BlogPosting",
+          "name": "Bij het grote veld"
+        }
+      ]
+    }
+  }
+]

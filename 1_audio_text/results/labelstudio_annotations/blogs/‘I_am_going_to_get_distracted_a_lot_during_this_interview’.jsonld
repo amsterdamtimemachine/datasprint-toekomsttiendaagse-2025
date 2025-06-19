@@ -1,0 +1,838 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "bbe799cf-320b-4423-8689-cf82da2fb256",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080884/%E2%80%98i-am-going-to-get-distracted-a-lot-during-this-interview%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘I am going to get distracted a lot during this interview’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Morgan Diakité",
+          "prefix": "get distracted a lot during this interview,’ waarschuwt ",
+          "suffix": " (23). Het is woensdagmiddag, midden oktober, en we zitten"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1fd828b5-532e-489c-978e-00df175a6ca9",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080884/%E2%80%98i-am-going-to-get-distracted-a-lot-during-this-interview%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘I am going to get distracted a lot during this interview’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "woensdagmiddag",
+          "prefix": "this interview,’ waarschuwt Morgan Diakité (23). Het is ",
+          "suffix": ", midden oktober, en we zitten op een bankje in"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7cdfa990-d52f-4d46-af24-f105241cf574",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080884/%E2%80%98i-am-going-to-get-distracted-a-lot-during-this-interview%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘I am going to get distracted a lot during this interview’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "oktober",
+          "prefix": "Morgan Diakité (23). Het is woensdagmiddag, midden ",
+          "suffix": ", en we zitten op een bankje in het Sarphatipark."
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6513755e-746c-4a6a-848c-f0a303a3666f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q19507514",
+          "type": "Place",
+          "label": "Sarphatipark"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/sarphatipark/3955",
+          "type": "Place",
+          "label": "Sarphatipark",
+          "longitude": "4.896515261194232",
+          "latitude": "52.354180366651754"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080884/%E2%80%98i-am-going-to-get-distracted-a-lot-during-this-interview%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘I am going to get distracted a lot during this interview’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Sarphatipark",
+          "prefix": "midden oktober, en we zitten op een bankje in het ",
+          "suffix": ". Om ons heen rennen wel meer dan tien honden:"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "fe0613b4-9527-4179-b035-9a92791a0b67",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080884/%E2%80%98i-am-going-to-get-distracted-a-lot-during-this-interview%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘I am going to get distracted a lot during this interview’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Morgan",
+          "prefix": "interview even gestaakt voor een aai: ‘They are so cute.’\n",
+          "suffix": " is geboren in Amerika, maar ze heeft niet stilgezeten. Ze"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "03a26fa7-e656-4f40-83ae-32879fcc270d",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080884/%E2%80%98i-am-going-to-get-distracted-a-lot-during-this-interview%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘I am going to get distracted a lot during this interview’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amerika",
+          "prefix": "een aai: ‘They are so cute.’\nMorgan is geboren in ",
+          "suffix": ", maar ze heeft niet stilgezeten. Ze woonde in Ghana,"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c16dccf9-16e4-4cee-9cf7-0c0b6d53a45f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080884/%E2%80%98i-am-going-to-get-distracted-a-lot-during-this-interview%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘I am going to get distracted a lot during this interview’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Ghana",
+          "prefix": "in Amerika, maar ze heeft niet stilgezeten. Ze woonde in ",
+          "suffix": ", Marokko, Bangladesh, Qatar en Duitsland en woont sinds"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4a9c58a3-7fad-486e-a142-d4890d26246b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080884/%E2%80%98i-am-going-to-get-distracted-a-lot-during-this-interview%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘I am going to get distracted a lot during this interview’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Marokko",
+          "prefix": "maar ze heeft niet stilgezeten. Ze woonde in Ghana, ",
+          "suffix": ", Bangladesh, Qatar en Duitsland en woont sinds twee jaar"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "73814adc-b3b3-44e2-8711-340f5bff36bb",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080884/%E2%80%98i-am-going-to-get-distracted-a-lot-during-this-interview%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘I am going to get distracted a lot during this interview’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Bangladesh",
+          "prefix": "ze heeft niet stilgezeten. Ze woonde in Ghana, Marokko, ",
+          "suffix": ", Qatar en Duitsland en woont sinds twee jaar in"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5dfa222c-a10f-44cd-8d7a-0105615ce3a6",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080884/%E2%80%98i-am-going-to-get-distracted-a-lot-during-this-interview%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘I am going to get distracted a lot during this interview’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Qatar",
+          "prefix": "stilgezeten. Ze woonde in Ghana, Marokko, Bangladesh, ",
+          "suffix": " en Duitsland en woont sinds twee jaar in Amsterdam."
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "964c0372-e3dd-40d7-8f78-546b7db93a5f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/duitsland/476",
+          "type": "Place",
+          "label": "Duitsland",
+          "longitude": "4.877507415139207",
+          "latitude": "52.36167490704015"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080884/%E2%80%98i-am-going-to-get-distracted-a-lot-during-this-interview%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘I am going to get distracted a lot during this interview’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Duitsland",
+          "prefix": "Ze woonde in Ghana, Marokko, Bangladesh, Qatar en ",
+          "suffix": " en woont sinds twee jaar in Amsterdam. Momenteel volgt ze"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1faa3d77-d204-411e-baf5-2c2e336f28ae",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080884/%E2%80%98i-am-going-to-get-distracted-a-lot-during-this-interview%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘I am going to get distracted a lot during this interview’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "Qatar en Duitsland en woont sinds twee jaar in ",
+          "suffix": ". Momenteel volgt ze de master Brain and Cognitive"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b76176bf-055c-45d5-8d98-fadc4b65d04a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080884/%E2%80%98i-am-going-to-get-distracted-a-lot-during-this-interview%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘I am going to get distracted a lot during this interview’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Morgan",
+          "prefix": "ingewikkeld voor mij als geschiedenisstudent, zeg ik. ",
+          "suffix": " antwoordt dat geschiedenis haar juist lastig lijkt en we"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d3e3810d-630f-4366-b681-139b5be19105",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q19507514",
+          "type": "Place",
+          "label": "Sarphatipark"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/sarphatipark/3955",
+          "type": "Place",
+          "label": "Sarphatipark",
+          "longitude": "4.896515261194232",
+          "latitude": "52.354180366651754"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080884/%E2%80%98i-am-going-to-get-distracted-a-lot-during-this-interview%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘I am going to get distracted a lot during this interview’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Sarphatipark",
+          "prefix": "en we moeten allebei lachen.\n \nHet hondenveldje in het ",
+          "suffix": ", midden in De Pijp, is haar plek om uit"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f8364111-516a-4355-bf12-325ccfdee008",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q163319",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080884/%E2%80%98i-am-going-to-get-distracted-a-lot-during-this-interview%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘I am going to get distracted a lot during this interview’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "De Pijp",
+          "prefix": "lachen.\n \nHet hondenveldje in het Sarphatipark, midden in ",
+          "suffix": ", is haar plek om uit te rusten in de"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "00959a4a-0bf4-4326-b1c9-a31e50931fc4",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080884/%E2%80%98i-am-going-to-get-distracted-a-lot-during-this-interview%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘I am going to get distracted a lot during this interview’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Morgan",
+          "prefix": "om hen heen wapperen kort de lucht in.\nToen ",
+          "suffix": " vijf jaar oud was kreeg ze haar eerste hond, deze"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "da868922-cc5e-4036-92ab-97f4a6cd21cd",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080884/%E2%80%98i-am-going-to-get-distracted-a-lot-during-this-interview%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘I am going to get distracted a lot during this interview’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Ghana",
+          "prefix": "haar eerste hond, deze zwierf rond op het strand van ",
+          "suffix": ". Een man was van plan de puppy vermoorden omdat"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a3ff4f12-2292-424c-9179-770a69dc324f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080884/%E2%80%98i-am-going-to-get-distracted-a-lot-during-this-interview%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘I am going to get distracted a lot during this interview’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Qatar",
+          "prefix": "Morgans familie besloot de pup toen te houden. Later, in ",
+          "suffix": ", kwam de tweede. Het gezin reed langs een woestijn"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c40af014-41c2-4fc6-9fe9-c5126b40b84a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080884/%E2%80%98i-am-going-to-get-distracted-a-lot-during-this-interview%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘I am going to get distracted a lot during this interview’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Morgan",
+          "prefix": "deze hielden ze. ‘Both times the dogs found us,’ legt ",
+          "suffix": " uit.\nTwee jaar geleden overleed haar eerste hond. ‘I know"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7ec81a5f-461a-4a9a-9be4-6f722a3cffe3",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080884/%E2%80%98i-am-going-to-get-distracted-a-lot-during-this-interview%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘I am going to get distracted a lot during this interview’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Morgan",
+          "prefix": "to me. Our whole life we’d been together,’ vertelt ",
+          "suffix": ". Het park is voor haar meer dan alleen een"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9ee5580a-302a-4f5d-8b51-cfd0b96a79a3",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080884/%E2%80%98i-am-going-to-get-distracted-a-lot-during-this-interview%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘I am going to get distracted a lot during this interview’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Morgan",
+          "prefix": "Baasjes die een praatje met elkaar maken. Ik vraag ",
+          "suffix": " wat Amsterdam anders maakt dan al die andere plekken waar"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "120b64e1-7e2b-47e8-93cf-fe23b0d7fa76",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080884/%E2%80%98i-am-going-to-get-distracted-a-lot-during-this-interview%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘I am going to get distracted a lot during this interview’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "die een praatje met elkaar maken. Ik vraag Morgan wat ",
+          "suffix": " anders maakt dan al die andere plekken waar ze heeft"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "500bb725-1bfc-464b-9672-b86c9814747c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "(er is geen tekst om uit te analyseren)",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080884/%E2%80%98i-am-going-to-get-distracted-a-lot-during-this-interview%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘I am going to get distracted a lot during this interview’"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "37b5a26c-a87f-4a25-9d41-ac2b2ef09c55",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "distractie",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080884/%E2%80%98i-am-going-to-get-distracted-a-lot-during-this-interview%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘I am going to get distracted a lot during this interview’"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f0be3a50-f1e9-4b85-bd22-66fcaba3faad",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "onderbrekingen",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080884/%E2%80%98i-am-going-to-get-distracted-a-lot-during-this-interview%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘I am going to get distracted a lot during this interview’"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "11a04cf3-e84f-4bad-81d8-552bf08c9be6",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "afleiding",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080884/%E2%80%98i-am-going-to-get-distracted-a-lot-during-this-interview%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘I am going to get distracted a lot during this interview’"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a19f99f5-2fc4-47a7-9920-5eb7d5b7ef53",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "honden",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080884/%E2%80%98i-am-going-to-get-distracted-a-lot-during-this-interview%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘I am going to get distracted a lot during this interview’"
+        }
+      ]
+    }
+  }
+]

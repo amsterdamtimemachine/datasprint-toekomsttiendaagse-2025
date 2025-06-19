@@ -1,0 +1,427 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "469ef5ae-0d80-4fbf-9409-4a5289de27b6",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=JFgoXZhJ-z0",
+          "type": "VideoObject",
+          "name": "Bezoek schoolklas aan fotografie museum Foam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amersfoort",
+          "prefix": "Vandaag gaan de leerlingen van het Varel College uit ",
+          "suffix": " fotograferen in de stijl van Hans Eikelboom. We moeten"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=0.391,16.619"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c6d9c083-aea0-48d3-8afc-d4ffc49b101d",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=JFgoXZhJ-z0",
+          "type": "VideoObject",
+          "name": "Bezoek schoolklas aan fotografie museum Foam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Hans Eikelboom",
+          "prefix": "Varel College uit Amersfoort fotograferen in de stijl van ",
+          "suffix": ". We moeten van elkaar foto's gaan maken. Zo'n workshop"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=0.391,16.619"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d6c2a53f-6758-4c83-947c-898fcf347892",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=JFgoXZhJ-z0",
+          "type": "VideoObject",
+          "name": "Bezoek schoolklas aan fotografie museum Foam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amersfoort",
+          "prefix": "krijgen we dan.\nEr komt zo meteen een schoolklas uit ",
+          "suffix": ". En die komen hier onder leiding van Hans Eikelboom"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=16.679,34.57"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b2b263f8-2d1e-4a4c-a88e-7bcfde182806",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=JFgoXZhJ-z0",
+          "type": "VideoObject",
+          "name": "Bezoek schoolklas aan fotografie museum Foam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Hans Eikelboom",
+          "prefix": "uit Amersfoort. En die komen hier onder leiding van ",
+          "suffix": " foto's maken. Maar Hans Eikelboom is er niet in persoon."
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=16.679,34.57"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "49a94160-c481-4b68-999d-6bc4063f48c7",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=JFgoXZhJ-z0",
+          "type": "VideoObject",
+          "name": "Bezoek schoolklas aan fotografie museum Foam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Hans Eikelboom",
+          "prefix": "hier onder leiding van Hans Eikelboom foto's maken. Maar ",
+          "suffix": " is er niet in persoon. Hans Eikelboom is er...  Een"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=16.679,34.57"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9f725b6f-2f3c-4435-86af-fe4383e59918",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=JFgoXZhJ-z0",
+          "type": "VideoObject",
+          "name": "Bezoek schoolklas aan fotografie museum Foam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Hans Eikelboom",
+          "prefix": "foto's maken. Maar Hans Eikelboom is er niet in persoon. ",
+          "suffix": " is er...  Een fotograaf die in Amsterdam groepen mensen"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=16.679,34.57"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9f8c0ddd-0d16-4508-83ec-6251cc70c3aa",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=JFgoXZhJ-z0",
+          "type": "VideoObject",
+          "name": "Bezoek schoolklas aan fotografie museum Foam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "in persoon. Hans Eikelboom is er...  Een fotograaf die in ",
+          "suffix": " groepen mensen fotografeert die hetzelfde item aan"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=16.679,34.57"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0018b8e4-8362-4c40-aae2-93122ee25670",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=JFgoXZhJ-z0",
+          "type": "VideoObject",
+          "name": "Bezoek schoolklas aan fotografie museum Foam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Hans Eikelboom",
+          "prefix": "een beetje van die sloddervossen. Nadat het werk van ",
+          "suffix": " grondig bestudeerd is, gaan de leerlingen zelf aan de"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=127.166,143.841"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c6bf5a31-075e-4789-904a-ac851404a75a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=JFgoXZhJ-z0",
+          "type": "VideoObject",
+          "name": "Bezoek schoolklas aan fotografie museum Foam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Hans Eikelboom",
+          "prefix": "rust.  Wat is je eigen stijl? In het kader van ",
+          "suffix": "? Ja, dat is dus het lastige.\nDan zou ik"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=182.073,200.054"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c6e58a5c-f7f5-4023-bced-e9eef56d6af0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "identiteit",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=JFgoXZhJ-z0",
+          "type": "VideoObject",
+          "name": "Bezoek schoolklas aan fotografie museum Foam"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "63d9cec3-c6b7-49b1-a2d8-959dafc5c8a0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "conformiteit",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=JFgoXZhJ-z0",
+          "type": "VideoObject",
+          "name": "Bezoek schoolklas aan fotografie museum Foam"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "cfa0579c-bc92-4c0e-86c0-9f99a15d604d",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "fotografie",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=JFgoXZhJ-z0",
+          "type": "VideoObject",
+          "name": "Bezoek schoolklas aan fotografie museum Foam"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "cfa70877-40ce-4ee1-ace8-7d4d86b6cf48",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "kunst",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=JFgoXZhJ-z0",
+          "type": "VideoObject",
+          "name": "Bezoek schoolklas aan fotografie museum Foam"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "55f97472-b811-4137-8bcf-bed9835af41f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "schoonheid",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=JFgoXZhJ-z0",
+          "type": "VideoObject",
+          "name": "Bezoek schoolklas aan fotografie museum Foam"
+        }
+      ]
+    }
+  }
+]

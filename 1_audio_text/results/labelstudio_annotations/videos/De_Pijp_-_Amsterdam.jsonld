@@ -1,0 +1,851 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1fe8199e-ff41-4b4a-8bae-b14d9711e66a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "nc74d688115ab40a9b1921ca14118640ab1769",
+          "type": "Place",
+          "label": "De Pijp"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=k8k6WptiwbI",
+          "type": "VideoObject",
+          "name": "De Pijp - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "De Pijp",
+          "prefix": "",
+          "suffix": " is een van de meest populaire en dure wijken van"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=14.057,34.0"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6bea8b55-8555-45ef-b759-af93f87cdbf1",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=k8k6WptiwbI",
+          "type": "VideoObject",
+          "name": "De Pijp - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "is een van de meest populaire en dure wijken van ",
+          "suffix": ". Er lijkt geen buurt in de stad te zijn"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=14.057,34.0"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b842c56c-2df2-4722-a2e1-6efbd6006302",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "nc74d688115ab40a9b1921ca14118640ab1769",
+          "type": "Place",
+          "label": "De Pijp"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=k8k6WptiwbI",
+          "type": "VideoObject",
+          "name": "De Pijp - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "De Pijp",
+          "prefix": "stad te zijn met meer hippe bars en restaurants dan ",
+          "suffix": ". Toch is De Pijp niet gebouwd voor rijke en"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=14.057,34.0"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e76f3a40-a920-4b61-9956-0e67cec8ce37",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "nc74d688115ab40a9b1921ca14118640ab1769",
+          "type": "Place",
+          "label": "De Pijp"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=k8k6WptiwbI",
+          "type": "VideoObject",
+          "name": "De Pijp - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "De Pijp",
+          "prefix": "meer hippe bars en restaurants dan De Pijp. Toch is ",
+          "suffix": " niet gebouwd voor rijke en hippe mensen. In het begin"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=14.057,34.0"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0f412913-9d67-412f-a21b-e02a4b71e3bb",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=k8k6WptiwbI",
+          "type": "VideoObject",
+          "name": "De Pijp - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "19e eeuw",
+          "prefix": "het vooral een arbeiderswijk.  De buurt werd in de late ",
+          "suffix": " gebouwd als de eerste grote stadsuitbreiding van"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=14.057,34.0"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e8c72505-5b39-49a3-a819-93a396525926",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=k8k6WptiwbI",
+          "type": "VideoObject",
+          "name": "De Pijp - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "19e eeuw gebouwd als de eerste grote stadsuitbreiding van ",
+          "suffix": ".\nDe huizen werden vaak gebouwd in opdracht van"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=14.057,34.0"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1f628e94-13dc-4828-a45e-a22f8e54eedc",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q19202758",
+          "type": "Place",
+          "label": "Govert Flinckstraat"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/govert-flinckstraat/1539",
+          "type": "Place",
+          "label": "Govert Flinckstraat",
+          "longitude": "4.895645308756929",
+          "latitude": "52.35572847925736"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=k8k6WptiwbI",
+          "type": "VideoObject",
+          "name": "De Pijp - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Govert Flinkstraat",
+          "prefix": "na de bouw instortten.\nHier op de plek van de ",
+          "suffix": " liep vroeger een lange, smalle sloot. En deze werd de"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=49.572,66.525"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e7f38eb0-b1b4-4496-b91d-ed634b51046c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/albert-cuypstraat/93",
+          "type": "Place",
+          "label": "Albert Kuipstraat",
+          "longitude": "4.893339899497494",
+          "latitude": "52.35563182991665"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=k8k6WptiwbI",
+          "type": "VideoObject",
+          "name": "De Pijp - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Albert Kuipstraat",
+          "prefix": "vernoemd.  Ook de bekendste straat van de pijp, de ",
+          "suffix": ", was vroeger een sloot.\nIn 1900 werd de sloot"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=49.572,66.525"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c3d5903c-73bd-4489-8dc0-9b1cd6e5746f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=k8k6WptiwbI",
+          "type": "VideoObject",
+          "name": "De Pijp - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "1900",
+          "prefix": "de pijp, de Albert Kuipstraat, was vroeger een sloot.\nIn ",
+          "suffix": " werd de sloot gedempt en ontstond er een straat. In"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=66.565,85.156"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a0c17dc8-5891-4fb1-bfcf-2f4e7cff228d",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=k8k6WptiwbI",
+          "type": "VideoObject",
+          "name": "De Pijp - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Albert Kuipstraat",
+          "prefix": "verkopen. Uiteindelijk kwamen ze vooral samen in de brede ",
+          "suffix": ". En dat was eigenlijk al het eerste begin van"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=66.565,85.156"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d6a5d5ba-b35b-42a4-a77c-b579595e0870",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=k8k6WptiwbI",
+          "type": "VideoObject",
+          "name": "De Pijp - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "1905",
+          "prefix": "was eigenlijk al het eerste begin van de markt. Vanaf ",
+          "suffix": " gaf de gemeente officieel toestemming voor een markt.\nEn"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=66.565,85.156"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6db858fc-bc44-48c1-83ad-4679e4626d5b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=k8k6WptiwbI",
+          "type": "VideoObject",
+          "name": "De Pijp - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "1912",
+          "prefix": "werd in het begin alleen op zaterdagavond gehouden. Vanaf ",
+          "suffix": " werd de markt een dagmarkt.  Elke dag, behalve op zondag,"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=85.196,104.775"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "61ad5c08-8459-4625-b566-40c98a6f1aea",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "nc74d688115ab40a9b1921ca14118640ab1802",
+          "type": "Place",
+          "label": "Jan van Galenstraat"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=k8k6WptiwbI",
+          "type": "VideoObject",
+          "name": "De Pijp - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Jan van Galenstraat",
+          "prefix": "de producten in bij de centrale markthallen aan de ",
+          "suffix": ".\nVervolgens verzamelden ze zich bij de Albert Kuip. Ze"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=85.196,104.775"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "863ff7e5-b5ea-4054-b85d-9b3b2a3ab7d6",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=k8k6WptiwbI",
+          "type": "VideoObject",
+          "name": "De Pijp - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Albert Kuip",
+          "prefix": "van Galenstraat.\nVervolgens verzamelden ze zich bij de ",
+          "suffix": ". Ze moesten daar wachten op een fluitsignaal van een"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=104.815,124.213"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a8464c7d-6fc2-419b-86aa-7fea45b3f477",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=k8k6WptiwbI",
+          "type": "VideoObject",
+          "name": "De Pijp - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Tweede Wereldoorlog",
+          "prefix": "die plek gedurende de hele dag voor jou.  Na de ",
+          "suffix": " veranderde de Albert Kuipmarkt van karakter. Ze werd"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=104.815,124.213"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "cdfc3e9d-9659-4b76-9092-68a8d86515c8",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=k8k6WptiwbI",
+          "type": "VideoObject",
+          "name": "De Pijp - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Albert Kuipmarkt",
+          "prefix": "dag voor jou.  Na de Tweede Wereldoorlog veranderde de ",
+          "suffix": " van karakter. Ze werd vooral veel kleurrijker.\nNaast"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=104.815,124.213"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "059f7e99-0fc2-4ab3-8498-52c2b7cf8956",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=k8k6WptiwbI",
+          "type": "VideoObject",
+          "name": "De Pijp - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Albert Kuipmarkt",
+          "prefix": "bijzondere en exotische producten aan de man. De ",
+          "suffix": " werd steeds meer een echte bezienswaardigheid. En tot op"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=124.253,142.246"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6c54d404-c403-4a7e-be63-aca44c890e4b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=k8k6WptiwbI",
+          "type": "VideoObject",
+          "name": "De Pijp - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "tot op de dag van vandaag is een bezoek aan ",
+          "suffix": " niet compleet zonder een bezoek aan de Kuip. De markt"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=124.253,142.246"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a7ca3b3f-53cc-48ac-83f5-6afc0b1ffd91",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=k8k6WptiwbI",
+          "type": "VideoObject",
+          "name": "De Pijp - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Pijp",
+          "prefix": "De markt zorgde er onder andere ook voor dat de ",
+          "suffix": " een van de meest populaire wijken van de stad werd."
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=124.253,142.246"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "cac5808d-9f13-4640-b5f9-7707d2ac00a6",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "verandering",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=k8k6WptiwbI",
+          "type": "VideoObject",
+          "name": "De Pijp - Amsterdam"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "abe039f5-cb99-4d79-8d0b-b1e54943abd3",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "geschiedenis",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=k8k6WptiwbI",
+          "type": "VideoObject",
+          "name": "De Pijp - Amsterdam"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a9b0de06-d3ae-47de-ba32-321fdd2c01d1",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "stadsontwikkeling",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=k8k6WptiwbI",
+          "type": "VideoObject",
+          "name": "De Pijp - Amsterdam"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9cbfc092-e869-4fab-b093-646fe2df7084",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "economische groei",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=k8k6WptiwbI",
+          "type": "VideoObject",
+          "name": "De Pijp - Amsterdam"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2ab63bd5-8ad9-4e01-a737-8ba502e80883",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "handel",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=k8k6WptiwbI",
+          "type": "VideoObject",
+          "name": "De Pijp - Amsterdam"
+        }
+      ]
+    }
+  }
+]

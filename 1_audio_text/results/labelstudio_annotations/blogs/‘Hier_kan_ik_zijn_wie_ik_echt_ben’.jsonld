@@ -1,0 +1,908 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "da8252c4-5fe5-473c-b03d-a7473fd15adc",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q2243755",
+          "type": "Place",
+          "label": "Zeedijk"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/zeedijk/5154",
+          "type": "Place",
+          "label": "Zeedijk",
+          "longitude": "4.900520960315487",
+          "latitude": "52.37485341183669"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325286/%E2%80%98hier-kan-ik-zijn-wie-ik-echt-ben%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier kan ik zijn wie ik echt ben’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Zeedijk",
+          "prefix": "ik de Patta-winkel op de ",
+          "suffix": " binnenstapte, sprak ik met een paar medewerkers over mijn"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9b24da2a-de0e-4f93-b031-064843868295",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325286/%E2%80%98hier-kan-ik-zijn-wie-ik-echt-ben%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier kan ik zijn wie ik echt ben’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Benny",
+          "prefix": "en keken allemaal naar dezelfde kant. ‘Je moet ",
+          "suffix": " spreken’, zeiden ze, terwijl ze naar een jonge man wezen"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7e74b54c-e5df-4cb1-bd8e-606bfdb971bc",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325286/%E2%80%98hier-kan-ik-zijn-wie-ik-echt-ben%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier kan ik zijn wie ik echt ben’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Benito",
+          "prefix": "een rij van klanten, zoals wel vaker gebeurt bij Patta.\n",
+          "suffix": " (Benny), 21 jaar, afkomstig uit Lelystad, werkt al 2,5"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "25471155-9093-4a25-8aec-5a3c0456dbdf",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325286/%E2%80%98hier-kan-ik-zijn-wie-ik-echt-ben%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier kan ik zijn wie ik echt ben’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Benny",
+          "prefix": "van klanten, zoals wel vaker gebeurt bij Patta.\nBenito (",
+          "suffix": "), 21 jaar, afkomstig uit Lelystad, werkt al 2,5 jaar"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "54c16c0a-6453-4de3-9ea3-32641bbd783f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325286/%E2%80%98hier-kan-ik-zijn-wie-ik-echt-ben%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier kan ik zijn wie ik echt ben’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Lelystad",
+          "prefix": "gebeurt bij Patta.\nBenito (Benny), 21 jaar, afkomstig uit ",
+          "suffix": ", werkt al 2,5 jaar bij Patta en voelt zich"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d32eacc8-f7e2-4f51-9516-289626031a30",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q2243755",
+          "type": "Place",
+          "label": "Zeedijk"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/zeedijk/5154",
+          "type": "Place",
+          "label": "Zeedijk",
+          "longitude": "4.900520960315487",
+          "latitude": "52.37485341183669"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325286/%E2%80%98hier-kan-ik-zijn-wie-ik-echt-ben%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier kan ik zijn wie ik echt ben’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Zeedijk",
+          "prefix": "bij Patta en voelt zich ondertussen een Amsterdammer. ‘De ",
+          "suffix": " heeft mij geholpen om mezelf te vinden en mezelf te"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a7de24a7-4348-4ef8-aae9-e31cf45c3fd2",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q478621",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325286/%E2%80%98hier-kan-ik-zijn-wie-ik-echt-ben%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier kan ik zijn wie ik echt ben’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam-West",
+          "prefix": "zijn beste vriend die hij ontmoette in de kerk in ",
+          "suffix": ". Via hem kwam hij in aanraking met Amsterdamse"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a44e0a66-c423-4529-a41a-aa9280932f6e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325286/%E2%80%98hier-kan-ik-zijn-wie-ik-echt-ben%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier kan ik zijn wie ik echt ben’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Lelystad",
+          "prefix": "zoveel verschillende stijlen en culturen samenkomen. In ",
+          "suffix": " had ik dit niet’, vertelt Benito. ‘Hier op de Zeedijk"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "13430a6b-bb2f-401a-a32d-5be0788bbdd5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325286/%E2%80%98hier-kan-ik-zijn-wie-ik-echt-ben%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier kan ik zijn wie ik echt ben’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Benito",
+          "prefix": "samenkomen. In Lelystad had ik dit niet’, vertelt ",
+          "suffix": ". ‘Hier op de Zeedijk hoef je je niet voor"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7d1b833f-5f03-44b3-830d-f4eb41c0c7a2",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q2243755",
+          "type": "Place",
+          "label": "Zeedijk"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/zeedijk/5154",
+          "type": "Place",
+          "label": "Zeedijk",
+          "longitude": "4.900520960315487",
+          "latitude": "52.37485341183669"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325286/%E2%80%98hier-kan-ik-zijn-wie-ik-echt-ben%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier kan ik zijn wie ik echt ben’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Zeedijk",
+          "prefix": "Lelystad had ik dit niet’, vertelt Benito. ‘Hier op de ",
+          "suffix": " hoef je je niet voor te doen als iets of"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "251b3999-626d-4234-8225-b6ec83ea1c36",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325286/%E2%80%98hier-kan-ik-zijn-wie-ik-echt-ben%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier kan ik zijn wie ik echt ben’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Benito",
+          "prefix": "zo verwelkomend toen ik hier voor het eerst kwam.’\nVoor ",
+          "suffix": " is de Zeedijk veel meer dan alleen een werkplek of"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "fc0b8204-64b7-42bd-95e8-f6ebe4961c58",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q2243755",
+          "type": "Place",
+          "label": "Zeedijk"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/zeedijk/5154",
+          "type": "Place",
+          "label": "Zeedijk",
+          "longitude": "4.900520960315487",
+          "latitude": "52.37485341183669"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325286/%E2%80%98hier-kan-ik-zijn-wie-ik-echt-ben%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier kan ik zijn wie ik echt ben’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Zeedijk",
+          "prefix": "ik hier voor het eerst kwam.’\nVoor Benito is de ",
+          "suffix": " veel meer dan alleen een werkplek of een populaire"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a6ebca7d-a682-4b89-b568-6f5667e99fac",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q2243755",
+          "type": "Place",
+          "label": "Zeedijk"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/zeedijk/5154",
+          "type": "Place",
+          "label": "Zeedijk",
+          "longitude": "4.900520960315487",
+          "latitude": "52.37485341183669"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325286/%E2%80%98hier-kan-ik-zijn-wie-ik-echt-ben%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier kan ik zijn wie ik echt ben’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Zeedijk",
+          "prefix": "werd, spreekt hij over de mix van culturen op de ",
+          "suffix": ", gelegen in het hart van Chinatown, omringd door Chinese"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b103d8f5-bd5f-4f4f-8b70-9042ef8b894f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q1073613",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325286/%E2%80%98hier-kan-ik-zijn-wie-ik-echt-ben%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier kan ik zijn wie ik echt ben’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Chinatown",
+          "prefix": "van culturen op de Zeedijk, gelegen in het hart van ",
+          "suffix": ", omringd door Chinese restaurants en winkels. Benito"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "99beb7fd-28db-40d4-bfdf-dfe248f86e37",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325286/%E2%80%98hier-kan-ik-zijn-wie-ik-echt-ben%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier kan ik zijn wie ik echt ben’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Benito",
+          "prefix": "Chinatown, omringd door Chinese restaurants en winkels. ",
+          "suffix": " glimlacht terwijl hij om zich heen kijkt. ‘Wat de Zeedijk"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ccbc7e6a-1715-4b16-a4e2-cc48f10a7a27",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q2243755",
+          "type": "Place",
+          "label": "Zeedijk"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/zeedijk/5154",
+          "type": "Place",
+          "label": "Zeedijk",
+          "longitude": "4.900520960315487",
+          "latitude": "52.37485341183669"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325286/%E2%80%98hier-kan-ik-zijn-wie-ik-echt-ben%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier kan ik zijn wie ik echt ben’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Zeedijk",
+          "prefix": "Benito glimlacht terwijl hij om zich heen kijkt. ‘Wat de ",
+          "suffix": " typisch Amsterdams maakt, is de mix van culturen die hier"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d31e9366-b905-464f-b1e8-50d9c29c62e5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q2243755",
+          "type": "Place",
+          "label": "Zeedijk"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/zeedijk/5154",
+          "type": "Place",
+          "label": "Zeedijk",
+          "longitude": "4.900520960315487",
+          "latitude": "52.37485341183669"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325286/%E2%80%98hier-kan-ik-zijn-wie-ik-echt-ben%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier kan ik zijn wie ik echt ben’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Zeedijk",
+          "prefix": "mix van culturen die hier samenkomen. De mix maakt de ",
+          "suffix": " warm. Het breekt met het traditionele beeld van de"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6ee0668f-54a9-4a47-9f10-df5877141bbe",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325286/%E2%80%98hier-kan-ik-zijn-wie-ik-echt-ben%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier kan ik zijn wie ik echt ben’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "traditionele beeld van de Amsterdamse grachten. Het maakt ",
+          "suffix": " compleet en maakt zo de cirkel rond.’\nDe Zeedijk, ooit"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7a84254f-54cd-4b32-bdd3-a8d2df17b7e2",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q2243755",
+          "type": "Place",
+          "label": "Zeedijk"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/zeedijk/5154",
+          "type": "Place",
+          "label": "Zeedijk",
+          "longitude": "4.900520960315487",
+          "latitude": "52.37485341183669"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325286/%E2%80%98hier-kan-ik-zijn-wie-ik-echt-ben%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier kan ik zijn wie ik echt ben’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Zeedijk",
+          "prefix": "maakt Amsterdam compleet en maakt zo de cirkel rond.’\nDe ",
+          "suffix": ", ooit een oude dijk om de stad te beschermen,"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "063c6bd4-c2ae-4700-a97d-fe12836d356a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325286/%E2%80%98hier-kan-ik-zijn-wie-ik-echt-ben%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier kan ik zijn wie ik echt ben’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Benito",
+          "prefix": "is nu een hotspot voor streetwear, waar jongeren zoals ",
+          "suffix": " zichzelf vinden en uitdrukken. Patta, met zijn sterke"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1bece6a6-1b49-45ff-84dc-4655003f5c76",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "geen thema's",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325286/%E2%80%98hier-kan-ik-zijn-wie-ik-echt-ben%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier kan ik zijn wie ik echt ben’"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "bafc2e85-a8dd-4fc5-80a5-73161e85f013",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "gesprek",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325286/%E2%80%98hier-kan-ik-zijn-wie-ik-echt-ben%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier kan ik zijn wie ik echt ben’"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5ea2c87d-859e-45d3-ba61-470aae617eb9",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "zoektocht",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325286/%E2%80%98hier-kan-ik-zijn-wie-ik-echt-ben%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier kan ik zijn wie ik echt ben’"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "832211e3-020d-4729-a62e-def4f5e7abb5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "medewerkers",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325286/%E2%80%98hier-kan-ik-zijn-wie-ik-echt-ben%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier kan ik zijn wie ik echt ben’"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "bf1b49fc-9754-436f-9e1f-41db670ef72f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "interesse",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325286/%E2%80%98hier-kan-ik-zijn-wie-ik-echt-ben%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier kan ik zijn wie ik echt ben’"
+        }
+      ]
+    }
+  }
+]

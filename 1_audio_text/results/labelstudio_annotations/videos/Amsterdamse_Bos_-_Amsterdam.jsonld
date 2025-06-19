@@ -1,0 +1,574 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7c40208e-a319-458d-ac74-3f26b13b2a4a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UcgugNK7hLg",
+          "type": "VideoObject",
+          "name": "Amsterdamse Bos - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "2021",
+          "prefix": "Gelderland ",
+          "suffix": "  Het Amsterdamse Bos is een van de grootste"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=0.671,16.758"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "91c6e4af-26b7-4e10-9ca7-e26432a97209",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q511560",
+          "type": "Place",
+          "label": "Amsterdamse Bos"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UcgugNK7hLg",
+          "type": "VideoObject",
+          "name": "Amsterdamse Bos - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdamse Bos",
+          "prefix": "Gelderland 2021  Het ",
+          "suffix": " is een van de grootste recreatiegebieden van Amsterdam."
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=0.671,16.758"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f32c21c2-0889-4688-ba25-bbde5b046937",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UcgugNK7hLg",
+          "type": "VideoObject",
+          "name": "Amsterdamse Bos - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "Bos is een van de grootste recreatiegebieden van ",
+          "suffix": ".\nHet heeft een oppervlak van 895 hectare en is"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=0.671,16.758"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "33a613b7-7c9b-4252-9137-f205b73caed3",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q19638351",
+          "type": "Place",
+          "label": "Vondelpark"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/vondelpark/4819",
+          "type": "Place",
+          "label": "Vondelpark",
+          "longitude": "4.867390635569545",
+          "latitude": "52.358160221684294"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UcgugNK7hLg",
+          "type": "VideoObject",
+          "name": "Amsterdamse Bos - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Vondelpark",
+          "prefix": "hectare en is daarmee 20 keer zo groot als het ",
+          "suffix": ". Maar het is ook een belangrijk natuurgebied. Er staan"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=16.799,31.752"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "462655de-641d-4e05-89ac-49493a22734b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UcgugNK7hLg",
+          "type": "VideoObject",
+          "name": "Amsterdamse Bos - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "1928",
+          "prefix": "vogels en bijvoorbeeld ook 700 soorten kevers.\nAl in ",
+          "suffix": " werden er plannen gemaakt om ten zuidwesten van de stad"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=31.792,47.598"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "47b09da5-397e-4735-863f-084b9195d64e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UcgugNK7hLg",
+          "type": "VideoObject",
+          "name": "Amsterdamse Bos - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "1934",
+          "prefix": "stad een groot bos aan te leggen. Maar pas in ",
+          "suffix": " werd begonnen met de aanleg van het bos.  Het Amsterdamse"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=31.792,47.598"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "30020897-2a6f-42bc-980b-e67dea5f62d8",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UcgugNK7hLg",
+          "type": "VideoObject",
+          "name": "Amsterdamse Bos - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdamse Bos",
+          "prefix": "1934 werd begonnen met de aanleg van het bos.  Het ",
+          "suffix": " was een werkverschaffingsproject.\nWerklozen werden hier"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=31.792,47.598"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b89858b6-6333-430d-a361-edbace8f66c7",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UcgugNK7hLg",
+          "type": "VideoObject",
+          "name": "Amsterdamse Bos - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdamse Bos",
+          "prefix": "uiteindelijk af was. Maar het resultaat, dat was er. Het ",
+          "suffix": " is een fantastisch recreatiegebied. Je kan hier lekker"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=69.107,88.423"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e2f638d2-59f5-43cb-be1b-c2fe0e916622",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UcgugNK7hLg",
+          "type": "VideoObject",
+          "name": "Amsterdamse Bos - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "barbeque",
+          "prefix": "recreatiegebied. Je kan hier lekker wandelen, sporten of ",
+          "suffix": " op de barbequeplek. Het is een prachtig bos om aan"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=69.107,88.423"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6560d058-cb6b-4978-bab4-d63fcaf776dd",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q34668801",
+          "type": "Place",
+          "label": "openluchttheater"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UcgugNK7hLg",
+          "type": "VideoObject",
+          "name": "Amsterdamse Bos - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "openluchttheater",
+          "prefix": "van de meest bijzondere plekken van het bos is het ",
+          "suffix": ".  Zomers kun je hier komen met je picknickmand. Lekker"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=88.483,98.563"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d8dafab5-e0ad-4cc8-aa21-241ece1d540b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UcgugNK7hLg",
+          "type": "VideoObject",
+          "name": "Amsterdamse Bos - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "wijn",
+          "prefix": "je hier komen met je picknickmand. Lekker met een fles ",
+          "suffix": " en lekkere hapjes. En kan je hier genieten van een"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=88.483,98.563"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e0ac831b-4d97-4d03-9f69-b9c915e5c567",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UcgugNK7hLg",
+          "type": "VideoObject",
+          "name": "Amsterdamse Bos - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "hapjes",
+          "prefix": "met je picknickmand. Lekker met een fles wijn en lekkere ",
+          "suffix": ". En kan je hier genieten van een mooi"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=88.483,98.563"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "cc2f142f-63b8-4611-9c13-a653635c1f12",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "natuur",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UcgugNK7hLg",
+          "type": "VideoObject",
+          "name": "Amsterdamse Bos - Amsterdam"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "886e8411-0513-4a0f-8680-14f06dd0c80c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "ontspanning",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UcgugNK7hLg",
+          "type": "VideoObject",
+          "name": "Amsterdamse Bos - Amsterdam"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ea56abe1-ed1c-4ec7-a24f-1d50ffdfd473",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "recreatie",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UcgugNK7hLg",
+          "type": "VideoObject",
+          "name": "Amsterdamse Bos - Amsterdam"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "fcd48f00-897c-49f6-b999-6c87e03f0980",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "landschap",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UcgugNK7hLg",
+          "type": "VideoObject",
+          "name": "Amsterdamse Bos - Amsterdam"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7cf9b9ea-3e89-4dd2-ba2e-e72ee7f10162",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "werkverschaffing",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UcgugNK7hLg",
+          "type": "VideoObject",
+          "name": "Amsterdamse Bos - Amsterdam"
+        }
+      ]
+    }
+  }
+]

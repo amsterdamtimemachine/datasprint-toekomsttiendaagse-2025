@@ -1,0 +1,766 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "938d2bd3-4b98-4b1e-8395-c395e9f37b7a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q19651365",
+          "type": "Place",
+          "label": "Weteringstraat"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/weteringstraat/4979",
+          "type": "Place",
+          "label": "Weteringstraat",
+          "longitude": "4.888688171812101",
+          "latitude": "52.361363294317734"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080885/%E2%80%98hier-voel-ik-me-thuis-in-de-artistieke-community%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier voel ik me thuis in de artistieke community’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Weteringsstraat",
+          "prefix": "ik onderweg naar het koffietentje Back to Black op de ",
+          "suffix": ". Hier ontmoette ik Jiaxin Chen, dansmaker, dramaturg en"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "fcb9ab6a-d918-450d-b42e-a59e03360c01",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080885/%E2%80%98hier-voel-ik-me-thuis-in-de-artistieke-community%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier voel ik me thuis in de artistieke community’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Jiaxin Chen",
+          "prefix": "Back to Black op de Weteringsstraat. Hier ontmoette ik ",
+          "suffix": ", dansmaker, dramaturg en geschiedkundige. Jiaxin is"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1244f197-92fb-48e8-847c-0a52e18ff1c9",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Occupation",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080885/%E2%80%98hier-voel-ik-me-thuis-in-de-artistieke-community%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier voel ik me thuis in de artistieke community’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "dramaturg",
+          "prefix": "Hier ontmoette ik Jiaxin Chen, dansmaker, ",
+          "suffix": " en geschiedkundige. Jiaxin is opgegroeid in Deventer,"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ab3e0a60-207f-4f72-88db-e5d0688b0544",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Occupation",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080885/%E2%80%98hier-voel-ik-me-thuis-in-de-artistieke-community%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier voel ik me thuis in de artistieke community’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "geschiedkundige",
+          "prefix": "Hier ontmoette ik Jiaxin Chen, dansmaker, dramaturg en ",
+          "suffix": ". Jiaxin is opgegroeid in Deventer, maar al snel begon"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4b77d3d4-715d-4989-a46a-6baf090939dc",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080885/%E2%80%98hier-voel-ik-me-thuis-in-de-artistieke-community%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier voel ik me thuis in de artistieke community’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Deventer",
+          "prefix": "dramaturg en geschiedkundige. Jiaxin is opgegroeid in ",
+          "suffix": ", maar al snel begon de zoektocht naar meer. Na"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2cde8578-2e6b-4bdb-a00c-8733ceef54cc",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080885/%E2%80%98hier-voel-ik-me-thuis-in-de-artistieke-community%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier voel ik me thuis in de artistieke community’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "Utrecht volgde ze twee masters aan de Universiteit van ",
+          "suffix": ": de Educatieve Master en de master Holocaust en Genocide"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ed55c7e1-6b97-4e27-9864-7e7ee7a1d956",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080885/%E2%80%98hier-voel-ik-me-thuis-in-de-artistieke-community%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier voel ik me thuis in de artistieke community’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Arnhem",
+          "prefix": "Na de universiteit heeft ze de dansopleiding gedaan in ",
+          "suffix": ", om vervolgens definitief in Amsterdam neer te strijken."
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3cc40047-5fa3-44fc-91fd-f68dc7f5581d",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080885/%E2%80%98hier-voel-ik-me-thuis-in-de-artistieke-community%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier voel ik me thuis in de artistieke community’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "gedaan in Arnhem, om vervolgens definitief in ",
+          "suffix": " neer te strijken. ‘Amsterdam is voor mij als thuis.’\nOver"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2a803c8e-137b-4ca1-ba70-b5abe58b20ac",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080885/%E2%80%98hier-voel-ik-me-thuis-in-de-artistieke-community%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier voel ik me thuis in de artistieke community’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "om vervolgens definitief in Amsterdam neer te strijken. ‘",
+          "suffix": " is voor mij als thuis.’\nOver de vraag wat haar"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9a948b86-8dca-4c34-a157-a6b687d7b123",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080885/%E2%80%98hier-voel-ik-me-thuis-in-de-artistieke-community%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier voel ik me thuis in de artistieke community’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "thuis.’\nOver de vraag wat haar favoriete publieke plek in ",
+          "suffix": " is, moet Jiaxin even nadenken. ‘Wat mij wel gelijk te"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "737d3e78-3d2a-45e9-86c0-7f07c24b8c52",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080885/%E2%80%98hier-voel-ik-me-thuis-in-de-artistieke-community%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier voel ik me thuis in de artistieke community’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Jiaxin",
+          "prefix": "wat haar favoriete publieke plek in Amsterdam is, moet ",
+          "suffix": " even nadenken. ‘Wat mij wel gelijk te binnen schiet, is"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "32e6fa90-81c0-4448-986b-1382faca53c4",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080885/%E2%80%98hier-voel-ik-me-thuis-in-de-artistieke-community%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier voel ik me thuis in de artistieke community’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "te denken en te praten over hun favoriete plekken in ",
+          "suffix": ". Misschien heb je daar nog wat aan in je"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "dd9530b2-6eac-49bd-9339-af0081fe2000",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080885/%E2%80%98hier-voel-ik-me-thuis-in-de-artistieke-community%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier voel ik me thuis in de artistieke community’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Jiaxin",
+          "prefix": "je daar nog wat aan in je onderzoek.’ Ik bedank ",
+          "suffix": " voor de tip en onthoud het om later naar te"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "fc8fa530-d443-4a01-9ee2-7cd4f3392c61",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080885/%E2%80%98hier-voel-ik-me-thuis-in-de-artistieke-community%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier voel ik me thuis in de artistieke community’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "te gaan kijken. ‘Mijn eigen favoriete publieke plek in ",
+          "suffix": " is het productiehuis Nowhere, vooral voor"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "85f39583-a040-4563-a6db-43829894cbb3",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080885/%E2%80%98hier-voel-ik-me-thuis-in-de-artistieke-community%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier voel ik me thuis in de artistieke community’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Jiaxin",
+          "prefix": "traject wordt afgesloten met een Maker in Huis festival.\n",
+          "suffix": " is naar Amsterdam verhuisd voor de mogelijkheden die de"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3855cc7a-15c6-4e94-bf3f-e92e5650c43d",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080885/%E2%80%98hier-voel-ik-me-thuis-in-de-artistieke-community%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier voel ik me thuis in de artistieke community’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "afgesloten met een Maker in Huis festival.\nJiaxin is naar ",
+          "suffix": " verhuisd voor de mogelijkheden die de stad te bieden"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9a2cbdcb-a67c-41b2-933d-9c23c528cc03",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080885/%E2%80%98hier-voel-ik-me-thuis-in-de-artistieke-community%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier voel ik me thuis in de artistieke community’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "die de stad te bieden heeft. ‘Alles is mogelijk in ",
+          "suffix": ". Goed, niet alles, maar wel meer dan in andere"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a409ed0d-f527-47d2-a2e6-38ac07519435",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q19333705",
+          "type": "Place",
+          "label": "Madurastraat"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/madurastraat/2812",
+          "type": "Place",
+          "label": "Madurastraat",
+          "longitude": "4.935402755300769",
+          "latitude": "52.36434478567619"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080885/%E2%80%98hier-voel-ik-me-thuis-in-de-artistieke-community%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier voel ik me thuis in de artistieke community’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Madurastraat",
+          "prefix": "tot 10 uur ’s avonds en is gevestigd op de ",
+          "suffix": " in Amsterdam-Oost. Jiaxin wilde niet op de"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e2e5790e-e845-42b9-ad50-ba27814b9058",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q478608",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080885/%E2%80%98hier-voel-ik-me-thuis-in-de-artistieke-community%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier voel ik me thuis in de artistieke community’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam-Oost",
+          "prefix": "uur ’s avonds en is gevestigd op de Madurastraat in ",
+          "suffix": ". Jiaxin wilde niet op de"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "df70a8de-3cbb-4e8d-9908-2c0f3d1f238f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080885/%E2%80%98hier-voel-ik-me-thuis-in-de-artistieke-community%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier voel ik me thuis in de artistieke community’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Jiaxin",
+          "prefix": "en is gevestigd op de Madurastraat in Amsterdam-Oost. ",
+          "suffix": " wilde niet op de"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ac605764-9395-47ba-89a6-88f8a47af40f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "identiteit",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080885/%E2%80%98hier-voel-ik-me-thuis-in-de-artistieke-community%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier voel ik me thuis in de artistieke community’"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d7e8a18c-c4ce-432f-8d8a-876d3dd93bb0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "geen thema's kunnen worden gevonden omdat er geen tekst is.",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080885/%E2%80%98hier-voel-ik-me-thuis-in-de-artistieke-community%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier voel ik me thuis in de artistieke community’"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6c7e8036-6e51-49f4-b113-6170c806722c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "zelfontdekking",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080885/%E2%80%98hier-voel-ik-me-thuis-in-de-artistieke-community%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier voel ik me thuis in de artistieke community’"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4de8e861-cffe-4be4-bc34-251c448e52cd",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "loopbaan",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080885/%E2%80%98hier-voel-ik-me-thuis-in-de-artistieke-community%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier voel ik me thuis in de artistieke community’"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5b5795ea-33e4-4b44-bb08-3cf63a87761b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "migratie",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080885/%E2%80%98hier-voel-ik-me-thuis-in-de-artistieke-community%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Hier voel ik me thuis in de artistieke community’"
+        }
+      ]
+    }
+  }
+]

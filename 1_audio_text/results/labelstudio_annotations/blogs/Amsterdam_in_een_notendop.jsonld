@@ -1,0 +1,566 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1fc8c82b-5b99-479f-a558-344732c28071",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274417/amsterdam-in-een-notendop",
+          "type": "BlogPosting",
+          "name": "Amsterdam in een notendop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "herfst hangt in de lucht maar de grachten van ",
+          "suffix": " glinsteren gelukkig nog in laaghangende middagzon. Plots"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7606d195-f846-46f4-8a5f-d0390b390ecf",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274417/amsterdam-in-een-notendop",
+          "type": "BlogPosting",
+          "name": "Amsterdam in een notendop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Reinier Sijpkens",
+          "prefix": "met aan het roer een man met een brede lach, ",
+          "suffix": ". Terwijl hij met zijn rug en ellebogen het bootje"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "229d7bca-4e51-473d-9edb-ab3a9f5699fc",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274417/amsterdam-in-een-notendop",
+          "type": "BlogPosting",
+          "name": "Amsterdam in een notendop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Chet Baker",
+          "prefix": "vingers. “Klassiek of jazz?”, vraagt hij voorbijgangers. ",
+          "suffix": " wordt het uiteindelijk. Gedragen door het vertrouwde"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d8be6ee9-6d91-43ab-82fe-958f3b54e132",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q2400867",
+          "type": "Place",
+          "label": "Leliegracht"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/leliegracht/2668",
+          "type": "Place",
+          "label": "Leliegracht",
+          "longitude": "4.886089226495612",
+          "latitude": "52.375347253754335"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274417/amsterdam-in-een-notendop",
+          "type": "BlogPosting",
+          "name": "Amsterdam in een notendop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Leliegracht",
+          "prefix": "orgelgeluid klinkt zijn trompet (opnieuw) door de ",
+          "suffix": ". Maar hij kan ook Sweelinck en Brahms. “Ik speel"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "75eb0b23-cdb4-482f-9fa4-f6d936e05a67",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274417/amsterdam-in-een-notendop",
+          "type": "BlogPosting",
+          "name": "Amsterdam in een notendop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Sweelinck",
+          "prefix": "trompet (opnieuw) door de Leliegracht. Maar hij kan ook ",
+          "suffix": " en Brahms. “Ik speel muziek die hier door de eeuwen"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c4429d1e-b58e-4729-ab87-6dcabfee9948",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274417/amsterdam-in-een-notendop",
+          "type": "BlogPosting",
+          "name": "Amsterdam in een notendop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Brahms",
+          "prefix": "door de Leliegracht. Maar hij kan ook Sweelinck en ",
+          "suffix": ". “Ik speel muziek die hier door de eeuwen heen"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "007348cb-2d73-4f5f-9916-dab297811e06",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274417/amsterdam-in-een-notendop",
+          "type": "BlogPosting",
+          "name": "Amsterdam in een notendop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Reinier",
+          "prefix": "is gekomen.”\nMet zijn muziekboot ‘De Notendop’ probeert ",
+          "suffix": " de sfeer van Amsterdam te vangen: “Dat pittoreske, dat"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1090cb17-f452-4624-a756-dfb662b7443e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274417/amsterdam-in-een-notendop",
+          "type": "BlogPosting",
+          "name": "Amsterdam in een notendop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "muziekboot ‘De Notendop’ probeert Reinier de sfeer van ",
+          "suffix": " te vangen: “Dat pittoreske, dat kleinschalige, dat"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1b6d2e19-2846-4501-b856-fb27571cb65b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274417/amsterdam-in-een-notendop",
+          "type": "BlogPosting",
+          "name": "Amsterdam in een notendop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "enthousiasme voor al het ‘Nederlands’ pracht en praal in ",
+          "suffix": " verandert echter snel in een hekelpreek. “De mensen"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3e125ef7-da83-4219-b320-a2cb83a80f55",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274417/amsterdam-in-een-notendop",
+          "type": "BlogPosting",
+          "name": "Amsterdam in een notendop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Reinier",
+          "prefix": "hebben.” Het is precies deze ergernis die het bootje van ",
+          "suffix": " voort lijkt te stuwen. “Ik heb gestudeerd vroeger, nu ben"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "aff77acf-b9d6-47cc-b8ad-f8a2bcd80139",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274417/amsterdam-in-een-notendop",
+          "type": "BlogPosting",
+          "name": "Amsterdam in een notendop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Reinier",
+          "prefix": "je de geschiedenis eert, dan eer je ook de toekomst.”\n",
+          "suffix": " is verzot op de grachten. “Bij de Amsterdamse grachten"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "59343972-2f9a-4da9-a6a6-d782d0e047dc",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274417/amsterdam-in-een-notendop",
+          "type": "BlogPosting",
+          "name": "Amsterdam in een notendop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Reinier",
+          "prefix": "“Bij de Amsterdamse grachten hoort ook de iep”, zegt ",
+          "suffix": " met een fonkeling in zijn ogen. “In de afgelopen 750"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8b14e5e1-1f98-4c87-b6e0-bb0cb0de7770",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/holland/422",
+          "type": "Place",
+          "label": "Holland",
+          "longitude": "4.883989006210643",
+          "latitude": "52.365736354066456"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274417/amsterdam-in-een-notendop",
+          "type": "BlogPosting",
+          "name": "Amsterdam in een notendop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Holland",
+          "prefix": "samen te vatten. Volgens mij ging het ongeveer zo:\n",
+          "suffix": " is een serenade waard.  Onder Hollandse luchten vaar ik"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e120343a-3c05-40db-837a-53f9e4143aad",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274417/amsterdam-in-een-notendop",
+          "type": "BlogPosting",
+          "name": "Amsterdam in een notendop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Reinier",
+          "prefix": "koren op mijn molen en laat mijn bloemenbootje draaien.\n",
+          "suffix": " vaart nu al dertig jaar over de grachten en is"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "539f9fef-2c85-437a-8918-b68d4d6b5f6a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "cultuur",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274417/amsterdam-in-een-notendop",
+          "type": "BlogPosting",
+          "name": "Amsterdam in een notendop"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7219c8cd-1388-4099-92b5-269042049a5d",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "geen thema's of concepten beschikbaar",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274417/amsterdam-in-een-notendop",
+          "type": "BlogPosting",
+          "name": "Amsterdam in een notendop"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a82bdb08-96ab-4c24-b19e-59f93b975952",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "muziek",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274417/amsterdam-in-een-notendop",
+          "type": "BlogPosting",
+          "name": "Amsterdam in een notendop"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7908a3d7-14b9-419e-8be5-2015add980a2",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "amsterdam",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274417/amsterdam-in-een-notendop",
+          "type": "BlogPosting",
+          "name": "Amsterdam in een notendop"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "232d9409-f751-441e-8ad6-6b95d8b44aea",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "creativiteit",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274417/amsterdam-in-een-notendop",
+          "type": "BlogPosting",
+          "name": "Amsterdam in een notendop"
+        }
+      ]
+    }
+  }
+]

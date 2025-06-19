@@ -1,0 +1,925 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f070545a-f09e-4bcc-9b14-1810e15ab2b1",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/sint-antoniespoort/36",
+          "type": "Place",
+          "label": "De Wagen",
+          "longitude": "4.900322572301187",
+          "latitude": "52.372771170232035"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dEWwY9d9bVA",
+          "type": "VideoObject",
+          "name": "De Waag - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "De Wagen",
+          "prefix": "",
+          "suffix": " is een van de alleroudste gebouwen van de stad. Ze"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=12.029,26.399"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e3265f37-6746-47cd-a93e-23b605e8c800",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dEWwY9d9bVA",
+          "type": "VideoObject",
+          "name": "De Waag - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "1488",
+          "prefix": "alleroudste gebouwen van de stad. Ze werd al gebouwd in ",
+          "suffix": ". De Wagen was vroeger een stadspoort en heette Sint"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=12.029,26.399"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0ea0fe3c-8744-433f-9e0b-7cbbf9030052",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dEWwY9d9bVA",
+          "type": "VideoObject",
+          "name": "De Waag - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "De Wagen",
+          "prefix": "gebouwen van de stad. Ze werd al gebouwd in 1488. ",
+          "suffix": " was vroeger een stadspoort en heette Sint Antoniepoort."
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=12.029,26.399"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ba5964bf-5bec-4cf7-b516-c3b6a5c802fd",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dEWwY9d9bVA",
+          "type": "VideoObject",
+          "name": "De Waag - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Sint Antoniepoort",
+          "prefix": "in 1488. De Wagen was vroeger een stadspoort en heette ",
+          "suffix": ". In de periode dat de poort werd gebouwd, kreeg"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=12.029,26.399"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "df0b352e-460a-4a5b-826e-e2de4981d6f7",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dEWwY9d9bVA",
+          "type": "VideoObject",
+          "name": "De Waag - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "In de periode dat de poort werd gebouwd, kreeg ",
+          "suffix": " een grote, stevige stadsmuur.\n In de 17e eeuw, toen de"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=12.029,26.399"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9fd8858e-4dcd-4766-bfd9-0aebe6b78a72",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dEWwY9d9bVA",
+          "type": "VideoObject",
+          "name": "De Waag - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "17e eeuw",
+          "prefix": "kreeg Amsterdam een grote, stevige stadsmuur.\n In de ",
+          "suffix": ", toen de stad zich sterk uitbreidde, werd het"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=27.441,47.281"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3f618181-ad89-4a6a-8033-3be3bac6ac1c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q1568693",
+          "type": "Place",
+          "label": "Nieuwmarkt"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/nieuwmarkt/3209",
+          "type": "Place",
+          "label": "Nieuwmarkt",
+          "longitude": "4.900360736902763",
+          "latitude": "52.37251212727004"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dEWwY9d9bVA",
+          "type": "VideoObject",
+          "name": "De Waag - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nieuwmarkt",
+          "prefix": "de wagen ontstond een pleintje.\nHet pleintje heette ",
+          "suffix": ", na de markt die er werd gehouden.  Tot op"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=47.301,64.015"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "14a925d6-f78e-4754-b002-ec7b3852d5c1",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q1568693",
+          "type": "Place",
+          "label": "Nieuwmarkt"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/nieuwmarkt/3209",
+          "type": "Place",
+          "label": "Nieuwmarkt",
+          "longitude": "4.900360736902763",
+          "latitude": "52.37251212727004"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dEWwY9d9bVA",
+          "type": "VideoObject",
+          "name": "De Waag - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nieuwmarkt",
+          "prefix": "op de dag van vandaag staan de kraampjes op de ",
+          "suffix": ". Maar het is niets vergeleken bij de levendigheid van"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=47.301,64.015"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3285b832-14e4-459b-833b-43294d1cf460",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dEWwY9d9bVA",
+          "type": "VideoObject",
+          "name": "De Waag - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "jaren dertig",
+          "prefix": "Maar het is niets vergeleken bij de levendigheid van de ",
+          "suffix": ".\nOp de verdiepingen van de Waag, daar was een"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=47.301,64.015"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0b9f88c2-fbc8-4581-9f12-0be60af6a041",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dEWwY9d9bVA",
+          "type": "VideoObject",
+          "name": "De Waag - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "de Waag",
+          "prefix": "levendigheid van de jaren dertig.\nOp de verdiepingen van ",
+          "suffix": ", daar was een aantal gildes gehuisvest. En een gilde,"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=64.075,83.341"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a63d080b-9bff-4a6e-98fb-86474ddc436c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dEWwY9d9bVA",
+          "type": "VideoObject",
+          "name": "De Waag - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "de Waag",
+          "prefix": "aan bakkersgilde. Maar het bekendste gilde van ",
+          "suffix": " was het gilde van de chirurgijns, van de doktoren.  In"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=64.075,83.341"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "438dcad6-4b50-4bb9-bda9-8a8058a9d0af",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dEWwY9d9bVA",
+          "type": "VideoObject",
+          "name": "De Waag - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "dokter Ruys",
+          "prefix": "in elkaar zat. De bekendste chirurgijn van allemaal was ",
+          "suffix": ". Deze was helemaal verliefd op het menselijk lichaam. Hij"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=83.381,102.725"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6274f9c8-04c2-46fb-a9f7-5bf52b8a25e3",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dEWwY9d9bVA",
+          "type": "VideoObject",
+          "name": "De Waag - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "alcohol",
+          "prefix": "ging het dan ook verzamelen. In glazen potten gevuld met ",
+          "suffix": ". Daar bewaarde hij feutussen of lichaamsdelen.\nEn die"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=83.381,102.725"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5a0b8309-5303-4e13-80be-a559aa24a906",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q2623672",
+          "type": "Place",
+          "label": "Spuistraat"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/spuistraat/4276",
+          "type": "Place",
+          "label": "Spuistraat",
+          "longitude": "4.89099071450508",
+          "latitude": "52.37392297253144"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dEWwY9d9bVA",
+          "type": "VideoObject",
+          "name": "De Waag - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Spuisstraat",
+          "prefix": "verzameling stelde hij ten toon in zijn huisje aan de ",
+          "suffix": ".  Een van de bekendste bezoekers van dat museumpje was"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=102.765,121.844"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9b6525d7-f49d-43cd-b795-d1741183a3c5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dEWwY9d9bVA",
+          "type": "VideoObject",
+          "name": "De Waag - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Peter de Grote",
+          "prefix": "Een van de bekendste bezoekers van dat museumpje was ",
+          "suffix": ", de Tsar van Rusland. En die heeft die verzameling"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=102.765,121.844"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "27b129ad-52c7-4543-9111-2d6e7531c988",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dEWwY9d9bVA",
+          "type": "VideoObject",
+          "name": "De Waag - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "gekocht. Die verzameling werd per schip vervoerd van ",
+          "suffix": " naar Sint-Petersburg. Maar op de Oostzee hadden de"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=102.765,121.844"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2d770587-d405-4ff1-8f1d-a157c50edd2d",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dEWwY9d9bVA",
+          "type": "VideoObject",
+          "name": "De Waag - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Sint-Petersburg",
+          "prefix": "verzameling werd per schip vervoerd van Amsterdam naar ",
+          "suffix": ". Maar op de Oostzee hadden de matrozen het koud"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=102.765,121.844"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c87037a3-830c-4579-8ed0-c67c056149d9",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dEWwY9d9bVA",
+          "type": "VideoObject",
+          "name": "De Waag - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Oostzee",
+          "prefix": "vervoerd van Amsterdam naar Sint-Petersburg. Maar op de ",
+          "suffix": " hadden de matrozen het koud gekregen.\nZe hadden al hun"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=102.765,121.844"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b57be965-3c8c-478a-b33a-6d1a324fe9cb",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dEWwY9d9bVA",
+          "type": "VideoObject",
+          "name": "De Waag - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "dokter Ruys",
+          "prefix": "en de begeerde blikken vielen op de potten van ",
+          "suffix": ". De deksel werd eraf geschroefd, feuters over boord"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=121.884,134.008"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3a25cb4d-f253-4219-89a7-86d93ef9109c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dEWwY9d9bVA",
+          "type": "VideoObject",
+          "name": "De Waag - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "feuters",
+          "prefix": "potten van dokter Ruys. De deksel werd eraf geschroefd, ",
+          "suffix": " over boord gegooid en die alcohol hebben ze lekker"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=121.884,134.008"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4705996f-1db3-45a8-bf72-e12be55e9107",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dEWwY9d9bVA",
+          "type": "VideoObject",
+          "name": "De Waag - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "alcohol",
+          "prefix": "werd eraf geschroefd, feuters over boord gegooid en die ",
+          "suffix": " hebben ze lekker opgedronken. Proost!"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=121.884,134.008"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3b46b986-9509-43fb-af86-f9c5194e0328",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "geschiedenis",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dEWwY9d9bVA",
+          "type": "VideoObject",
+          "name": "De Waag - Amsterdam"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0c2aa807-f6ff-4cab-8aaf-76adb9c93a2e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "architectuur",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dEWwY9d9bVA",
+          "type": "VideoObject",
+          "name": "De Waag - Amsterdam"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a6c23cb1-dd2a-4ce0-a3f6-64e6b5020e30",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "handel",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dEWwY9d9bVA",
+          "type": "VideoObject",
+          "name": "De Waag - Amsterdam"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8722c6c9-356a-4bb0-9d12-659856ca938d",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "anatomie",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dEWwY9d9bVA",
+          "type": "VideoObject",
+          "name": "De Waag - Amsterdam"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1e7e7c09-ff36-4905-8af4-54bc8bb18f2c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "stedenbouw",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dEWwY9d9bVA",
+          "type": "VideoObject",
+          "name": "De Waag - Amsterdam"
+        }
+      ]
+    }
+  }
+]

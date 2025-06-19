@@ -1,0 +1,2350 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9df8825a-6e55-4ea7-9f6e-3cd3ecad995e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "",
+          "suffix": ", wat ben je mon?\n Moet je een liedje horen?"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=1.43,7.015"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "00901d3d-041d-40db-a10d-2d8f66eb1b15",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "mon",
+          "prefix": "Amsterdam, wat ben je ",
+          "suffix": "?\n Moet je een liedje horen? O Amsterdam, wat ben"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=1.43,7.015"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1946e110-5b37-45e2-afa4-28efa1ce8a76",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "wat ben je mon?\n Moet je een liedje horen? O ",
+          "suffix": ", wat ben je mooi. Je straten en je grachten"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=22.812,41.778"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "454e4eaa-5f2e-4bd9-b35c-c7ed0d4e0aae",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Dappermarkt",
+          "prefix": "grachten en je pleinen. Wat is het geheim van de ",
+          "suffix": "? Dat vroegen velen zich verbaasd af toen deze markt"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=22.812,41.778"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c9c50d2f-712d-432b-a703-8546f3eb017e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/nederland/481",
+          "type": "Place",
+          "label": "Nederland",
+          "longitude": "4.877106594181554",
+          "latitude": "52.36156803916213"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nederland",
+          "prefix": "begin dit jaar werd gekozen tot beste markt van heel ",
+          "suffix": ". Is het de koopwaar? Zijn het de lage prijzen?"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=22.812,41.778"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "040c7bbb-a44f-44b9-ac8b-86965da0d928",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "klanten",
+          "prefix": "koopwaar? Zijn het de lage prijzen?\nOf zijn het de ",
+          "suffix": " die de markt onder succes maken? Alle spullen in de"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=41.818,61.697"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c61468d8-52fb-4584-908e-dd3532381d4f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "is in al die jaren mee veranderd met de stad ",
+          "suffix": " en haar inwoners.  Een markt die zich aanpast aan de"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=41.818,61.697"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "650a1e3a-80a6-4e41-802f-34e07f8d1f3d",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "klanten",
+          "prefix": "de eisen van de tijd en de eisen van haar ",
+          "suffix": ".\nMaar ook een markt waar nog steeds iedere ochtend"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=41.818,61.697"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "de9e10ef-b171-496a-8bf0-0d58f0bce332",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Dappermarkt",
+          "prefix": "brengt MTNLU de komende vier weken de mensen van de ",
+          "suffix": ". Goedemorgen op de Dappermarkt in Amsterdam. We gaan"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=61.717,79.144"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e9b37953-f14b-41c3-9ee7-3e642318ad1e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Dappermarkt",
+          "prefix": "weken de mensen van de Dappermarkt. Goedemorgen op de ",
+          "suffix": " in Amsterdam. We gaan eerst even lekker koffie drinken."
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=61.717,79.144"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "38a09054-5d19-4e14-889b-3c93a3bb747b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "van de Dappermarkt. Goedemorgen op de Dappermarkt in ",
+          "suffix": ". We gaan eerst even lekker koffie drinken. Dit is"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=61.717,79.144"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c0d1cd52-02ca-4125-902d-09cea4bc4dd3",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "koffie",
+          "prefix": "op de Dappermarkt in Amsterdam. We gaan eerst even lekker ",
+          "suffix": " drinken. Dit is marktmeester Melle van Eck.\nHij heeft een"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=61.717,79.144"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4078c398-5383-40c6-9bcd-4f1875d1ae91",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Melle van Eck",
+          "prefix": "eerst even lekker koffie drinken. Dit is marktmeester ",
+          "suffix": ".\nHij heeft een belangrijke taak zodra de markt is"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=61.717,79.144"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2f0d632c-421e-41ce-a77c-3e329b878c91",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Hij",
+          "prefix": "lekker koffie drinken. Dit is marktmeester Melle van Eck.\n",
+          "suffix": " heeft een belangrijke taak zodra de markt is opgebouwd."
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=79.184,82.185"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b50d8a9a-f788-4f58-9ebd-47146f5eef07",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "mannen",
+          "prefix": "opgebouwd.\n Zon of regen, in weer en wind gaan de ",
+          "suffix": " van de opbouwploeg zes dagen per week om zes uur"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=90.644,107.769"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "fbcc3330-a236-4218-91e5-0474dc790319",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "dappermarkt",
+          "prefix": "per week om zes uur aan de slag.\nOp de ",
+          "suffix": " zijn er 251 kranen. Allemaal vaste standhangers? Nee, we"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=107.849,116.091"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9f264c01-6030-4ed5-93fe-23189f328c61",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "sollicitanten",
+          "prefix": "tot 70 vaste kranenhangers.\n De rest geven we weg aan ",
+          "suffix": " die dagelijks op de toppenmarkt komen. Goedemorgen."
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=118.408,133.076"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3df23596-de1f-40c9-bc32-0998cefa80e6",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "toppenmarkt",
+          "prefix": "rest geven we weg aan sollicitanten die dagelijks op de ",
+          "suffix": " komen. Goedemorgen. Goedemorgen. Wij zijn de stamwerkers."
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=118.408,133.076"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "553379f3-ae51-4196-a5c7-e0fc65d2d922",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Occupation",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "stamwerkers",
+          "prefix": "toppenmarkt komen. Goedemorgen. Goedemorgen. Wij zijn de ",
+          "suffix": ".\nEn het is elke dag weer een drama, want"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=118.408,133.076"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "24d67752-b52d-427f-b932-5535d0f519a5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Occupation",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "standwerker",
+          "prefix": "pijn in de buik.  Dat is het leven van een ",
+          "suffix": ".\nOké heren. Eén, twee, drie, vier. Moos Benklava is"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=134.197,153.185"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "651f7a32-e073-42ee-9de1-8ad3862cccd7",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Moos Benklava",
+          "prefix": "van een standwerker.\nOké heren. Eén, twee, drie, vier. ",
+          "suffix": " is standwerker, een beroep met een lange geschiedenis op"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=153.265,171.253"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7af19182-2630-493f-b945-47838ee64c4b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Occupation",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "standwerker",
+          "prefix": "Oké heren. Eén, twee, drie, vier. Moos Benklava is ",
+          "suffix": ", een beroep met een lange geschiedenis op de dappermarkt."
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=153.265,171.253"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3c5f11cb-96c1-4c10-8858-6b5acef6ace2",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "dappermarkt",
+          "prefix": "standwerker, een beroep met een lange geschiedenis op de ",
+          "suffix": ". Het is ontstaan uit armoede.\n Door de Joodse gemeenschap"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=153.265,171.253"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d87baeaf-4094-445c-945e-957982bc5715",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "mensen",
+          "prefix": "heel veel gein en heel veel lachen proberen we de ",
+          "suffix": " toch vast te houden.  En daar verkopen we eigenlijk ons"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=193.443,203.404"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9f95fe2d-4fbc-493f-a2b8-b469138c575c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Occupation",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "meelopers",
+          "prefix": "voor de vrije plekken die weggegeven worden aan de ",
+          "suffix": ". Dat doen we dus elke morgen, deze loting. Heel"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=212.781,228.293"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b5371b59-a6c0-4265-a495-3c66ed551e72",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Mohamed El Esawi",
+          "prefix": "gewoontegetrouw een drukte van belang. Altijd aanwezig, ",
+          "suffix": ". Ik krijg weer een plaats, ja.\nIs het iedere"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=228.313,246.973"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b103dd45-29df-4136-89ea-81fa85e74a39",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Zaterdag",
+          "prefix": "u doen als u geen plaats krijgt?  Meestal naar huis.\n",
+          "suffix": " is het wel zo dat iedereen persoonlijk aanwezig moet"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=266.149,285.74"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "76a92c24-7586-4391-81a4-4d01694fec9d",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q1165557",
+          "type": "Place",
+          "label": "Dappermarkt"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "dakkenmarkt",
+          "prefix": "aanwezig geen plek. De wachttijd voor een plek op de ",
+          "suffix": " is lang. Boven de 20 jaar. Een van de oud-gedienden"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=266.149,285.74"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7b68d26d-03a2-4187-afa5-fba113fc319e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Willem Sluis",
+          "prefix": "jaar. Een van de oud-gedienden die zo'n plaats heeft is ",
+          "suffix": ".\nHoe lang staat u al op de markt? Ik?"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=285.78,300.307"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "83648b4b-5923-4e27-b238-fe8b136c4a41",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "vader",
+          "prefix": "de markt? Ik? 48 jaar. 48 jaar. En daarvoor uw ",
+          "suffix": "? Mijn grootvader.  Tegenover Willemsluis staat Ilias"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=285.78,300.307"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2ba9a007-5b27-443a-bc38-9698ae0725de",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "grootvader",
+          "prefix": "Ik? 48 jaar. 48 jaar. En daarvoor uw vader? Mijn ",
+          "suffix": ".  Tegenover Willemsluis staat Ilias Elmarsen. Hij heeft"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=285.78,300.307"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "faf00851-9501-424d-ab1d-fe428a747d96",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Willemsluis",
+          "prefix": "jaar. En daarvoor uw vader? Mijn grootvader.  Tegenover ",
+          "suffix": " staat Ilias Elmarsen. Hij heeft geen 20 jaar hoeven"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=285.78,300.307"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b6ffd618-0c45-4d3b-b9bd-aabe5856dec6",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Ilias Elmarsen",
+          "prefix": "uw vader? Mijn grootvader.  Tegenover Willemsluis staat ",
+          "suffix": ". Hij heeft geen 20 jaar hoeven wachten op een"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=285.78,300.307"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b179787d-def1-42cb-ad97-db49592fe22a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "zuur",
+          "prefix": "ze willen vullen met een bepaald soort handel. Dus met ",
+          "suffix": " of met noten of met een bepaald soort kunstartikel. En"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=309.922,328.663"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5c24dc26-6f03-4d07-b6bd-74dce9d549e7",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "noten",
+          "prefix": "met een bepaald soort handel. Dus met zuur of met ",
+          "suffix": " of met een bepaald soort kunstartikel. En daar is geen"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=309.922,328.663"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a3cdcd07-e52a-460f-9f4f-e45223dc9a27",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q2370152",
+          "type": "Place",
+          "label": "Wijttenbachstraat"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/wijttenbachstraat/5022",
+          "type": "Place",
+          "label": "Wijttenbachstraat",
+          "longitude": "4.927431512698004",
+          "latitude": "52.36053611920591"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Wijtenbachstraat",
+          "prefix": "zijn opgebouwd, strekt het dappermarkt zich uit van de ",
+          "suffix": " tot aan de Nassaukade. Dat was vroeger heel anders. Kijk,"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=329.693,347.961"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1c2cdab3-71dd-4427-841c-7d222c7620f1",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q2701250",
+          "type": "Place",
+          "label": "Nassaukade"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/nassaukade/3091",
+          "type": "Place",
+          "label": "Nassaukade",
+          "longitude": "4.877343945056086",
+          "latitude": "52.374934753497755"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nassaukade",
+          "prefix": "dappermarkt zich uit van de Wijtenbachstraat tot aan de ",
+          "suffix": ". Dat was vroeger heel anders. Kijk, het is wel"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=329.693,347.961"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1a8cd034-4087-4929-be53-90441ecaf61c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/nederland/481",
+          "type": "Place",
+          "label": "Nederland",
+          "longitude": "4.877106594181554",
+          "latitude": "52.36156803916213"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nederland",
+          "prefix": "ik weet het niet. De opmars van Turkse fietsenmakers in ",
+          "suffix": " gaat ook aan de Dappermarkt niet voorbij. Sinds enige"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=349.341,368.617"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6ca3556d-aef4-40db-a70a-a86251117d04",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Dappermarkt",
+          "prefix": "van Turkse fietsenmakers in Nederland gaat ook aan de ",
+          "suffix": " niet voorbij. Sinds enige tijd heeft Mehmet Yassar, die"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=349.341,368.617"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "662d4271-d8e6-4b03-8466-f6b45102c85a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Mehmet Yassar",
+          "prefix": "aan de Dappermarkt niet voorbij. Sinds enige tijd heeft ",
+          "suffix": ", die een winkel heeft op het Dapperplein, ook een"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=349.341,368.617"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ece3b43f-79cb-472f-937f-5a5191e932ab",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q19003416",
+          "type": "Place",
+          "label": "Dapperplein"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/dapperplein/893",
+          "type": "Place",
+          "label": "Dapperplein",
+          "longitude": "4.9277808782662245",
+          "latitude": "52.36218058462054"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Dapperplein",
+          "prefix": "tijd heeft Mehmet Yassar, die een winkel heeft op het ",
+          "suffix": ", ook een plekje op de markt gekregen. Net achter"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=349.341,368.617"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "af446a02-536f-49b0-a8e9-0207de8d7c71",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Willem van Sluis",
+          "prefix": "plekje op de markt gekregen. Net achter de kraan van ",
+          "suffix": ".\nVia de marktbeheer hebben wij een stukje bij de"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=368.657,387.329"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ceac6efd-adbe-46cc-ab6d-cd6580d430a5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Occupation",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "trekkers",
+          "prefix": "dat zijn allemaal jongens die trekken. Dat zijn ook ",
+          "suffix": ". Mensen komen van heen en ver komen ze die"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=368.657,387.329"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "da940e28-0cab-4cc5-b8dd-83bfcf10b2dc",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Brabant",
+          "prefix": "we gaan. Ik weet wel dat je klanten hebt uit ",
+          "suffix": " ergens vandaan. Maar wij krijgen ook klanten uit Almere"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=387.369,406.498"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b6d2cf5b-302f-44dc-b890-d945d6c9c326",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Almere",
+          "prefix": "Brabant ergens vandaan. Maar wij krijgen ook klanten uit ",
+          "suffix": " vandaan. Dat ze zeggen, we komen Almere vandaan, want we"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=387.369,406.498"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2317eb0a-2cca-49a5-84ce-df439f05ccef",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Almere",
+          "prefix": "ook klanten uit Almere vandaan. Dat ze zeggen, we komen ",
+          "suffix": " vandaan, want we kunnen hier goedkope handel en mooie"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=387.369,406.498"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "51b6c63b-ff89-428c-8411-5b085e944844",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "sinaasappel",
+          "prefix": "handel krijgen.\nDie te betalen is.\n Dus geen parfum, maar ",
+          "suffix": " voor het gezicht, de hals en de degradatie. Het is"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=430.565,447.788"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "424bba62-5707-4da2-849e-9c97a07bb79c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "mensen",
+          "prefix": "Veel soorten spullen, soorten mensen, verschillende ",
+          "suffix": ".\nHet heeft met alles te maken. Iedereen doet z'n"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=447.848,467.098"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c4f3e5d5-30b0-40ae-9e50-ad1a04e55961",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/nederland/481",
+          "type": "Place",
+          "label": "Nederland",
+          "longitude": "4.877106594181554",
+          "latitude": "52.36156803916213"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nederland",
+          "prefix": "enorm succes hè, geloof ik? Absoluut. De beste markt van ",
+          "suffix": ". Waar komt dat succes vandaan?  Ja, veel verschillende"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=497.54,515.62"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "36a14487-91c4-40ba-bc4c-b1156571da30",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "mensen",
+          "prefix": "vandaan?  Ja, veel verschillende handel, verschillende ",
+          "suffix": " die hier lopen. Er komen heel veel mensen uit de"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=497.54,515.62"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5ebaaab4-265b-4fd4-93ec-c5511f8962cd",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "mensen",
+          "prefix": "verschillende mensen die hier lopen. Er komen heel veel ",
+          "suffix": " uit de andere stad van Nederland.\nDus veel toeristen. De"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=497.54,515.62"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d195083a-2f52-4f19-8654-6391bbe239b6",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/nederland/481",
+          "type": "Place",
+          "label": "Nederland",
+          "longitude": "4.877106594181554",
+          "latitude": "52.36156803916213"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nederland",
+          "prefix": "Er komen heel veel mensen uit de andere stad van ",
+          "suffix": ".\nDus veel toeristen. De plaats van de markt is"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=515.66,535.565"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "21249d55-b9d5-47e2-aa4c-16235827fb09",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "toeristen",
+          "prefix": "veel mensen uit de andere stad van Nederland.\nDus veel ",
+          "suffix": ". De plaats van de markt is echt een heel"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=515.66,535.565"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1cf32bb1-ac9d-44bb-9f80-c703a2f03a3b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/nederland/481",
+          "type": "Place",
+          "label": "Nederland",
+          "longitude": "4.877106594181554",
+          "latitude": "52.36156803916213"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nederland",
+          "prefix": "De Dappermark is nu een enorm succes, beste markt van ",
+          "suffix": ". Hoe komt dat succes zo vervolgd? Ik denk dat"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=557.452,574.059"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8ea6f92c-c270-4a7e-81be-95c54f19dce6",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/europa/73",
+          "type": "Place",
+          "label": "Europa",
+          "longitude": "4.918940535863489",
+          "latitude": "52.37716523046719"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Europa",
+          "prefix": "ja, de wereld een beetje overdreven. Laat ik maar zeggen, ",
+          "suffix": "."
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "eb89003d-39ea-4b52-bda7-866d1f2c8244",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Goedemorgen",
+          "prefix": "een beetje overdreven. Laat ik maar zeggen, Europa.\n ",
+          "suffix": ""
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2698477e-a37a-4fdc-a2ab-7202355094e4",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "huis.",
+          "prefix": "gaat u doen als u geen plaats krijgt?  Meestal naar ",
+          "suffix": "\nZaterdag is het wel zo dat iedereen persoonlijk aanwezig"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=266.149,285.74"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "bc3609d9-8509-4770-8d2e-55199c0fd4b1",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "huis",
+          "prefix": "gaat u doen als u geen plaats krijgt?  Meestal naar ",
+          "suffix": ".\nZaterdag is het wel zo dat iedereen persoonlijk aanwezig"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=266.149,285.74"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6ad67a3a-2574-4f06-9b4c-a36017b4f054",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "huis",
+          "prefix": "gaat u doen als u geen plaats krijgt?  Meestal naar ",
+          "suffix": ".\nZaterdag is het wel zo dat iedereen persoonlijk aanwezig"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=266.149,285.74"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "81305a7b-3ae3-4ec6-ad6f-4e856c88cf0e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Wijtenbachstraat",
+          "prefix": "zijn opgebouwd, strekt het dappermarkt zich uit van de ",
+          "suffix": " tot aan de Nassaukade. Dat was vroeger heel anders. Kijk,"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=329.693,347.961"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b83682ec-6c0a-45e2-b42b-5621af7e4971",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "markt",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7a207743-0c4f-4d0f-ba5d-ec59d7c0aa61",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "succes",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "569c6466-da02-4c3a-8e56-d8ec7a1381e4",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "diversiteit",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2ea7c057-71a3-4e5b-89fa-e78021adf6a4",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "handel",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3e991846-6ab6-40bb-9034-bb9f12411364",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "gemeenschap",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=qyOCJ1H5pwE",
+          "type": "VideoObject",
+          "name": "Dappermarkt"
+        }
+      ]
+    }
+  }
+]

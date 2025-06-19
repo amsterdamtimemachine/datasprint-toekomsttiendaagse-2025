@@ -1,0 +1,756 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3d499056-33c7-4c44-ab40-275e35c97608",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q988082",
+          "type": "Place",
+          "label": "Haarlemmerbuurt"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/district/haarlemmerbuurt-west/855",
+          "type": "Place",
+          "label": "Haarlemmerbuurt"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=4tS23fZr_9M",
+          "type": "VideoObject",
+          "name": "Buurtwinkels"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Haarlemmerbuurt",
+          "prefix": "vindt de ",
+          "suffix": " in de ene keer hartstikke leuk en hip en trendy."
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=18.387,38.106"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e1f903f8-eb00-435e-a98e-cc73b96e5daf",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=4tS23fZr_9M",
+          "type": "VideoObject",
+          "name": "Buurtwinkels"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "1989",
+          "prefix": "de ene keer hartstikke leuk en hip en trendy. In ",
+          "suffix": " werd er een rapport gepubliceerd van nou, we geven heel"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=18.387,38.106"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ef32defe-fe85-48f6-ada3-a0f20f7b2d25",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=4tS23fZr_9M",
+          "type": "VideoObject",
+          "name": "Buurtwinkels"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Meneer Ansink",
+          "prefix": "dat is altijd goed. Wil je ook een glaasje, mevrouw? ",
+          "suffix": ", mijn partner in crime.\n ben ik ooit jarenlang mee"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=43.708,57.693"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a0eefc6a-4613-463b-8b64-2ded4682eec8",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=4tS23fZr_9M",
+          "type": "VideoObject",
+          "name": "Buurtwinkels"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "1932",
+          "prefix": "dat deze dingen, nou die zitten eigenlijk, hoe lang? ",
+          "suffix": " honderd deze naam. En ik denk vanaf 1900 andere namen."
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=71.179,83.204"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b0a6b674-b28c-4b0a-8a86-b1042edfd6d2",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=4tS23fZr_9M",
+          "type": "VideoObject",
+          "name": "Buurtwinkels"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "1900",
+          "prefix": "hoe lang? 1932 honderd deze naam. En ik denk vanaf ",
+          "suffix": " andere namen.\n Je moet je voorstellen, de straat was nu"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=71.179,83.204"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "25433005-4705-4c34-8dab-d34557b72d77",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q2681969",
+          "type": "Place",
+          "label": "Utrechtse straat"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/utrechtsestraat/4608",
+          "type": "Place",
+          "label": "Utrechtse straat",
+          "longitude": "4.898488804134639",
+          "latitude": "52.36333925155038"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=4tS23fZr_9M",
+          "type": "VideoObject",
+          "name": "Buurtwinkels"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Utrechtse straat",
+          "prefix": "je voorstellen, de straat was nu net als de huidige ",
+          "suffix": ". Met een tram in het midden en twee verkeersstromen"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=92.643,111.534"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6301d1ff-03e5-42ca-b1af-c059c8a15971",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=4tS23fZr_9M",
+          "type": "VideoObject",
+          "name": "Buurtwinkels"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Aistro",
+          "prefix": "honderd vierkante meter verdwijnt. Zo werkt de markt. ",
+          "suffix": ", wil je een glaasje port vandaag? Bedankt. Bedankt wel."
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=111.554,129.268"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "641e6e36-a525-4347-ab74-e8aea4486f04",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=4tS23fZr_9M",
+          "type": "VideoObject",
+          "name": "Buurtwinkels"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "port",
+          "prefix": "verdwijnt. Zo werkt de markt. Aistro, wil je een glaasje ",
+          "suffix": " vandaag? Bedankt. Bedankt wel. Oké. Ik ga een pie in"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=111.554,129.268"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9c0d95f0-1685-4360-9a46-d7f2aceeeefc",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=4tS23fZr_9M",
+          "type": "VideoObject",
+          "name": "Buurtwinkels"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "pie",
+          "prefix": "port vandaag? Bedankt. Bedankt wel. Oké. Ik ga een ",
+          "suffix": " in schenken.\n De mensen zijn zo gezellig, aardig,"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=111.554,129.268"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4056c3f9-cb25-4547-97b8-efaca43d8b2c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=4tS23fZr_9M",
+          "type": "VideoObject",
+          "name": "Buurtwinkels"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Harry",
+          "prefix": "winkel. Inmiddels zit hij er al bij 10 jaar. Met ",
+          "suffix": " als eigenaar. En Harry zelf eigenlijk in een heel andere"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=178.922,192.012"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "fd6e8df2-58a9-48a1-a439-9ff6b4eb8169",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=4tS23fZr_9M",
+          "type": "VideoObject",
+          "name": "Buurtwinkels"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Harry",
+          "prefix": "er al bij 10 jaar. Met Harry als eigenaar. En ",
+          "suffix": " zelf eigenlijk in een heel andere branche ooit is"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=178.922,192.012"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "754141d5-a8fc-49dc-bdcc-10ecfee82384",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=4tS23fZr_9M",
+          "type": "VideoObject",
+          "name": "Buurtwinkels"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "1989",
+          "prefix": "In die tijd deden we dat nog. Dat was in ",
+          "suffix": ". En toen was het ook niet zo'n leuke buurt."
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=209.965,229.178"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "06e84f47-3093-4752-b0c0-ca256555c44f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q2665621",
+          "type": "Place",
+          "label": "Haarlemmerdijk"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/haarlemmerdijk/1626",
+          "type": "Place",
+          "label": "Haarlemmerdijk",
+          "longitude": "4.886645267871157",
+          "latitude": "52.38297428295261"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=4tS23fZr_9M",
+          "type": "VideoObject",
+          "name": "Buurtwinkels"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Ademerdijk",
+          "prefix": "gezet waardoor het een leuke straat is geworden. Maar de ",
+          "suffix": " trekt nu wel heel veel mensen van buiten.\n Het is"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=261.805,278.598"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1a5c8c90-8f6a-46d3-baed-a3d0599a4acb",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=4tS23fZr_9M",
+          "type": "VideoObject",
+          "name": "Buurtwinkels"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Bon Jovi",
+          "prefix": "staat ie. Hoe heet die band ook weer? Heet ie ",
+          "suffix": "?\n Ik ben bang dat dit langzaam maar zeker toch"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=296.016,310.493"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "610e81f6-6047-402a-9d01-7fa02b40e156",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/address/A105852",
+          "type": "Place",
+          "label": "Haarlemmerdijk 68"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=4tS23fZr_9M",
+          "type": "VideoObject",
+          "name": "Buurtwinkels"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "nummer 68",
+          "prefix": "bijna 10 jaar nu. Ja.\n En daarvoor zaten we op ",
+          "suffix": ". En nummer 68 hadden we gekraakt. In die tijd"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=209.965,229.178"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "989713fa-86a4-4732-9396-b04c6e2aeaa0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/address/A105852",
+          "type": "Place",
+          "label": "Haarlemmerdijk 68"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=4tS23fZr_9M",
+          "type": "VideoObject",
+          "name": "Buurtwinkels"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "nummer 68",
+          "prefix": "nu. Ja.\n En daarvoor zaten we op nummer 68. En ",
+          "suffix": " hadden we gekraakt. In die tijd deden we dat nog."
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=209.965,229.178"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "727d43d3-c8c8-40e4-af1b-47d193aff90a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "verandering",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=4tS23fZr_9M",
+          "type": "VideoObject",
+          "name": "Buurtwinkels"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "555815cf-434a-449f-9de3-f41953e99f54",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "identiteit",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=4tS23fZr_9M",
+          "type": "VideoObject",
+          "name": "Buurtwinkels"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "707ffcac-6c9a-464e-9f6d-bda2860aea47",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "vernieuwing",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=4tS23fZr_9M",
+          "type": "VideoObject",
+          "name": "Buurtwinkels"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a85a464e-f547-465a-809d-ecc22bfc5ed1",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "stedelijke ontwikkeling",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=4tS23fZr_9M",
+          "type": "VideoObject",
+          "name": "Buurtwinkels"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "fa4555a9-8867-4bd0-829f-2a0b5c6162a3",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "aanbod",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=4tS23fZr_9M",
+          "type": "VideoObject",
+          "name": "Buurtwinkels"
+        }
+      ]
+    }
+  }
+]

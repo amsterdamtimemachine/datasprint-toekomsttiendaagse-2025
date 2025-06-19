@@ -1,0 +1,1067 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3a6ca2ab-e5b6-447a-8233-c140748a035e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=sJKymopqWrw",
+          "type": "VideoObject",
+          "name": "De Hongaarse Ziel in Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "mensen",
+          "prefix": "niet zelf iets terug kunt doen. Het verbaasde ons dat ",
+          "suffix": " daar zo blij mee waren dat wij kwamen.\nWe kregen"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=4.492,20.799"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4dc88819-3b93-4f6a-a1ec-988fdce6c1f0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=sJKymopqWrw",
+          "type": "VideoObject",
+          "name": "De Hongaarse Ziel in Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "November 1956",
+          "prefix": "en ook geld. Ik had wel een klein woordenboekje.\n ",
+          "suffix": ". Europa houdt de adem in. De Sovjet-Unie slaat de"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=45.943,65.795"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "714d0782-e2ef-4ec8-8390-a3eab52331a7",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/europa/73",
+          "type": "Place",
+          "label": "Europa",
+          "longitude": "4.918940535863489",
+          "latitude": "52.37716523046719"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=sJKymopqWrw",
+          "type": "VideoObject",
+          "name": "De Hongaarse Ziel in Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Europa",
+          "prefix": "geld. Ik had wel een klein woordenboekje.\n November 1956. ",
+          "suffix": " houdt de adem in. De Sovjet-Unie slaat de Hongaarse"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=45.943,65.795"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "86cd59ed-0af2-428e-b372-09308a2f55d0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=sJKymopqWrw",
+          "type": "VideoObject",
+          "name": "De Hongaarse Ziel in Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Sovjet-Unie",
+          "prefix": "November 1956. Europa houdt de adem in. De ",
+          "suffix": " slaat de Hongaarse opstand bloedig neer. En dat versterkt"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=45.943,65.795"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5a0ff322-3929-4cd0-a11e-a3d166b34e19",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/nederland/481",
+          "type": "Place",
+          "label": "Nederland",
+          "longitude": "4.877106594181554",
+          "latitude": "52.36156803916213"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=sJKymopqWrw",
+          "type": "VideoObject",
+          "name": "De Hongaarse Ziel in Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nederland",
+          "prefix": "van het ijzeren gordijn vluchten duizenden Hongaren naar ",
+          "suffix": ". En Nederlanders onthalen hen met open armen.\nOok in"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=45.943,65.795"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2871e209-af67-43de-a712-171f8503b9ad",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=sJKymopqWrw",
+          "type": "VideoObject",
+          "name": "De Hongaarse Ziel in Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "En Nederlanders onthalen hen met open armen.\nOok in ",
+          "suffix": ". De reden dat ik Boedemest heb verlaten... Ik vreesde"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=65.835,79.598"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6dc1b1e6-ef3a-4485-bb68-8d3804e8555a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=sJKymopqWrw",
+          "type": "VideoObject",
+          "name": "De Hongaarse Ziel in Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Boedemest",
+          "prefix": "met open armen.\nOok in Amsterdam. De reden dat ik ",
+          "suffix": " heb verlaten... Ik vreesde voor arrestatie. Ja.  Ik heb"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=65.835,79.598"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3e90223c-ba29-4a88-8f55-0137cf650879",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=sJKymopqWrw",
+          "type": "VideoObject",
+          "name": "De Hongaarse Ziel in Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "1956",
+          "prefix": "ze me op konden halen.\nHet is de zakagenda van ",
+          "suffix": " en die heb ik nog gemarkeerd de dag  dat ik"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=96.391,106.745"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "79dd8ce7-f6a8-41c7-b02c-4460e48dc6e1",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=sJKymopqWrw",
+          "type": "VideoObject",
+          "name": "De Hongaarse Ziel in Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "ouders",
+          "prefix": "gewoontes op na zouden houden, maar ja, je was  Je ",
+          "suffix": " vooral, die waren toch anders. En mijn vader was heel"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=121.754,137.348"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "50c98af8-aeea-45ae-ad6e-2195ced77da5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=sJKymopqWrw",
+          "type": "VideoObject",
+          "name": "De Hongaarse Ziel in Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "vader",
+          "prefix": "was  Je ouders vooral, die waren toch anders. En mijn ",
+          "suffix": " was heel formeel, een echte meneer. En dat viel"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=121.754,137.348"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4cbb5bde-5af2-4d02-8319-9d25e037f92b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/slotervaart/635",
+          "type": "Place",
+          "label": "Slotervaart",
+          "longitude": "4.85754",
+          "latitude": "52.3783"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=sJKymopqWrw",
+          "type": "VideoObject",
+          "name": "De Hongaarse Ziel in Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Slotervaart",
+          "prefix": "een das en een hoed. En zo wandelde hij door ",
+          "suffix": ", waar dat toch tamelijk bijzonder was, omdat dat was"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=137.369,153.961"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0d8c65af-3e08-432a-b0bd-466649af1871",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=sJKymopqWrw",
+          "type": "VideoObject",
+          "name": "De Hongaarse Ziel in Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "zusje",
+          "prefix": "echt een arbeidersbuurt.\nWij vonden dat heel gênant, mijn ",
+          "suffix": " en ik, omdat hij toch slecht Nederlands sprak.  Ja, en"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=154.001,167.105"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a17e9a4e-3220-4fd8-9e50-6fd04f5ed8fb",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=sJKymopqWrw",
+          "type": "VideoObject",
+          "name": "De Hongaarse Ziel in Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "slecht Nederlands sprak.  Ja, en aan alle kanten opviel. ",
+          "suffix": " kent meerdere Hongaarse verenigingen.\nEen daarvan is de"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=154.001,167.105"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5851e49f-9a3a-41ec-8e37-67deb9b0bebd",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=sJKymopqWrw",
+          "type": "VideoObject",
+          "name": "De Hongaarse Ziel in Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "1929",
+          "prefix": "Hongaarse verenigingen.\nEen daarvan is de Hungaria Club ",
+          "suffix": " in Café Modern op het Leidseplein. Maar zeker de nummer"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=167.165,185.178"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4348ed5c-bc87-4696-ad89-3b760e6e0735",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=sJKymopqWrw",
+          "type": "VideoObject",
+          "name": "De Hongaarse Ziel in Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Café Modern",
+          "prefix": "verenigingen.\nEen daarvan is de Hungaria Club 1929 in ",
+          "suffix": " op het Leidseplein. Maar zeker de nummer 17, dat is"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=167.165,185.178"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f590c343-036b-457e-9531-20a799091349",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "Q1409805",
+          "type": "Place",
+          "label": "Leidseplein"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/leidseplein/2661",
+          "type": "Place",
+          "label": "Leidseplein",
+          "longitude": "4.881931318920248",
+          "latitude": "52.36369420453993"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=sJKymopqWrw",
+          "type": "VideoObject",
+          "name": "De Hongaarse Ziel in Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Leidseplein",
+          "prefix": "is de Hungaria Club 1929 in Café Modern op het ",
+          "suffix": ". Maar zeker de nummer 17, dat is nog hetzelfde"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=167.165,185.178"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e7f3eb6b-32bd-49f5-9048-54ee4ce86cb4",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q19431207",
+          "type": "Place",
+          "label": "Prinsenhofssteeg"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/prinsenhofssteeg/3685",
+          "type": "Place",
+          "label": "Prinsenhofssteeg",
+          "longitude": "4.896006655845624",
+          "latitude": "52.37133023011321"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=sJKymopqWrw",
+          "type": "VideoObject",
+          "name": "De Hongaarse Ziel in Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Prinsenhofsteeg",
+          "prefix": "gebleven. Eind jaren 50 verhuisde Hungaria Club naar de ",
+          "suffix": ".\nKoningin Juliana zorgde ervoor dat ze het lokaal voor"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=167.165,185.178"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "71933d84-e2ea-4a68-a44d-a2ee34f8c4b5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=sJKymopqWrw",
+          "type": "VideoObject",
+          "name": "De Hongaarse Ziel in Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Koningin Juliana",
+          "prefix": "jaren 50 verhuisde Hungaria Club naar de Prinsenhofsteeg.\n",
+          "suffix": " zorgde ervoor dat ze het lokaal voor één gulden per"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=185.198,203.116"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "58631459-1a5d-4719-9aab-c8447ee98c6e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=sJKymopqWrw",
+          "type": "VideoObject",
+          "name": "De Hongaarse Ziel in Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "taartje",
+          "prefix": "wel prettig om één keer in de week je eigen ",
+          "suffix": " te spreken en Hongaarse gewoontes te behouden.\nEr was ook"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=185.198,203.116"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7b2484cb-b305-445e-9e40-77a454840eff",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=sJKymopqWrw",
+          "type": "VideoObject",
+          "name": "De Hongaarse Ziel in Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "ouders",
+          "prefix": "niet zoveel meer vanaf omdat ik klein was. Maar mijn ",
+          "suffix": " hadden daar wel contact mee. En die hadden bijeenkomsten"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=223.868,240.693"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "99a15432-0312-4732-9524-a441a25f00d8",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=sJKymopqWrw",
+          "type": "VideoObject",
+          "name": "De Hongaarse Ziel in Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "hadden bijeenkomsten en die bezochten wij ook ergens in ",
+          "suffix": " in een café. Kleinste plein. Maar mijn ouders voelden"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=223.868,240.693"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0370a2f6-e934-4de3-acc2-7bea74c9963d",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=sJKymopqWrw",
+          "type": "VideoObject",
+          "name": "De Hongaarse Ziel in Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "ouders",
+          "prefix": "in Amsterdam in een café. Kleinste plein. Maar mijn ",
+          "suffix": " voelden zich daar niet zo prettig.\n Er waren mensen bij"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=223.868,240.693"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8df077d4-8336-4c20-84a5-8eef8f3fc146",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=sJKymopqWrw",
+          "type": "VideoObject",
+          "name": "De Hongaarse Ziel in Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "ouders",
+          "prefix": "gezongen en later op de avond was iedereen dronken. Mijn ",
+          "suffix": " voelden zich in deze sfeer van huilerige vaatlansliefde"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=241.842,258.853"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2cd0a21e-6df9-47c3-b618-8c7c21681cfd",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=sJKymopqWrw",
+          "type": "VideoObject",
+          "name": "De Hongaarse Ziel in Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Hoogaard",
+          "prefix": "andere achtergrond had.\nIk vind het nu leuker om ook ",
+          "suffix": " te zijn dan toen ik als kind hier kwam. Ik"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=274.841,289.325"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "58a5f864-2afe-4ab9-a7e2-6e65db1aaab5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=sJKymopqWrw",
+          "type": "VideoObject",
+          "name": "De Hongaarse Ziel in Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Hoogaardse Club",
+          "prefix": "best een hele leuke tijd gehad. Als ik in de ",
+          "suffix": " ben dan...  dan ben ik al gaar.\nDe Nederlandse"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=289.365,300.614"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f3d8320e-9674-4302-b403-c9c1fc2b8962",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "identiteit",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=sJKymopqWrw",
+          "type": "VideoObject",
+          "name": "De Hongaarse Ziel in Amsterdam"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9167c57d-a792-45dd-92b8-f0691b64f233",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "cultuur",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=sJKymopqWrw",
+          "type": "VideoObject",
+          "name": "De Hongaarse Ziel in Amsterdam"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6f7ae206-c5ba-46f1-901c-4a697a47cf1e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "integratie",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=sJKymopqWrw",
+          "type": "VideoObject",
+          "name": "De Hongaarse Ziel in Amsterdam"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "26cc23cf-21a3-4885-827c-33e708a1eb7e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "herinneringen",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=sJKymopqWrw",
+          "type": "VideoObject",
+          "name": "De Hongaarse Ziel in Amsterdam"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "29f6621f-5415-42f0-9b46-3df7506e01eb",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "verbondenheid",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=sJKymopqWrw",
+          "type": "VideoObject",
+          "name": "De Hongaarse Ziel in Amsterdam"
+        }
+      ]
+    }
+  }
+]

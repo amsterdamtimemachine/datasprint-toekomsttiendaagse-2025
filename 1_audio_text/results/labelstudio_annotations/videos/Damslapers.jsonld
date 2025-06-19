@@ -1,0 +1,1221 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5a10ef62-10fa-438c-8797-ddb16c6efd46",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "toeristen overnachten deze zomer bij mooi weer buiten in ",
+          "suffix": ". Een deel van hen op de damp. Het monument"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=4.664,22.256"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6d1fae04-586c-43ec-92ca-4430f24c2c11",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "is.\n ***  Ze waren er gewoon. Ja, ik woonde in ",
+          "suffix": " en dat hoorde bij Amsterdam. Dus ik hoorde niet op"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=70.045,84.548"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "017bb7c1-be62-4b88-9187-13584e4a3cbe",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "gewoon. Ja, ik woonde in Amsterdam en dat hoorde bij ",
+          "suffix": ". Dus ik hoorde niet op een bepaalde dag van,"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=70.045,84.548"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1956046f-aab4-4790-9f22-06198a3c5de7",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Occupation",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "damslapers",
+          "prefix": "hoorde niet op een bepaalde dag van, hé, er zijn ",
+          "suffix": ". Dat wist je gewoon.\nVredeliefhond, er werd muziek"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=70.045,84.548"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "31ab03b2-2456-44dd-900d-5746411e7a54",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q839050",
+          "type": "Place",
+          "label": "Dam"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/dam/880",
+          "type": "Place",
+          "label": "Dam",
+          "longitude": "4.893052563826873",
+          "latitude": "52.37297034161908"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "dam",
+          "prefix": "veel mensen met gitaren. En er werd gehangen op de ",
+          "suffix": " en uren, uren, uren lang. Er sliepen toch vooral mensen"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=84.608,103.773"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a9c9c697-6353-4248-bacb-f71a689dbb7e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "uren, uren lang. Er sliepen toch vooral mensen van buiten ",
+          "suffix": ". Dus buitenlanders, maar ook uit de provincie.\n Ik ken"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=84.608,103.773"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "af7c70be-f3dd-4bff-a8ef-db93e6e37970",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "provincie",
+          "prefix": "van buiten Amsterdam. Dus buitenlanders, maar ook uit de ",
+          "suffix": ".\n Ik ken niemand uit mijn omgeving die in Amsterdam"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=84.608,103.773"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "31d88123-0eca-4f07-9ee7-4f0bed9d4f8b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "de provincie.\n Ik ken niemand uit mijn omgeving die in ",
+          "suffix": " die leeftijd had, die ik toen had, zeg 17, 18"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=105.114,121.464"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f86a8e26-6062-4d6b-9ee2-91d3fd0c0891",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/duitsland/476",
+          "type": "Place",
+          "label": "Duitsland",
+          "longitude": "4.877507415139207",
+          "latitude": "52.36167490704015"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Duitsland",
+          "prefix": "hier onder de jonge mensen heel interessant, wat het in ",
+          "suffix": " niet graag is. Waarom is dat niet in Duitsland?\n Er"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=105.114,121.464"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "36b832c4-4474-44f7-aa3e-2ed894eeb050",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/duitsland/476",
+          "type": "Place",
+          "label": "Duitsland",
+          "longitude": "4.877507415139207",
+          "latitude": "52.36167490704015"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Duitsland",
+          "prefix": "in Duitsland niet graag is. Waarom is dat niet in ",
+          "suffix": "?\n Er waren mensen in die tijd die de damslapers"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=105.114,121.464"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "db1c4c4c-434e-44bd-b899-6d7f0f0d9f31",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "mensen",
+          "prefix": "graag is. Waarom is dat niet in Duitsland?\n Er waren ",
+          "suffix": " in die tijd die de damslapers langhaarig werktuig"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=121.924,126.649"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7b4a21e0-d0ea-4f46-afc5-bc6fc95dd589",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "mensen",
+          "prefix": "werktuig noemden.\n Dat was het oordeel toch van ",
+          "suffix": " die vonden je moest carrière maken en geld verdienen als"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=146.955,166.231"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "92695504-2db8-454b-b0e1-f8e71e8bc5df",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q839050",
+          "type": "Place",
+          "label": "Dam"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/dam/880",
+          "type": "Place",
+          "label": "Dam",
+          "longitude": "4.893052563826873",
+          "latitude": "52.37297034161908"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "dam",
+          "prefix": "verdienen als waarde in het leven. Dat hangen op die ",
+          "suffix": " en die haren laten groeien, dat was allemaal niks. Heel"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=146.955,166.231"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4af2fdb4-d431-4566-b4c3-4175fe53cdaa",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "mensen",
+          "prefix": "die haren laten groeien, dat was allemaal niks. Heel veel ",
+          "suffix": " waren ons aan het bekijken van kijk die nou eens"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=146.955,166.231"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1efab94d-f76a-4642-a48e-03ebf968bb17",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q839050",
+          "type": "Place",
+          "label": "Dam"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/dam/880",
+          "type": "Place",
+          "label": "Dam",
+          "longitude": "4.893052563826873",
+          "latitude": "52.37297034161908"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "dam",
+          "prefix": "het bekijken van kijk die nou eens zitten op de ",
+          "suffix": ".\nMensen kijken niet alleen, ze hebben er ook last"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=166.291,178.912"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c2534b15-6536-4c41-8f1d-6fb316c73db8",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Mensen",
+          "prefix": "bekijken van kijk die nou eens zitten op de dam.\n",
+          "suffix": " kijken niet alleen, ze hebben er ook last van. Dat"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=166.291,178.912"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "bc1d6c02-7f2d-4713-9259-b2fe02d843f7",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Veteranen",
+          "prefix": "artikelen met die vesten.  Slapen op een oorlogsmonument? ",
+          "suffix": " vinden dat ontheiliging.\n Het was niet zo, we zetten ons"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=166.291,178.912"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f8e71346-99d3-43c9-b7e7-2d6e09605760",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Tweede Wereldoorlog",
+          "prefix": "nog wat af, maar niet tegenover de slachtoffers van de ",
+          "suffix": ". Dat hoorde niet bij dat afzet.\nAls u bijvoorbeeld"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=187.782,197.924"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ef70725c-5765-42b9-972e-913f9350650a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "jongens",
+          "prefix": "middelen en het gebruik daarvan, wat door vele van deze ",
+          "suffix": " dan niet direct als crimineel wordt gezien, maar dat toch"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=197.964,209.327"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2378eaf8-9e67-41e4-ae0e-bbcada2345d2",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "1969",
+          "prefix": "maatregelen werden getroffen, dat was in ieder geval in ",
+          "suffix": ". Voor zover ik me kan herinneren. Nee, dat drong"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=220.595,238.309"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7cfb71a7-0a69-4e56-b81e-ab65a6e0f8c4",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Occupation",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "mariniers",
+          "prefix": "niet zo door. Het was pas later dat ook die ",
+          "suffix": " naar de Dam kwamen en zo. Dat was 70, 71"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=220.595,238.309"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f0d4599e-b962-459b-bd0d-11ea420a2f38",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "de Dam",
+          "prefix": "door. Het was pas later dat ook die mariniers naar ",
+          "suffix": " kwamen en zo. Dat was 70, 71 denk ik.\nJa,"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=220.595,238.309"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5437a636-8f15-420a-b710-4084b18775f0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "1970",
+          "prefix": "toen werd de sfeer wat grimmiger.  In de zomer van ",
+          "suffix": " is burgemeester Ivo Samkalde het zat. Na diverse rellen"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=239.51,257.588"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c2ca9299-9dc0-40f0-88e6-055f21ee09ae",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Ivo Samkalde",
+          "prefix": "wat grimmiger.  In de zomer van 1970 is burgemeester ",
+          "suffix": " het zat. Na diverse rellen met damslapers verbiedt hij"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=239.51,257.588"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "fdd38966-19c0-4aa7-8078-7d492ac29ab3",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q839050",
+          "type": "Place",
+          "label": "Dam"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/dam/880",
+          "type": "Place",
+          "label": "Dam",
+          "longitude": "4.893052563826873",
+          "latitude": "52.37297034161908"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "dam",
+          "prefix": "met damslapers verbiedt hij het slapen op en rondom de ",
+          "suffix": ". En zo komt er een eind aan de dam"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=239.51,257.588"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "369b3166-99c3-4b7f-a130-c09c4a4de88c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q839050",
+          "type": "Place",
+          "label": "Dam"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/dam/880",
+          "type": "Place",
+          "label": "Dam",
+          "longitude": "4.893052563826873",
+          "latitude": "52.37297034161908"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "dam",
+          "prefix": "de dam. En zo komt er een eind aan de ",
+          "suffix": " als magisch centrum."
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=239.51,257.588"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f800cd2a-44aa-49aa-ac3c-693d719ac86e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Occupation",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "MUZIEK",
+          "prefix": "komt er een eind aan de dam als magisch centrum.\n",
+          "suffix": ""
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "995e5dcf-9bb7-4b36-a4b3-61b86196f6cc",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "de hoogste tijd om op te staan, vindt de gemeente ",
+          "suffix": ". Het monument moet namelijk worden opgepoetst.  Ik had"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=22.276,40.802"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "545aee5a-cf28-422a-9d58-6db5a9cd3f7d",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "vrijheid",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "da22cbc2-ca25-4c53-b6ea-fa8a3d755121",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "jeugd",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d9ab25a6-0295-44cd-a1df-b17bf3b505da",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "identiteit",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "fadd20f2-b6d7-4fc2-9a08-60e9c086e903",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "creativiteit",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0cb0df06-f070-4890-8165-0fc68e63c000",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "geschiedenis",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=dvoGhlN3H8w",
+          "type": "VideoObject",
+          "name": "Damslapers"
+        }
+      ]
+    }
+  }
+]

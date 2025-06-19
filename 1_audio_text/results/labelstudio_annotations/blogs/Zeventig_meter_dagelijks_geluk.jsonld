@@ -1,0 +1,504 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "73de9784-6884-4558-8d73-3f3d5bb6dc6a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274337/zeventig-meter-dagelijks-geluk",
+          "type": "BlogPosting",
+          "name": "Zeventig meter dagelijks geluk"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Roos Bots",
+          "prefix": "",
+          "suffix": ", geboren en getogen Amsterdamse, was voor de coronacrisis"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5cc464f8-7680-4fbe-8afe-90f9bbe8b214",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q190804",
+          "type": "Place",
+          "label": "Rijksmuseum"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/rijksmuseum/1223",
+          "type": "Place",
+          "label": "Rijksmuseum",
+          "longitude": "4.885163439261359",
+          "latitude": "52.36001248770507"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274337/zeventig-meter-dagelijks-geluk",
+          "type": "BlogPosting",
+          "name": "Zeventig meter dagelijks geluk"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Rijksmuseum",
+          "prefix": "was voor de coronacrisis bijna elke maand in het ",
+          "suffix": " te vinden. Dan ging ze met een vaste groep vriendinnen,"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "59738247-9535-45fb-91a3-eceefd9b14cf",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Occupation",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274337/zeventig-meter-dagelijks-geluk",
+          "type": "BlogPosting",
+          "name": "Zeventig meter dagelijks geluk"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "gids",
+          "prefix": "vertelde. \"Dat waren hele vrolijke toestanden.\" Ook als ",
+          "suffix": " is ze hier vaak geweest. Vandaag is de eerste keer"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "44094c94-968e-4571-a1a3-4eba4e14093f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274337/zeventig-meter-dagelijks-geluk",
+          "type": "BlogPosting",
+          "name": "Zeventig meter dagelijks geluk"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "februari",
+          "prefix": "ze hier vaak geweest. Vandaag is de eerste keer sinds ",
+          "suffix": ". Deze keer met mondkapje, een vooraf gereserveerd ticket"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d9b6b9e7-de61-4f5e-a734-7d51c7e2698c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274337/zeventig-meter-dagelijks-geluk",
+          "type": "BlogPosting",
+          "name": "Zeventig meter dagelijks geluk"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Roos",
+          "prefix": "bij binnenkomst.\nNa een propedeuse kunstgeschiedenis is ",
+          "suffix": " afgestudeerd als klassiek archeologe. Inmiddels heeft ze"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5ee77e00-2fc6-43b3-8887-e43a2a14a026",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274337/zeventig-meter-dagelijks-geluk",
+          "type": "BlogPosting",
+          "name": "Zeventig meter dagelijks geluk"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "ze namelijk een paar keer per jaar rondleidingen door ",
+          "suffix": ". Ze beschouwt dit als een uit de hand gelopen"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3a09e568-9610-4ed7-b6fe-556a7358fa43",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274337/zeventig-meter-dagelijks-geluk",
+          "type": "BlogPosting",
+          "name": "Zeventig meter dagelijks geluk"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "als een uit de hand gelopen hobby. Bijna overal in ",
+          "suffix": " heeft ze rondleidingen gegeven: van de Watergraafsmeer"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1cd92dee-04b0-4fae-b49f-ecdcdb1aa5f5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q1936132",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274337/zeventig-meter-dagelijks-geluk",
+          "type": "BlogPosting",
+          "name": "Zeventig meter dagelijks geluk"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Watergraafsmeer",
+          "prefix": "in Amsterdam heeft ze rondleidingen gegeven: van de ",
+          "suffix": " tot hier, het Rijksmuseum. Een bijzondere plek, waar haar"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "06c94b64-6ba7-45a9-a199-1d724a3e6e07",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274337/zeventig-meter-dagelijks-geluk",
+          "type": "BlogPosting",
+          "name": "Zeventig meter dagelijks geluk"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Rembrandt",
+          "prefix": "wat mij ontroert, zoals het Joodse Bruidje. Dat is ",
+          "suffix": " op z’n best. Ook de mutsen van de walvisvaarders vind"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5cf65665-b07b-41fd-96cf-203354e4f7ca",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274337/zeventig-meter-dagelijks-geluk",
+          "type": "BlogPosting",
+          "name": "Zeventig meter dagelijks geluk"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Afghanistan",
+          "prefix": "uit. \"Er zat in die groep ook een man uit ",
+          "suffix": ". Ik vertelde hem toen dat de blauwe verf die"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5b758915-f938-413b-84e3-5156b2b48254",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274337/zeventig-meter-dagelijks-geluk",
+          "type": "BlogPosting",
+          "name": "Zeventig meter dagelijks geluk"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Vermeer",
+          "prefix": "Afghanistan. Ik vertelde hem toen dat de blauwe verf die ",
+          "suffix": " gebruikt, gemaakt is van lapis lazuli, wat destijds uit"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f7e45ad3-d497-46b6-8d48-013b83cc98c6",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274337/zeventig-meter-dagelijks-geluk",
+          "type": "BlogPosting",
+          "name": "Zeventig meter dagelijks geluk"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Afghanistan",
+          "prefix": "gebruikt, gemaakt is van lapis lazuli, wat destijds uit ",
+          "suffix": " werd gehaald.\" Zo probeert ze tijdens haar rondleidingen"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8a83f02f-d87c-4d55-a720-6169fb75ebbb",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "cultuur",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274337/zeventig-meter-dagelijks-geluk",
+          "type": "BlogPosting",
+          "name": "Zeventig meter dagelijks geluk"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "94839fe4-1cc4-4858-870e-64b049ad97e0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "/geen thema's/",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274337/zeventig-meter-dagelijks-geluk",
+          "type": "BlogPosting",
+          "name": "Zeventig meter dagelijks geluk"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9daf476e-0dd4-4be7-a241-3a37f76d1d5b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "vriendschap",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274337/zeventig-meter-dagelijks-geluk",
+          "type": "BlogPosting",
+          "name": "Zeventig meter dagelijks geluk"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "565cb919-0fde-400d-a4e5-04fc114008ae",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "corona",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274337/zeventig-meter-dagelijks-geluk",
+          "type": "BlogPosting",
+          "name": "Zeventig meter dagelijks geluk"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6c6975b7-2a46-4a61-b791-2d969416fe87",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "verandering",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1274337/zeventig-meter-dagelijks-geluk",
+          "type": "BlogPosting",
+          "name": "Zeventig meter dagelijks geluk"
+        }
+      ]
+    }
+  }
+]

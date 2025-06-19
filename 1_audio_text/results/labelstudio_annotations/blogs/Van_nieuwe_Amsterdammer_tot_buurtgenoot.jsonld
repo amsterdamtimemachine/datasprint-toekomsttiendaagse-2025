@@ -1,0 +1,838 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f6c0bdcb-ee28-413e-9e01-89f51bdb82cc",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2329670/van-nieuwe-amsterdammer-tot-buurtgenoot",
+          "type": "BlogPosting",
+          "name": "Van nieuwe Amsterdammer tot buurtgenoot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Jordy",
+          "prefix": "ik bij ",
+          "suffix": " (24) een koffie bestel en met hem aan de praat"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2a091f4b-12b1-40c6-bed0-2185fe2de746",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2329670/van-nieuwe-amsterdammer-tot-buurtgenoot",
+          "type": "BlogPosting",
+          "name": "Van nieuwe Amsterdammer tot buurtgenoot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "koffie",
+          "prefix": "ik bij Jordy (24) een ",
+          "suffix": " bestel en met hem aan de praat raak, vraag ik"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7de7e5d4-bb09-4f26-9d0c-de54920c3864",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2329670/van-nieuwe-amsterdammer-tot-buurtgenoot",
+          "type": "BlogPosting",
+          "name": "Van nieuwe Amsterdammer tot buurtgenoot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "de praat raak, vraag ik naar zijn favoriete plek in ",
+          "suffix": ". Hier hoeft hij niet lang over na te denken:"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d3d03e9c-2c54-4221-a65e-609c8fde0a0a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q18951508",
+          "type": "Place",
+          "label": "Beukenplein"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/beukenplein/428",
+          "type": "Place",
+          "label": "Beukenplein",
+          "longitude": "4.918082562480883",
+          "latitude": "52.357136892821856"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2329670/van-nieuwe-amsterdammer-tot-buurtgenoot",
+          "type": "BlogPosting",
+          "name": "Van nieuwe Amsterdammer tot buurtgenoot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Beukenplein",
+          "prefix": "dat zijn werkplek, een koffietentje gelegen aan het ",
+          "suffix": " in Oost, voor hem de favoriete plek is, voelt Bru"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "53b241cd-ca66-423b-8fe2-3ea6d129ca2c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q478608",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2329670/van-nieuwe-amsterdammer-tot-buurtgenoot",
+          "type": "BlogPosting",
+          "name": "Van nieuwe Amsterdammer tot buurtgenoot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Oost",
+          "prefix": "werkplek, een koffietentje gelegen aan het Beukenplein in ",
+          "suffix": ", voor hem de favoriete plek is, voelt Bru voor"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9369927b-d36f-4f35-88d8-4c4f6c51b769",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2329670/van-nieuwe-amsterdammer-tot-buurtgenoot",
+          "type": "BlogPosting",
+          "name": "Van nieuwe Amsterdammer tot buurtgenoot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Bru",
+          "prefix": "Beukenplein in Oost, voor hem de favoriete plek is, voelt ",
+          "suffix": " voor hem als tweede thuis. Oorspronkelijk uit Brabant,"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f2b32295-6f39-4a70-9a03-d96d1686d956",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2329670/van-nieuwe-amsterdammer-tot-buurtgenoot",
+          "type": "BlogPosting",
+          "name": "Van nieuwe Amsterdammer tot buurtgenoot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Brabant",
+          "prefix": "voelt Bru voor hem als tweede thuis. Oorspronkelijk uit ",
+          "suffix": ", woont hij pas sinds vier maanden in Amsterdam, maar"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "eb191fde-1442-463a-982f-d136d112a79e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2329670/van-nieuwe-amsterdammer-tot-buurtgenoot",
+          "type": "BlogPosting",
+          "name": "Van nieuwe Amsterdammer tot buurtgenoot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "uit Brabant, woont hij pas sinds vier maanden in ",
+          "suffix": ", maar toch heeft hij zijn plek in de stad"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4cc0ee35-3e1c-4cf2-a406-060e84a97f2e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q478608",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2329670/van-nieuwe-amsterdammer-tot-buurtgenoot",
+          "type": "BlogPosting",
+          "name": "Van nieuwe Amsterdammer tot buurtgenoot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Oost",
+          "prefix": "heeft hij zijn plek in de stad al gevonden: ‘",
+          "suffix": " is echt mijn buurtje geworden.’\nBru is een koffietentje"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "066943a9-a926-4a7b-af9b-346c76091b80",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2329670/van-nieuwe-amsterdammer-tot-buurtgenoot",
+          "type": "BlogPosting",
+          "name": "Van nieuwe Amsterdammer tot buurtgenoot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "versgemalen bonen",
+          "prefix": "geworden.’\nBru is een koffietentje waar de geur van ",
+          "suffix": " in de lucht hangt en er een relaxte sfeer heerst."
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9c0f0eec-a21e-4f6a-ad43-5fe434f30e26",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2329670/van-nieuwe-amsterdammer-tot-buurtgenoot",
+          "type": "BlogPosting",
+          "name": "Van nieuwe Amsterdammer tot buurtgenoot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Jordy",
+          "prefix": "die hier vaak meekomen, maken het nóg gezelliger’, aldus ",
+          "suffix": ". Ook de collega’s, met wie hij inmiddels vrienden is"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d46db05b-db56-46fa-8e87-2b02ecf77f43",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2329670/van-nieuwe-amsterdammer-tot-buurtgenoot",
+          "type": "BlogPosting",
+          "name": "Van nieuwe Amsterdammer tot buurtgenoot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Jordy",
+          "prefix": "om, tot zo’n fijne plek maakt, is dat het volgens ",
+          "suffix": " niet alleen zijn werkplek is, maar een plek van"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9cd7c4ad-e006-436b-9e1d-2773adea1240",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2329670/van-nieuwe-amsterdammer-tot-buurtgenoot",
+          "type": "BlogPosting",
+          "name": "Van nieuwe Amsterdammer tot buurtgenoot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "plek van verbinding. Hij vertelt dat hij vindt dat in ",
+          "suffix": " weinig ‘echt contact’ met elkaar gemaakt wordt, in"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ef21d55e-881a-439c-9e45-791b25903844",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2329670/van-nieuwe-amsterdammer-tot-buurtgenoot",
+          "type": "BlogPosting",
+          "name": "Van nieuwe Amsterdammer tot buurtgenoot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Brabant",
+          "prefix": "contact’ met elkaar gemaakt wordt, in tegenstelling tot ",
+          "suffix": " waar mensen elkaar op straat begroeten en stoppen om een"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "68bb1d81-ba45-410b-b372-64217e704f72",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q18951508",
+          "type": "Place",
+          "label": "Beukenplein"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/beukenplein/428",
+          "type": "Place",
+          "label": "Beukenplein",
+          "longitude": "4.918082562480883",
+          "latitude": "52.357136892821856"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2329670/van-nieuwe-amsterdammer-tot-buurtgenoot",
+          "type": "BlogPosting",
+          "name": "Van nieuwe Amsterdammer tot buurtgenoot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Beukenplein",
+          "prefix": "te maken. Gelukkig ziet hij dit wel gebeuren op het ",
+          "suffix": ", waar zijn werkplek een onderdeel van uitmaakt. De"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2da2e85c-8e51-46dc-82d2-60f257f0b1be",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2329670/van-nieuwe-amsterdammer-tot-buurtgenoot",
+          "type": "BlogPosting",
+          "name": "Van nieuwe Amsterdammer tot buurtgenoot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Jordy",
+          "prefix": "om een lokaal krantje te lezen. Het zijn dan volgens ",
+          "suffix": " ook vooral buurtbewoners die hier komen: ‘ik kom vaste"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "94801f6f-01be-4f31-ab8b-772f9efd0223",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2329670/van-nieuwe-amsterdammer-tot-buurtgenoot",
+          "type": "BlogPosting",
+          "name": "Van nieuwe Amsterdammer tot buurtgenoot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Jordy",
+          "prefix": "krijgt wanneer hij pas kort aan het werk is: ‘Welkom ",
+          "suffix": ". Erg fijn dat jij de nieuwe aanwinst bent van"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "121eb7e9-6801-4694-b033-a4fd8e4d2bb6",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q18951508",
+          "type": "Place",
+          "label": "Beukenplein"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/beukenplein/428",
+          "type": "Place",
+          "label": "Beukenplein",
+          "longitude": "4.918082562480883",
+          "latitude": "52.357136892821856"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2329670/van-nieuwe-amsterdammer-tot-buurtgenoot",
+          "type": "BlogPosting",
+          "name": "Van nieuwe Amsterdammer tot buurtgenoot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Beukenplein",
+          "prefix": "hoe kort of kleinschalig ook, zorgt ervoor dat het ",
+          "suffix": ", en Oost, voor Jordy aanvoelen als een dorp in"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "88f49c7e-0011-4407-b20e-cce3a0c8b897",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q478608",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2329670/van-nieuwe-amsterdammer-tot-buurtgenoot",
+          "type": "BlogPosting",
+          "name": "Van nieuwe Amsterdammer tot buurtgenoot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Oost",
+          "prefix": "of kleinschalig ook, zorgt ervoor dat het Beukenplein, en ",
+          "suffix": ", voor Jordy aanvoelen als een dorp in een grote"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3ff9b2f5-1bb0-4b07-a91b-cd5c51b2d36b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2329670/van-nieuwe-amsterdammer-tot-buurtgenoot",
+          "type": "BlogPosting",
+          "name": "Van nieuwe Amsterdammer tot buurtgenoot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Jordy",
+          "prefix": "ook, zorgt ervoor dat het Beukenplein, en Oost, voor ",
+          "suffix": " aanvoelen als een dorp in een grote stad. Hierdoor voelt"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "94335d71-eec1-4c67-9fdf-81b61576cc21",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2329670/van-nieuwe-amsterdammer-tot-buurtgenoot",
+          "type": "BlogPosting",
+          "name": "Van nieuwe Amsterdammer tot buurtgenoot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Jordy",
+          "prefix": "voelt hij zich geen moment eenzaam na zijn verhuizing.\n",
+          "suffix": " droomt ervan om ooit zijn eigen koffietentje te openen,"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "13cb2754-b13c-438c-9c6a-6c1719d19322",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "thuisgevoel",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2329670/van-nieuwe-amsterdammer-tot-buurtgenoot",
+          "type": "BlogPosting",
+          "name": "Van nieuwe Amsterdammer tot buurtgenoot"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "70fa4b36-09b0-492d-a73b-8ce154ae01bd",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "woonplaats",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2329670/van-nieuwe-amsterdammer-tot-buurtgenoot",
+          "type": "BlogPosting",
+          "name": "Van nieuwe Amsterdammer tot buurtgenoot"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d2c23035-e457-478f-8b6d-fcd1497a68c5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "geen tekst ontvangen",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2329670/van-nieuwe-amsterdammer-tot-buurtgenoot",
+          "type": "BlogPosting",
+          "name": "Van nieuwe Amsterdammer tot buurtgenoot"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e2bef3fc-e3e2-410b-b50a-aa9ebedd1900",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "dus:",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2329670/van-nieuwe-amsterdammer-tot-buurtgenoot",
+          "type": "BlogPosting",
+          "name": "Van nieuwe Amsterdammer tot buurtgenoot"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1628607e-eea1-4bf8-bb1d-cf682128aa2d",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "verbondenheid",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2329670/van-nieuwe-amsterdammer-tot-buurtgenoot",
+          "type": "BlogPosting",
+          "name": "Van nieuwe Amsterdammer tot buurtgenoot"
+        }
+      ]
+    }
+  }
+]

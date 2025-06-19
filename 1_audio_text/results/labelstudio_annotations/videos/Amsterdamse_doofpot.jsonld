@@ -1,0 +1,788 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "cc3fc8a2-a31a-4513-aec1-5f52a62cb8e9",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nxBhv3VQXn8",
+          "type": "VideoObject",
+          "name": "Amsterdamse doofpot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Indië",
+          "prefix": "viaductje en dan hier in de meisjes terecht is gekomen.\n ",
+          "suffix": " behoeft thans meer dan ooit vrede en veiligheid. Aan de"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=27.533,40.439"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9f3e8d01-0258-404d-8318-adcf0ddb31ad",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/nederland/481",
+          "type": "Place",
+          "label": "Nederland",
+          "longitude": "4.877106594181554",
+          "latitude": "52.36156803916213"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nxBhv3VQXn8",
+          "type": "VideoObject",
+          "name": "Amsterdamse doofpot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nederland",
+          "prefix": "te misleiden en hun\n De communistische partij ",
+          "suffix": " roept in september 1946 op om te protesteren tegen de"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=55.59,67.026"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c7793aa5-3c2b-4008-b4a0-497322ae52d0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nxBhv3VQXn8",
+          "type": "VideoObject",
+          "name": "Amsterdamse doofpot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "september 1946",
+          "prefix": "en hun\n De communistische partij Nederland roept in ",
+          "suffix": " op om te protesteren tegen de uitzending van Nederlandse"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=55.59,67.026"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "34d0af3a-5f09-4c04-8ff6-37c2e0600826",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Occupation",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nxBhv3VQXn8",
+          "type": "VideoObject",
+          "name": "Amsterdamse doofpot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nederlandse militairen",
+          "prefix": "1946 op om te protesteren tegen de uitzending van ",
+          "suffix": " naar Indonesië.\n Vlak na de oorlog hadden de CPN ook"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=55.59,67.026"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1ff8bc40-4c22-41bd-b55f-83204e91e7a1",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nxBhv3VQXn8",
+          "type": "VideoObject",
+          "name": "Amsterdamse doofpot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Indonesië",
+          "prefix": "tegen de uitzending van Nederlandse militairen naar ",
+          "suffix": ".\n Vlak na de oorlog hadden de CPN ook iets"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=55.59,67.026"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "bd1422f8-0199-4c45-91b6-228e019c69f9",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nxBhv3VQXn8",
+          "type": "VideoObject",
+          "name": "Amsterdamse doofpot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "CPN ook iets van 10% van de stemmen. En in ",
+          "suffix": " bijvoorbeeld nog veel meer. En de waarheid, zelfs nog een"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=71.489,85.336"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "73e84ba6-9a1c-4f35-8ca1-736eee4a4314",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nxBhv3VQXn8",
+          "type": "VideoObject",
+          "name": "Amsterdamse doofpot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Indonesiërs",
+          "prefix": "duizenden mensen opgekomen. Omdat ze van mening waren dat ",
+          "suffix": " het recht hadden op celbestekking. Zaterdagavond 21"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=103.996,123.281"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3359dc22-3b9c-4ae6-af1e-1ddfa78ce621",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nxBhv3VQXn8",
+          "type": "VideoObject",
+          "name": "Amsterdamse doofpot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "21 september 1946",
+          "prefix": "het recht hadden op celbestekking. Zaterdagavond ",
+          "suffix": ". Vanuit het centrum loopt de menigte over de Nieuwe"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=103.996,123.281"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d88c4315-8c61-4dbf-82a2-fd6da448cf57",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/nieuwendijk/3198",
+          "type": "Place",
+          "label": "Nieuwe Dijk",
+          "longitude": "4.8949596725882225",
+          "latitude": "52.37615949809585"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nxBhv3VQXn8",
+          "type": "VideoObject",
+          "name": "Amsterdamse doofpot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nieuwe Dijk",
+          "prefix": "1946. Vanuit het centrum loopt de menigte over de ",
+          "suffix": " de Haarlemmerstraat in.\nDe politie houdt een"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=103.996,123.281"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4c3e3391-3a68-4905-a205-87b4cc461339",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q1921773",
+          "type": "Place",
+          "label": "Haarlemmerstraat"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/haarlemmerstraat/1629",
+          "type": "Place",
+          "label": "Haarlemmerstraat",
+          "longitude": "4.891845267068778",
+          "latitude": "52.380312907807586"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nxBhv3VQXn8",
+          "type": "VideoObject",
+          "name": "Amsterdamse doofpot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Haarlemmerstraat",
+          "prefix": "het centrum loopt de menigte over de Nieuwe Dijk de ",
+          "suffix": " in.\nDe politie houdt een dienstplichtige militair aan. De"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=103.996,123.281"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5b354f15-7b9c-46cb-8651-071091b98cf1",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nxBhv3VQXn8",
+          "type": "VideoObject",
+          "name": "Amsterdamse doofpot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Petrus Dobbelaan",
+          "prefix": "loopt uit de hand.  Een marechaussee lost een schot, ",
+          "suffix": " raakt de grond en blijft liggen. Hij heeft dus"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=123.321,142.579"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "fc2e58ec-1aee-4fad-a7a8-4154cae78c5c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nxBhv3VQXn8",
+          "type": "VideoObject",
+          "name": "Amsterdamse doofpot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Klaas",
+          "prefix": "wat gedaan en daar hebben ze hem al neergeschoten, ",
+          "suffix": ".\nMijn opa, wat is er met hem gebeurd? Ik"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=142.619,154.323"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "72601c8c-bbc5-46ec-ad48-8c07de429faa",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nxBhv3VQXn8",
+          "type": "VideoObject",
+          "name": "Amsterdamse doofpot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Halemestraat",
+          "prefix": "dat hij veel met de kerk bezig was.\n In de ",
+          "suffix": " heeft een demonstratie van 500 personen plaatsgehad tegen"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=165.426,181.349"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c5cb965f-f6c0-4d6f-90af-6ae20fe437a5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nxBhv3VQXn8",
+          "type": "VideoObject",
+          "name": "Amsterdamse doofpot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Indonesië",
+          "prefix": "plaatsgehad tegen de uitzending van militairen naar ",
+          "suffix": ".  Een van de associërs heeft een schot uit zijn"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=165.426,181.349"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ca7984c4-4f23-4bab-b261-e18eede81206",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nxBhv3VQXn8",
+          "type": "VideoObject",
+          "name": "Amsterdamse doofpot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Petrus Dovelaar",
+          "prefix": "dat er een man werd gewond.\nBij deze man, genaamd ",
+          "suffix": ", geboren in Amsterdam 13.9.1896, is de dood"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=181.389,201.315"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "78b471fa-2ee4-4502-8d60-bd415aa2794f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nxBhv3VQXn8",
+          "type": "VideoObject",
+          "name": "Amsterdamse doofpot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "gewond.\nBij deze man, genaamd Petrus Dovelaar, geboren in ",
+          "suffix": " 13.9.1896, is de dood geconstateerd. Hij was daar niet om"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=181.389,201.315"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7bbb37cb-e458-4aa7-ac93-755282ece2d0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nxBhv3VQXn8",
+          "type": "VideoObject",
+          "name": "Amsterdamse doofpot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "1948",
+          "prefix": "mogelijk uit de media gehouden.\nDat gebeurt tot in ",
+          "suffix": ", 1949 zie je dat kritische verhalen, kritische foto's"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=283.527,297.672"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b9a646bf-f7e2-4a3f-be06-8d77206ac8db",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nxBhv3VQXn8",
+          "type": "VideoObject",
+          "name": "Amsterdamse doofpot"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "1949",
+          "prefix": "mogelijk uit de media gehouden.\nDat gebeurt tot in 1948, ",
+          "suffix": " zie je dat kritische verhalen, kritische foto's eigenlijk"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=283.527,297.672"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e7b6ca11-d2f5-4f14-9ddc-034717a96ec7",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "geweld",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nxBhv3VQXn8",
+          "type": "VideoObject",
+          "name": "Amsterdamse doofpot"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "cdfac368-0574-456f-9ef5-5566854378ac",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "kolonialisme",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nxBhv3VQXn8",
+          "type": "VideoObject",
+          "name": "Amsterdamse doofpot"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1b5f2851-2abb-4abf-b422-5042bcec9711",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "censuur",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nxBhv3VQXn8",
+          "type": "VideoObject",
+          "name": "Amsterdamse doofpot"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "76eefb59-9cef-459c-adb6-0b498ae687e3",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "manipulatie",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nxBhv3VQXn8",
+          "type": "VideoObject",
+          "name": "Amsterdamse doofpot"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b9661216-56f3-4ac7-aaed-c6b2a24c95c9",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "politiek",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nxBhv3VQXn8",
+          "type": "VideoObject",
+          "name": "Amsterdamse doofpot"
+        }
+      ]
+    }
+  }
+]

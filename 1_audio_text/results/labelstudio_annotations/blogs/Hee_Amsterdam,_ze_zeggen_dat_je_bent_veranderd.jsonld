@@ -1,0 +1,964 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8a24378c-e99f-46f5-8f4a-14ac88e4e46a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nancy Degger",
+          "prefix": "kind woonde ",
+          "suffix": " (49) lange tijd in de Bos en Lommerbuurt, waar één"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d6119129-bf64-4fcd-ab80-81bf5dcb9e9c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q894343",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Bos en Lommerbuurt",
+          "prefix": "kind woonde Nancy Degger (49) lange tijd in de ",
+          "suffix": ", waar één gebouw in het oog sprong: de Kolenkit."
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "65dfb9e7-93be-4faf-a41f-39fce4e39c54",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Alkmaar",
+          "prefix": "de 48 meter hoge toren zag.\nNa enkele verhuizingen naar ",
+          "suffix": " en Weesp en een grote omzwerving van ruim vier jaar"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "232e0bfe-575e-410b-805a-c092a90173a0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Weesp",
+          "prefix": "hoge toren zag.\nNa enkele verhuizingen naar Alkmaar en ",
+          "suffix": " en een grote omzwerving van ruim vier jaar door Israël"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4134d372-47f7-43dd-a5c4-9b8a339da347",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Israël",
+          "prefix": "Weesp en een grote omzwerving van ruim vier jaar door ",
+          "suffix": " keerde Nancy in 1997 terug naar de stad waar ze"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "fa34ff58-3a81-4168-9b66-140a6fe8f93e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nancy",
+          "prefix": "grote omzwerving van ruim vier jaar door Israël keerde ",
+          "suffix": " in 1997 terug naar de stad waar ze was geboren."
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ed7e5f61-be75-4fa8-966c-04bdcbcc898a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "1997",
+          "prefix": "omzwerving van ruim vier jaar door Israël keerde Nancy in ",
+          "suffix": " terug naar de stad waar ze was geboren. Ze kon"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ebb5e4a2-f03d-4625-b81e-7c14280c877f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nancy",
+          "prefix": "dingen zoals de HEMA en Nederlandse tijdschriften. ",
+          "suffix": " streek neer in de Jordaan en is sindsdien niet meer"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1a5d3594-5fda-4ed4-ae39-3b628d701798",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q1401387",
+          "type": "Place",
+          "label": null
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/district/jordaan/626",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Jordaan",
+          "prefix": "en Nederlandse tijdschriften. Nancy streek neer in de ",
+          "suffix": " en is sindsdien niet meer vertrokken. “De typische"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "86426584-0d89-4919-8a03-3a77fe680659",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "de afgelopen twintig jaar ook niet veranderd”. \nHet echte ",
+          "suffix": " vind je, volgens Nancy, voornamelijk terug binnen de"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f5a77c24-beea-4eb5-932d-41b232ec0bb6",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nancy",
+          "prefix": "niet veranderd”. \nHet echte Amsterdam vind je, volgens ",
+          "suffix": ", voornamelijk terug binnen de ring. Zo heeft elke"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e5daf512-6fce-4058-a8f3-d31ebe1a54d7",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q1401387",
+          "type": "Place",
+          "label": null
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/district/jordaan/626",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Jordaan",
+          "prefix": "sfeer. Toch is geen enkele buurt Amsterdamser dan de ",
+          "suffix": ". “De kleine straatjes, die Jordanese sfeer en de kleine"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e43505e7-3cc9-4c9a-a9cf-77e955308ecb",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "naar op zoek moet tegenwoordig -, dat is het oude ",
+          "suffix": ".” \n“Natuurlijk is het allemaal een beetje veranderd in de"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "afe5b4b8-1269-43a5-a94c-85356b46adfe",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q1401387",
+          "type": "Place",
+          "label": null
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/district/jordaan/626",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Jordaan",
+          "prefix": "“Natuurlijk is het allemaal een beetje veranderd in de ",
+          "suffix": ". Het gaat gewoon met zijn tijd mee. Dat is"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3e93a3b5-48f1-4678-b362-dd90a1539a93",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q1401387",
+          "type": "Place",
+          "label": null
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/district/jordaan/626",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Jordaan",
+          "prefix": "mee. Dat is niet verkeerd, want uiteindelijk springt de ",
+          "suffix": " er wel nog steeds uit voor mij.” Eigenlijk houdt Nancy"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d9ab1e31-2725-471b-acdd-091925817838",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nancy",
+          "prefix": "Jordaan er wel nog steeds uit voor mij.” Eigenlijk houdt ",
+          "suffix": " gewoon zielsveel van Amsterdam: “Hoeveel steden je ook"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a288a81b-d083-406b-871d-b6be4e54fc2f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "uit voor mij.” Eigenlijk houdt Nancy gewoon zielsveel van ",
+          "suffix": ": “Hoeveel steden je ook bezoekt, ik zou nergens anders"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ce2eca23-8c01-4813-832f-a5eea22c4c5a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "ook bezoekt, ik zou nergens anders willen wonen dan in ",
+          "suffix": ".” \nNancy vindt dat er een belangrijke rol is weggelegd"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "025abfd6-4f54-4ab2-9b9e-056f19c2fd36",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nancy",
+          "prefix": "ik zou nergens anders willen wonen dan in Amsterdam.” \n",
+          "suffix": " vindt dat er een belangrijke rol is weggelegd voor het"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "615edccb-5e27-42ee-be9a-3e30573388f6",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "vindt dat er een belangrijke rol is weggelegd voor het ",
+          "suffix": " Museum in het vestigen van de aandacht op de"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "fcbab423-87a2-4e68-8cd6-9181d8602dd3",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nancy",
+          "prefix": "die in elkaar gezet is door bekende Amsterdammers.” \nAls ",
+          "suffix": " dan toch binnen de Jordaan één specifieke plek aan moest"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "39d26006-1d0f-42ab-8638-acba88213616",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q1401387",
+          "type": "Place",
+          "label": null
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/district/jordaan/626",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Jordaan",
+          "prefix": "bekende Amsterdammers.” \nAls Nancy dan toch binnen de ",
+          "suffix": " één specifieke plek aan moest wijzen dan is dat de"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7c93bbbd-44e3-4ff7-bd39-ae75a8f46cf7",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q2134520",
+          "type": "Place",
+          "label": "Bloemgracht"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/bloemgracht/503",
+          "type": "Place",
+          "label": "Bloemgracht",
+          "longitude": "4.879602909252939",
+          "latitude": "52.37449727921996"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Bloemgracht",
+          "prefix": "één specifieke plek aan moest wijzen dan is dat de ",
+          "suffix": ". “Een prachtig uitzicht en de mooiste gracht die er"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8293a397-d8bc-4e82-b268-79b6c409eb3a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "o",
+          "prefix": "“Natuurlijk is het allemaal een beetje veranderd in de J",
+          "suffix": "rdaan. Het gaat gewoon met zijn tijd mee. Dat is"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8913dec2-dc7f-4cb4-9558-6c8bd55cf9f9",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "identiteit",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5d6a853f-e3d3-4509-9cbd-77f7e955d2f1",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "geen tekst ontvangen",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "656597bb-919c-4f41-9fb3-f9ed83ff10dc",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "dus:",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ff582195-337d-46f6-b5d7-c9121efa657b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "jeugd",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e4a4661f-af22-4583-8450-0292a725d8f3",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "herinneringen",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,816 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3b270b21-095e-48bb-b8e5-88afc9af3214",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080894/geen-bavaria-in-een-amsterdamse-kroeg%E2%80%99",
+          "type": "BlogPosting",
+          "name": "'Geen Bavaria in een Amsterdamse kroeg’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Koos",
+          "prefix": "middag is nog jong en stamgast ",
+          "suffix": " is aan het genieten van een Amstelbiertje van de tap."
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "490ee6b7-d671-412c-b336-9ed9c283d1ab",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080894/geen-bavaria-in-een-amsterdamse-kroeg%E2%80%99",
+          "type": "BlogPosting",
+          "name": "'Geen Bavaria in een Amsterdamse kroeg’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Louis",
+          "prefix": "Amstelbiertje van de tap. ‘Ik zoek een jongeman’, zegt ",
+          "suffix": " (66) grappend en Koos kijkt verbaasd op. ‘Dan moet je"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "401e79a1-ea97-4483-aeb1-3b5e92d33f07",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080894/geen-bavaria-in-een-amsterdamse-kroeg%E2%80%99",
+          "type": "BlogPosting",
+          "name": "'Geen Bavaria in een Amsterdamse kroeg’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Koos",
+          "prefix": "tap. ‘Ik zoek een jongeman’, zegt Louis (66) grappend en ",
+          "suffix": " kijkt verbaasd op. ‘Dan moet je mij niet meer hebben’,"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2273ebb7-947b-4be0-a09d-757b3772777f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080894/geen-bavaria-in-een-amsterdamse-kroeg%E2%80%99",
+          "type": "BlogPosting",
+          "name": "'Geen Bavaria in een Amsterdamse kroeg’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Louis",
+          "prefix": "op. ‘Dan moet je mij niet meer hebben’, reageert hij. ",
+          "suffix": " draait zich om van de bar en geeft mij een"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3d82982f-630f-41b8-a0a2-8080f8b53290",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q19355228",
+          "type": "Place",
+          "label": "Nieuwebrugsteeg"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/nieuwebrugsteeg/3187",
+          "type": "Place",
+          "label": "Nieuwebrugsteeg",
+          "longitude": "4.8995800252397785",
+          "latitude": "52.376271527708724"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080894/geen-bavaria-in-een-amsterdamse-kroeg%E2%80%99",
+          "type": "BlogPosting",
+          "name": "'Geen Bavaria in een Amsterdamse kroeg’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nieuwebrugsteeg",
+          "prefix": "voor me’. Daar heeft hij gelijk in, want aan de ",
+          "suffix": " staat zijn café ‘Louis Bar’. Een imposant pand dat zich"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ddf31ca8-038e-4715-87cc-e3f9c58b307a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080894/geen-bavaria-in-een-amsterdamse-kroeg%E2%80%99",
+          "type": "BlogPosting",
+          "name": "'Geen Bavaria in een Amsterdamse kroeg’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Louis",
+          "prefix": "gelijk in, want aan de Nieuwebrugsteeg staat zijn café ‘",
+          "suffix": " Bar’. Een imposant pand dat zich op de plek van"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "344b5616-0e94-4f2e-9935-8cdce13752a3",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080894/geen-bavaria-in-een-amsterdamse-kroeg%E2%80%99",
+          "type": "BlogPosting",
+          "name": "'Geen Bavaria in een Amsterdamse kroeg’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "1618",
+          "prefix": "imposant pand dat zich op de plek van de in ",
+          "suffix": " afgebroken Sint Olofspoort bevindt. De kroeg en het pand"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e9429abf-1aef-4945-a337-66ce91d50ba5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q2227374",
+          "type": "Place",
+          "label": "Sint Olofspoort"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/sint-olofspoort/4108",
+          "type": "Place",
+          "label": "Sint Olofspoort",
+          "longitude": "4.899799140718994",
+          "latitude": "52.376309265413454"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080894/geen-bavaria-in-een-amsterdamse-kroeg%E2%80%99",
+          "type": "BlogPosting",
+          "name": "'Geen Bavaria in een Amsterdamse kroeg’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Sint Olofspoort",
+          "prefix": "dat zich op de plek van de in 1618 afgebroken ",
+          "suffix": " bevindt. De kroeg en het pand staan bol van de"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f8880df9-e989-4ab0-a85c-1d0a527d06a2",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080894/geen-bavaria-in-een-amsterdamse-kroeg%E2%80%99",
+          "type": "BlogPosting",
+          "name": "'Geen Bavaria in een Amsterdamse kroeg’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Louis",
+          "prefix": "De kroeg en het pand staan bol van de geschiedenis. ",
+          "suffix": " heeft weinig tijd, want de Amsterdamse drukte heeft"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ed817e44-1b19-441e-9d0f-8dbe710c4f1c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080894/geen-bavaria-in-een-amsterdamse-kroeg%E2%80%99",
+          "type": "BlogPosting",
+          "name": "'Geen Bavaria in een Amsterdamse kroeg’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Louis",
+          "prefix": "tientallen verhalen en het enthousiasme spat er vanaf. ",
+          "suffix": " wijdt ook graag wat aandacht aan het klassieke uiterlijk"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8bf1e55d-4653-4c15-8916-79fc7521e974",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080894/geen-bavaria-in-een-amsterdamse-kroeg%E2%80%99",
+          "type": "BlogPosting",
+          "name": "'Geen Bavaria in een Amsterdamse kroeg’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "maken, want dit is een van de mooiste gevels van ",
+          "suffix": "’. Als iedereen 50 cent neertelt voor een foto, kunnen"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0e54b1f4-6665-455b-b0b9-a1fdfc445d37",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080894/geen-bavaria-in-een-amsterdamse-kroeg%E2%80%99",
+          "type": "BlogPosting",
+          "name": "'Geen Bavaria in een Amsterdamse kroeg’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Louis",
+          "prefix": "Als iedereen 50 cent neertelt voor een foto, kunnen ",
+          "suffix": " en zijn dochter beide met pensioen. Het pand is namelijk"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "518c7ee7-10a9-4877-8aa3-7fe99987427a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080894/geen-bavaria-in-een-amsterdamse-kroeg%E2%80%99",
+          "type": "BlogPosting",
+          "name": "'Geen Bavaria in een Amsterdamse kroeg’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Hendrick de Keyser",
+          "prefix": "en is ontworpen door de bekende Amsterdamse architect ",
+          "suffix": ".\nLouis woont tegenwoordig in Hoofddorp maar heeft zich,"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e01ff5c3-1ce9-4125-b897-73f1b410dadb",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080894/geen-bavaria-in-een-amsterdamse-kroeg%E2%80%99",
+          "type": "BlogPosting",
+          "name": "'Geen Bavaria in een Amsterdamse kroeg’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Louis",
+          "prefix": "door de bekende Amsterdamse architect Hendrick de Keyser.\n",
+          "suffix": " woont tegenwoordig in Hoofddorp maar heeft zich, toen hij"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ca7d87f6-aa82-44be-b464-349be3abd5eb",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080894/geen-bavaria-in-een-amsterdamse-kroeg%E2%80%99",
+          "type": "BlogPosting",
+          "name": "'Geen Bavaria in een Amsterdamse kroeg’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Hoofddorp",
+          "prefix": "architect Hendrick de Keyser.\nLouis woont tegenwoordig in ",
+          "suffix": " maar heeft zich, toen hij in Amsterdam woonde, 33 jaar"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8615ea35-d031-4fe6-8280-de900966dc63",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080894/geen-bavaria-in-een-amsterdamse-kroeg%E2%80%99",
+          "type": "BlogPosting",
+          "name": "'Geen Bavaria in een Amsterdamse kroeg’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "tegenwoordig in Hoofddorp maar heeft zich, toen hij in ",
+          "suffix": " woonde, 33 jaar over de toog ontfermd in zijn"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "db9939fc-04a1-4203-af42-8d9f1bfd0651",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080894/geen-bavaria-in-een-amsterdamse-kroeg%E2%80%99",
+          "type": "BlogPosting",
+          "name": "'Geen Bavaria in een Amsterdamse kroeg’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "ook in het bedrijf zat, moesten de kleinste kroeg van ",
+          "suffix": " met pijn in het hart opdoeken. Toen viel zijn oog"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5e8be0eb-b725-4806-b845-5300380a5772",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080894/geen-bavaria-in-een-amsterdamse-kroeg%E2%80%99",
+          "type": "BlogPosting",
+          "name": "'Geen Bavaria in een Amsterdamse kroeg’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Louis",
+          "prefix": "zij door kon als ik met pensioen ging’. Onderhand is ",
+          "suffix": " bijna met pensioen en geeft hij voornamelijk nog"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9d587dd3-11b3-44fb-a13c-3346e96f6248",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080894/geen-bavaria-in-een-amsterdamse-kroeg%E2%80%99",
+          "type": "BlogPosting",
+          "name": "'Geen Bavaria in een Amsterdamse kroeg’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "proeverijen waarin hij vertelt over de geschiedenis van ",
+          "suffix": " en het pand. Sindsdien sluit hij zijn nieuwe café in"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "79fd3f8d-0a73-4c8b-ac3a-a7fe1f5a279c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080894/geen-bavaria-in-een-amsterdamse-kroeg%E2%80%99",
+          "type": "BlogPosting",
+          "name": "'Geen Bavaria in een Amsterdamse kroeg’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Bavaria",
+          "prefix": "glimlach, ‘die heb ik meegenomen uit mijn oude café, geen ",
+          "suffix": " in een Amsterdamse kroeg’. Koos knikt instemmend en laat"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "26c231a8-596e-4f44-a915-a6c02a1174bb",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080894/geen-bavaria-in-een-amsterdamse-kroeg%E2%80%99",
+          "type": "BlogPosting",
+          "name": "'Geen Bavaria in een Amsterdamse kroeg’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Koos",
+          "prefix": "mijn oude café, geen Bavaria in een Amsterdamse kroeg’. ",
+          "suffix": " knikt instemmend en laat weten dat hij het volledig met"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b43521c6-9750-4b03-88ab-1025b8f3e54c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080894/geen-bavaria-in-een-amsterdamse-kroeg%E2%80%99",
+          "type": "BlogPosting",
+          "name": "'Geen Bavaria in een Amsterdamse kroeg’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Louis",
+          "prefix": "knikt instemmend en laat weten dat hij het volledig met ",
+          "suffix": " eens"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7e6be9af-7974-4567-afdc-2293c8ca1944",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "geschiedenis",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080894/geen-bavaria-in-een-amsterdamse-kroeg%E2%80%99",
+          "type": "BlogPosting",
+          "name": "'Geen Bavaria in een Amsterdamse kroeg’"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b31ad02f-e59c-431c-ae78-f03010bfbf39",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "traditie",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080894/geen-bavaria-in-een-amsterdamse-kroeg%E2%80%99",
+          "type": "BlogPosting",
+          "name": "'Geen Bavaria in een Amsterdamse kroeg’"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f3225460-ef40-4d0d-8017-c8c61bfff561",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "familie",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080894/geen-bavaria-in-een-amsterdamse-kroeg%E2%80%99",
+          "type": "BlogPosting",
+          "name": "'Geen Bavaria in een Amsterdamse kroeg’"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ba894453-0537-4c4d-97ee-94c3ce77a26e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "amsterdam",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080894/geen-bavaria-in-een-amsterdamse-kroeg%E2%80%99",
+          "type": "BlogPosting",
+          "name": "'Geen Bavaria in een Amsterdamse kroeg’"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "858d8cf7-acde-414f-809c-6add7f9d42f0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "cultuur",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080894/geen-bavaria-in-een-amsterdamse-kroeg%E2%80%99",
+          "type": "BlogPosting",
+          "name": "'Geen Bavaria in een Amsterdamse kroeg’"
+        }
+      ]
+    }
+  }
+]

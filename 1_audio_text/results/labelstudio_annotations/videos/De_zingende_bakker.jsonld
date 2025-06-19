@@ -1,0 +1,864 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "709421ee-c33e-4636-8f4d-0725d0ed5ceb",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=yxKAGb4VEn0",
+          "type": "VideoObject",
+          "name": "De zingende bakker"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "1994",
+          "prefix": "allochtonen beginnen hun eigen onderneming. Zijn er in ",
+          "suffix": " nog maar 5000 Turkse ondernemers? Inmiddels zijn dat er"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=5.322,24.578"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e33c46f4-a23d-4507-9712-32d20947a1cf",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=yxKAGb4VEn0",
+          "type": "VideoObject",
+          "name": "De zingende bakker"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Mehmet Erol",
+          "prefix": "helft van hen heeft een winkel of horecagelegenheid. Ook ",
+          "suffix": ", een Koerdische zanger, heeft de overstap gemaakt naar"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=5.322,24.578"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6933d563-7d39-45b4-a454-de792efc1a85",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=yxKAGb4VEn0",
+          "type": "VideoObject",
+          "name": "De zingende bakker"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "2002",
+          "prefix": "heeft de overstap gemaakt naar het ondernemerschap.\nIn ",
+          "suffix": " heeft hij deze bakkerij in de Amsterdamse Transvaalbuurt"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=24.618,44.304"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f6e4591f-10e1-4ce7-a212-58c7c522a636",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q1911617",
+          "type": "Place",
+          "label": "Amsterdamse Transvaalbuurt"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=yxKAGb4VEn0",
+          "type": "VideoObject",
+          "name": "De zingende bakker"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdamse Transvaalbuurt",
+          "prefix": "ondernemerschap.\nIn 2002 heeft hij deze bakkerij in de ",
+          "suffix": " overgenomen. Mehmet, bakker en zanger.  Zingen ben ik wel"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=24.618,44.304"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "41ead4d3-892a-47ed-9665-01f4a752107f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=yxKAGb4VEn0",
+          "type": "VideoObject",
+          "name": "De zingende bakker"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Mehmet",
+          "prefix": "bakkerij in de Amsterdamse Transvaalbuurt overgenomen. ",
+          "suffix": ", bakker en zanger.  Zingen ben ik wel altijd. Alleen"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=24.618,44.304"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ebf303fb-d31a-44d2-8ff9-972011913fb6",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=yxKAGb4VEn0",
+          "type": "VideoObject",
+          "name": "De zingende bakker"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "1995",
+          "prefix": "altijd. Alleen echt voor het publiek heb ik dat in ",
+          "suffix": " voor het eerst gedaan. Dat vergeet ik gewoon niet. Hoe"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=24.618,44.304"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "125da2c9-986b-4952-ba8d-de81676bd7d3",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=yxKAGb4VEn0",
+          "type": "VideoObject",
+          "name": "De zingende bakker"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Mehmet",
+          "prefix": "twee banen tegelijk. Naast zijn carrière als zanger heeft ",
+          "suffix": " dan een baan als manager bij een mailingbedrijf. Hij"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=62.648,81.248"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "84d843bf-642c-4291-96bc-c7bb4d72d579",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=yxKAGb4VEn0",
+          "type": "VideoObject",
+          "name": "De zingende bakker"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Mehmet",
+          "prefix": "vindt het leuk werk en verdient ook goed. Dus als ",
+          "suffix": " besluit voor zichzelf te beginnen, verklaart zijn familie"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=62.648,81.248"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1124e8b5-c940-45fa-a73a-4a6700eb0984",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=yxKAGb4VEn0",
+          "type": "VideoObject",
+          "name": "De zingende bakker"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Turkse broden",
+          "prefix": "kent. Oké, verkoop ken ik wel, maar bakker.\nIk heb ",
+          "suffix": ". Dat zijn deze dus. Dunne, dikke pieren, kleine pieren."
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=143.497,161.635"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "148266bf-04f9-4d36-a5b5-1ab553d9597f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=yxKAGb4VEn0",
+          "type": "VideoObject",
+          "name": "De zingende bakker"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "melkbrood",
+          "prefix": "zijn deze dus. Dunne, dikke pieren, kleine pieren. Ik heb ",
+          "suffix": ". Dat is onze eigen specialiteit. Die hebben ze niet"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=143.497,161.635"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "88453a7b-2553-471b-b8a3-cdc3369d3c31",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=yxKAGb4VEn0",
+          "type": "VideoObject",
+          "name": "De zingende bakker"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "boter",
+          "prefix": "niet bij andere bakkerijen.  Het zijn deze dus, met melk, ",
+          "suffix": " en eieren drie. Nederlandse brood, op Turkse manier"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=143.497,161.635"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d926c08e-01db-4d2c-aabd-8b263138b173",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=yxKAGb4VEn0",
+          "type": "VideoObject",
+          "name": "De zingende bakker"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "eieren",
+          "prefix": "andere bakkerijen.  Het zijn deze dus, met melk, boter en ",
+          "suffix": " drie. Nederlandse brood, op Turkse manier gemaakt zeg"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=143.497,161.635"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9e11c13f-03f6-4f92-9868-d23b358b2e03",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=yxKAGb4VEn0",
+          "type": "VideoObject",
+          "name": "De zingende bakker"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nederlandse brood",
+          "prefix": "Het zijn deze dus, met melk, boter en eieren drie. ",
+          "suffix": ", op Turkse manier gemaakt zeg maar.\nLavash, dat is"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=143.497,161.635"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "fc42854f-4a71-4138-ab74-fbf61804dc5f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=yxKAGb4VEn0",
+          "type": "VideoObject",
+          "name": "De zingende bakker"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Lavash",
+          "prefix": "Nederlandse brood, op Turkse manier gemaakt zeg maar.\n",
+          "suffix": ", dat is meer voor Afghaanse mensen. Zo, aanstift.  Dit"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=161.675,181.288"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "579e5e9d-3c66-4e51-8f0f-666233b500af",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=yxKAGb4VEn0",
+          "type": "VideoObject",
+          "name": "De zingende bakker"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Mehmet",
+          "prefix": "Ik wou geen rente betalen dus.\n Om die reden heeft ",
+          "suffix": " 15.000 euro geleend van zijn oom die een restaurant bezit"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=197.393,216.104"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8ecb4a1d-0eeb-4367-befe-a9bae002a231",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/engeland/482",
+          "type": "Place",
+          "label": "Engeland",
+          "longitude": "4.877035650692392",
+          "latitude": "52.36153777893935"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=yxKAGb4VEn0",
+          "type": "VideoObject",
+          "name": "De zingende bakker"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Engeland",
+          "prefix": "euro geleend van zijn oom die een restaurant bezit in ",
+          "suffix": ". De rest van het geld heeft hij in kleine"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=197.393,216.104"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "304c470f-d169-46c8-b4a4-598e639c1eda",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=yxKAGb4VEn0",
+          "type": "VideoObject",
+          "name": "De zingende bakker"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Mehmet",
+          "prefix": "is Safak Fedene een goedlopende bakkerij en heeft ",
+          "suffix": " geld geïnvesteerd in dit Turkse restaurant.\nMaar hij"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=197.393,216.104"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "32e7dc9a-3a8b-451e-a8f2-4692b4f03c55",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=yxKAGb4VEn0",
+          "type": "VideoObject",
+          "name": "De zingende bakker"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Turkije",
+          "prefix": "meer dromen. Over tien jaar hoop ik dat ik in ",
+          "suffix": " ben. Dus dat de bakkerij draait, dat het hier draait,"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=216.144,233.909"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "51c99c0f-57fc-45d1-bc6a-16a8506984bf",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Occupation",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=yxKAGb4VEn0",
+          "type": "VideoObject",
+          "name": "De zingende bakker"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "bakkerij",
+          "prefix": "hoop ik dat ik in Turkije ben. Dus dat de ",
+          "suffix": " draait, dat het hier draait, dat er afvalcentrum door"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=216.144,233.909"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c1d56203-48e5-4dbc-ade0-bbec7ce78e90",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=yxKAGb4VEn0",
+          "type": "VideoObject",
+          "name": "De zingende bakker"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Turkije",
+          "prefix": "Dat ze gewoon een winst krijgen, dat ik zelf in ",
+          "suffix": " met andere zaken bezig ben. Dat lijkt me heel mooi."
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=216.144,233.909"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "230d1b42-5690-4ba9-90fe-c66c464552f0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=yxKAGb4VEn0",
+          "type": "VideoObject",
+          "name": "De zingende bakker"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "2021",
+          "prefix": "zaken bezig ben. Dat lijkt me heel mooi.\n TV Gelderland ",
+          "suffix": ""
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f124cc96-6e33-44bb-9f2d-bdc4a1156787",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "zelfstandigheid",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=yxKAGb4VEn0",
+          "type": "VideoObject",
+          "name": "De zingende bakker"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7241dc10-4a0f-449c-a0d3-e32eef521ba8",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "bakkerij",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=yxKAGb4VEn0",
+          "type": "VideoObject",
+          "name": "De zingende bakker"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7563e535-f2f3-44f9-8b8f-e853b0ad3c56",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "ambitie",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=yxKAGb4VEn0",
+          "type": "VideoObject",
+          "name": "De zingende bakker"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ed5e3212-e016-4326-afce-21e904e51c2b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "vrijheid",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=yxKAGb4VEn0",
+          "type": "VideoObject",
+          "name": "De zingende bakker"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2ef97e07-fc32-4c87-beef-3865f0fc6ca1",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "geld",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=yxKAGb4VEn0",
+          "type": "VideoObject",
+          "name": "De zingende bakker"
+        }
+      ]
+    }
+  }
+]

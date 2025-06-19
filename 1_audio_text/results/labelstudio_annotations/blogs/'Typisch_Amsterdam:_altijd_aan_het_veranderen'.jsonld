@@ -1,0 +1,940 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1e23b367-e8e8-47b9-8425-6cff78018c15",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "vrijdagochtend",
+          "prefix": "is ",
+          "suffix": " en Amsterdam huilt: de regen stortte een uurtje terug"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "17aa302e-21fd-4e80-ad2c-d2c2a5ef1b68",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "is vrijdagochtend en ",
+          "suffix": " huilt: de regen stortte een uurtje terug naar beneden, nu"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ed56d729-ea66-4cfb-879f-789a6acfb00d",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Rachel",
+          "prefix": "er nog een lichte miezer. Toch is de stemming goed. ",
+          "suffix": " (33) laat me immers haar favoriete plek in de stad"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9c5c0b28-32d4-490a-9ec3-a4791dbc18cf",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q18956113",
+          "type": "Place",
+          "label": "Zonneplein"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/zonneplein/5181",
+          "type": "Place",
+          "label": "Zonneplein",
+          "longitude": "4.890856466170295",
+          "latitude": "52.41314113795193"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Zonneplein",
+          "prefix": "me immers haar favoriete plek in de stad zien: het ",
+          "suffix": " in Amsterdam-Noord. Haar zoontje Sora is met ons mee, en"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "63b62cd2-989d-405a-88aa-312be7939336",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam-Noord",
+          "prefix": "haar favoriete plek in de stad zien: het Zonneplein in ",
+          "suffix": ". Haar zoontje Sora is met ons mee, en representeert"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8fa81144-3bba-4f58-b32d-7079f1174833",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Sora",
+          "prefix": "zien: het Zonneplein in Amsterdam-Noord. Haar zoontje ",
+          "suffix": " is met ons mee, en representeert op zijn beurt de"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8fa117c4-7bc8-41b0-b76c-e89b416a50eb",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "melktandjes",
+          "prefix": "Hij lacht me toe met een mondje vol net uitkomende ",
+          "suffix": ".\nZelf is Rachel geboren in Amsterdam en ze ziet"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "031c6a0a-00ce-45e4-8d39-d5d507e52cbd",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Rachel",
+          "prefix": "met een mondje vol net uitkomende melktandjes.\nZelf is ",
+          "suffix": " geboren in Amsterdam en ze ziet de stad dan ook"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b02a5771-8830-47e7-81a1-cf5093017c6d",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "vol net uitkomende melktandjes.\nZelf is Rachel geboren in ",
+          "suffix": " en ze ziet de stad dan ook echt als haar"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e2ef0c79-ae52-4d52-820a-a41330d7cd0c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nederland",
+          "prefix": "of Engels. We kwamen ook nooit op andere plekken in ",
+          "suffix": ", we kenden daar niemand!´\nTerwijl we rondlopen langs de"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "94951618-1d81-4cc2-ae2e-bc1f51b24aed",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "jaren 30",
+          "prefix": "ze me over de geschiedenis van het plein. In de ",
+          "suffix": " werd het Zonnehuis gebouwd als ontmoetingsplek van de"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e32309cf-31e8-4516-9235-66c43a7f7872",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/district/tuindorp-oostzaan/585",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Tuindorp Oostzaan",
+          "prefix": "havenarbeiders van NDSM-werf. De plek, als centrumpje van ",
+          "suffix": ", betekent veel voor haar: ´Deze buurt is het Amsterdam"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3d7f0492-d9cb-4aa6-8cdb-7a63aec97929",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "Oostzaan, betekent veel voor haar: ´Deze buurt is het ",
+          "suffix": " waar mijn ouders zo verliefd op werden, gewoon een goede"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3cacfb4a-b6be-42d0-972b-3efd79cc10d0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "is deze buurt dus wel heel speciaal.´\nDe relatie met ",
+          "suffix": " is voor Rachel veranderd door de jaren heen. Amsterdam"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4fd164e0-6618-45af-86e9-ca11df6d0d50",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Rachel",
+          "prefix": "dus wel heel speciaal.´\nDe relatie met Amsterdam is voor ",
+          "suffix": " veranderd door de jaren heen. Amsterdam was anders als"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f37c4c6f-dac6-4276-a2ca-5d6f6b075761",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "Amsterdam is voor Rachel veranderd door de jaren heen. ",
+          "suffix": " was anders als kind, puber en jongvolwassene. ´Ik ben"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e795e1cd-9a58-4f50-b171-6ff701e0ce93",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/district/jordaan/626",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "De Jordaan",
+          "prefix": "als kind, puber en jongvolwassene. ´Ik ben opgegroeid in ",
+          "suffix": ", op de Wallen, met een vader als klusjesman in"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8d3dd720-963e-423a-93e5-6882b03b95ba",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Wallen",
+          "prefix": "jongvolwassene. ´Ik ben opgegroeid in De Jordaan, op de ",
+          "suffix": ", met een vader als klusjesman in de horeca: ik"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d094f061-2288-4c68-b7bf-bc1464097917",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "in de grote stad.´\nIs het Zonneplein dan ook typisch ",
+          "suffix": "? Rachel zwijgt even voordat ze antwoordt: ´Nou ja, het"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ab4281a6-1c24-4788-a159-7d821cfd32d9",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Rachel",
+          "prefix": "grote stad.´\nIs het Zonneplein dan ook typisch Amsterdam? ",
+          "suffix": " zwijgt even voordat ze antwoordt: ´Nou ja, het is"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6eaf9c96-a6d5-4f63-becf-f706debe995f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "creatief, wat ik ook leuk vind. Dat is ook typisch ",
+          "suffix": ": altijd aan het veranderen. Mensen klagen weleens over"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "323b1559-d949-4892-bcd4-c5366bd723b0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Zonnehuis",
+          "prefix": "geschiedenis van het plein. In de jaren 30 werd het ",
+          "suffix": " gebouwd als ontmoetingsplek van de havenarbeiders van"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "cf225f2e-45bc-4f4a-98ef-08ae4ccb1fb3",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/ndsmplein/3095",
+          "type": "Place",
+          "label": null,
+          "longitude": "4.894258153475466",
+          "latitude": "52.40014022479273"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "NDSM-werf",
+          "prefix": "gebouwd als ontmoetingsplek van de havenarbeiders van ",
+          "suffix": ". De plek, als centrumpje van Tuindorp Oostzaan, betekent"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ea74229a-d087-4549-bb20-43f641eb1c96",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/zonnehuis/1345",
+          "type": "Place",
+          "label": null,
+          "longitude": "4.89143828160552",
+          "latitude": "52.41342542105082"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Zonnehuis",
+          "prefix": "het plein, en ik ga vaak naar concerten in het ",
+          "suffix": ". Eigenlijk is het als een klein dorp in de"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "62c3aeb0-c4b0-468c-8a37-6bd8d734ebc9",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/zonneplein/5181",
+          "type": "Place",
+          "label": null,
+          "longitude": "4.890856466170295",
+          "latitude": "52.41314113795193"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Zonneplein",
+          "prefix": "als een klein dorp in de grote stad.´\nIs het ",
+          "suffix": " dan ook typisch Amsterdam? Rachel zwijgt even voordat ze"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "70b7154d-2840-4221-99f7-cc520d8d137d",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "geen tekst beschikbaar.",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "670733d6-d84b-4bf2-aa5f-4192000e1bc6",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "stad",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "696ed8ac-9d80-462b-b5cf-c0faf6f7d330",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "toekomst",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4ba91d53-357c-400f-9b69-726adb132c75",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "familie",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e422a4d2-45e0-4adc-8fcf-e1f01b62f30e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "geluk",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ]
+    }
+  }
+]

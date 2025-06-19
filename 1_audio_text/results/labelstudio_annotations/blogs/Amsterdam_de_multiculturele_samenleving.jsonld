@@ -1,0 +1,982 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "10c453d4-fb69-4cfa-bea6-da0422b2896b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "John Gajadhar",
+          "prefix": "ontmoet ",
+          "suffix": " (64) op een zonnige zondagmorgen naast station Bijlmer"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c9d1f074-c5b2-4fd1-b72f-088b39a415d5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "zondagmorgen",
+          "prefix": "ontmoet John Gajadhar (64) op een zonnige ",
+          "suffix": " naast station Bijlmer Arena. John haalt mij daar op om"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "93c0a804-2b77-4f3c-a084-2c499c06f8a8",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q50723",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Bijlmer Arena",
+          "prefix": "Gajadhar (64) op een zonnige zondagmorgen naast station ",
+          "suffix": ". John haalt mij daar op om vervolgens richting het"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5e133cdf-a96f-470d-bd96-956ce54bfe84",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Hindoestaans ontmoetingscentrum",
+          "prefix": "Arena. John haalt mij daar op om vervolgens richting het ",
+          "suffix": " en woongroep Anand Joti te rijden. Dit is ook de"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "cf77ac6a-fd23-4ad6-91a2-499cc40416cc",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q19346289",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Anand Joti",
+          "prefix": "richting het Hindoestaans ontmoetingscentrum en woongroep ",
+          "suffix": " te rijden. Dit is ook de locatie waar John mij"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c2d58864-6f7d-4d84-81fa-e43112a4a38a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "John",
+          "prefix": "ik zelf deel aan zijn yogales.\nTerwijl ik gezellig met ",
+          "suffix": " sta te praten, komt er een gemêleerd groepje deelnemers"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "fbc3f8c5-3149-4d54-bcb0-c76b048a8f21",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "John",
+          "prefix": "Na een leuke en leerzame yogales, vertrekken ",
+          "suffix": " en ik naar zijn huis om daar verder te praten"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6669da96-09b0-4220-9bf0-3ee0bc14ec1a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "John",
+          "prefix": "daar verder te praten over hem en het ontmoetingscentrum. ",
+          "suffix": " is een drukbezet man, hij werkt fulltime bij het ROC"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ab13df42-5022-4677-acc1-64179cfc8c1f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "een drukbezet man, hij werkt fulltime bij het ROC in ",
+          "suffix": ". Daarnaast verzorgt hij huiswerkbegeleiding aan huis voor"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "83f037cb-c680-4401-8a36-91412a138783",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q478670",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam-Zuidoost",
+          "prefix": "aan huis voor kinderen uit zijn buurt, ",
+          "suffix": ". Ook geeft hij nog drie dagen in de week"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d8fc51dd-e3f1-438b-9081-79dcea00dd81",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "de week yogalessen in buurthuizen of ontmoetingscentra in ",
+          "suffix": ". John is een man van de wereld. Hij reist"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7ac165d7-7ba0-4c96-876e-0960a06395c3",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "John",
+          "prefix": "in buurthuizen of ontmoetingscentra in Amsterdam. ",
+          "suffix": " is een man van de wereld. Hij reist veel en"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1a36b549-a199-417d-8bb0-430da2deb460",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Inda",
+          "prefix": "veel en verzorgt filantropische projecten in onder andere ",
+          "suffix": " met zijn zelf opgezette organisatie Project Monique, ter"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f350cd73-59a7-4425-b943-c032a7030daf",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "John",
+          "prefix": "Ondanks zijn liefde voor de rest van de wereld voelt ",
+          "suffix": " zich een echte Amsterdammer. Dit wordt duidelijk"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "da3da3ad-71be-4b81-a411-341fbe0be1aa",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "uitspraak: ‘Ik zou nergens anders kunnen wonen dan in ",
+          "suffix": ".’ In 1980, na de coup in Suriname, vertrekt hij"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9555ffa7-1b59-48a0-afcb-b0d20d97b707",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "1980",
+          "prefix": "‘Ik zou nergens anders kunnen wonen dan in Amsterdam.’ In ",
+          "suffix": ", na de coup in Suriname, vertrekt hij met zijn"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3a7d80fb-44af-469d-95cc-1aea1fcd8ef0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Suriname",
+          "prefix": "wonen dan in Amsterdam.’ In 1980, na de coup in ",
+          "suffix": ", vertrekt hij met zijn toenmalige vrouw naar Amsterdam."
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "bbd843af-3686-4909-ac57-e7d8732f55c7",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "in Suriname, vertrekt hij met zijn toenmalige vrouw naar ",
+          "suffix": ". Het oorspronkelijke idee was terugkeren, maar Amsterdam"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "32832b61-327d-4aa1-bbeb-a05be6118577",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "Amsterdam. Het oorspronkelijke idee was terugkeren, maar ",
+          "suffix": " heeft het hart van het gezin snel veroverd. Na twee"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e43deb69-b823-4463-91ee-25e63b632256",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "de opleiding antropologie is hij nooit meer weggegaan. ‘",
+          "suffix": " is een deel van mij, het lijkt zelfs alsof ik"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8d03baa0-c22a-49eb-9ac6-b2e48becbee4",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "John",
+          "prefix": "zelfs alsof ik hier vanaf mijn geboorte al woon.’\nVoor ",
+          "suffix": " is Amsterdam vooral zo’n mooie plek door de"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "dd84c2ad-2d94-403f-9e1b-753c96c34048",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "ik hier vanaf mijn geboorte al woon.’\nVoor John is ",
+          "suffix": " vooral zo’n mooie plek door de verscheidenheid aan"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "02ad3ae6-c066-440b-ab22-2ea9158d90e3",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "aan culturen. ‘De multiculturele samenleving hier in ",
+          "suffix": ", de mengelmoes, elke cultuur met haar eigenaardigheden."
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4d12f664-fd38-4406-ac72-d60bae938518",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "John",
+          "prefix": "Dit sentiment sluit ook aan bij de locatie die voor ",
+          "suffix": " zo belangrijk is. De senioren woongroep en"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "05bd1ac3-c578-4188-81c9-367fac47195f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nederland",
+          "prefix": "het een mooie mogelijkheid om zich thuis te voelen in ",
+          "suffix": " in plaats van de vreemde eend in de bijt in"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "53f0edbb-a1c0-487c-8964-4ade5731d8ac",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "John",
+          "prefix": "eend in de bijt in een verzorgingstehuis, zo beschrijft ",
+          "suffix": ".\nJohn is al in beeld bij het ontmoetingscentrum toen"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e700eac9-3438-44a2-909b-b7da9bf9d382",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "John",
+          "prefix": "in de bijt in een verzorgingstehuis, zo beschrijft John.\n",
+          "suffix": " is al in beeld bij het ontmoetingscentrum toen de eerste"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b70a05a5-67e0-49d3-babb-264e06254957",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Hindoestaans ontmoetingscentrum",
+          "prefix": "Arena. John haalt mij daar op om vervolgens richting het ",
+          "suffix": " en woongroep Anand Joti te rijden. Dit is ook de"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "30fd2d09-c547-4782-8bec-2d1671f6a27b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "verbinding",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "cd579f0d-1180-477e-8562-2c80b3d2b35b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "geen thema's beschikbaar",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "439320e6-409e-4896-9d57-c57e1bf672bf",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "yoga",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3a494ff9-918a-478e-b8c7-2596d5188aab",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "spiritualiteit",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "eab5df91-894a-4194-bc74-78f83807c4cb",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "ontmoeting",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797260/amsterdam-de-multiculturele-samenleving",
+          "type": "BlogPosting",
+          "name": "Amsterdam de multiculturele samenleving"
+        }
+      ]
+    }
+  }
+]

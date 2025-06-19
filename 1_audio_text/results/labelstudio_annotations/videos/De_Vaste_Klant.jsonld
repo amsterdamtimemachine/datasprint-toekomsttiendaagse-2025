@@ -1,0 +1,374 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0f9fe935-ebc1-4ec6-89d9-a6522247e41e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q2628035",
+          "type": "Place",
+          "label": "Looiersgracht"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/looiersgracht/2747",
+          "type": "Place",
+          "label": "Looiersgracht",
+          "longitude": "4.880773308290868",
+          "latitude": "52.36830474576315"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nhMyvFrh2UA",
+          "type": "VideoObject",
+          "name": "De Vaste Klant"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Looijersgracht",
+          "prefix": "zit er een vaste klant voor een café aan de ",
+          "suffix": ". Hij lijkt weggelopen uit het werk van Simon Carmichelt,"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=29.318,47.707"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c14eb16d-5226-45f8-b03b-49a70cd6f32c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nhMyvFrh2UA",
+          "type": "VideoObject",
+          "name": "De Vaste Klant"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Simon Carmichelt",
+          "prefix": "de Looijersgracht. Hij lijkt weggelopen uit het werk van ",
+          "suffix": ", de chronikeur van het Amsterdamse stadsleven. Veel"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=29.318,47.707"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "375132c6-0e95-4438-bdad-294cfe67bcd0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nhMyvFrh2UA",
+          "type": "VideoObject",
+          "name": "De Vaste Klant"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Ronald",
+          "prefix": "kroegschuld had van 2400 gulden. En toen zei de eigenaar ",
+          "suffix": " met een T Hagen...  voormalig melkboer, bedenkbaar iets."
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=47.747,65.506"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2b145d7c-ffb3-4b9c-8889-fc7889878609",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nhMyvFrh2UA",
+          "type": "VideoObject",
+          "name": "De Vaste Klant"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "T Hagen",
+          "prefix": "2400 gulden. En toen zei de eigenaar Ronald met een ",
+          "suffix": "...  voormalig melkboer, bedenkbaar iets. En zo is de"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=47.747,65.506"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "88331c9d-92fc-4e11-9812-d31221eec7cd",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nhMyvFrh2UA",
+          "type": "VideoObject",
+          "name": "De Vaste Klant"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Simon Carmichael",
+          "prefix": "los.\n Ik wou gewoon een soort mijn homage maken aan ",
+          "suffix": ". Deze meneer zat hier elke dag, Obi-Yo.  Dus dat"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=101.576,116.336"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "87cbcc37-428e-4d8d-8c98-48933bb65c28",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nhMyvFrh2UA",
+          "type": "VideoObject",
+          "name": "De Vaste Klant"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Obi-Yo",
+          "prefix": "aan Simon Carmichael. Deze meneer zat hier elke dag, ",
+          "suffix": ".  Dus dat was eigenlijk het uitgangspunt.\nJa, toen was"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=101.576,116.336"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "33e5bb14-2abe-47d7-9506-d16ccbfbaa9a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nhMyvFrh2UA",
+          "type": "VideoObject",
+          "name": "De Vaste Klant"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "2021",
+          "prefix": "ofzo.\nJa, die dingen zijn voorbij gewoon.\n TV Gelderland ",
+          "suffix": ""
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "fa0a595b-e81a-4276-b0fe-0d26b9a8234d",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "verandering",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nhMyvFrh2UA",
+          "type": "VideoObject",
+          "name": "De Vaste Klant"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c4798a08-c885-41c4-a494-c2ecb76d1f70",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "tijd",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nhMyvFrh2UA",
+          "type": "VideoObject",
+          "name": "De Vaste Klant"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b735d94b-278b-4dd5-8eb4-c9f775c0447a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "herinnering",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nhMyvFrh2UA",
+          "type": "VideoObject",
+          "name": "De Vaste Klant"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "170c0e50-8e92-4161-b62e-d2f5133428ec",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "identiteit",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nhMyvFrh2UA",
+          "type": "VideoObject",
+          "name": "De Vaste Klant"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "bb168a8e-9bef-4521-a75d-ebe40e0a897a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "verplichting",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nhMyvFrh2UA",
+          "type": "VideoObject",
+          "name": "De Vaste Klant"
+        }
+      ]
+    }
+  }
+]

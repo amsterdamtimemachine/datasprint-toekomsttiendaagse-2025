@@ -1,0 +1,772 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0dcf5ec1-19c1-4901-84a3-9384e0f1b55c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=0z3OxFh3hKk",
+          "type": "VideoObject",
+          "name": "Aanbouw: Water aan de Amstel"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "2021",
+          "prefix": "Gelderland ",
+          "suffix": "\n Ik heb eigenlijk nooit in mijn leven zo'n mooie plek"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=11.324,19.012"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "be770013-29ab-470f-9a74-393f3c76efef",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=0z3OxFh3hKk",
+          "type": "VideoObject",
+          "name": "Aanbouw: Water aan de Amstel"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Herman Hertzberger",
+          "prefix": "mooie plek op mijn tekenschot of op mijn screen gehad.\n",
+          "suffix": " won de architectenprijs voor het ontwerp voor het nieuwe"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=47.068,60.153"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a5e5b6b1-35c3-4c8b-b894-3f915bae2685",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=0z3OxFh3hKk",
+          "type": "VideoObject",
+          "name": "Aanbouw: Water aan de Amstel"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amstel Gooi en Vecht",
+          "prefix": "de dienst waterbeheer en rioleringen en hoogheemraadschap ",
+          "suffix": ". Er was een stevig programma van eisen voor deze"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=47.068,60.153"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a9947e34-65b1-496e-af67-040f003db866",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q1947050",
+          "type": "Place",
+          "label": "Amstel"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/amstel/135",
+          "type": "Place",
+          "label": "Amstel",
+          "longitude": "4.900779575783869",
+          "latitude": "52.36485936468488"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=0z3OxFh3hKk",
+          "type": "VideoObject",
+          "name": "Aanbouw: Water aan de Amstel"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amstel",
+          "prefix": "programma van eisen voor deze zeer bijzondere plek aan de ",
+          "suffix": ".\n Er was een hele duidelijke aanwijzing van de gemeente"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=47.068,60.153"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6d087ca4-1400-4143-bb48-8eff1748cd1a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q1947050",
+          "type": "Place",
+          "label": "Amstel"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/amstel/135",
+          "type": "Place",
+          "label": "Amstel",
+          "longitude": "4.900779575783869",
+          "latitude": "52.36485936468488"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=0z3OxFh3hKk",
+          "type": "VideoObject",
+          "name": "Aanbouw: Water aan de Amstel"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amstel",
+          "prefix": "gevoelig was. Het is precies in de bocht van de ",
+          "suffix": ".\nEn je hebt er vanuit de hele stad zicht"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=61.476,77.329"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ae517497-cf03-406e-a088-61de87512ce8",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=0z3OxFh3hKk",
+          "type": "VideoObject",
+          "name": "Aanbouw: Water aan de Amstel"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "IJssel",
+          "prefix": "op de een of andere manier in het programma van ",
+          "suffix": ".\nAls je twee gebouwen maakt kun je er tussendoor"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=90.979,109.266"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e67564dc-761d-47ca-81ae-f25bbacbd62c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/president-kennedylaan/3672",
+          "type": "Place",
+          "label": "Kennedylaan",
+          "longitude": "4.902259882781795",
+          "latitude": "52.34074776062166"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=0z3OxFh3hKk",
+          "type": "VideoObject",
+          "name": "Aanbouw: Water aan de Amstel"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Kennedylaan",
+          "prefix": "dat je eigenlijk die zichtassen... ...een vanaf de ",
+          "suffix": " en een van over de Amstel...\n Dat je die eigenlijk..."
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=109.306,125.035"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4fe54887-7564-4476-ab9b-c56628bf13f5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q1947050",
+          "type": "Place",
+          "label": "Amstel"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/amstel/135",
+          "type": "Place",
+          "label": "Amstel",
+          "longitude": "4.900779575783869",
+          "latitude": "52.36485936468488"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=0z3OxFh3hKk",
+          "type": "VideoObject",
+          "name": "Aanbouw: Water aan de Amstel"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amstel",
+          "prefix": "...een vanaf de Kennedylaan en een van over de ",
+          "suffix": "...\n Dat je die eigenlijk... Ja, dan wil je ook"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=109.306,125.035"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "caccfeb4-c558-40fe-939c-493021127603",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=0z3OxFh3hKk",
+          "type": "VideoObject",
+          "name": "Aanbouw: Water aan de Amstel"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "aardappel",
+          "prefix": "laten zien hoe die eruit ziet. En die pakte een ",
+          "suffix": " en die sneed die doormidden... en zette de twee gekromde"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=173.253,190.117"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f4cd4328-b0c6-448e-bddb-408ee6855099",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=0z3OxFh3hKk",
+          "type": "VideoObject",
+          "name": "Aanbouw: Water aan de Amstel"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Hilversum",
+          "prefix": "toe af te dragen.  We zaten met een gebouw in ",
+          "suffix": " en een gebouw hier verderop aan de Spaklerweg.\nDWR telt"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=245.673,262.639"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e2017347-6a73-41ae-89f7-3b98d052aaee",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q2055857",
+          "type": "Place",
+          "label": "Spaklerweg"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/spaklerweg/4207",
+          "type": "Place",
+          "label": "Spaklerweg",
+          "longitude": "4.921124856903505",
+          "latitude": "52.33866572101604"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=0z3OxFh3hKk",
+          "type": "VideoObject",
+          "name": "Aanbouw: Water aan de Amstel"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Spaklerweg",
+          "prefix": "gebouw in Hilversum en een gebouw hier verderop aan de ",
+          "suffix": ".\nDWR telt 1100 medewerkers die zowel voor de gemeente"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=262.699,279.112"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d3aec687-28ae-45c6-85b8-da4c6084d986",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=0z3OxFh3hKk",
+          "type": "VideoObject",
+          "name": "Aanbouw: Water aan de Amstel"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "gemeente Amsterdam",
+          "prefix": "Spaklerweg.\nDWR telt 1100 medewerkers die zowel voor de ",
+          "suffix": " werken als voor het Hoogheemraadschap Amstel-Gooienvecht."
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=262.699,279.112"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "12206020-e7ae-42c2-bbc1-6a64ecb8064b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=0z3OxFh3hKk",
+          "type": "VideoObject",
+          "name": "Aanbouw: Water aan de Amstel"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Hoogheemraadschap Amstel-Gooienvecht",
+          "prefix": "die zowel voor de gemeente Amsterdam werken als voor het ",
+          "suffix": ". Dat betekent dat hier nu 800 medewerkers een werkplek"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=262.699,279.112"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b48f7728-7dfe-4e37-b884-c94fc0701811",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=0z3OxFh3hKk",
+          "type": "VideoObject",
+          "name": "Aanbouw: Water aan de Amstel"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Hilversum",
+          "prefix": "Maar het is een veel groter gebouw dan ik in ",
+          "suffix": " gewend was. Dus dat is wel even wennen. In Hilversum"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=529.682,549.307"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ee1f7c03-dead-40ed-b680-ba23205a7f8b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=0z3OxFh3hKk",
+          "type": "VideoObject",
+          "name": "Aanbouw: Water aan de Amstel"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Hilversum",
+          "prefix": "Hilversum gewend was. Dus dat is wel even wennen. In ",
+          "suffix": " liep je gewoon wat makkelijk rond en dan kende je"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=529.682,549.307"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "41e8ea65-ea90-4f4c-a71a-f357159c9c67",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=0z3OxFh3hKk",
+          "type": "VideoObject",
+          "name": "Aanbouw: Water aan de Amstel"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "groter, wat massaler.\n Ik kom vaak op de fiets vanuit ",
+          "suffix": " fietsen... dat hij net andersom had moeten staan, de"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=550.207,569.152"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f28d12b1-3f00-47ba-ad9e-f402e0c3b973",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "architectuur",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=0z3OxFh3hKk",
+          "type": "VideoObject",
+          "name": "Aanbouw: Water aan de Amstel"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "63db4f4b-576e-4999-9285-a696213cd531",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "innovatie",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=0z3OxFh3hKk",
+          "type": "VideoObject",
+          "name": "Aanbouw: Water aan de Amstel"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a73791da-a617-4714-8709-5f44bac9bbfc",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "ontwerp",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=0z3OxFh3hKk",
+          "type": "VideoObject",
+          "name": "Aanbouw: Water aan de Amstel"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1190d349-bae5-4f77-9b10-3d944bc3edb5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "ruimte",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=0z3OxFh3hKk",
+          "type": "VideoObject",
+          "name": "Aanbouw: Water aan de Amstel"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3e69b0f0-5c57-4893-9edc-6c27c3beca5e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "constructie",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=0z3OxFh3hKk",
+          "type": "VideoObject",
+          "name": "Aanbouw: Water aan de Amstel"
+        }
+      ]
+    }
+  }
+]

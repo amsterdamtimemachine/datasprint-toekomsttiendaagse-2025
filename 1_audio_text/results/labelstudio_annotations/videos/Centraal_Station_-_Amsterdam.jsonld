@@ -1,0 +1,976 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7f68e96c-0fde-4fab-b787-f99be3c53b48",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q50719",
+          "type": "Place",
+          "label": "Centraal Station"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/centraal-station/1208",
+          "type": "Place",
+          "label": "Centraal Station",
+          "longitude": "4.900556",
+          "latitude": "52.378889"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=bbfW-ezyE5U",
+          "type": "VideoObject",
+          "name": "Centraal Station - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Centraal Station",
+          "prefix": "",
+          "suffix": " is een van de allerbekendste plekken van Amsterdam."
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=14.238,28.526"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "cb00e493-b38c-4551-8e39-8a16d87ab10e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=bbfW-ezyE5U",
+          "type": "VideoObject",
+          "name": "Centraal Station - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "Centraal Station is een van de allerbekendste plekken van ",
+          "suffix": ". Dagelijks gaan hier tienduizenden mensen per dag met de"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=14.238,28.526"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3b686970-8bcf-4ad8-a07a-acab427adce3",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/nederland/481",
+          "type": "Place",
+          "label": "Nederland",
+          "longitude": "4.877106594181554",
+          "latitude": "52.36156803916213"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=bbfW-ezyE5U",
+          "type": "VideoObject",
+          "name": "Centraal Station - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nederland",
+          "prefix": "ja of natuurlijk gewoon te voet.\n De eerste spoorlijn van ",
+          "suffix": " werd in 1839 in gebruik genomen. Deze lijn liep van"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=31.65,50.328"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "78d8650e-38fe-4e62-b44c-447e3dd725e5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=bbfW-ezyE5U",
+          "type": "VideoObject",
+          "name": "Centraal Station - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "1839",
+          "prefix": "te voet.\n De eerste spoorlijn van Nederland werd in ",
+          "suffix": " in gebruik genomen. Deze lijn liep van Amsterdam naar"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=31.65,50.328"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "969f84ec-5288-47d2-a795-4210c1ea34d6",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=bbfW-ezyE5U",
+          "type": "VideoObject",
+          "name": "Centraal Station - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "werd in 1839 in gebruik genomen. Deze lijn liep van ",
+          "suffix": " naar Haarlem. Het huidige centraal station bestond toen"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=31.65,50.328"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d3c914c6-897b-4859-9eb9-1575d751ddc6",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=bbfW-ezyE5U",
+          "type": "VideoObject",
+          "name": "Centraal Station - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Haarlem",
+          "prefix": "in gebruik genomen. Deze lijn liep van Amsterdam naar ",
+          "suffix": ". Het huidige centraal station bestond toen nog niet. Het"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=31.65,50.328"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f41622db-01c6-4aa4-b002-59a05a8a0d0a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=bbfW-ezyE5U",
+          "type": "VideoObject",
+          "name": "Centraal Station - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "centraal station bestond toen nog niet. Het station van ",
+          "suffix": " lag net buiten de Haarlemmerpoort. Vervolgens werden er"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=31.65,50.328"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2a6f394b-acd6-41d8-a4a7-4fe7e4d20a72",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/haarlemmerpoort/600",
+          "type": "Place",
+          "label": "Haarlemmerpoort",
+          "longitude": "4.883337",
+          "latitude": "52.384807"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=bbfW-ezyE5U",
+          "type": "VideoObject",
+          "name": "Centraal Station - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Haarlemmerpoort",
+          "prefix": "nog niet. Het station van Amsterdam lag net buiten de ",
+          "suffix": ". Vervolgens werden er veel meer spoorlijnen gebouwd en"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=31.65,50.328"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "997fa13f-e617-46c5-8165-4a3be9a7239b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/nederland/481",
+          "type": "Place",
+          "label": "Nederland",
+          "longitude": "4.877106594181554",
+          "latitude": "52.36156803916213"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=bbfW-ezyE5U",
+          "type": "VideoObject",
+          "name": "Centraal Station - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nederland",
+          "prefix": "ene op de andere plek. De trein zorgde ervoor dat ",
+          "suffix": " echt één land werd.  Vroeger was je vooral Amsterdammer"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=50.348,68.939"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3afa7346-ac38-45ae-8330-39b80e89d0dd",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/nederland/481",
+          "type": "Place",
+          "label": "Nederland",
+          "longitude": "4.877106594181554",
+          "latitude": "52.36156803916213"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=bbfW-ezyE5U",
+          "type": "VideoObject",
+          "name": "Centraal Station - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nederland",
+          "prefix": "gingen voelen. Een ander gevolg van de trein was dat ",
+          "suffix": " uiteindelijk één tijd kreeg.\nDe tijd van elke plek op"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=50.348,68.939"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "bfa7752d-864f-48ac-b994-197e56f317d8",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=bbfW-ezyE5U",
+          "type": "VideoObject",
+          "name": "Centraal Station - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "dus een eigen tijd. Als er op de kerkklok in ",
+          "suffix": " 12 uur stond, stonden de klokken in het oosten van"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=68.979,84.107"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8ff82e55-51c4-4b03-8863-bd73fba34ef5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=bbfW-ezyE5U",
+          "type": "VideoObject",
+          "name": "Centraal Station - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "1909",
+          "prefix": "de trein er eigenlijk een beetje voor dat er in ",
+          "suffix": " een tijd kwam. Het Centraal Station ligt op een"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=85.02,98.625"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "afa2d27f-cd0a-4df5-9cec-db60ddaff99b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/centraal-station/1208",
+          "type": "Place",
+          "label": "Centraal Station",
+          "longitude": "4.900556",
+          "latitude": "52.378889"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=bbfW-ezyE5U",
+          "type": "VideoObject",
+          "name": "Centraal Station - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Centraal Station",
+          "prefix": "beetje voor dat er in 1909 een tijd kwam. Het ",
+          "suffix": " ligt op een kunstmatig eiland in de monding van de"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=85.02,98.625"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "29c9ebcc-ebfd-496b-814f-5f84377048e8",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=bbfW-ezyE5U",
+          "type": "VideoObject",
+          "name": "Centraal Station - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "rivier de Amstel",
+          "prefix": "ligt op een kunstmatig eiland in de monding van de ",
+          "suffix": ".\nHet werd ontworpen door de architect Kuipers en op"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=85.02,98.625"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a8544f7f-5f84-4c2a-958c-55effc5f9668",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=bbfW-ezyE5U",
+          "type": "VideoObject",
+          "name": "Centraal Station - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Kuipers",
+          "prefix": "de rivier de Amstel.\nHet werd ontworpen door de architect ",
+          "suffix": " en op 15 oktober 1889 feestelijk in gebruik genomen."
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=98.665,117.58"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2c1f2a33-a1e0-4804-8d4d-fb4ed438a3e5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=bbfW-ezyE5U",
+          "type": "VideoObject",
+          "name": "Centraal Station - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "15 oktober 1889",
+          "prefix": "Het werd ontworpen door de architect Kuipers en op ",
+          "suffix": " feestelijk in gebruik genomen. Bovenin de voorgevel zien"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=98.665,117.58"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "faff4fc1-b71c-411e-9fc7-78788b5ebd1b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/nederland/481",
+          "type": "Place",
+          "label": "Nederland",
+          "longitude": "4.877106594181554",
+          "latitude": "52.36156803916213"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=bbfW-ezyE5U",
+          "type": "VideoObject",
+          "name": "Centraal Station - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nederland",
+          "prefix": "genomen. Bovenin de voorgevel zien we het wapen van ",
+          "suffix": ", met eronder het wapen van Amsterdam. En van de"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=98.665,117.58"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b8602223-caab-4990-8716-a68bae6037b0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=bbfW-ezyE5U",
+          "type": "VideoObject",
+          "name": "Centraal Station - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "we het wapen van Nederland, met eronder het wapen van ",
+          "suffix": ". En van de veertien andere steden waarmee Amsterdam over"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=98.665,117.58"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9bd55085-2484-4e75-bcf8-2a6d7f64aad6",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=bbfW-ezyE5U",
+          "type": "VideoObject",
+          "name": "Centraal Station - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "van Amsterdam. En van de veertien andere steden waarmee ",
+          "suffix": " over het spoor verbonden was.  Reizen met de trein was"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=98.665,117.58"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3bdc1910-313d-4e71-a4a1-077a2dca3bc2",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=bbfW-ezyE5U",
+          "type": "VideoObject",
+          "name": "Centraal Station - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "koning Willem III",
+          "prefix": "Reizen met de trein was toen nog hartstikke luxe.\nEn ",
+          "suffix": ", dat was de overgrootopa van koningin Beatrix, had dan"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=117.62,135.79"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "525cc25b-f4b4-4364-a43b-b8db1244005d",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=bbfW-ezyE5U",
+          "type": "VideoObject",
+          "name": "Centraal Station - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "koningin Beatrix",
+          "prefix": "luxe.\nEn koning Willem III, dat was de overgrootopa van ",
+          "suffix": ", had dan ook zijn eigen ingang. Dat is de"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=117.62,135.79"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "179b30e8-8d3b-4ede-a922-144532d608ba",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=bbfW-ezyE5U",
+          "type": "VideoObject",
+          "name": "Centraal Station - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "koningin Beatrix",
+          "prefix": "gebruikt. En ik vraag me dan ook eigenlijk af, als ",
+          "suffix": " met de trein gaat, welke ingang neemt zij dan?"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=117.62,135.79"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b92936b9-d389-4486-ab3c-3fa75828e598",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "geschiedenis",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=bbfW-ezyE5U",
+          "type": "VideoObject",
+          "name": "Centraal Station - Amsterdam"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0485c774-cbd9-47f6-a4e2-d34d0d6c29a8",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "identiteit",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=bbfW-ezyE5U",
+          "type": "VideoObject",
+          "name": "Centraal Station - Amsterdam"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0455cc60-7603-4885-abc2-160002a9458b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "vervoer",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=bbfW-ezyE5U",
+          "type": "VideoObject",
+          "name": "Centraal Station - Amsterdam"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9ee4df6d-5e68-48a2-888a-933db471a6ce",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "vooruitgang",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=bbfW-ezyE5U",
+          "type": "VideoObject",
+          "name": "Centraal Station - Amsterdam"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a28bc91e-01b8-4e2d-a495-74b2b2fce262",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "mobiliteit",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=bbfW-ezyE5U",
+          "type": "VideoObject",
+          "name": "Centraal Station - Amsterdam"
+        }
+      ]
+    }
+  }
+]

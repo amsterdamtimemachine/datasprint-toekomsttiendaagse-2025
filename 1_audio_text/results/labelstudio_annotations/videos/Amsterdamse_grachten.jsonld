@@ -1,0 +1,968 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e406a7d0-2c05-4ec2-89d2-bf2a687709fa",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q1056152",
+          "type": "Place",
+          "label": "Koninklijk Paleis"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "nc74d688115ab40a9b1921ca14118640ab2226",
+          "type": "Place",
+          "label": "Koninklijk Paleis"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nPx7IY6SUl0",
+          "type": "VideoObject",
+          "name": "Amsterdamse grachten"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Koninklijk Paleis",
+          "prefix": "oma die leerde nog op school op hoeveel palen het ",
+          "suffix": " op de Dam was gebouwd. 13.659. Je kon dat namelijk"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=51.309,70.317"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7e6e3531-9c7c-4d38-a837-fb08accf6dc6",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nPx7IY6SUl0",
+          "type": "VideoObject",
+          "name": "Amsterdamse grachten"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "pakhuizen",
+          "prefix": "van goederen. Langs de grachten staan dan ook tal van ",
+          "suffix": ". Schepen voeren af en aan om de spulletjes naar"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=71.331,88.379"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4f06803b-2e6a-49d9-b9ca-82098b580e96",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nPx7IY6SUl0",
+          "type": "VideoObject",
+          "name": "Amsterdamse grachten"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "pakhuizen",
+          "prefix": "de pakhuizen te brengen. Mensen hezen de goederen in de ",
+          "suffix": ". Ze gebruikten daarvoor de hijsbalk bovenaan de gevel."
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=71.331,88.379"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c4f24123-6af7-4e69-9ea2-18c4a02382fd",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nPx7IY6SUl0",
+          "type": "VideoObject",
+          "name": "Amsterdamse grachten"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdamse grachten",
+          "prefix": "bedacht eigenlijk.\n Pakhuizen staan eigenlijk langs alle ",
+          "suffix": ". Maar niet langs dit stukje van de Herengracht. Dit"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=110.096,128.188"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e1eb3d73-13fc-46c4-bb6d-e6cc0bb736b3",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q2623129",
+          "type": "Place",
+          "label": "Herengracht"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/herengracht/1768",
+          "type": "Place",
+          "label": "Herengracht",
+          "longitude": "4.888307329405542",
+          "latitude": "52.373841712820465"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nPx7IY6SUl0",
+          "type": "VideoObject",
+          "name": "Amsterdamse grachten"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Herengracht",
+          "prefix": "Amsterdamse grachten. Maar niet langs dit stukje van de ",
+          "suffix": ". Dit was het allerrijkste stukje Amsterdam. In de 17e"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=110.096,128.188"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3dc7e9c9-a876-4769-9955-2ab2c0902ae2",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nPx7IY6SUl0",
+          "type": "VideoObject",
+          "name": "Amsterdamse grachten"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "van de Herengracht. Dit was het allerrijkste stukje ",
+          "suffix": ". In de 17e eeuw bouwden hier de kooplieden en"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=110.096,128.188"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f3e3aace-9441-462d-bcbf-6a6a95c80196",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nPx7IY6SUl0",
+          "type": "VideoObject",
+          "name": "Amsterdamse grachten"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "17e eeuw",
+          "prefix": "Dit was het allerrijkste stukje Amsterdam. In de ",
+          "suffix": " bouwden hier de kooplieden en regenten hun huizen. Nou"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=110.096,128.188"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "095ea67d-e0d4-4864-a332-85c461328dcc",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nPx7IY6SUl0",
+          "type": "VideoObject",
+          "name": "Amsterdamse grachten"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "maar gerust paleizen. Het was het allermooiste stukje ",
+          "suffix": ".\nEn heet dan ook niet voor niets de Gouden"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=110.096,128.188"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ae970954-51eb-47f3-8153-1a41c2f786d9",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q1165334",
+          "type": "Place",
+          "label": "Gouden Bocht"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nPx7IY6SUl0",
+          "type": "VideoObject",
+          "name": "Amsterdamse grachten"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Gouden Bocht",
+          "prefix": "stukje Amsterdam.\nEn heet dan ook niet voor niets de ",
+          "suffix": ". MUZIEK"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=128.228,138.755"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "508c7089-4699-4468-b8a0-0b8a4c172e13",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nPx7IY6SUl0",
+          "type": "VideoObject",
+          "name": "Amsterdamse grachten"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "MUZIEK",
+          "prefix": "En heet dan ook niet voor niets de Gouden Bocht. ",
+          "suffix": ""
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=128.228,138.755"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a601ecff-a458-451a-b732-b50c877135af",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nPx7IY6SUl0",
+          "type": "VideoObject",
+          "name": "Amsterdamse grachten"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "muziek",
+          "prefix": "heet dan ook niet voor niets de Gouden Bocht. MUZIEK  ",
+          "suffix": ""
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f5f42182-fb09-4fba-a29f-6a710cfcb2d0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nPx7IY6SUl0",
+          "type": "VideoObject",
+          "name": "Amsterdamse grachten"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam ",
+          "prefix": "te halen. En om die reden hebben we hier in ",
+          "suffix": "de gachten. Als je het water echter uit het veen"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=14.676,34.21"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d2764e55-53f7-4fb1-b0d2-30a48ca44a7b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q1056152",
+          "type": "Place",
+          "label": "Koninklijk Paleis"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "nc74d688115ab40a9b1921ca14118640ab2226",
+          "type": "Place",
+          "label": "Koninklijk Paleis"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nPx7IY6SUl0",
+          "type": "VideoObject",
+          "name": "Amsterdamse grachten"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Koninklijk Paleis",
+          "prefix": "oma die leerde nog op school op hoeveel palen het ",
+          "suffix": " op de Dam was gebouwd. 13.659. Je kon dat namelijk"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=51.309,70.317"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "daadad76-4a7d-4900-8197-7df253f8fa36",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q340013",
+          "type": "Place",
+          "label": "Amsterdamse grachten"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nPx7IY6SUl0",
+          "type": "VideoObject",
+          "name": "Amsterdamse grachten"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdamse grachten",
+          "prefix": "bedacht eigenlijk.\n Pakhuizen staan eigenlijk langs alle ",
+          "suffix": ". Maar niet langs dit stukje van de Herengracht. Dit"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=110.096,128.188"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "37fcf9f6-bc40-44f3-b972-fed71a103d29",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q2623129",
+          "type": "Place",
+          "label": "Herengracht"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/herengracht/1768",
+          "type": "Place",
+          "label": "Herengracht",
+          "longitude": "4.888307329405542",
+          "latitude": "52.373841712820465"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nPx7IY6SUl0",
+          "type": "VideoObject",
+          "name": "Amsterdamse grachten"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Herengracht",
+          "prefix": "Amsterdamse grachten. Maar niet langs dit stukje van de ",
+          "suffix": ". Dit was het allerrijkste stukje Amsterdam. In de 17e"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=110.096,128.188"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7c5a2f2a-a54d-4dd5-9495-1475385436d2",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nPx7IY6SUl0",
+          "type": "VideoObject",
+          "name": "Amsterdamse grachten"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "van de Herengracht. Dit was het allerrijkste stukje ",
+          "suffix": ". In de 17e eeuw bouwden hier de kooplieden en"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=110.096,128.188"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "97f45b5f-731e-4d66-ae42-1c8f8dbecc85",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nPx7IY6SUl0",
+          "type": "VideoObject",
+          "name": "Amsterdamse grachten"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "17e eeuw",
+          "prefix": "Dit was het allerrijkste stukje Amsterdam. In de ",
+          "suffix": " bouwden hier de kooplieden en regenten hun huizen. Nou"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=110.096,128.188"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "89b31df4-e1fe-465f-8545-1574765684c5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nPx7IY6SUl0",
+          "type": "VideoObject",
+          "name": "Amsterdamse grachten"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "maar gerust paleizen. Het was het allermooiste stukje ",
+          "suffix": ".\nEn heet dan ook niet voor niets de Gouden"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=110.096,128.188"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1b15eb33-efb1-41d3-8d5f-3784a0419d2c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q1165334",
+          "type": "Place",
+          "label": "Gouden Bocht"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nPx7IY6SUl0",
+          "type": "VideoObject",
+          "name": "Amsterdamse grachten"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Gouden Bocht",
+          "prefix": "stukje Amsterdam.\nEn heet dan ook niet voor niets de ",
+          "suffix": ". MUZIEK"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=128.228,138.755"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "69d4e5b2-95b2-4955-94af-edb3cadce156",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nPx7IY6SUl0",
+          "type": "VideoObject",
+          "name": "Amsterdamse grachten"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam ",
+          "prefix": "te halen. En om die reden hebben we hier in ",
+          "suffix": "de gachten. Als je het water echter uit het veen"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=14.676,34.21"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9186ab24-64d8-44f2-8f57-ead8028c12cd",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/dam/880",
+          "type": "Place",
+          "label": null,
+          "longitude": "4.893052563826873",
+          "latitude": "52.37297034161908"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nPx7IY6SUl0",
+          "type": "VideoObject",
+          "name": "Amsterdamse grachten"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Dam ",
+          "prefix": "op school op hoeveel palen het Koninklijk Paleis op de ",
+          "suffix": "was gebouwd. 13.659. Je kon dat namelijk makkelijk"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=51.309,70.317"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "add8c7a6-6b2a-4ee8-8269-47cbe76caebe",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "geschiedenis",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nPx7IY6SUl0",
+          "type": "VideoObject",
+          "name": "Amsterdamse grachten"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9f22238e-88ea-4b6b-ba52-63adbc0ae8a5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "architectuur",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nPx7IY6SUl0",
+          "type": "VideoObject",
+          "name": "Amsterdamse grachten"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "deba8d5a-1fc8-4d9e-af94-8222c4b8bd7c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "stedelijke ontwikkeling",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nPx7IY6SUl0",
+          "type": "VideoObject",
+          "name": "Amsterdamse grachten"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a237b111-9a2c-454a-9544-b05398c04665",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "veiligheid",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nPx7IY6SUl0",
+          "type": "VideoObject",
+          "name": "Amsterdamse grachten"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "44968188-0436-4e57-a3d3-da9d052b1eee",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "amsterdam",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=nPx7IY6SUl0",
+          "type": "VideoObject",
+          "name": "Amsterdamse grachten"
+        }
+      ]
+    }
+  }
+]

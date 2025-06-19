@@ -1,0 +1,2464 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e30855b7-ca86-46ce-b1ee-596eada840e0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Occupation",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "MUZIEK",
+          "prefix": "",
+          "suffix": "\n In het Rietlandpark komen allerlei stedelijke elementen"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=18.041,25.163"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "89ab9b1e-7b3c-408a-b6dc-bc87135f64f1",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q19467903",
+          "type": "Place",
+          "label": "Rietlandpark"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/rietlandpark/3813",
+          "type": "Place",
+          "label": "Rietlandpark",
+          "longitude": "4.93508857527318",
+          "latitude": "52.37368290894977"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Rietlandpark",
+          "prefix": "In het ",
+          "suffix": " komen allerlei stedelijke elementen tezamen. De"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=40.487,54.718"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "79a884b0-1629-4293-ae9a-50157a455ed0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q19405131",
+          "type": "Place",
+          "label": "Panamalaan"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/panamalaan/3458",
+          "type": "Place",
+          "label": "Panamalaan",
+          "longitude": "4.933948491575457",
+          "latitude": "52.36937333915547"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Panamalaan",
+          "prefix": "komen allerlei stedelijke elementen tezamen. De ",
+          "suffix": " is de belangrijke verbinding tussen Oost en de Oostelijke"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=40.487,54.718"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c605cd0c-e7b8-4833-bf2d-48ebc907fa3a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Oost",
+          "prefix": "De Panamalaan is de belangrijke verbinding tussen ",
+          "suffix": " en de Oostelijke Eilanden en de Piet Heinkade die met"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=40.487,54.718"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c428d5a8-0529-44e1-a0e8-1f40ea051ae6",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Oostelijke Eilanden",
+          "prefix": "Panamalaan is de belangrijke verbinding tussen Oost en de ",
+          "suffix": " en de Piet Heinkade die met het Centraal Station.\nAan"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=40.487,54.718"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "af1e8f1c-cda9-4df2-ace6-e8295c17eb94",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q12013276",
+          "type": "Place",
+          "label": "Piet Heinkade"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/piet-heinkade/3545",
+          "type": "Place",
+          "label": "Piet Heinkade",
+          "longitude": "4.923633166444578",
+          "latitude": "52.37572444305176"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Piet Heinkade",
+          "prefix": "verbinding tussen Oost en de Oostelijke Eilanden en de ",
+          "suffix": " die met het Centraal Station.\nAan een T-kruising ligt"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=40.487,54.718"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0c64ebe7-ec1c-4196-bde2-449e78c9805e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/centraal-station/1208",
+          "type": "Place",
+          "label": "Centraal Station",
+          "longitude": "4.900556",
+          "latitude": "52.378889"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Centraal Station",
+          "prefix": "de Oostelijke Eilanden en de Piet Heinkade die met het ",
+          "suffix": ".\nAan een T-kruising ligt hier de toegang en de"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=40.487,54.718"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b88626ea-5981-429f-aa85-b99d9e8708ce",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "T-kruising",
+          "prefix": "de Piet Heinkade die met het Centraal Station.\nAan een ",
+          "suffix": " ligt hier de toegang en de uitgang van de Piet"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=54.778,73.339"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c0e5c66f-40d7-4277-9587-57f907521113",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "Q116558819",
+          "type": "Place",
+          "label": "Piet Heintunnel"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/piet-heintunnel/3546",
+          "type": "Place",
+          "label": "Piet Heintunnel",
+          "longitude": "4.948034912812576",
+          "latitude": "52.3728632422688"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Piet Heintunnel",
+          "prefix": "T-kruising ligt hier de toegang en de uitgang van de ",
+          "suffix": " en de tunnel voor de tram naar IJburg.  De ingang"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=54.778,73.339"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "762e464e-7c08-427d-9e0d-3bfd4f2a6381",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "IJburg",
+          "prefix": "de Piet Heintunnel en de tunnel voor de tram naar ",
+          "suffix": ".  De ingang van de tramtunnel is onder de weg"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=54.778,73.339"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0d38bbb8-e11d-40fa-b1b3-6fc9702fd992",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Java-eiland",
+          "prefix": "gecomplementeerd met de kruising van lijn 10 naar het ",
+          "suffix": ". Om het geheel ligt het Rietlandpark dat begrensd wordt"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=73.379,93.304"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "63404cea-7e9e-4f82-b50e-50b6347a2bfb",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q19467903",
+          "type": "Place",
+          "label": "Rietlandpark"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/rietlandpark/3813",
+          "type": "Place",
+          "label": "Rietlandpark",
+          "longitude": "4.93508857527318",
+          "latitude": "52.37368290894977"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Rietlandpark",
+          "prefix": "lijn 10 naar het Java-eiland. Om het geheel ligt het ",
+          "suffix": " dat begrensd wordt door nieuwe bebouwing. Het ontwerp van"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=73.379,93.304"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d4159c16-7c6a-4af9-bdf6-870fb51cddd3",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Sporenburg",
+          "prefix": "op de een of andere manier. Dus dat geldt voor ",
+          "suffix": " met name. Dat zie je daar zo'n beetje, dat is"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=93.344,112.229"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b5e6605b-27cd-48a3-be31-df5c9d404b33",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "IJ-boulevard",
+          "prefix": "ingewikkeld omdat aanvankelijk er het idee was van een ",
+          "suffix": ". Via rijbanen vanaf de ringweg naar het centraalstation."
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=93.344,112.229"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5c89c4f5-fa5f-4125-8b43-573979e480d8",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/centraal-station/1208",
+          "type": "Place",
+          "label": "centraalstation",
+          "longitude": "4.900556",
+          "latitude": "52.378889"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "centraalstation",
+          "prefix": "een IJ-boulevard. Via rijbanen vanaf de ringweg naar het ",
+          "suffix": ".\n Daar is de gemeenteraad later op teruggekomen. Die"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=93.344,112.229"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "35ddc424-7b80-46a9-b62d-5d57e1161220",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "IJburg",
+          "prefix": "in een tram ergens halverwege het planproces. Omdat ",
+          "suffix": " in omvang gehalveerd werd naar aanleiding van het"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=113.409,129.299"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6cd61ebf-c24b-4f32-b96c-ec5e224f9d48",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "stad",
+          "prefix": "twee tramlijnen. Die auto's die allemaal netjes moeten de ",
+          "suffix": " in of de stad uit. Dat allemaal moest in een"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=130.679,144.345"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5632fea2-8368-4b57-9d5f-a0c60f509dcf",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "stad",
+          "prefix": "auto's die allemaal netjes moeten de stad in of de ",
+          "suffix": " uit. Dat allemaal moest in een overzichtelijke en veilige"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=130.679,144.345"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6c5a891e-7727-43bd-84c0-a00c44f532f9",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "eilanden",
+          "prefix": "met platen in de aardkorst die langs elkaar schuiven. Die ",
+          "suffix": " zijn ontwikkeld één voor één met elk een eigen verhaal"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=147.663,166.832"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9c644a60-44f5-439d-b90f-3815de451bdf",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "eilanden",
+          "prefix": "hinderen. En vervolgens laten we dat gewoon zien, hoe die ",
+          "suffix": " verschillend zijn. En dan krijg je dus van die scheuren"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=167.592,185.978"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8985f830-e024-42bf-9f54-6f5df47c0b24",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Van Heeswijk",
+          "prefix": "we hebben alles gedaan om dat te voorkomen.\nEn meneer ",
+          "suffix": ", u heeft zowel dit mooie tramgat als deze gebouwen"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=224.143,235.75"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8a7b88d6-9874-45a9-92e1-f45bf3957e46",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "tramgat",
+          "prefix": "En meneer Van Heeswijk, u heeft zowel dit mooie ",
+          "suffix": " als deze gebouwen ontworpen. Vindt u dat nou leuk als"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=224.143,235.75"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "41ba5058-7e87-4269-a3b3-72efff74aaf1",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Meneer Venhoeven",
+          "prefix": "tot iets veel meer bijzonder kunt komen dan anders.  ",
+          "suffix": ", u heeft aan de andere kant ook dozenachtige woningen"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=271.106,290.0"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9bff6ae3-8ba1-4435-b871-6af65ed12f1c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Occupation",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "stedenbouwkundige",
+          "prefix": "woningen neergezet.\nWat was daar de opdracht van, van de ",
+          "suffix": "? Het eerste wat wij geprobeerd hebben is voor iedereen"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=290.08,305.918"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "cb67c8fb-8e52-41c4-871e-b2523d1fbb34",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/piet-heintunnel/3546",
+          "type": "Place",
+          "label": "Piet Hein tunnel",
+          "longitude": "4.948034912812576",
+          "latitude": "52.3728632422688"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Piet Hein tunnel",
+          "prefix": "eerste wat wij geprobeerd hebben is voor iedereen die de ",
+          "suffix": " uitkomt. Die is eigenlijk een beetje gedesoriënteerd. Je"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=290.08,305.918"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "52ed837c-a64c-4bee-b4f5-771da30383ac",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "havengebied",
+          "prefix": "onmiddellijk duidelijk willen maken dat je in een ",
+          "suffix": " aankomt.\n Dus we hebben eigenlijk een beetje gerefereerd"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=290.08,305.918"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d0467760-32a6-49f8-ad1b-008ca85e9b69",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "westelijke havengebied",
+          "prefix": "aan havenconstructies zoals je die tegenwoordig in het ",
+          "suffix": " ook nog wel ziet. Het is natuurlijk een enorme woonwijk"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=306.699,323.431"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "87ab0036-ab88-4b1d-8f67-b88b13080eab",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "oostelijke havengebied",
+          "prefix": "is natuurlijk een enorme woonwijk aan het worden hier, ",
+          "suffix": ". Heel veel bedrijvigheid die we hier vroeger hadden, die"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=306.699,323.431"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9cb9df3d-1b12-41de-8cdf-ae2612d1eaac",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "mensen",
+          "prefix": "we natuurlijk van meet af aan willen laten staan. De ",
+          "suffix": " die daarin wonen, die wilden dat zelf ook graag. En"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=341.019,359.832"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "394c56b9-d878-461e-b58e-73d968557325",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "gebied",
+          "prefix": "wonen. En ook een aardige extra openbare ruimte in het ",
+          "suffix": ".\n Nou, de bedoeling is eigenlijk dat je hier een"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=361.371,380.167"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c0257374-cdc1-4b30-904f-beb8247f29ab",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "woontorens",
+          "prefix": "dat je hier een verkeersluw gebied krijgt waar de ",
+          "suffix": " en de kantoortorens aan georiënteerd liggen. Aan de"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=361.371,380.167"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f0d3fa17-4a2c-4eda-a009-bc3045b0a4a4",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "kantoortorens",
+          "prefix": "een verkeersluw gebied krijgt waar de woontorens en de ",
+          "suffix": " aan georiënteerd liggen. Aan de andere kant heb je immers"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=361.371,380.167"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4b58e09e-95da-46ed-9d7c-c0e442ece1af",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/piet-heintunnel/3546",
+          "type": "Place",
+          "label": "Piet Hein tunnel",
+          "longitude": "4.948034912812576",
+          "latitude": "52.3728632422688"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Piet Hein tunnel",
+          "prefix": "heb je immers een hoofdontsluitingsweg die leidt naar de ",
+          "suffix": ". Die is dus niet veilig. Dus aan deze kant"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=361.371,380.167"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "276f91f4-77f8-4ae7-8ef1-283a00fd1f07",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "bewoners",
+          "prefix": "die mogelijkheid wel.\n U moet zich voorstellen dat deze ",
+          "suffix": " ook allemaal parkeerplaatsen hebben. Maar die staan hier"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=381.969,399.317"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4784f180-f320-4e66-b8e5-465bebadfbd0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/rietlandpark/3813",
+          "type": "Place",
+          "label": "park",
+          "longitude": "4.93508857527318",
+          "latitude": "52.37368290894977"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "park",
+          "prefix": "de grond, zodat er hier eigenlijk een speelruimte in het ",
+          "suffix": " ontstaat, een soort pleintje.\nEn dit is dus eigenlijk"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=381.969,399.317"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0fdcb297-6ad2-4069-8cdc-84c20dd92173",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "bewoners",
+          "prefix": "hoe groen. Daarin hebben we ook nog behoorlijk met de ",
+          "suffix": " hier gesproken.\nHet hele idee om het middengebied 1,20"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=399.377,418.826"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7e63bb2a-75c9-4d55-81f7-7bd4c71ec194",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "middengebied",
+          "prefix": "met de bewoners hier gesproken.\nHet hele idee om het ",
+          "suffix": " 1,20 meter te verhogen, dat leidde tot allerlei"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=418.866,436.83"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b3e7e218-cef0-47bc-bdf5-e2bd94ea87f7",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/piet-heintunnel/3546",
+          "type": "Place",
+          "label": "tunnel",
+          "longitude": "4.948034912812576",
+          "latitude": "52.3728632422688"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "tunnel",
+          "prefix": "120 er is, hoor je de auto's die uit de ",
+          "suffix": " komen al minder.\nDan wanneer je eenmaal op het kruispunt"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=418.866,436.83"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c2d08aa0-4075-48c1-bebf-1e183584676f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "kruising",
+          "prefix": "weg liggen inderdaad ook tot minder lawaai.\n Bij de ",
+          "suffix": " en de tramkuil staat het kunstwerk van Frank Mandersloot,"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=454.858,465.033"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "02120f2d-9847-4988-8acf-2bdfc893341d",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "tramkuil",
+          "prefix": "inderdaad ook tot minder lawaai.\n Bij de kruising en de ",
+          "suffix": " staat het kunstwerk van Frank Mandersloot, dat voor de"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=454.858,465.033"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "34c317eb-31dd-4b84-a311-c057f53b8cca",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Frank Mandersloot",
+          "prefix": "Bij de kruising en de tramkuil staat het kunstwerk van ",
+          "suffix": ", dat voor de bijen heet. Dit zijn vier opgestapelde"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=454.858,465.033"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b4fb7f59-f5d5-41ff-aeb1-28a453163a7e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Occupation",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "stedenbouwkundige ontwerpers",
+          "prefix": "Wat was nou de opgave vanuit de kant van de ",
+          "suffix": " voor de architect? We hadden deze wand eigenlijk gezien"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=473.944,487.995"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "16e7329f-4f54-481f-820a-c5f5250b45ee",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Occupation",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "architect",
+          "prefix": "de kant van de stedenbouwkundige ontwerpers voor de ",
+          "suffix": "? We hadden deze wand eigenlijk gezien als onderdeel van"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=473.944,487.995"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "173f30d6-8385-4305-82a0-59b9e0de1209",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q19467903",
+          "type": "Place",
+          "label": "Rietlandpark"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/rietlandpark/3813",
+          "type": "Place",
+          "label": "Rietlandpark",
+          "longitude": "4.93508857527318",
+          "latitude": "52.37368290894977"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Rietlandpark",
+          "prefix": "gezien als onderdeel van het hele concept van het ",
+          "suffix": ".\nWe vonden eigenlijk dat het een afsluiting moest vormen"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=488.055,507.616"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2135c108-2964-4f0e-8957-0883fc6874b2",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/rietlandpark/3813",
+          "type": "Place",
+          "label": "park",
+          "longitude": "4.93508857527318",
+          "latitude": "52.37368290894977"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "park",
+          "prefix": "eigenlijk dat het een afsluiting moest vormen aan het ",
+          "suffix": " van drie bouwblokken die hierachter zitten.  En vond u"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=488.055,507.616"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f783c3ad-67d0-44ad-87f7-e2da2d04b8a7",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "spoorwegbassin",
+          "prefix": "hoger. En het gaat hoger naar het punt waar het ",
+          "suffix": " ligt, waar je uitkijkt over het bassin.  Met water tussen"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=508.537,524.968"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "acfcdc44-68d4-4db0-a233-2cd3b563e932",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Borneo",
+          "prefix": "over het bassin.  Met water tussen de twee eilanden, ",
+          "suffix": " en Sporenburg.\nEn dat geeft op dat punt een heel"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=524.988,538.792"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "883dfcdc-2538-45d4-ab85-b5e70ff0ce2f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Sporenburg",
+          "prefix": "het bassin.  Met water tussen de twee eilanden, Borneo en ",
+          "suffix": ".\nEn dat geeft op dat punt een heel goed"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=524.988,538.792"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "826cfc86-fd7f-4c68-93f0-21bad832ff8b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "gebouw",
+          "prefix": "geeft op dat punt een heel goed effect voor het ",
+          "suffix": " en voor de openbare ruimte.  Het scheve had te maken"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=524.988,538.792"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "309265c4-f787-4220-b675-4435ddcb08d4",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/rietlandpark/3813",
+          "type": "Place",
+          "label": "park",
+          "longitude": "4.93508857527318",
+          "latitude": "52.37368290894977"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "park",
+          "prefix": "heel bijzonder toonaangevend project zou worden in dit ",
+          "suffix": ".  Je hebt een plint met allemaal huizen die echt"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=553.244,572.517"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2fdb0185-ddb7-4bdb-be1d-2ff6f39726f5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "stedelijk blok",
+          "prefix": "staan. Een doorgang geven naar de achterkant, naar het ",
+          "suffix": ". En naar beneden naar de parkeergarage. En van daaruit"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=572.557,592.529"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "fccd5635-435b-4d79-b832-fa0bfabf0347",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "parkeergarage",
+          "prefix": "naar het stedelijk blok. En naar beneden naar de ",
+          "suffix": ". En van daaruit gaan die appartementen omhoog. En van"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=572.557,592.529"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5718b2e7-310b-4ef7-b976-826dbfc23522",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/rietlandpark/3813",
+          "type": "Place",
+          "label": "park",
+          "longitude": "4.93508857527318",
+          "latitude": "52.37368290894977"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "park",
+          "prefix": "mogen wel een beetje gedistingeerd, wat gedempt.  aan het ",
+          "suffix": " aanwezig zijn.\nMaar verder vond ik dat dat een neutraal"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=592.549,609.095"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e099dc0e-e586-4cc0-8b3e-3ab3820ca6d0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/rietlandpark/3813",
+          "type": "Place",
+          "label": "park",
+          "longitude": "4.93508857527318",
+          "latitude": "52.37368290894977"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "park",
+          "prefix": "een neutraal scherm moest zijn zodat de populieren en het ",
+          "suffix": " de voorgrond namen en dat dit alleen een decorstuk op"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=592.549,609.095"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c8a8fb64-0c81-425c-a0f8-1f95ac5579e5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "populieren",
+          "prefix": "een mooi verfijnd van uitwerking is.\nWaarom overal ",
+          "suffix": " en niet bijvoorbeeld Eicke of weet ik veel wat?  Nou,"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=609.135,628.257"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5f1467b7-34b4-424b-88f2-26797f3ebd98",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Eicke",
+          "prefix": "is.\nWaarom overal populieren en niet bijvoorbeeld ",
+          "suffix": " of weet ik veel wat?  Nou, daar hebben we behoorlijk"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=609.135,628.257"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d226ec29-c8d1-4c37-bcbb-4060988ce3a7",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "populieren",
+          "prefix": "moeten worden? Maar uiteindelijk hebben we gekozen voor ",
+          "suffix": ", omdat dat gewoon een hele snelle groeier is. Je"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=609.135,628.257"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b2797996-8818-4676-b96c-b21ea67cd32a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "gefrut",
+          "prefix": "time hier een bos.  Nou, we wilden niet te veel ",
+          "suffix": " in dit gebied maken. Zo eenvoudig mogelijk.\nDat spreekt"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=628.297,647.01"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a51c26fd-8df3-4be3-8a91-35d1bcd4bbd7",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Zapetenbuurt",
+          "prefix": "waar je op de tramp stapt, het fietspad naar de ",
+          "suffix": " en dan de stad in. Als dat een ruimte is"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=718.282,733.329"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "58d63311-fbc8-4e62-bf71-82f2fe16d13b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "stad",
+          "prefix": "tramp stapt, het fietspad naar de Zapetenbuurt en dan de ",
+          "suffix": " in. Als dat een ruimte is waar je heel frequent"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=718.282,733.329"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "98677740-bd16-4a0c-b521-9501026e5b34",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "architectuur",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "487f0dc4-45de-42cc-83cc-76c79040ab2a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "infrastructuur",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b9f2d917-2386-4363-9d5b-1ef64b199a6a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "stedelijke ontwikkeling",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5b79e647-5fe4-47d8-a9aa-2a05e88e6584",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "stedenbouw",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "fd0d8a03-154c-4bf3-a445-b8e229677eeb",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "verkeer",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=UT8FIUAQVBI",
+          "type": "VideoObject",
+          "name": "Aanbouw: Panamaknoop"
+        }
+      ]
+    }
+  }
+]

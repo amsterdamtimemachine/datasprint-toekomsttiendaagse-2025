@@ -1,0 +1,704 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "082502cc-55a6-4485-b373-0ee0661ae16a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q2361620",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080892/thuis-aan-de-toren",
+          "type": "BlogPosting",
+          "name": "Thuis aan de toren"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Rembrandttoren",
+          "prefix": "huis uit moest was ik bang nooit meer op de ",
+          "suffix": " te kunnen uitkijken. Dat ik weer een huisje heb van"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3d6f7058-24e5-4645-a8d4-f45e7bb9961a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080892/thuis-aan-de-toren",
+          "type": "BlogPosting",
+          "name": "Thuis aan de toren"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Mona",
+          "prefix": "uitgaan in de toren, dat betekent voor mij thuis.’ Toen ",
+          "suffix": " zwanger was in ’94 werd de boom in de binnentuin"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "26106c97-23dd-4e2b-abea-271b67c3522a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q2227090",
+          "type": "Place",
+          "label": "Weesperzijde"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/weesperzijde/4921",
+          "type": "Place",
+          "label": "Weesperzijde",
+          "longitude": "4.921928966622807",
+          "latitude": "52.344578024619146"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080892/thuis-aan-de-toren",
+          "type": "BlogPosting",
+          "name": "Thuis aan de toren"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Weesperzijde",
+          "prefix": "de boom in de binnentuin van haar woning bij de ",
+          "suffix": " omgezaagd. Vre-se-lijk vond ze het. ‘Maar vanaf toen zag"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c821f0df-cfcd-4def-83bf-ffa9ff7c0469",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080892/thuis-aan-de-toren",
+          "type": "BlogPosting",
+          "name": "Thuis aan de toren"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "vader",
+          "prefix": "groeien en zwaaide ik vanaf mijn dakterras naar de ",
+          "suffix": " van mijn zoon die eraan werkte en op het dak"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d3af7bf3-3af7-4f07-a161-3a0ad72c9d0f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080892/thuis-aan-de-toren",
+          "type": "BlogPosting",
+          "name": "Thuis aan de toren"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "zoon",
+          "prefix": "zwaaide ik vanaf mijn dakterras naar de vader van mijn ",
+          "suffix": " die eraan werkte en op het dak stond. Toen wist"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3d8b4d10-f114-4f8d-a784-a74771924388",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q2361620",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080892/thuis-aan-de-toren",
+          "type": "BlogPosting",
+          "name": "Thuis aan de toren"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "toren",
+          "prefix": "werkte en op het dak stond. Toen wist ik, die ",
+          "suffix": " is mijn thuis.’\nOp de Nieuwe Amstelbrug spreek ik met"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e6cc982a-d3d0-4051-addd-489ebc5b26f5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q1989421",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080892/thuis-aan-de-toren",
+          "type": "BlogPosting",
+          "name": "Thuis aan de toren"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nieuwe Amstelbrug",
+          "prefix": "Toen wist ik, die toren is mijn thuis.’\nOp de ",
+          "suffix": " spreek ik met Mona Aafjes, een rasechte Amsterdamse. Haar"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2d5ce7f3-5f90-4eae-92bf-ba3ff62aa757",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080892/thuis-aan-de-toren",
+          "type": "BlogPosting",
+          "name": "Thuis aan de toren"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Mona Aafjes",
+          "prefix": "is mijn thuis.’\nOp de Nieuwe Amstelbrug spreek ik met ",
+          "suffix": ", een rasechte Amsterdamse. Haar hart voor de stad aan"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f61c4eda-1554-48a1-b53b-9df731cd763d",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080892/thuis-aan-de-toren",
+          "type": "BlogPosting",
+          "name": "Thuis aan de toren"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "er juist bij. ‘Begrijp me niet verkeerd, alles hoort bij ",
+          "suffix": ". Ken je dat liedje Hee Amsterdam van Drukwerk?’ Ze"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0dfaad7c-c695-48b1-afd3-19156cc9bb95",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080892/thuis-aan-de-toren",
+          "type": "BlogPosting",
+          "name": "Thuis aan de toren"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "alles hoort bij Amsterdam. Ken je dat liedje Hee ",
+          "suffix": " van Drukwerk?’ Ze begint te zingen:  ‘Hee Amsterdam, ze"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b20dd784-8ad9-4c02-919b-017b121855ee",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080892/thuis-aan-de-toren",
+          "type": "BlogPosting",
+          "name": "Thuis aan de toren"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "Hee Amsterdam van Drukwerk?’ Ze begint te zingen:  ‘Hee ",
+          "suffix": ", ze zeggen dat je bent veranderd, Hee Amsterdam, je"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "de5c81a8-afeb-48a3-b748-e83fd9b0c8b0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080892/thuis-aan-de-toren",
+          "type": "BlogPosting",
+          "name": "Thuis aan de toren"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "‘Hee Amsterdam, ze zeggen dat je bent veranderd, Hee ",
+          "suffix": ", je kan geen goed meer doen, maar wie dat"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1fc3cfa2-9daa-455c-a88f-59e4989c8fd3",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080892/thuis-aan-de-toren",
+          "type": "BlogPosting",
+          "name": "Thuis aan de toren"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "doen, maar wie dat zegt die is geen Amsterdammer, want ",
+          "suffix": " je bent nog net als toen.’\nMaar dat haar stad"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8550b374-f453-4cfc-a4b5-d0a0cb2dd733",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080892/thuis-aan-de-toren",
+          "type": "BlogPosting",
+          "name": "Thuis aan de toren"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "andere orde. ‘Ik vind nog steeds hoor, alles hoort bij ",
+          "suffix": ", vreemdelingen, junkies, maar als alle Amsterdammers"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "44214f7e-330f-4264-b697-1994e89dc465",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q1989421",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080892/thuis-aan-de-toren",
+          "type": "BlogPosting",
+          "name": "Thuis aan de toren"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nieuwe Amstelbrug",
+          "prefix": "stad.’\nIk vraag Mona of ze ons uitzicht vanaf de ",
+          "suffix": " op de Rembrandttoren nog steeds als typisch Amsterdams"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a3e30c69-2fc0-4944-9e8d-21cae52462e1",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q2361620",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080892/thuis-aan-de-toren",
+          "type": "BlogPosting",
+          "name": "Thuis aan de toren"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Rembrandttoren",
+          "prefix": "of ze ons uitzicht vanaf de Nieuwe Amstelbrug op de ",
+          "suffix": " nog steeds als typisch Amsterdams beschouwt, gezien de"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f4b29fab-152b-4a12-a91c-b88c2dfd2f95",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q2361620",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080892/thuis-aan-de-toren",
+          "type": "BlogPosting",
+          "name": "Thuis aan de toren"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Rembrandttoren",
+          "prefix": "met op de hoek van de straat uitzicht op de ",
+          "suffix": ".\n‘En het gaat om die toren, en dat is"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ce72d3fd-8048-46aa-a98d-2df1bffb70d3",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "thuis",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080892/thuis-aan-de-toren",
+          "type": "BlogPosting",
+          "name": "Thuis aan de toren"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b4f2f46f-2643-4f1d-bed2-f26d862dab92",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "verandering",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080892/thuis-aan-de-toren",
+          "type": "BlogPosting",
+          "name": "Thuis aan de toren"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "590ed6c3-4678-4c3c-b2fa-a7dc6393392d",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "identiteit",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080892/thuis-aan-de-toren",
+          "type": "BlogPosting",
+          "name": "Thuis aan de toren"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "33126228-b116-48da-aa72-a0e9233bc827",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "geen tekst ontvangen",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080892/thuis-aan-de-toren",
+          "type": "BlogPosting",
+          "name": "Thuis aan de toren"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7645ab06-4b73-4d49-9717-04074f6fac7d",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "dus:",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2080892/thuis-aan-de-toren",
+          "type": "BlogPosting",
+          "name": "Thuis aan de toren"
+        }
+      ]
+    }
+  }
+]

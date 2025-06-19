@@ -1,0 +1,1106 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c17f6d82-6359-4a6a-b5b1-d29989052665",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "oktobermiddag",
+          "prefix": "is een kraakheldere ",
+          "suffix": " als ik Craig (36) tref op de Nieuwmarkt. Terwijl de"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ca73fc23-1820-4fc0-92c4-c31a410d06ae",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Craig",
+          "prefix": "is een kraakheldere oktobermiddag als ik ",
+          "suffix": " (36) tref op de Nieuwmarkt. Terwijl de gele bladeren over"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f87ba102-b4f7-46dc-91e3-f0091acf8d1f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q1568693",
+          "type": "Place",
+          "label": "Nieuwmarkt"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/nieuwmarkt/3209",
+          "type": "Place",
+          "label": "Nieuwmarkt",
+          "longitude": "4.900360736902763",
+          "latitude": "52.37251212727004"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nieuwmarkt",
+          "prefix": "kraakheldere oktobermiddag als ik Craig (36) tref op de ",
+          "suffix": ". Terwijl de gele bladeren over het plein waaien, eet"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9a353fcb-fba0-4e4c-9bff-6eb78dcec23b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "broodje",
+          "prefix": "de gele bladeren over het plein waaien, eet hij een ",
+          "suffix": " in de herfstzon. Een handjevol toeristen kijkt rond en"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ac27d62c-91ef-4fb8-bcd0-8581a66ef83a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Craig",
+          "prefix": "kijkt rond en wat buurtbewoners doen boodschappen. ",
+          "suffix": " woont in de Nieuwmarktbuurt en werkt gedeeltelijk vanuit"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "917dad45-33e3-4f76-b117-6ad621c268f5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/district/nieuwmarkt/848",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nieuwmarktbuurt",
+          "prefix": "en wat buurtbewoners doen boodschappen. Craig woont in de ",
+          "suffix": " en werkt gedeeltelijk vanuit zijn appartement. Tijdens"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "bb4ff532-eb61-4bb8-a341-fc3761b14c65",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "broodje",
+          "prefix": "appartement. Tijdens zijn lunchpauze haalt hij graag een ",
+          "suffix": " bij Tony Benson op het plein.\nNog geen jaar woont"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c943fb1c-8703-4079-9ac5-4b2adda9046c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Tony Benson",
+          "prefix": "Tijdens zijn lunchpauze haalt hij graag een broodje bij ",
+          "suffix": " op het plein.\nNog geen jaar woont Craig in Amsterdam."
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ae920e3f-5d5b-4394-951d-5e4f175628d5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "plein",
+          "prefix": "haalt hij graag een broodje bij Tony Benson op het ",
+          "suffix": ".\nNog geen jaar woont Craig in Amsterdam. Hij is"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "403eb417-adaa-4b1e-b7c9-b979c12e2af5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Craig",
+          "prefix": "bij Tony Benson op het plein.\nNog geen jaar woont ",
+          "suffix": " in Amsterdam. Hij is opgegroeid in Taiwan en heeft na"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b7c88eec-f16d-4c21-b06d-39bad0c7a85f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "Benson op het plein.\nNog geen jaar woont Craig in ",
+          "suffix": ". Hij is opgegroeid in Taiwan en heeft na zijn"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6e53178a-b5b6-4dc9-9df7-6fd541bf2f93",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Taiwan",
+          "prefix": "geen jaar woont Craig in Amsterdam. Hij is opgegroeid in ",
+          "suffix": " en heeft na zijn studie nog een tijdje in Berlijn"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "beab18da-726d-4e66-8382-310c75a1b617",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Berlijn",
+          "prefix": "Taiwan en heeft na zijn studie nog een tijdje in ",
+          "suffix": " gewoond. Nu heeft hij hier zijn plek gevonden. Wat zo"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "350488d5-5365-4b51-8bfa-5a7f0f1a39d4",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q1568693",
+          "type": "Place",
+          "label": "Nieuwmarkt"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/nieuwmarkt/3209",
+          "type": "Place",
+          "label": "Nieuwmarkt",
+          "longitude": "4.900360736902763",
+          "latitude": "52.37251212727004"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nieuwmarkt",
+          "prefix": "hier zijn plek gevonden. Wat zo fijn is aan de ",
+          "suffix": "? “Alles is dichtbij. Er zijn voldoende winkels,"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5ec70f9f-6ae6-4dde-94b0-bb9edd350982",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Craig",
+          "prefix": "winkels, supermarkten en restaurants.” Een fiets heeft ",
+          "suffix": " nog niet, maar eigenlijk mist hij die niet. “Ik hou"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b93a525a-f1f8-421e-85ba-0a8d904d95ab",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/district/nieuwmarkt/848",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nieuwmarktbuurt",
+          "prefix": "Ook als ik wat verder moet zijn, maar binnen de ",
+          "suffix": " heb ik bijna alles wat ik nodig heb. De bewoners"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "37f0bd74-7df0-46ec-a523-79d115b747e9",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Craig",
+          "prefix": "kennen.” Tony’s broodjes- en poffertjeskraam is voor ",
+          "suffix": " een belangrijk onderdeel van de Nieuwmarkt. “Ik haal hier"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "bf62878b-2480-4962-8834-9dd2b4794233",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q1568693",
+          "type": "Place",
+          "label": "Nieuwmarkt"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/nieuwmarkt/3209",
+          "type": "Place",
+          "label": "Nieuwmarkt",
+          "longitude": "4.900360736902763",
+          "latitude": "52.37251212727004"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nieuwmarkt",
+          "prefix": "is voor Craig een belangrijk onderdeel van de ",
+          "suffix": ". “Ik haal hier vaak wat te eten en dan"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d745dd33-bf9e-41d6-8e07-4f60a1772aa0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Craig",
+          "prefix": "de rand van het plein praten we verder. Het is ",
+          "suffix": " opgevallen dat het plein tijdens de zomer door"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c85f0e78-66c3-4aef-bb1a-05b65afda8af",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Taiwan",
+          "prefix": "De terrassen zitten tot laat in de avond vol. “In ",
+          "suffix": " leven mensen meer binnen vanwege de benauwde hitte"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ae85dcec-8255-4067-8119-692d96e4e461",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Craig",
+          "prefix": "vanwege de benauwde hitte tijdens de zomer,” vertelt ",
+          "suffix": ". “Het is heel fijn dat iedereen hier zo veel"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9c45608f-384e-4fdb-aa26-c8c61b3e313d",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q1568693",
+          "type": "Place",
+          "label": "Nieuwmarkt"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/nieuwmarkt/3209",
+          "type": "Place",
+          "label": "Nieuwmarkt",
+          "longitude": "4.900360736902763",
+          "latitude": "52.37251212727004"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nieuwmarkt",
+          "prefix": "het eind van ons gesprek vertelt hij me wat de ",
+          "suffix": " zo bijzonder maakt. “De Nieuwmarkt is een plek waar heel"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "cc382b4f-6102-4eb9-bf8e-22ea64125d38",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q1568693",
+          "type": "Place",
+          "label": "Nieuwmarkt"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/nieuwmarkt/3209",
+          "type": "Place",
+          "label": "Nieuwmarkt",
+          "longitude": "4.900360736902763",
+          "latitude": "52.37251212727004"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nieuwmarkt",
+          "prefix": "vertelt hij me wat de Nieuwmarkt zo bijzonder maakt. “De ",
+          "suffix": " is een plek waar heel veel samenkomt.” Zo liggen de"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "35bb1f43-3446-4641-9312-51e35be3bfe5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q447664",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Wallen",
+          "prefix": "is een plek waar heel veel samenkomt.” Zo liggen de ",
+          "suffix": " vlak achter het plein en er komen dagelijks veel"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9f3d734f-0ab3-4a0e-9947-07ee37b749e3",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q1568693",
+          "type": "Place",
+          "label": "Nieuwmarkt"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/nieuwmarkt/3209",
+          "type": "Place",
+          "label": "Nieuwmarkt",
+          "longitude": "4.900360736902763",
+          "latitude": "52.37251212727004"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nieuwmarkt",
+          "prefix": "het plein en er komen dagelijks veel toeristen op de ",
+          "suffix": ". Daarnaast wordt er gewoond en geleefd door verschillende"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a9d4672c-5709-4c62-ba4f-508119dec135",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Craig",
+          "prefix": "gebruik maken van dezelfde ruimte.” Dat waardeert ",
+          "suffix": " erg aan zijn buurt. “De mix van mensen maakt dat"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ec66dd7b-ccc4-48c2-bdf4-efc45968cc31",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q1568693",
+          "type": "Place",
+          "label": "Nieuwmarkt"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/nieuwmarkt/3209",
+          "type": "Place",
+          "label": "Nieuwmarkt",
+          "longitude": "4.900360736902763",
+          "latitude": "52.37251212727004"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nieuwmarkt",
+          "prefix": "aan zijn buurt. “De mix van mensen maakt dat de ",
+          "suffix": " een prettige plek is om te"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f0cad2aa-38bb-4f4c-9026-318420a6c632",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "geen tekst gezien",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "27b5b998-572d-4e82-b6fb-c42c773662fb",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "dus:",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "25e7282b-4c5c-45d5-8412-c1449fe6e839",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "seizoen",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "22bbbfb2-1715-4646-9b9b-62754096a05f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "herfst",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5bd5422b-c07a-4e5c-b02f-4cb0a1e1b882",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "werk",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/1797191/een-fiets-heb-ik-eigenlijk-niet-nodig",
+          "type": "BlogPosting",
+          "name": "'Een fiets heb ik eigenlijk niet nodig'"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,948 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e56b597a-971b-4c66-acba-f60d8eea3b6a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q2280966",
+          "type": "Place",
+          "label": "Javastraat"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/javastraat/2122",
+          "type": "Place",
+          "label": "Javastraat",
+          "longitude": "4.937631487080369",
+          "latitude": "52.36360970351865"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882231/verborgen-in-het-volle-zicht",
+          "type": "BlogPosting",
+          "name": "Verborgen in het volle zicht"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Javastraat",
+          "prefix": "het vrijwel niet bij café Gijs de Rooy aan de ",
+          "suffix": ". Het is een van de laatste bruine kroegen in"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9dc4bbf8-118e-4ff4-8a0a-149e093a069e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q478608",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882231/verborgen-in-het-volle-zicht",
+          "type": "BlogPosting",
+          "name": "Verborgen in het volle zicht"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam-Oost",
+          "prefix": "Javastraat. Het is een van de laatste bruine kroegen in ",
+          "suffix": " en het ruikt er naar muffe nostalgie. Hier hebben we"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "95e26f2f-0e52-4470-8119-f7a448ae39b9",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882231/verborgen-in-het-volle-zicht",
+          "type": "BlogPosting",
+          "name": "Verborgen in het volle zicht"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Salma",
+          "prefix": "er naar muffe nostalgie. Hier hebben we afgesproken met ",
+          "suffix": " (35). Ze is de kersverse moeder van Elias, die ze"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6ddf3836-1375-4bd9-8962-4d2405ee772c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882231/verborgen-in-het-volle-zicht",
+          "type": "BlogPosting",
+          "name": "Verborgen in het volle zicht"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Elias",
+          "prefix": "afgesproken met Salma (35). Ze is de kersverse moeder van ",
+          "suffix": ", die ze met zich mee heeft genomen om wat"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5317ebeb-33b9-43c0-9152-84c1c7660585",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882231/verborgen-in-het-volle-zicht",
+          "type": "BlogPosting",
+          "name": "Verborgen in het volle zicht"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Salma",
+          "prefix": "het belangrijk om hem dit soort plaatsen te laten zien.’ \n",
+          "suffix": "’s vader komt uit Sudan en haar moeder uit Egypte."
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a3174291-e4a9-472d-9768-94ccff4f6c39",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882231/verborgen-in-het-volle-zicht",
+          "type": "BlogPosting",
+          "name": "Verborgen in het volle zicht"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Sudan",
+          "prefix": "soort plaatsen te laten zien.’ \nSalma’s vader komt uit ",
+          "suffix": " en haar moeder uit Egypte. Zelf is ze opgegroeid in"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6b112824-d184-44e5-aaf7-c3269b8448a7",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882231/verborgen-in-het-volle-zicht",
+          "type": "BlogPosting",
+          "name": "Verborgen in het volle zicht"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Egypte",
+          "prefix": "zien.’ \nSalma’s vader komt uit Sudan en haar moeder uit ",
+          "suffix": ". Zelf is ze opgegroeid in een Londense arbeiderswijk. Het"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "acc5455f-5894-4a54-8285-c0d610b1bf92",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/engeland/482",
+          "type": "Place",
+          "label": "Engeland",
+          "longitude": "4.877035650692392",
+          "latitude": "52.36153777893935"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882231/verborgen-in-het-volle-zicht",
+          "type": "BlogPosting",
+          "name": "Verborgen in het volle zicht"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Engeland",
+          "prefix": "de hoek doet haar sterk denken aan haar jeugd in ",
+          "suffix": ", zo vertelt ze. ‘Dit soort plaatsen vertellen iets over"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9c705d92-0017-4704-9cb4-75c81d2bcc6f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882231/verborgen-in-het-volle-zicht",
+          "type": "BlogPosting",
+          "name": "Verborgen in het volle zicht"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "iets over de geschiedenis van de arbeidersklasse in ",
+          "suffix": ", een groep mensen die vaak over het hoofd wordt"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "341fefe9-f55a-4cf0-96fb-d04d439a74f0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882231/verborgen-in-het-volle-zicht",
+          "type": "BlogPosting",
+          "name": "Verborgen in het volle zicht"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nederland",
+          "prefix": "groep mensen die vaak over het hoofd wordt gezien. In ",
+          "suffix": " heeft men het vaak over de Gouden Eeuw en dat"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7c0a9f63-d545-47cc-a323-b75582968477",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882231/verborgen-in-het-volle-zicht",
+          "type": "BlogPosting",
+          "name": "Verborgen in het volle zicht"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Gouden Eeuw",
+          "prefix": "wordt gezien. In Nederland heeft men het vaak over de ",
+          "suffix": " en dat is leuk, maar er zijn ook nog andere"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5e23f5f5-48fa-42e7-845e-ed005fd1d4b7",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882231/verborgen-in-het-volle-zicht",
+          "type": "BlogPosting",
+          "name": "Verborgen in het volle zicht"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Salma",
+          "prefix": "een plaats als deze inneemt in de maatschappij.’ \nVoordat ",
+          "suffix": " naar Amsterdam verhuisde, beschouwde ze de stad als een"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e29433ea-5949-4525-a6d5-9aa9dead56ae",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882231/verborgen-in-het-volle-zicht",
+          "type": "BlogPosting",
+          "name": "Verborgen in het volle zicht"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "als deze inneemt in de maatschappij.’ \nVoordat Salma naar ",
+          "suffix": " verhuisde, beschouwde ze de stad als een vrijhaven waar"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7f9a74e0-91b0-4438-963e-131addd0e7a4",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882231/verborgen-in-het-volle-zicht",
+          "type": "BlogPosting",
+          "name": "Verborgen in het volle zicht"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "alle mensen die claimen dat dit niet zo is in ",
+          "suffix": ". Oost voelt voor haar niet als een typisch Amsterdams"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "aecf420e-fc8b-459c-807a-d9ec89070590",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q478608",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882231/verborgen-in-het-volle-zicht",
+          "type": "BlogPosting",
+          "name": "Verborgen in het volle zicht"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Oost",
+          "prefix": "mensen die claimen dat dit niet zo is in Amsterdam. ",
+          "suffix": " voelt voor haar niet als een typisch Amsterdams gebied."
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "24152538-3830-4040-8347-897dba6f5b67",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q478608",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882231/verborgen-in-het-volle-zicht",
+          "type": "BlogPosting",
+          "name": "Verborgen in het volle zicht"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Oost",
+          "prefix": "voor haar niet als een typisch Amsterdams gebied. ‘In ",
+          "suffix": " voel ik me verbonden. Cultureel gezien is het meer"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "646bb6d5-3179-4de1-b2f3-17c921b5cccd",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q2280966",
+          "type": "Place",
+          "label": "Javastraat"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/javastraat/2122",
+          "type": "Place",
+          "label": "Javastraat",
+          "longitude": "4.937631487080369",
+          "latitude": "52.36360970351865"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882231/verborgen-in-het-volle-zicht",
+          "type": "BlogPosting",
+          "name": "Verborgen in het volle zicht"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Javastraat",
+          "prefix": "dan andere delen van de stad, zou ik zeggen. De ",
+          "suffix": " is het middelpunt waar iedereen samenkomt, het kloppende"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "40aeb18a-4be9-4a43-90ef-6b3eb2aa2ad2",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q478608",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882231/verborgen-in-het-volle-zicht",
+          "type": "BlogPosting",
+          "name": "Verborgen in het volle zicht"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Oost",
+          "prefix": "waar iedereen samenkomt, het kloppende hart van ",
+          "suffix": ", en café Gijs de Rooy staat symbool voor de"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c4923109-f2e0-4c8b-9eac-58173cb3cbf1",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882231/verborgen-in-het-volle-zicht",
+          "type": "BlogPosting",
+          "name": "Verborgen in het volle zicht"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "café Gijs de Rooy staat symbool voor de ziel van ",
+          "suffix": ".’ In het bruine café komt haar initiële beeld van"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "112710e4-de45-43e4-ba3f-dcbbe2894fd0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882231/verborgen-in-het-volle-zicht",
+          "type": "BlogPosting",
+          "name": "Verborgen in het volle zicht"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "komt haar initiële beeld van een vrij, open en verbonden ",
+          "suffix": " tot leven. \n‘Oprechte plaatsen’, dáár is ze naar opzoek."
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "53dd78c2-d71e-43f0-8d94-129ac0d29f26",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882231/verborgen-in-het-volle-zicht",
+          "type": "BlogPosting",
+          "name": "Verborgen in het volle zicht"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "niet. Het is een oase, een overblijfsel van het oude ",
+          "suffix": ". Een onvervalsbare diamant, verborgen in het volle"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0d5e8201-7c60-40db-9eb2-7591750ce38c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/address/A152879",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882231/verborgen-in-het-volle-zicht",
+          "type": "BlogPosting",
+          "name": "Verborgen in het volle zicht"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "café Gijs de Rooy ",
+          "prefix": "van de ruimte. Amsterdamser kan het vrijwel niet bij ",
+          "suffix": "aan de Javastraat. Het is een van de laatste bruine"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e8d763f6-3a10-46f8-b87a-9598e163f357",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882231/verborgen-in-het-volle-zicht",
+          "type": "BlogPosting",
+          "name": "Verborgen in het volle zicht"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "café Gijs de Rooy ",
+          "prefix": "van de ruimte. Amsterdamser kan het vrijwel niet bij ",
+          "suffix": "aan de Javastraat. Het is een van de laatste bruine"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d344d304-17ce-42ad-af37-4518d15bb0f4",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/address/A152879",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882231/verborgen-in-het-volle-zicht",
+          "type": "BlogPosting",
+          "name": "Verborgen in het volle zicht"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "café Gijs de Rooy ",
+          "prefix": "waar iedereen samenkomt, het kloppende hart van Oost, en ",
+          "suffix": "staat symbool voor de ziel van Amsterdam.’ In het bruine"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "86c8f0c4-d5b1-4c52-ba1a-6f34d96cdcbe",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "cultuur",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882231/verborgen-in-het-volle-zicht",
+          "type": "BlogPosting",
+          "name": "Verborgen in het volle zicht"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "355d5121-5247-4baa-aeba-4b293f4fcaeb",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "identiteit",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882231/verborgen-in-het-volle-zicht",
+          "type": "BlogPosting",
+          "name": "Verborgen in het volle zicht"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1231e8da-9f47-4853-9210-0887610d1f4d",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "geen thema's",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882231/verborgen-in-het-volle-zicht",
+          "type": "BlogPosting",
+          "name": "Verborgen in het volle zicht"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "cc31d7e1-f646-4e2a-b2b9-fa0777bf32f2",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "nostalgie",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882231/verborgen-in-het-volle-zicht",
+          "type": "BlogPosting",
+          "name": "Verborgen in het volle zicht"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7868d2f9-c472-46f9-b3f8-aba3459691c2",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "familie",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882231/verborgen-in-het-volle-zicht",
+          "type": "BlogPosting",
+          "name": "Verborgen in het volle zicht"
+        }
+      ]
+    }
+  }
+]

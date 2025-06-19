@@ -1,0 +1,736 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d7bb3745-fbaf-4812-bd5a-fc4f6942c5c8",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=J3T3semmC3k",
+          "type": "VideoObject",
+          "name": "Bijlmermeer - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Tweede Wereldoorlog",
+          "prefix": "de ",
+          "suffix": " was er grote behoefte aan nieuwe woningen voor de snel"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=16.236,35.955"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "137c257d-c676-4ccb-8329-f5070b72e833",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=J3T3semmC3k",
+          "type": "VideoObject",
+          "name": "Bijlmermeer - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "aan nieuwe woningen voor de snel groeiende bevolking van ",
+          "suffix": ". Aan de zuidoostkant van Amsterdam lag een landelijk"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=16.236,35.955"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "cc9d74de-e0f1-41a9-a9b0-2db180697851",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=J3T3semmC3k",
+          "type": "VideoObject",
+          "name": "Bijlmermeer - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "bevolking van Amsterdam. Aan de zuidoostkant van ",
+          "suffix": " lag een landelijk gebied rondom een meer, het"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=16.236,35.955"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8a697b6d-13c5-4264-aed4-d4fa3a534820",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q128498",
+          "type": "Place",
+          "label": "Bijlmermeer"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=J3T3semmC3k",
+          "type": "VideoObject",
+          "name": "Bijlmermeer - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Bijlmermeer",
+          "prefix": "Amsterdam lag een landelijk gebied rondom een meer, het ",
+          "suffix": ".  En hier werd een grote nieuwbouwwijk gepland. Er"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=16.236,35.955"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e3a8fffa-1bc3-4de9-9489-6aac24ea9553",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=J3T3semmC3k",
+          "type": "VideoObject",
+          "name": "Bijlmermeer - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "1964",
+          "prefix": "gepland. Er moesten honderdduizend mensen komen wonen. In ",
+          "suffix": " werd het Bijlmermeer leeggepompt.\nEn op 13 december 1966"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=16.236,35.955"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4fb0e6ad-6701-4617-a40c-bd9da781fafe",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=J3T3semmC3k",
+          "type": "VideoObject",
+          "name": "Bijlmermeer - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Bijlmermeer",
+          "prefix": "honderdduizend mensen komen wonen. In 1964 werd het ",
+          "suffix": " leeggepompt.\nEn op 13 december 1966 ging de eerste paal"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=16.236,35.955"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "240732e5-596f-4d2c-844e-d077ccd763eb",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=J3T3semmC3k",
+          "type": "VideoObject",
+          "name": "Bijlmermeer - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "13 december 1966",
+          "prefix": "wonen. In 1964 werd het Bijlmermeer leeggepompt.\nEn op ",
+          "suffix": " ging de eerste paal de grond in. Tot die tijd"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=35.995,55.127"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "08ed24e6-7911-4d69-b055-d28983c755eb",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=J3T3semmC3k",
+          "type": "VideoObject",
+          "name": "Bijlmermeer - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "tijd was het een landelijk gebied. Dicht bij het drukke ",
+          "suffix": ". De nieuwbouwwijk die hier werd gebouwd moest Nederland"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=35.995,55.127"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4ea18f63-0f42-41e0-833d-333e0ef0362f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/nederland/481",
+          "type": "Place",
+          "label": "Nederland",
+          "longitude": "4.877106594181554",
+          "latitude": "52.36156803916213"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=J3T3semmC3k",
+          "type": "VideoObject",
+          "name": "Bijlmermeer - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nederland",
+          "prefix": "Amsterdam. De nieuwbouwwijk die hier werd gebouwd moest ",
+          "suffix": " verbazen. Het zou de meest ideale en moderne woonwijk van"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=35.995,55.127"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0b287f72-8757-4f86-83d7-07b943aa2348",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/nederland/481",
+          "type": "Place",
+          "label": "Nederland",
+          "longitude": "4.877106594181554",
+          "latitude": "52.36156803916213"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=J3T3semmC3k",
+          "type": "VideoObject",
+          "name": "Bijlmermeer - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Nederland",
+          "prefix": "verbazen. Het zou de meest ideale en moderne woonwijk van ",
+          "suffix": " worden.\nGrootschaligheid stond bij de Bijlmer voorop.  In"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=35.995,55.127"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e67823d0-07f6-4691-9e37-70acde8f3848",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=J3T3semmC3k",
+          "type": "VideoObject",
+          "name": "Bijlmermeer - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Bijlmer",
+          "prefix": "van Nederland worden.\nGrootschaligheid stond bij de ",
+          "suffix": " voorop.  In de tien verdiepingen hoge flats waren de"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=55.167,72.963"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6b54f548-8a05-43aa-8590-122891092803",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=J3T3semmC3k",
+          "type": "VideoObject",
+          "name": "Bijlmermeer - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Bijlmer",
+          "prefix": "strikt van elkaar gescheiden.\nHoeveel mooier was de ",
+          "suffix": " niet in vergelijking met die oude verkrotte wijken van de"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=73.003,92.323"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8b959b94-41a3-4456-8781-7acb6fba1c48",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=J3T3semmC3k",
+          "type": "VideoObject",
+          "name": "Bijlmermeer - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Bijlmer",
+          "prefix": "Er kwamen dan ook vooral sociaal zwakkeren in de ",
+          "suffix": " te wonen.\nEn de buurt verloedde en de problemen werden"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=73.003,92.323"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c247ce49-75a1-4365-b818-0c6b88384bc5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=J3T3semmC3k",
+          "type": "VideoObject",
+          "name": "Bijlmermeer - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "jaren negentig",
+          "prefix": "de problemen werden steeds groter. Dit veranderde in de ",
+          "suffix": ". Aanpassingen aan de flats en de bouw van nieuwe"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=92.363,112.03"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "db10595f-d091-4269-8ae4-89ee2ad35aab",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=J3T3semmC3k",
+          "type": "VideoObject",
+          "name": "Bijlmermeer - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Bijlmer",
+          "prefix": "de flats en de bouw van nieuwe woningen maken de ",
+          "suffix": " aantrekkelijker. En laten we hopen dat de Bijlmer ooit de"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=92.363,112.03"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "377aeab3-4809-44c0-911c-a7fe952e5d99",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=J3T3semmC3k",
+          "type": "VideoObject",
+          "name": "Bijlmermeer - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Bijlmer",
+          "prefix": "de Bijlmer aantrekkelijker. En laten we hopen dat de ",
+          "suffix": " ooit de ideale stad wordt die de ontwerpers voor ogen"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=92.363,112.03"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5c18d3a0-f147-418e-8ab1-285479f16b56",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=J3T3semmC3k",
+          "type": "VideoObject",
+          "name": "Bijlmermeer - Amsterdam"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "2021",
+          "prefix": "die de ontwerpers voor ogen hebben gehad.  TV Gelderland ",
+          "suffix": ""
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "eff210ea-cdce-454b-982d-f1d0bccf04e2",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "stedelijke ontwikkeling",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=J3T3semmC3k",
+          "type": "VideoObject",
+          "name": "Bijlmermeer - Amsterdam"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "acb6f665-4d73-4768-acef-3127535d14ed",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "urbanisatie",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=J3T3semmC3k",
+          "type": "VideoObject",
+          "name": "Bijlmermeer - Amsterdam"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "34b0eaf7-0bea-4341-b8d2-37454031874b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "architectuur",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=J3T3semmC3k",
+          "type": "VideoObject",
+          "name": "Bijlmermeer - Amsterdam"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c0463229-49cb-4cb7-b949-6fda1ecf6370",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "stedenbouw",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=J3T3semmC3k",
+          "type": "VideoObject",
+          "name": "Bijlmermeer - Amsterdam"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "bb4fb929-fc95-4daa-9982-4cd1cae65ef1",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "moderniteit",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=J3T3semmC3k",
+          "type": "VideoObject",
+          "name": "Bijlmermeer - Amsterdam"
+        }
+      ]
+    }
+  }
+]

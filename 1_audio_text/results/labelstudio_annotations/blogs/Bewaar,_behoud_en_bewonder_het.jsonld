@@ -1,0 +1,572 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "85d3e014-a3dd-4f5a-b0ef-274e87e0bc97",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "een Arnhemse-Amsterdammer: zelfs na veertig jaar wonen in ",
+          "suffix": " hoor je nog mijn Arnhemse accent\", zo vertelt Kick"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "42f6adc5-4dc0-49fc-a1e0-f8acb7e8cf69",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Kick Hakvoort",
+          "prefix": "Amsterdam hoor je nog mijn Arnhemse accent\", zo vertelt ",
+          "suffix": " (59) op een zonnige dinsdagmiddag in Watergraafsmeer."
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ab0eeeea-daaa-4a21-9bc2-727090b4588f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "dinsdagmiddag",
+          "prefix": "accent\", zo vertelt Kick Hakvoort (59) op een zonnige ",
+          "suffix": " in Watergraafsmeer. Maar het accent is eigenlijk het"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1bdfff82-533f-4acf-b7ab-5dee91116121",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q1936132",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Watergraafsmeer",
+          "prefix": "Kick Hakvoort (59) op een zonnige dinsdagmiddag in ",
+          "suffix": ". Maar het accent is eigenlijk het enige waardoor Kick"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "df092303-48a3-4c13-8cc0-6e52d6a0f8a6",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "dit geleerd bij haar werk bij Nederlandse Spoorwegen: \"",
+          "suffix": " heeft mij geadopteerd, maar de NS heeft mij"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4c68ab9e-cc8b-4c02-8d80-6cbee2e60d57",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Kick",
+          "prefix": "mij geadopteerd, maar de NS heeft mij grootgebracht.\"\n",
+          "suffix": " identificeert zichzelf dan ook als Amsterdamse, ze windt"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1fd73659-c02c-4004-8a7c-4f4e9f5bccd9",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Kick",
+          "prefix": "buurt hebben wij daar een stokkie voor gestoken.\" Volgens ",
+          "suffix": " wordt er te veel bijgebouwd door projectontwikkelaars,"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e02796c2-280a-4de2-934c-0a6bc2f2f54d",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "een van de oorzaken waarom er veel mooie stukjes in ",
+          "suffix": " verdwijnen.\nEen gebied waarvan zij hoopt dat het nooit"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ff6a010e-b907-42cb-b2b8-89baf91a58e7",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q2195300",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Park Frankendael",
+          "prefix": "Een gebied waarvan zij hoopt dat het nooit weggaat, is ",
+          "suffix": " in Watergraafsmeer met in het bijzonder de heemtuin die"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "26f5a96e-2e61-4645-b4e7-add71cd15bd7",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q1936132",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Watergraafsmeer",
+          "prefix": "zij hoopt dat het nooit weggaat, is Park Frankendael in ",
+          "suffix": " met in het bijzonder de heemtuin die daar is aangelegd."
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "52481922-47e5-4d59-83a2-415679359b62",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Kick",
+          "prefix": "met beleid – zelfs kruiden plukken. En dat is wat ",
+          "suffix": " zo geweldig vindt aan deze plek: ‘als kind kan je"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0680a511-214e-4b8f-9cf6-27edaa205aa6",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "heemtuin is volgens haar een van de unieke stukjes in ",
+          "suffix": ", nu steeds meer groen dreigt te verdwijnen voor het"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "330cc72b-3bae-4b4a-bc71-38b090e6e17e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Kick",
+          "prefix": "te verdwijnen voor het bouwen van woningen. Toch is ",
+          "suffix": " niet bang dat Park Frankendael en de heemtuin verdwijnt."
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a328dae9-cccd-4e94-82d3-86afd1168427",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q2195300",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Park Frankendael",
+          "prefix": "het bouwen van woningen. Toch is Kick niet bang dat ",
+          "suffix": " en de heemtuin verdwijnt. \"Als de gemeente besluit om dit"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0ba3b7f9-3794-44c5-ad46-71921c593195",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "identiteit",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ac23ed81-0f59-4955-ac55-157a983833b1",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "geen tekst ontvangen",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d3c56e07-016a-47a9-8617-1740c3d0f14b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "accent",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c7346519-de68-4f4e-b4f8-c5be226fb526",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "woonplaats",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c0c275ff-5493-440a-93cb-fc3a27b4a2d1",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "cultuur",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "",
+          "type": "BlogPosting",
+          "name": ""
+        }
+      ]
+    }
+  }
+]

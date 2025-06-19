@@ -1,0 +1,520 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "73bb723a-4edf-422d-8037-2842f6bb8f36",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Occupation",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882287/%E2%80%98het-groene-bankje-in-de-chaos-van-de-opengebroken-wereld%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het groene bankje in de chaos van de opengebroken wereld’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Muzikant",
+          "prefix": "",
+          "suffix": " en tennisleraar Patrick Verheij is een bekende in de"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "405f8a12-7b5c-44c8-83c5-8fbd2eab56c2",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882287/%E2%80%98het-groene-bankje-in-de-chaos-van-de-opengebroken-wereld%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het groene bankje in de chaos van de opengebroken wereld’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Patrick Verheij",
+          "prefix": "en tennisleraar ",
+          "suffix": " is een bekende in de buurt, dat is meteen duidelijk."
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2b788742-1ae8-4ca2-9572-a102296997a2",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q2915920",
+          "type": "Place",
+          "label": "Noordermarkt"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/noordermarkt/3238",
+          "type": "Place",
+          "label": "Noordermarkt",
+          "longitude": "4.886865446058348",
+          "latitude": "52.37968563468971"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882287/%E2%80%98het-groene-bankje-in-de-chaos-van-de-opengebroken-wereld%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het groene bankje in de chaos van de opengebroken wereld’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Noordermarkt",
+          "prefix": "van het groene bankje van café Winkel 43 aan de ",
+          "suffix": ".\n‘In de zomer, als het windstil is, is het"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d72bc7e6-c732-4599-97db-e0d471878303",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q2915920",
+          "type": "Place",
+          "label": "Noordermarkt"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/noordermarkt/3238",
+          "type": "Place",
+          "label": "Noordermarkt",
+          "longitude": "4.886865446058348",
+          "latitude": "52.37968563468971"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882287/%E2%80%98het-groene-bankje-in-de-chaos-van-de-opengebroken-wereld%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het groene bankje in de chaos van de opengebroken wereld’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Noordermarkt",
+          "prefix": "als mijn achtertuin.’ Hij bewondert de pracht van de ",
+          "suffix": " en haar kerk, vroeger de plek voor de armste Jordanezen."
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "01ea5ddc-9797-4477-bc37-182b8420f65e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/district/jordaan/626",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882287/%E2%80%98het-groene-bankje-in-de-chaos-van-de-opengebroken-wereld%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het groene bankje in de chaos van de opengebroken wereld’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Jordaan",
+          "prefix": "hem gelukkig: ‘midden in de stad, in mijn buurt de ",
+          "suffix": " heb je hier ruimte en weidsheid.’ In de zomer staan"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b4dad4d1-75d4-4e25-8a91-496dc3efecd4",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882287/%E2%80%98het-groene-bankje-in-de-chaos-van-de-opengebroken-wereld%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het groene bankje in de chaos van de opengebroken wereld’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "zaterdag",
+          "prefix": "er ook bij?’ Hij lacht. ‘Vroeger las ik hier op ",
+          "suffix": " de krant. Dat kan nu niet meer, want dan staat"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "02d3e10f-b35a-446e-8fd3-253d07ed8573",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882287/%E2%80%98het-groene-bankje-in-de-chaos-van-de-opengebroken-wereld%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het groene bankje in de chaos van de opengebroken wereld’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Patrick",
+          "prefix": "vaak, geeft hij toe. ‘Maar, het is nog niet voorbij!’. \n",
+          "suffix": " vertelt over drie groepen mensen die hij vanaf zijn"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c18574a3-6600-4529-a7fc-b5a52199a76b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882287/%E2%80%98het-groene-bankje-in-de-chaos-van-de-opengebroken-wereld%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het groene bankje in de chaos van de opengebroken wereld’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "appeltaart",
+          "prefix": "van de opengebroken wereld’: toeristen worden dik van de ",
+          "suffix": ", de studenten zijn maatschappelijk betrokken, maar"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "19449d07-f580-482b-bd51-b3f611f4cf7e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/noorderkerk/167",
+          "type": "Place",
+          "label": "Noorderkerk",
+          "longitude": "4.886430193996353",
+          "latitude": "52.37963939087859"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882287/%E2%80%98het-groene-bankje-in-de-chaos-van-de-opengebroken-wereld%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het groene bankje in de chaos van de opengebroken wereld’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Noorderkerk",
+          "prefix": "maar verenigen zich niet echt, en de mensen van de ",
+          "suffix": " worden steeds fundamenteler in hun geloof. ‘Die drie"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f9ed09ce-1d61-4ab1-92b8-97091cf498e2",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882287/%E2%80%98het-groene-bankje-in-de-chaos-van-de-opengebroken-wereld%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het groene bankje in de chaos van de opengebroken wereld’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Patrick",
+          "prefix": "nauwelijks, en dat vind ik best wel zorgelijk.’ \nVolgens ",
+          "suffix": " kunnen organisaties zoals het Amsterdam Museum deze drie"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6c5a78d2-2555-452f-b32b-e3ae41f68dd8",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/burgerweeshuis-kalverstraat/1224",
+          "type": "Place",
+          "label": null,
+          "longitude": "4.89061987745795",
+          "latitude": "52.37025161116745"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882287/%E2%80%98het-groene-bankje-in-de-chaos-van-de-opengebroken-wereld%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het groene bankje in de chaos van de opengebroken wereld’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam Museum",
+          "prefix": "Volgens Patrick kunnen organisaties zoals het ",
+          "suffix": " deze drie groepen samenbrengen door hen allen een plek te"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "27fbd47b-452b-4988-abea-bb79d589381c",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "geen thema's",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882287/%E2%80%98het-groene-bankje-in-de-chaos-van-de-opengebroken-wereld%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het groene bankje in de chaos van de opengebroken wereld’"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0251a877-53a6-4037-be22-9e9de6f16a1a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "bekendheid",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882287/%E2%80%98het-groene-bankje-in-de-chaos-van-de-opengebroken-wereld%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het groene bankje in de chaos van de opengebroken wereld’"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "12e0caa7-37ff-455e-bb6d-bd3e0ffc005b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "erkenning",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882287/%E2%80%98het-groene-bankje-in-de-chaos-van-de-opengebroken-wereld%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het groene bankje in de chaos van de opengebroken wereld’"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "783147b8-e8ef-46b8-b74c-f8a646922fa6",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "gemeenschap",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882287/%E2%80%98het-groene-bankje-in-de-chaos-van-de-opengebroken-wereld%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het groene bankje in de chaos van de opengebroken wereld’"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "004520c4-a466-4325-8cbd-d803ee9124a6",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "sociale interactie",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/882287/%E2%80%98het-groene-bankje-in-de-chaos-van-de-opengebroken-wereld%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het groene bankje in de chaos van de opengebroken wereld’"
+        }
+      ]
+    }
+  }
+]

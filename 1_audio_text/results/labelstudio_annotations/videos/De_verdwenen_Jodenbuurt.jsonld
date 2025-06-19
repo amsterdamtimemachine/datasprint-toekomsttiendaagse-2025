@@ -1,0 +1,805 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f3780cea-d59d-479a-a00b-372a0d169b75",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=YYo6TQnl_8s",
+          "type": "VideoObject",
+          "name": "De verdwenen Jodenbuurt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "16e eeuw",
+          "prefix": "",
+          "suffix": " komen de eerste Joden uit Portugal naar Amsterdam."
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=14.356,33.633"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b856d022-512f-4fe9-9187-1c0f675abb93",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q45",
+          "type": "Place",
+          "label": "Portugal"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=YYo6TQnl_8s",
+          "type": "VideoObject",
+          "name": "De verdwenen Jodenbuurt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Portugal",
+          "prefix": "16e eeuw komen de eerste Joden uit ",
+          "suffix": " naar Amsterdam. Twintig jaar later vestigt een veel"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=14.356,33.633"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "32c26a7e-e8c1-4f47-98e1-8eca6fa743d8",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=YYo6TQnl_8s",
+          "type": "VideoObject",
+          "name": "De verdwenen Jodenbuurt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "16e eeuw komen de eerste Joden uit Portugal naar ",
+          "suffix": ". Twintig jaar later vestigt een veel grotere groep"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=14.356,33.633"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "38404087-d48e-4278-b3c4-42eca73905db",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=YYo6TQnl_8s",
+          "type": "VideoObject",
+          "name": "De verdwenen Jodenbuurt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "1671",
+          "prefix": "maar kiezen ervoor om gescheiden van elkaar te leven.  In ",
+          "suffix": " openen de Oost-Europese Joden hun synagogen. Het zal nog"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=33.693,49.594"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4994f3ab-ab8c-42ea-adc7-348324217c10",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q66024949",
+          "type": "Place",
+          "label": "Houtgracht"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/houtgracht/5668",
+          "type": "Place",
+          "label": "Houtgracht",
+          "longitude": "4.901830298777643",
+          "latitude": "52.36848120919583"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=YYo6TQnl_8s",
+          "type": "VideoObject",
+          "name": "De verdwenen Jodenbuurt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Houtgracht",
+          "prefix": "berooid aan. Ongeveer deze locatie hierachter, dat was de ",
+          "suffix": ". Daar waren een aantal huizen op een gegeven moment"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=50.578,65.489"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "66c3b5ee-d464-4410-adeb-f7eb1ff24e61",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=YYo6TQnl_8s",
+          "type": "VideoObject",
+          "name": "De verdwenen Jodenbuurt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Portugal",
+          "prefix": "van hun wortels als ze hier aankomen, want in het ",
+          "suffix": " van de 16e eeuw moeten ze katholiek worden of het"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=80.477,99.654"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "21b44288-380d-4530-be87-ad07f57d6a19",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=YYo6TQnl_8s",
+          "type": "VideoObject",
+          "name": "De verdwenen Jodenbuurt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "16e eeuw",
+          "prefix": "als ze hier aankomen, want in het Portugal van de ",
+          "suffix": " moeten ze katholiek worden of het land uitvluchten. De"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=80.477,99.654"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "462296c1-661e-4bad-b5e1-abbcfa9098a8",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=YYo6TQnl_8s",
+          "type": "VideoObject",
+          "name": "De verdwenen Jodenbuurt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "Joden brengen hun geloof en gebruiken wel mee naar ",
+          "suffix": ". Beide groepen gaan wonen aan wat dan de rand"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=80.477,99.654"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "cd04d6d9-5620-491a-a629-7e5ed3bbe37e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q2301532",
+          "type": "Place",
+          "label": "Waterlooplein"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/waterlooplein/4894",
+          "type": "Place",
+          "label": "Waterlooplein",
+          "longitude": "4.902305315257989",
+          "latitude": "52.36770188948943"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=YYo6TQnl_8s",
+          "type": "VideoObject",
+          "name": "De verdwenen Jodenbuurt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Waterloopplein",
+          "prefix": "wat dan de rand van de stad is, nu het ",
+          "suffix": ".\n Het waren twee aparte gemeenschappen. Niet alleen qua"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=80.477,99.654"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c57569fe-fa7a-4b52-8ba8-a77f7477dbe6",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=YYo6TQnl_8s",
+          "type": "VideoObject",
+          "name": "De verdwenen Jodenbuurt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Portugal",
+          "prefix": "trouwden onderling. Ze haalden vaak hun bruiden uit ",
+          "suffix": " of uit Spanje. En de Oost-Europese Joden trouwden ook"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=102.415,118.83"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6756d7a5-d8d7-4c58-a7d7-ef69ced1f25a",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/building/spanje/478",
+          "type": "Place",
+          "label": "Spanje",
+          "longitude": "4.877352515534912",
+          "latitude": "52.36162584315169"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=YYo6TQnl_8s",
+          "type": "VideoObject",
+          "name": "De verdwenen Jodenbuurt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Spanje",
+          "prefix": "Ze haalden vaak hun bruiden uit Portugal of uit ",
+          "suffix": ". En de Oost-Europese Joden trouwden ook alleen maar met"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=102.415,118.83"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "79e94888-c22d-4b7e-b8c9-4684550a2938",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=YYo6TQnl_8s",
+          "type": "VideoObject",
+          "name": "De verdwenen Jodenbuurt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "specerijen",
+          "prefix": "en uitgesloten van gildes. Velen verdienen daarom geld in ",
+          "suffix": " over zee en in aandelen op de beurs op de"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=142.479,160.496"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1e7f1559-bd79-4241-8566-fc128cfa48f0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "http://www.wikidata.org/entity/Q839050",
+          "type": "Place",
+          "label": "Dam"
+        }
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://adamlink.nl/geo/street/dam/880",
+          "type": "Place",
+          "label": "Dam",
+          "longitude": "4.893052563826873",
+          "latitude": "52.37297034161908"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=YYo6TQnl_8s",
+          "type": "VideoObject",
+          "name": "De verdwenen Jodenbuurt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Dam",
+          "prefix": "over zee en in aandelen op de beurs op de ",
+          "suffix": ".\nDe Oost-Europese Joden staan op de markt of zijn"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=160.536,177.109"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "db2e4891-fdcf-4aad-bd39-a03b6dc3e2e2",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Food",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=YYo6TQnl_8s",
+          "type": "VideoObject",
+          "name": "De verdwenen Jodenbuurt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "kosher eten",
+          "prefix": "je de gilders uitsloot. Dus wel godsdienstvrijheid, wel ",
+          "suffix": ". En ook synagoges mochten opgericht worden, maar geen lid"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=177.129,196.002"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f9abd965-96fd-400a-9847-93dc77d7207e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Date",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=YYo6TQnl_8s",
+          "type": "VideoObject",
+          "name": "De verdwenen Jodenbuurt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "1670",
+          "prefix": "synagogen krijgen de twee gemeenschappen vanaf ",
+          "suffix": " een eigen gezicht in de stad. De Portugese synagoge is"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=197.019,215.544"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "25e614c9-354a-470d-b669-96afb3e9c588",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q702726",
+          "type": "Place",
+          "label": "Joods Historisch Museum"
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=YYo6TQnl_8s",
+          "type": "VideoObject",
+          "name": "De verdwenen Jodenbuurt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Joods Historisch Museum",
+          "prefix": "gebruik als gebedshuis.\nIn de andere synagoge zit nu het ",
+          "suffix": ".  De groep Oost-Europese Joden die hier kwamen, zijn"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=215.584,232.854"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3d233032-01ff-4ecc-9df0-01de2fb7a3d1",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=YYo6TQnl_8s",
+          "type": "VideoObject",
+          "name": "De verdwenen Jodenbuurt"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "heeft ook wat taal betreft hun sporen nog steeds in ",
+          "suffix": " nagelaten. Elke Amsterdammer kan je vragen, wat betekent"
+        },
+        {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "values": "t=232.914,248.107"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "561505cd-f4d9-436d-927e-e1341493b3c0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "religie",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=YYo6TQnl_8s",
+          "type": "VideoObject",
+          "name": "De verdwenen Jodenbuurt"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "01987837-cf84-486c-9dfa-9e6895c84402",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "cultuur",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=YYo6TQnl_8s",
+          "type": "VideoObject",
+          "name": "De verdwenen Jodenbuurt"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e56bbd6a-3104-4df1-b491-b42a9edd13c2",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "identiteit",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=YYo6TQnl_8s",
+          "type": "VideoObject",
+          "name": "De verdwenen Jodenbuurt"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9f2116a5-ce58-488f-9ff3-855b7d02d49b",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "migratie",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=YYo6TQnl_8s",
+          "type": "VideoObject",
+          "name": "De verdwenen Jodenbuurt"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8e17e5f8-b2d4-4f07-ad7c-9d41e3b13510",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "integratie",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://www.youtube.com/watch?v=YYo6TQnl_8s",
+          "type": "VideoObject",
+          "name": "De verdwenen Jodenbuurt"
+        }
+      ]
+    }
+  }
+]

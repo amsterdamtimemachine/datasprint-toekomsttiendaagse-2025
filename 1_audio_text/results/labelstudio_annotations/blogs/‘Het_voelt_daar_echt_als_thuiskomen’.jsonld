@@ -1,0 +1,672 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d43f65e3-f592-4848-9641-13b3c893f644",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325270/%E2%80%98het-voelt-daar-echt-als-thuiskomen%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het voelt daar echt als thuiskomen’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Madison",
+          "prefix": "kwam ",
+          "suffix": " tegen tijdens het boodschappen doen. Ze werkt als"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0db71769-ab8f-4dbe-a3cc-cf753485b7d0",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Occupation",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325270/%E2%80%98het-voelt-daar-echt-als-thuiskomen%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het voelt daar echt als thuiskomen’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "caissière",
+          "prefix": "Madison tegen tijdens het boodschappen doen. Ze werkt als ",
+          "suffix": " bij de Albert Heijn in Amsterdam-West. Er waren weinig"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5a2f7dd6-d40e-4747-a5fd-b0e99521f790",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q478621",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325270/%E2%80%98het-voelt-daar-echt-als-thuiskomen%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het voelt daar echt als thuiskomen’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam-West",
+          "prefix": "doen. Ze werkt als caissière bij de Albert Heijn in ",
+          "suffix": ". Er waren weinig klanten - het was een hartstikke"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "47fae919-ecfb-44fd-8260-12de41d9bec2",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325270/%E2%80%98het-voelt-daar-echt-als-thuiskomen%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het voelt daar echt als thuiskomen’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam",
+          "prefix": "komen. Toen ik haar vroeg naar haar favoriete plek in ",
+          "suffix": ", keek ze me verbaast aan. Na wat verdere uitleg"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4cbf5d84-4f70-49ed-9c73-470451ff5906",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q163319",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325270/%E2%80%98het-voelt-daar-echt-als-thuiskomen%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het voelt daar echt als thuiskomen’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Pijp",
+          "prefix": "enthousiast en begon ze te peinzen; “Hm, ik denk de ",
+          "suffix": "… Ik vind het daar zó fijn om te zijn…"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a027c89f-e103-4dec-9e96-199cc808dba7",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325270/%E2%80%98het-voelt-daar-echt-als-thuiskomen%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het voelt daar echt als thuiskomen’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Madison",
+          "prefix": "voetbalclub!”\nZe vertelde hierna wat meer over haarzelf. ",
+          "suffix": " is 22 jaar en een geboren en getogen Amsterdammer. Ze"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6b87e768-a2a4-4e9a-a790-8639ccaac840",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q478607",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325270/%E2%80%98het-voelt-daar-echt-als-thuiskomen%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het voelt daar echt als thuiskomen’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam-Noord",
+          "prefix": "een geboren en getogen Amsterdammer. Ze is opgegroeid in ",
+          "suffix": " en voetbalt sinds haar negende bij de voetbalclub O.S.V.,"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ef00568c-cc76-491b-815e-2fe0f57be38e",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q478607",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325270/%E2%80%98het-voelt-daar-echt-als-thuiskomen%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het voelt daar echt als thuiskomen’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam-Noord",
+          "prefix": "haar negende bij de voetbalclub O.S.V., ook gelegen in ",
+          "suffix": ". “Het voelt daar echt als thuiskomen”, legde ze me"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "782fe661-aa1b-4c54-a6a4-6f95dcfd893f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325270/%E2%80%98het-voelt-daar-echt-als-thuiskomen%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het voelt daar echt als thuiskomen’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Madison",
+          "prefix": "meegemaakt.”\nHet zijn de mensen zelf die de club volgens ",
+          "suffix": " typisch Amsterdams maken. De kantine doet haar een beetje"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "12ed7a7c-bf94-4850-ae2a-42fcc6d353fb",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q9942",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325270/%E2%80%98het-voelt-daar-echt-als-thuiskomen%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het voelt daar echt als thuiskomen’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Landsmeer",
+          "prefix": "Iedereen die daar komt is Amsterdammer, of komt uit ",
+          "suffix": " of Oostzaan. “Ik krijg er echt een dorpsgevoel bij,"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a0ad603c-0999-4f14-845b-1c55d4bef342",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q9951",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325270/%E2%80%98het-voelt-daar-echt-als-thuiskomen%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het voelt daar echt als thuiskomen’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Oostzaan",
+          "prefix": "die daar komt is Amsterdammer, of komt uit Landsmeer of ",
+          "suffix": ". “Ik krijg er echt een dorpsgevoel bij, waardoor het"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "00dadff5-232e-42a3-aee8-5f8d00b10622",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q478607",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325270/%E2%80%98het-voelt-daar-echt-als-thuiskomen%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het voelt daar echt als thuiskomen’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Amsterdam-Noord",
+          "prefix": "waardoor het voelt als thuiskomen in deze grote stad.” ",
+          "suffix": ", met name het gedeelte bij de grens van Oostzaan"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9580f277-00ba-4dbf-a176-6adcdf046464",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325270/%E2%80%98het-voelt-daar-echt-als-thuiskomen%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het voelt daar echt als thuiskomen’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Oostzaan",
+          "prefix": "Amsterdam-Noord, met name het gedeelte bij de grens van ",
+          "suffix": " en Landsmeer, beschreef ze als een kleine community. Veel"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4057dbdd-6f67-4e14-9c75-5ff90d5a42d1",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Location",
+        "purpose": "classifying"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "identifying",
+        "source": {
+          "@context": "https://schema.org",
+          "id": "https://www.wikidata.org/wiki/Q9942",
+          "type": "Place",
+          "label": null
+        }
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325270/%E2%80%98het-voelt-daar-echt-als-thuiskomen%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het voelt daar echt als thuiskomen’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Landsmeer",
+          "prefix": "met name het gedeelte bij de grens van Oostzaan en ",
+          "suffix": ", beschreef ze als een kleine community. Veel mensen van"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b6dbf414-fe3f-4510-8499-8a24dd343465",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325270/%E2%80%98het-voelt-daar-echt-als-thuiskomen%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het voelt daar echt als thuiskomen’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Madison",
+          "prefix": "Veel mensen van de voetbalclub kennen elkaar van vroeger. ",
+          "suffix": " heeft bijvoorbeeld met veel van hen op de basisschool"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e0022e92-8bcb-46d3-8916-a4d3416161cb",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Person",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325270/%E2%80%98het-voelt-daar-echt-als-thuiskomen%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het voelt daar echt als thuiskomen’"
+        }
+      ],
+      "selector": [
+        {
+          "type": "TextQuoteSelector",
+          "exact": "Madison",
+          "prefix": "zien, daarbuiten spreken we ook vaak met elkaar af”. ",
+          "suffix": " voegde daar later aan toe dat het uiteindelijk wel de"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "48c1f50d-5ecc-4cf5-84d6-83826c3740ed",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "geen thema's",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325270/%E2%80%98het-voelt-daar-echt-als-thuiskomen%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het voelt daar echt als thuiskomen’"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7b86e6a3-effd-408c-b90b-6cc841764c18",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "ontmoeting",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325270/%E2%80%98het-voelt-daar-echt-als-thuiskomen%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het voelt daar echt als thuiskomen’"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0539de7f-8e86-46d9-a52b-346ebf1adfc5",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "werk",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325270/%E2%80%98het-voelt-daar-echt-als-thuiskomen%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het voelt daar echt als thuiskomen’"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b1abc15d-8951-4ae7-81ae-c2ad49224b3f",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "openheid",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325270/%E2%80%98het-voelt-daar-echt-als-thuiskomen%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het voelt daar echt als thuiskomen’"
+        }
+      ]
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "959d3f65-f96d-4ce8-b2ff-02dc275d8eee",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "verbinding",
+        "purpose": "classifying"
+      }
+    ],
+    "target": {
+      "source": [
+        {
+          "@context": "https://schema.org",
+          "id": "https://hart.amsterdam/nl/page/2325270/%E2%80%98het-voelt-daar-echt-als-thuiskomen%E2%80%99",
+          "type": "BlogPosting",
+          "name": "‘Het voelt daar echt als thuiskomen’"
+        }
+      ]
+    }
+  }
+]
