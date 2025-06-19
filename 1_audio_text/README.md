@@ -4,7 +4,6 @@
 
 - [Introduction](#introduction)
   * [Data](#data)
-  * [Pipeline](#pipeline)
 - [Datasprint](#datasprint)
   * [Human evaluation - annotating using LabelStudio](#human-evaluation---annotating-using-labelstudio)
     + [Setting up](#setting-up)
@@ -13,6 +12,7 @@
   * [Running the pipeline](#running-the-pipeline)
     + [Notebooks](#notebooks)
     + [Running on your own data](#running-on-your-own-data)
+- [Results](#results)
 
 <!-- tocstop -->
 
@@ -31,19 +31,17 @@ The blogs can be found here:
 https://hart.amsterdam/nl/page/392478/biografie-van-amsterdam 
 
 
-### Pipeline
-
 ## Datasprint 
 ### Human evaluation - annotating using LabelStudio
 #### Setting up
-1. If you do not yet have a LabelStudio account: create one at https://annotate.laagveen.nl/user/signup/
-2. Go to LabelStudio via: https://annotate.laagveen.nl 
-3. Go to the Meaningful Memories project: https://annotate.laagveen.nl/projects/3/data
+1. Go to LabelStudio via: https://annotate.amsterdamtimemachine.nl/. If you do not have an account yet, ask for an invitation mail or the link with invite token. 
+2. Go to the Meaningful Memories project: https://annotate.amsterdamtimemachine.nl/projects/3/data
 
 
 #### Picking your data 
 1. Choose an interview of your liking from the [data](#data) section. 
 2. Find the interview in LabelStudio in the list, or search it by using a filter: 
+
 ![Find file](imgs/find_files.png)
 Note that files are stored with underscores instead of spaces between words, so use _ instead of spaces in the filter. 
 3. Open the file by clicking the row. 
@@ -52,6 +50,7 @@ Note that files are stored with underscores instead of spaces between words, so 
 1. You should now see the labelling interface:
 
 ![Labeling interface](imgs/labelstudio.png)
+
 Please stay within the same tab as was opened (not the one named _undefined_)
 2. You can now view the pre-annotated AI annotations. They are colored by type, so red means person, yellow means location etc. 
 3. You can update the annotations by:
@@ -88,3 +87,6 @@ You can find an example notebook in the notebooks dir:  ```notebooks/mm_video_ex
 #### Running on your own data
 If you want to run this pipeline on your own data, you can do some by loading the notebook in Google Colab and adding your data folder there (see instructions in notebook). 
 
+## Results 
+You can view the visualized locations of the annotated locations on the map on: 
+https://amsterdamtimemachine.github.io/datasprint-toekomsttiendaagse-2025/
