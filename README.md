@@ -41,13 +41,11 @@ Wil je mee helpen een deel van de 650 gedigitaliseerde Amsterdamse kaarten uit h
 
 Door oude kaarten te georefereren kun je zien hoe landen, landschappen, en steden veranderen. Dat is heel waardevol voor bijvoorbeeld geografisch, historisch en klimaatonderzoek. Met georefereren maken we de kaarten beter uiteindelijk vindbaar, doordat we uiteindelijk kunnen inzoomen op een bepaalde plek en daar dan in één oogopslag alle relevante kaarten kunnen tonen.
 
-Bekijk de documentatie van deze sessie: [`3_maps/README.md`](3_maps/README.md)
+Bekijk de laatst gegeorefereerde kaarten op https://latest.allmaps.org/!
 
 ### 4. LOD-Train the Trainer-tafel
 
 Deze tafel is gereserveerd voor deelnemers aan de LOD-Train the Trainer groep 2025 van de UvA/HvA. Trainees gaan aan de slag met hun eigen datasets en oefenen met het toepassen van Linked Open Data-technieken die tijdens de cursus aan bod zijn gekomen. Geoefende LOD-specialisten uit het Netwerk Digitaal Erfgoed die tijdens deze datasprint ook graag met hun eigen datasets aan de slag willen, kunnen zich - na aanmelding – bij deze tafel aansluiten.
-
-Bekijk de documentatie van deze sessie: [`4_lod/README.md`](4_lod/README.md)
 
 ## Opslag
 
@@ -55,4 +53,6 @@ We slaan onze verrijkingsresultaten op in een 'Annotatierepository' (AnnoRepo) d
 
 ## Resultaat
 
-TBD!
+In totaal hebben we bijna 2000 blogs, video's en foto's op de kaart van Amsterdam gezet. Deze zijn geannoteerd en als webannotatie in de demo-annorepo van NDE en het HuC geplaatst.
+![image](https://github.com/user-attachments/assets/3283904b-7428-4845-88ec-12bc1a7a4671)
+
